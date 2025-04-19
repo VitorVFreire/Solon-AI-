@@ -3,3 +3,6 @@ venv
 ideias.txt
 cookies.pkl
 *_*.txt
+data_scraper/empresas/
+data_scraper/cnaes/
+data_scraper/sql
