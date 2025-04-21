@@ -111,9 +111,9 @@ if __name__ == "__main__":
     
     print('Empresas...')
     target_path = 'empresas'
-    #deletar_arquivos(target_path)
-    #baixar_empresas(BASE_URL, target_path, 'Empresas')
-    #converter_para_csv_utf8(target_path)
+    deletar_arquivos(target_path)
+    baixar_empresas(BASE_URL, target_path, 'Empresas')
+    converter_para_csv_utf8(target_path)
 
     cabecalho_empresas = [
         'numero_inscricao',
@@ -129,9 +129,9 @@ if __name__ == "__main__":
     
     print('CNAES...')
     target_path = 'cnaes'
-    #deletar_arquivos(target_path)
-    #baixar_empresas(BASE_URL, target_path, 'Cnaes')
-    #converter_para_csv_utf8(target_path)
+    deletar_arquivos(target_path)
+    baixar_empresas(BASE_URL, target_path, 'Cnaes')
+    converter_para_csv_utf8(target_path)
     
     cabecalho_cnaes = [
         'codigo_atividade',
