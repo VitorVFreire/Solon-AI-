@@ -6,3 +6,8 @@ cookies.pkl
 data_scraper/empresas/
 data_scraper/cnaes/
 data_scraper/sql
+cnpj.db
+cache/
+resultados_teste/
+resultados/
+model/atividades_analisadas/principais atividades para trabalhar.xlsx

@@ -68,19 +68,37 @@ def converter_para_csv_utf8(target_path: str):
 def compactar(path: str, sql_table: str, sql_file: str, cabecalho_padrao: list, chunk_size: int = 10000):
     arquivos_csv = [f for f in os.listdir(path) if f.lower().endswith('.csv')]
 
+    # Primeiro, verificar a estrutura dos arquivos
+    num_colunas_real = 0
+    for arquivo in arquivos_csv[:1]:  # Verificar apenas o primeiro arquivo
+        caminho = os.path.join(path, arquivo)
+        try:
+            amostra = pd.read_csv(caminho, sep=';', encoding='utf-8', dtype=str, header=None, nrows=1)
+            num_colunas_real = len(amostra.columns)
+            print(f"Arquivo {arquivo} tem {num_colunas_real} colunas")
+        except Exception as e:
+            print(f"Erro ao verificar estrutura de {arquivo}: {e}")
+    
+    # Usar o número real de colunas encontrado nos arquivos
+    cabecalho_atual = cabecalho_padrao[:num_colunas_real]
+    print(f"Usando o cabeçalho: {cabecalho_atual}")
+
     with open(sql_file, 'w', encoding='utf-8') as f_sql:
         for arquivo in tqdm(arquivos_csv, desc="Processando arquivos CSV", unit='Files'):
             caminho = os.path.join(path, arquivo)
 
             try:
                 for chunk in pd.read_csv(caminho, sep=';', encoding='utf-8', dtype=str, header=None, chunksize=chunk_size):
-                    chunk.columns = cabecalho_padrao[:len(chunk.columns)]
-                    chunk = chunk.reindex(columns=cabecalho_padrao).fillna('')
-
-                    for _, row in chunk.iterrows() :
+                    # Garantir que usamos apenas as colunas que existem
+                    chunk.columns = range(len(chunk.columns))
+                    chunk = chunk.iloc[:, :num_colunas_real]
+                    chunk.columns = cabecalho_atual
+                    
+                    for _, row in chunk.iterrows():
                         valores = "', '".join(str(v).replace("'", "''") for v in row)
-                        linha = f"INSERT INTO {sql_table} ({', '.join(cabecalho_padrao)}) VALUES ('{valores}');"
-                        f_sql.write(linha + '\n') 
+                        colunas = ", ".join(cabecalho_atual)
+                        linha = f"INSERT INTO {sql_table} ({colunas}) VALUES ('{valores}');"
+                        f_sql.write(linha + '\n')
             except Exception as e:
                 print(f"Erro ao processar {arquivo}: {e}")
                 continue
@@ -90,34 +108,35 @@ def compactar(path: str, sql_table: str, sql_file: str, cabecalho_padrao: list, 
 if __name__ == "__main__":
     os.makedirs('sql', exist_ok=True)
     BASE_URL = 'https://arquivos.receitafederal.gov.br/dados/cnpj/dados_abertos_cnpj/2025-03/'
-    target_path = 'empresas'
-
+    
     print('Empresas...')
-    deletar_arquivos(target_path)
-    baixar_empresas(BASE_URL, target_path, 'Empresas')
-    converter_para_csv_utf8(target_path)
+    target_path = 'empresas'
+    #deletar_arquivos(target_path)
+    #baixar_empresas(BASE_URL, target_path, 'Empresas')
+    #converter_para_csv_utf8(target_path)
 
     cabecalho_empresas = [
         'numero_inscricao',
         'razao_social',
         'codigo_atividade',
-        'codigo_minucipio',
+        'codigo_municipio',
         'capital_social',
         'natureza_juridica',
-        '??'
+        'coluna_vazia_1'
     ]
 
     compactar(target_path, 'empresas', 'sql/empresas.sql', cabecalho_empresas)
     
     print('CNAES...')
     target_path = 'cnaes'
-    deletar_arquivos(target_path)
-    baixar_empresas(BASE_URL, target_path, 'Cnaes')
-    converter_para_csv_utf8(target_path)
-    cabecalho_empresas = [
+    #deletar_arquivos(target_path)
+    #baixar_empresas(BASE_URL, target_path, 'Cnaes')
+    #converter_para_csv_utf8(target_path)
+    
+    cabecalho_cnaes = [
         'codigo_atividade',
         'nome_atividade',
-        '??'
+        'coluna_vazia_2'
     ]
 
-    compactar(target_path, 'cnaes', 'sql/cnaes.sql', cabecalho_empresas)
+    compactar(target_path, 'cnaes', 'sql/cnaes.sql', cabecalho_cnaes)
