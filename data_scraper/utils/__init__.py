@@ -1,0 +1,2 @@
+from .gerar_cnpj import gerar_cnpj_completo
+from .buscar_atividade import buscar_atividade

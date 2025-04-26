@@ -12,3 +12,6 @@ resultados_teste/
 resultados/
 model/atividades_analisadas/principais atividades para trabalhar.xlsx
 *.rar
+resultados_*/
+__pycache__
+neo4j/

@@ -120,16 +120,14 @@ class AtividadesRAG:
 # Classe para o LangGraph que processa as atividades
 class AtividadesProcessor:
     def __init__(self, rag_system: AtividadesRAG, llm_client, output_dir: str = "resultados", 
-                max_output_atividades: int = 50, 
-                tokens_por_fator: Dict[str, int] = None):
+                 max_output_atividades: int = 50, 
+                 tokens_por_fator: Dict[str, int] = None):
         self.rag_system = rag_system
         self.llm_client = llm_client
         self.output_dir = output_dir
         self.max_output_atividades = max_output_atividades
         self.tokens_por_fator = tokens_por_fator or {
-            "cadeia_produtiva": 20,
-            "financeira_mercado": 20,
-            "estrutural_regulatoria": 20
+            "justificativa_correlacao": 60  # Padrão: 60 tokens para a justificativa
         }
         self.atividade_mapping = {
             atividade.get('numero') or atividade.get('codigo_atividade'): 
@@ -163,9 +161,7 @@ class AtividadesProcessor:
         return state
     
     def generate_dependencies(self, state: Dict[str, Any]) -> Dict[str, Any]:
-        tokens_cadeia = self.tokens_por_fator.get("cadeia_produtiva", 20)
-        tokens_financeira = self.tokens_por_fator.get("financeira_mercado", 20)
-        tokens_estrutural = self.tokens_por_fator.get("estrutural_regulatoria", 20)
+        tokens_justificativa = self.tokens_por_fator.get("justificativa_correlacao", 60)
         
         system_prompt = f"""
         Você é um analista especializado em modelagem de dependências intersectoriais econômicas, com experiência em análise de redes complexas, propagação de impactos econômicos e avaliação de relevância financeira no mercado de capitais.
@@ -188,39 +184,24 @@ class AtividadesProcessor:
            - 5: Relevância muito alta (setor crítico, com empresas líderes em bolsas globais)
            - Considere fatores como: presença de empresas do setor em bolsas de valores (ex.: B3, NYSE, NASDAQ), capitalização de mercado, volume de transações, ou popularidade em índices como Ibovespa, S&P 500.
 
-        FATORES DE ANÁLISE (com controle de tokens):
-        Para cada setor, avalie os seguintes fatores e forneça uma nota (0-5) e uma explicação breve:
-
-        1. FATOR 1 - Integração da cadeia produtiva (máximo {tokens_cadeia} tokens):
-           - Percentual de insumos diretos provenientes da atividade principal
-           - Impossibilidade de substituição por fornecedores alternativos
-           - Posição na cadeia (upstream/downstream)
-
-        2. FATOR 2 - Interdependência financeira e de mercado (máximo {tokens_financeira} tokens):
-           - Fluxos financeiros críticos entre os setores
-           - Impacto de variações de preço da atividade principal
-           - Base de clientes compartilhada
-           - Canais de distribuição comuns
-
-        3. FATOR 3 - Dependências estruturais e regulatórias (máximo {tokens_estrutural} tokens):
-           - Infraestrutura física compartilhada
-           - Sistemas tecnológicos integrados
-           - Exposição a regulamentações compartilhadas
+        JUSTIFICATIVA DA CORRELAÇÃO (máximo {tokens_justificativa} tokens):
+        Para cada atividade, forneça uma justificativa concisa em texto explicando a correlação com a atividade principal, considerando:
+        - Integração na cadeia produtiva (ex.: dependência de insumos, posição upstream/downstream, substituição de fornecedores).
+        - Interdependência financeira e de mercado (ex.: fluxos financeiros, impacto de preços, base de clientes ou canais compartilhados).
+        - Dependências estruturais e regulatórias (ex.: infraestrutura compartilhada, sistemas tecnológicos, regulamentações comuns).
+        Formato da justificativa: "Nota X: explicação breve da correlação."
 
         RESULTADO:
         Forneça o resultado como uma tabela estruturada com as seguintes colunas:
-        | Setor Econômico | Grau de Dependência | Coeficiente de Propagação | Relevância Econômica | Fator 1: Cadeia Produtiva | Fator 2: Financeira e Mercado | Fator 3: Estrutural e Regulatória |
-        |-----------------|---------------------|---------------------------|----------------------|---------------------------|-------------------------------|----------------------------------|
-
-        Para cada fator, inclua a nota (0-5) e uma explicação MUITO concisa dentro do limite de tokens, no formato:
-        "Nota X: breve explicação"
+        | Setor Econômico | Grau de Dependência | Coeficiente de Propagação | Relevância Econômica | Justificativa da Correlação |
+        |-----------------|---------------------|---------------------------|----------------------|-----------------------------|
 
         O Coeficiente de Propagação (0.0-1.0) indica quanto do impacto no setor principal será transmitido para o setor.
 
         IMPORTANTE:
         - Na coluna 'Setor Econômico', use SOMENTE o código da atividade (ex.: '01.11-3') SEM a descrição.
         - Inclua o máximo possível de atividades na análise.
-        - Use explicações extremamente sucintas para cada fator (respeitando os limites de tokens).
+        - Use explicações extremamente sucintas para a justificativa (respeitando o limite de {tokens_justificativa} tokens).
         - Considere todos os setores no contexto e inclua apenas aqueles com algum grau de dependência mensurável (1-5).
         - NÃO inclua a atividade principal na análise ("Atividade Original").
         - Priorize atividades com maior relevância econômica ou popularidade na bolsa de valores.
@@ -232,26 +213,26 @@ class AtividadesProcessor:
         Lista de Atividades do Contexto:
         {context}
         
-        Determine o grau de dependência (0-5), o coeficiente de propagação (0.0-1.0), e a relevância econômica ou popularidade no cenário de bolsa de valores (0-5) que cada atividade do contexto tem em relação à atividade principal "{atividade_financeira}", além de avaliar cada um dos 3 fatores separadamente.
+        Determine o grau de dependência (0-5), o coeficiente de propagação (0.0-1.0), e a relevância econômica ou popularidade no cenário de bolsa de valores (0-5) que cada atividade do contexto tem em relação à atividade principal "{atividade_financeira}", além de fornecer uma justificativa concisa da correlação.
         
         IMPORTANTE: 
         - Na coluna 'Setor Econômico', retorne SOMENTE o código da atividade (ex.: '01.11-3') SEM a descrição.
         - Priorize a quantidade de atividades analisadas. Avalie o máximo de atividades possível.
-        - Para cada atividade, forneça os 3 fatores e a relevância econômica conforme solicitado, com notas e explicações muito concisas.
-        - Use o formato "Nota X: breve explicação" para cada fator, respeitando o limite de tokens.
+        - Para cada atividade, forneça a justificativa da correlação no formato "Nota X: explicação breve", respeitando o limite de {tokens_justificativa} tokens.
         - Inclua apenas atividades com grau de dependência maior que 0.
         - Não inclua a atividade principal ("{atividade_financeira}") na sua análise.
         - Ordene os resultados priorizando atividades com maior relevância econômica ou popularidade na bolsa de valores.
         
         Inclua na sua resposta uma tabela com todas as colunas solicitadas:
-        | Setor Econômico | Grau de Dependência | Coeficiente de Propagação | Relevância Econômica | Fator 1: Cadeia Produtiva | Fator 2: Financeira e Mercado | Fator 3: Estrutural e Regulatória |
+        | Setor Econômico | Grau de Dependência | Coeficiente de Propagação | Relevância Econômica | Justificativa da Correlação |
         """
         
         input_data = {
             "system": system_prompt,
             "human": human_prompt.format(
                 atividade_financeira=state["atividade_financeira"],
-                context=state["context"]
+                context=state["context"],
+                tokens_justificativa=tokens_justificativa
             )
         }
         state["result"] = self.llm_client.invoke(input_data)
@@ -268,7 +249,7 @@ class AtividadesProcessor:
             for line in lines:
                 if '|' in line:
                     parts = [p.strip() for p in line.split('|') if p.strip()]
-                    if (len(parts) >= 7 and 
+                    if (len(parts) >= 5 and 
                         not all(c in '-:|' for c in parts[0]) and 
                         "Setor Econômico" not in parts[0] and 
                         parts[0] != ""):
@@ -278,9 +259,7 @@ class AtividadesProcessor:
                             dependencia = int(parts[1].strip())
                             propagacao = float(parts[2].strip())
                             relevancia = int(parts[3].strip())
-                            fator_cadeia = parts[4].strip()
-                            fator_financeira = parts[5].strip()
-                            fator_estrutural = parts[6].strip()
+                            justificativa = parts[4].strip()
                             
                             # Obter categoria do contexto
                             categoria = ""
@@ -296,9 +275,7 @@ class AtividadesProcessor:
                                     "Grau de Dependência": dependencia,
                                     "Coeficiente de Propagação": propagacao,
                                     "Relevância Econômica": relevancia,
-                                    "Fator 1: Cadeia Produtiva": fator_cadeia,
-                                    "Fator 2: Financeira e Mercado": fator_financeira,
-                                    "Fator 3: Estrutural e Regulatória": fator_estrutural,
+                                    "Justificativa da Correlação": justificativa,
                                     "Atividade Original": state["atividade_financeira"],
                                     "Categoria": categoria
                                 })
@@ -348,9 +325,7 @@ class AtividadesProcessor:
                     "Grau de Dependência", 
                     "Coeficiente de Propagação",
                     "Relevância Econômica",
-                    "Fator 1: Cadeia Produtiva", 
-                    "Fator 2: Financeira e Mercado", 
-                    "Fator 3: Estrutural e Regulatória",
+                    "Justificativa da Correlação",
                     "Atividade Original",
                     "Categoria"
                 ]
@@ -359,11 +334,9 @@ class AtividadesProcessor:
             df.to_excel(writer, sheet_name="Dependências", index=False)
             
             tokens_df = pd.DataFrame({
-                "Fator": ["Cadeia Produtiva", "Financeira e Mercado", "Estrutural e Regulatória"],
+                "Fator": ["Justificativa da Correlação"],
                 "Limite de Tokens": [
-                    self.tokens_por_fator.get("cadeia_produtiva", 20),
-                    self.tokens_por_fator.get("financeira_mercado", 20),
-                    self.tokens_por_fator.get("estrutural_regulatoria", 20)
+                    self.tokens_por_fator.get("justificativa_correlacao", 60)
                 ]
             })
             tokens_df.to_excel(writer, sheet_name="Configurações", index=False)
@@ -407,14 +380,11 @@ def main():
     try:
         load_dotenv()
         
-        tokens_cadeia = int(os.getenv("TOKENS_CADEIA_PRODUTIVA", "20"))
-        tokens_financeira = int(os.getenv("TOKENS_FINANCEIRA_MERCADO", "20"))
-        tokens_estrutural = int(os.getenv("TOKENS_ESTRUTURAL_REGULATORIA", "20"))
+        # Carrega o limite de tokens para a justificativa a partir da variável de ambiente
+        tokens_justificativa = int(os.getenv("TOKENS_JUSTIFICATIVA_CORRELACAO", "60"))
         
         tokens_por_fator = {
-            "cadeia_produtiva": tokens_cadeia,
-            "financeira_mercado": tokens_financeira,
-            "estrutural_regulatoria": tokens_estrutural
+            "justificativa_correlacao": tokens_justificativa
         }
         
         conn = sqlite3.connect("../data_scraper/cnpj.db")
@@ -427,7 +397,7 @@ def main():
             "nome_atividade": "descricao"
         }).to_dict(orient="records")
         
-        max_atividades = 120#len(atividades_exemplo)
+        max_atividades = len(atividades_exemplo)
         
         max_output_env = os.getenv("MAX_OUTPUT_ATIVIDADES")
         max_output_atividades = int(max_output_env) if max_output_env else max_atividades
@@ -444,14 +414,12 @@ def main():
         
         print(f"Configurando processador de atividades:")
         print(f"- Limite de output: {max_output_atividades} atividades")
-        print(f"- Tokens para Cadeia Produtiva: {tokens_cadeia}")
-        print(f"- Tokens para Financeira e Mercado: {tokens_financeira}")
-        print(f"- Tokens para Estrutural e Regulatória: {tokens_estrutural}")
+        print(f"- Tokens para Justificativa da Correlação: {tokens_justificativa}")
         
         processor = AtividadesProcessor(
             rag_system, 
             xai_client, 
-            output_dir="resultados", 
+            output_dir="/database/resultados", 
             max_output_atividades=max_output_atividades,
             tokens_por_fator=tokens_por_fator
         )
@@ -459,7 +427,6 @@ def main():
         resultados_consolidados = []
         
         print(f"Iniciando processamento de {len(atividades_financeiras)} atividades principais...")
-        atividades_financeiras = [atividades_financeiras[0]]
         for atividade_financeira in atividades_financeiras:
             print(f"\nProcessando atividade: {atividade_financeira}")
             resultado_df, resultado_texto, file_path = processor.process_activity(atividade_financeira)
@@ -475,7 +442,7 @@ def main():
         if resultados_consolidados:
             df_consolidado = pd.concat(resultados_consolidados)
             df_consolidado["Atividade"] = df_consolidado["Atividade"].map(processor.atividade_mapping).fillna(df_consolidado["Atividade"])
-            consolidado_path = os.path.join("resultados", "resultados_consolidados.xlsx")
+            consolidado_path = os.path.join("/database/resultados", "resultados_consolidados.xlsx")
             df_consolidado.to_excel(consolidado_path, index=False, engine="openpyxl")
             print(f"\nResultados consolidados salvos em: {consolidado_path}")
             
@@ -485,6 +452,7 @@ def main():
         print(f"Python version: {os.sys.version}")
         print("Variáveis de ambiente necessárias:")
         print(f"- XAI_API_KEY definida: {'Sim' if os.getenv('XAI_API_KEY') else 'Não'}")
+        print(f"- TOKENS_JUSTIFICATIVA_CORRELACAO definida: {'Sim' if os.getenv('TOKENS_JUSTIFICATIVA_CORRELACAO') else 'Não'}")
 
 if __name__ == "__main__":
     main()
