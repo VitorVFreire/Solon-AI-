@@ -1,0 +1,16 @@
+{
+  "atividades_economicas": [
+    {
+      "atividade_economica": "Agricultura",
+      "descricao_atividade": "Produção de culturas alimentares e não alimentares, como grãos, frutas, vegetais e fibras, essenciais para a subsistência e comércio.",
+      "tipo_atividade": "Primária",
+      "nivel_importancia": 10
+    },
+    {
+      "atividade_economica": "Pecuária",
+      "descricao_atividade": "Criação de animais para produção de carne, leite, lã e outros produtos, sendo base para a alimentação e indústria.",
+      "tipo_atividade": "Primária",
+      "nivel_importancia": 9
+    }
+  ]
+}

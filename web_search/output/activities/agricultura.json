@@ -1,0 +1,23 @@
+{
+  "economic_activity": "Agricultura",
+  "sector_classification": "Primário",
+  "economic_context": "A agricultura é uma atividade fundamental na economia global, sendo a base da cadeia alimentar e fornecendo matérias-primas para diversos setores industriais. É essencial para a segurança alimentar, exportações e geração de empregos, especialmente em economias em desenvolvimento. Sua relevância é ampliada por sua sensibilidade a condições climáticas e políticas públicas de incentivo ou regulação.",
+  "correlated_activities": [
+    {
+      "activity": "Pecuária",
+      "correlation_level": "4",
+      "dependency_level": "0.70",
+      "correlation_type": "Complementar e Fornecedor",
+      "correlation_description": "A agricultura e a pecuária frequentemente operam de forma integrada, com a agricultura fornecendo insumos como grãos e forragem para a alimentação animal, enquanto a pecuária pode fornecer fertilizantes naturais para cultivos.",
+      "economic_justification": "A relação entre agricultura e pecuária é historicamente forte, especialmente em sistemas de produção integrada. A demanda por ração animal (milho, soja) impacta diretamente a produção agrícola, enquanto resíduos da pecuária são usados como insumos agrícolas, reduzindo custos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações climáticas e desastres naturais (secas, inundações) que afetam a produtividade agrícola e, consequentemente, a pecuária.",
+    "Políticas de subsídios agrícolas e preços mínimos que influenciam a produção e os custos de insumos para outros setores.",
+    "Taxas de câmbio, que impactam as exportações de produtos agrícolas e a competitividade no mercado global.",
+    "Flutuações nos preços de commodities agrícolas, que afetam diretamente a renda dos produtores e a demanda por insumos correlacionados."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera uma visão geral da agricultura e suas correlações, mas pode variar dependendo da região, tipo de cultura (ex.: grãos vs. hortaliças) e nível de mecanização. Dados específicos sobre cadeias produtivas locais não foram incluídos devido à generalidade da descrição fornecida. Além disso, a lista de atividades correlacionadas foi limitada às opções fornecidas no prompt (Agricultura e Pecuária), o que restringiu a inclusão de outros setores relevantes como agroindústria ou comércio."
+}

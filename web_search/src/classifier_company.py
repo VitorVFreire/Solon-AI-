@@ -1,70 +1,12 @@
 import pandas as pd
-import requests
-import sqlite3
 import os
 from typing import List, Dict, Any, Tuple
-from dotenv import load_dotenv
 import re
 import json
 from langchain_core.documents import Document
 from langgraph.graph import StateGraph, END
 from tqdm import tqdm
-
-# Carrega variáveis de ambiente
-load_dotenv()
-
-# Configuração da API do xAI
-def setup_xai_client():
-    api_key = os.getenv("XAI_API_KEY")
-    if not api_key:
-        raise ValueError("XAI_API_KEY não encontrada nas variáveis de ambiente")
-    return {
-        "api_key": api_key,
-        "base_url": "https://api.x.ai/v1",
-        "model": "grok-3"
-    }
-
-# Classe para interação com a API do xAI
-class XAIClient:
-    def __init__(self, config: Dict[str, str]):
-        self.api_key = config["api_key"]
-        self.base_url = config["base_url"]
-        self.model = config["model"]
-        self.headers = {
-            "Authorization": f"Bearer {self.api_key}",
-            "Content-Type": "application/json"
-        }
-    
-    def invoke(self, input_data: Dict[str, Any]) -> str:
-        if not input_data.get("system") or not isinstance(input_data["system"], str):
-            raise ValueError("System prompt is missing or invalid")
-        if not input_data.get("human") or not isinstance(input_data["human"], str):
-            raise ValueError("Human prompt is missing or invalid")
-        payload = {
-            "model": self.model,
-            "messages": [
-                {"role": "system", "content": input_data["system"]},
-                {"role": "user", "content": input_data["human"]}
-            ],
-            "max_tokens": 4000,
-            "temperature": 0.3
-        }
-        
-        try:
-            response = requests.post(
-                f"{self.base_url}/chat/completions",
-                headers=self.headers,
-                json=payload
-            )
-            response.raise_for_status()
-            return response.json()["choices"][0]["message"]["content"]
-        except requests.exceptions.HTTPError as e:
-            print(f"API Error: {e}")
-            print(f"API Response: {response.text}")  # Log response
-            raise Exception(f"Erro ao chamar a API do xAI: {str(e)}")
-        except Exception as e:
-            print(f"Unexpected Error: {e}")
-            raise
+from utils import clean_filename
 
 # Classe para gerenciar o RAG com as empresass
 class EmpresasRAG:
@@ -124,27 +66,14 @@ class EmpresasRAG:
     def query_similar_activities(self, query: str) -> List[Document]:
         return self.vectorstore.similarity_search(query, k=self.max_context)
 
-# Função para limpar nomes de arquivos
-def clean_filename(filename):
-    return filename.replace('/', '_').replace('\\', '_').replace(':', '_')
-
-# Função para carregar prompt de um arquivo .md
-def load_prompt(file_path: str) -> str:
-    try:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            return f.read().strip()
-    except FileNotFoundError:
-        raise FileNotFoundError(f"Arquivo de prompt não encontrado: {file_path}")
-
 # Classe para processar as empresass
 class EmpresassProcessor:
-    def __init__(self, rag_system: EmpresasRAG, llm_client, system_prompt_file: str, human_prompt_file: str, list_atividades: list,output_dir: str = "resultados"):
+    def __init__(self, rag_system: EmpresasRAG, llm_client, system_prompt_file: str, human_prompt_file: str, list_activities: list,output_dir: str = "resultados"):
         self.rag_system = rag_system
         self.llm_client = llm_client
         self.output_dir = output_dir
-        self.list_atividades = list_atividades
-        self.system_prompt = open(system_prompt_file).read()
-        self.system_prompt = self.system_prompt.replace("{atividades}", ", ".join(self.list_atividades))
+        self.list_activities = list_activities
+        self.system_prompt = open(system_prompt_file).read().replace("{atividades}", ", ".join(self.list_activities))
         self.human_prompt = open(human_prompt_file).read()
         os.makedirs(self.output_dir, exist_ok=True)
         self.build_graph()

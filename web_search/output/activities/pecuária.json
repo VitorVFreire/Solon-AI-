@@ -1,0 +1,24 @@
+{
+  "economic_activity": "Pecuária",
+  "sector_classification": "Primário",
+  "economic_context": "A pecuária é uma atividade econômica fundamental no setor primário, sendo uma das bases da produção de alimentos e matérias-primas para diversas indústrias. Envolve a criação de animais como bovinos, suínos, aves e ovinos para a produção de carne, leite, couro, lã e outros subprodutos. É um setor de grande relevância para a economia global, especialmente em países com forte vocação agropecuária, contribuindo para o PIB, exportações e segurança alimentar.",
+  "correlated_activities": [
+    {
+      "activity": "Agricultura",
+      "correlation_level": 4,
+      "dependency_level": 0.75,
+      "correlation_type": "Fornecedor e Complementar",
+      "correlation_description": "A agricultura fornece insumos essenciais para a pecuária, como grãos (milho e soja) usados na ração animal, enquanto a pecuária fornece fertilizantes naturais (esterco) para a agricultura.",
+      "economic_justification": "A pecuária depende fortemente da agricultura para a produção de ração, especialmente em sistemas intensivos de criação. Por outro lado, resíduos da pecuária são utilizados como adubo orgânico na agricultura, criando uma relação de complementaridade. Flutuações no preço ou na produção de grãos impactam diretamente os custos da pecuária."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Preços internacionais de commodities agrícolas (milho, soja) que afetam os custos de ração na pecuária",
+    "Taxas de câmbio, que influenciam as exportações de carne e produtos pecuários",
+    "Políticas governamentais de subsídios e regulamentações ambientais que impactam tanto a pecuária quanto a agricultura",
+    "Condições climáticas, que afetam a produção de pastagens e grãos, impactando a alimentação animal",
+    "Demanda global por proteínas animais, que influencia os preços e a produção no setor pecuário"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera apenas correlações diretas e significativas com base na lista restrita de atividades fornecidas. Outros setores correlacionados, como indústrias de transformação (frigoríficos) ou transporte, não foram incluídos devido à limitação da lista. Além disso, a intensidade das correlações pode variar dependendo do contexto regional ou do modelo de produção (extensivo ou intensivo)."
+}
