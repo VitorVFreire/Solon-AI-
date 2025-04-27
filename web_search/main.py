@@ -35,6 +35,7 @@ def create_activities_list(llm_client, number_activities:int = 10, batch_size: i
     Args:
         llm_client: Cliente LLM para processamento
         number_activities: Número máximo de atividades a serem criadas (padrão: 10)
+        batch_size: quantidade de atividades geradas por lote
     """
     try:
         name_file = 'economic_activities'
@@ -59,13 +60,14 @@ def create_activities_list(llm_client, number_activities:int = 10, batch_size: i
     except Exception as e:
         print(f"Erro na execução de create_activities_list: {str(e)}")
 
-def details_companys(llm_client, max_rows:int, atividades_lista: List[str]):
+def details_companies(llm_client, max_rows:int, atividades_lista: List[str]):
     """
     Processa empresas para detalhar suas caracteristicas
     
     Args:
         llm_client: Cliente LLM para processamento
         max_rows: Número máximo de empresas a serem processadas
+        atividades_lista: Lista de nomes de atividades
     """
     try:
         if max_rows is not None:
@@ -85,7 +87,7 @@ def details_companys(llm_client, max_rows:int, atividades_lista: List[str]):
             system_prompt_file=SYSTEM_PROMPT_DETAILS_FILE, 
             human_prompt_file=HUMAN_PROMPT_DETAILS_FILE, 
             list_activities=atividades_lista, 
-            output_dir='output/companys'
+            output_dir='output/companies'
         )
         
         # Processar cada empresa no CSV
@@ -94,14 +96,16 @@ def details_companys(llm_client, max_rows:int, atividades_lista: List[str]):
             result = processor.process_company(company_data)
             tqdm.write(f"Processado: {company_data['name']} - Resultado salvo em {processor.output_dir}")
     except Exception as e:
-        print(f"Erro na execução de details_companys: {str(e)}")
+        print(f"Erro na execução de details_companies: {str(e)}")
 
-def related_activities(llm_client, atividades_data:List[Dict[str, Any]], atividades_lista:List[str], number_activities: int = 10):
+def related_activities(llm_client, atividades_data:List[Dict[str, Any]], atividades_lista:List[str], number_activities: int):
     """
     Processa atividades econômicas e retorna os resultados da análise.
     
     Args:
         llm_client: Cliente LLM para processamento
+        atividades_data: Lista de Dicionario com dados das atividades econômicas
+        atividades_lista: Lista de nomes de atividades
         number_activities: Número máximo de atividades a serem processadas (padrão: 10)
     """
     try:
@@ -128,19 +132,23 @@ def main():
     config = setup_xai_client()
     llm_client = XAIClient(config)
     
+    # Carregamento da Lista de Atividades
     atividades_data, atividades_lista = load_activities(JSON_ATIVIDADES)
     
+    # Criação de Lista de Atividades Econômicas
     create_activities_list(
         llm_client=llm_client, 
         number_activities=args.number_activities_create
     )
      
-    details_companys(
+    # Detalhamento de Empresas Salvas no CSV
+    details_companies(
         llm_client=llm_client, 
         max_rows=args.max_rows, 
         atividades_lista=atividades_lista
     )    
     
+    # Criação de Correlação entre Atividades Econômicas
     related_activities(
         llm_client=llm_client, 
         number_activities=args.number_activities_related,
@@ -150,3 +158,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    #python3 main.py --number_activities_create 300 --create_new_activities True
