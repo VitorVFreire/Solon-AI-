@@ -2,15 +2,195 @@
   "atividades_economicas": [
     {
       "atividade_economica": "Agricultura",
-      "descricao_atividade": "Produção de culturas alimentares e não alimentares, como grãos, frutas, vegetais e fibras, essenciais para a subsistência e comércio.",
+      "descricao_atividade": "Produção de culturas agrícolas como grãos, frutas, vegetais e outros produtos para alimentação e matéria-prima.",
       "tipo_atividade": "Primária",
-      "nivel_importancia": 10
+      "nivel_de_importancia": "9"
     },
     {
       "atividade_economica": "Pecuária",
-      "descricao_atividade": "Criação de animais para produção de carne, leite, lã e outros produtos, sendo base para a alimentação e indústria.",
+      "descricao_atividade": "Criação de animais para produção de carne, leite, lã e outros subprodutos.",
       "tipo_atividade": "Primária",
-      "nivel_importancia": 9
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Mineração",
+      "descricao_atividade": "Extração de minerais e recursos naturais como ferro, ouro, carvão e petróleo do solo ou subsolo.",
+      "tipo_atividade": "Primária",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria Automotiva",
+      "descricao_atividade": "Fabricação de veículos, peças e componentes para automóveis, caminhões e motos.",
+      "tipo_atividade": "Secundária",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria Têxtil",
+      "descricao_atividade": "Produção de tecidos, roupas e outros produtos a partir de fibras naturais ou sintéticas.",
+      "tipo_atividade": "Secundária",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Construção Civil",
+      "descricao_atividade": "Atividade de construção de edifícios, infraestrutura, estradas e outras obras públicas ou privadas.",
+      "tipo_atividade": "Secundária",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria Farmacêutica",
+      "descricao_atividade": "Desenvolvimento e produção de medicamentos, vacinas e outros produtos para a saúde.",
+      "tipo_atividade": "Secundária",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de Tecnologia",
+      "descricao_atividade": "Produção de hardware, software e dispositivos eletrônicos como computadores e smartphones.",
+      "tipo_atividade": "Secundária",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Energia Elétrica",
+      "descricao_atividade": "Geração, transmissão e distribuição de energia elétrica a partir de fontes como hidrelétrica, solar e eólica.",
+      "tipo_atividade": "Secundária",
+      "nivel_de_importancia": "10"
+    },
+    {
+      "atividade_economica": "Comércio Varejista",
+      "descricao_atividade": "Venda de bens diretamente ao consumidor final em lojas físicas ou online.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Comércio Atacadista",
+      "descricao_atividade": "Venda de bens em grandes quantidades para revendedores ou outras empresas.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Transporte Rodoviário",
+      "descricao_atividade": "Movimentação de bens e pessoas por meio de veículos em rodovias.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Transporte Aéreo",
+      "descricao_atividade": "Transporte de passageiros e cargas por meio de aeronaves.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Transporte Marítimo",
+      "descricao_atividade": "Movimentação de cargas e passageiros por meio de navios e embarcações.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços Bancários",
+      "descricao_atividade": "Gestão de dinheiro, empréstimos, investimentos e outros serviços financeiros.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Seguros",
+      "descricao_atividade": "Fornecimento de proteção financeira contra riscos como acidentes, doenças ou perdas materiais.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Educação",
+      "descricao_atividade": "Prestação de serviços de ensino e formação em escolas, universidades e outras instituições.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Saúde",
+      "descricao_atividade": "Prestação de serviços médicos, hospitalares e de cuidados preventivos à população.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "10"
+    },
+    {
+      "atividade_economica": "Turismo",
+      "descricao_atividade": "Atividades relacionadas a viagens, hospedagem, lazer e atrações culturais.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Hotelaria",
+      "descricao_atividade": "Gestão de hotéis, pousadas e outros tipos de acomodação para viajantes.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Restaurantes e Alimentação",
+      "descricao_atividade": "Preparação e venda de alimentos e bebidas em restaurantes, bares e lanchonetes.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Consultoria Empresarial",
+      "descricao_atividade": "Prestação de serviços de aconselhamento estratégico, financeiro e operacional para empresas.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Publicidade e Marketing",
+      "descricao_atividade": "Criação e divulgação de campanhas para promover produtos, serviços ou marcas.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Tecnologia da Informação",
+      "descricao_atividade": "Desenvolvimento e manutenção de sistemas, redes e soluções digitais para empresas e usuários.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Logística",
+      "descricao_atividade": "Gestão de armazenamento, distribuição e transporte de bens de forma eficiente.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria Química",
+      "descricao_atividade": "Produção de produtos químicos como fertilizantes, plásticos e materiais industriais.",
+      "tipo_atividade": "Secundária",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria Alimentícia",
+      "descricao_atividade": "Processamento e embalagem de alimentos para consumo humano ou animal.",
+      "tipo_atividade": "Secundária",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Pesca",
+      "descricao_atividade": "Captura de peixes e outros organismos aquáticos para alimentação ou comércio.",
+      "tipo_atividade": "Primária",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Silvicultura",
+      "descricao_atividade": "Cultivo e manejo de florestas para produção de madeira, papel e outros produtos florestais.",
+      "tipo_atividade": "Primária",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Gestão de Resíduos",
+      "descricao_atividade": "Coleta, tratamento e reciclagem de resíduos sólidos e líquidos para preservação ambiental.",
+      "tipo_atividade": "Terciária",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de Energia Renovável",
+      "descricao_atividade": "Produção e distribuição de energia a partir de fontes renováveis, como solar, eólica e hidrelétrica, visando a sustentabilidade e a redução de impactos ambientais.",
+      "tipo_atividade": "Manufatura e Serviços",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Consultoria Ambiental",
+      "descricao_atividade": "Prestação de serviços especializados em assessoria para empresas e governos sobre questões ambientais, incluindo gestão de impacto ambiental, conformidade regulatória e estratégias de sustentabilidade.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "8"
     }
   ]
 }

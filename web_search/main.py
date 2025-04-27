@@ -1,5 +1,5 @@
-from io import StringIO
 from src import *
+from utils import * 
 import pandas as pd
 from tqdm import tqdm
 import argparse
@@ -39,22 +39,27 @@ def create_activities_list(llm_client, number_activities:int = 10, batch_size: i
     try:
         name_file = 'economic_activities'
         name_folder = 'database'
-        if not os.path.exists(f'{name_folder}/{name_file}.json') or args.create_new_activities:
-            print('Criando Lista de Atividades Econômicas...')
-            processor = CreateActivities(
-                llm_client=llm_client,
-                system_prompt_file=SYSTEM_PROMPT_ACTIVITIES_LIST_FILE,
-                human_prompt_file=HUMAN_PROMPT_ACTIVITIES_LIST_FILE,
-                name_file=name_file,
-                output_dir=name_folder
-            )
-            
-            result = processor.process_activities(number_activities, batch_size=batch_size)
-            print(f"Atividades Criadas, Resultado salvo em {processor.output_dir}")
+        output_path = os.path.join(name_folder, f"{name_file}.json")
+        
+        if os.path.exists(output_path) and not args.create_new_activities:
+            print(f"Arquivo {output_path} já existe. Pulando criação.")
+            return
+        
+        print('Criando Lista de Atividades Econômicas...')
+        processor = ActivitiesGenerate(
+            llm_client=llm_client,
+            system_prompt_file=SYSTEM_PROMPT_ACTIVITIES_LIST_FILE,
+            human_prompt_file=HUMAN_PROMPT_ACTIVITIES_LIST_FILE,
+            file_name=name_file,
+            output_dir=name_folder
+        )
+        
+        result = processor.process_activities(number_activities, batch_size=batch_size)
+        print(f"Atividades Criadas, Resultado salvo em {processor.output_dir}/{name_file}.json")
     except Exception as e:
         print(f"Erro na execução de create_activities_list: {str(e)}")
 
-def details_companys(llm_client, max_rows:int):
+def details_companys(llm_client, max_rows:int, atividades_lista: List[str]):
     """
     Processa empresas para detalhar suas caracteristicas
     
@@ -72,10 +77,6 @@ def details_companys(llm_client, max_rows:int):
         empresas_data = df[['name', 'full_name', 'country', 'symbol']].to_dict('records')
         
         rag_system = EmpresasRAG(empresas_data)
-        
-        atividades_data = pd.read_json(JSON_ATIVIDADES)
-
-        atividades_lista = [i['atividade_economica'] for i in atividades_data['atividades_economicas']]
         
         # Inicializar o processador
         processor = EmpresassProcessor(
@@ -95,7 +96,7 @@ def details_companys(llm_client, max_rows:int):
     except Exception as e:
         print(f"Erro na execução de details_companys: {str(e)}")
 
-def related_activities(llm_client, number_activities: int = 10):
+def related_activities(llm_client, atividades_data:List[Dict[str, Any]], atividades_lista:List[str], number_activities: int = 10):
     """
     Processa atividades econômicas e retorna os resultados da análise.
     
@@ -121,15 +122,31 @@ def related_activities(llm_client, number_activities: int = 10):
             tqdm.write(f"Processado: {row['atividade_economica']} - Resultado salvo em {processor.output_dir}")
     except Exception as e:
         print(f"Erro na execução de related_activities: {str(e)}")
-    
+
 def main():
     # Configurações
     config = setup_xai_client()
     llm_client = XAIClient(config)
     
-    #create_activities_list(llm_client=llm_client, number_activities=args.number_activities_create) 
-    details_companys(llm_client=llm_client, max_rows=args.max_rows)    
-    related_activities(llm_client=llm_client, number_activities=args.number_activities_related)
+    atividades_data, atividades_lista = load_activities(JSON_ATIVIDADES)
+    
+    create_activities_list(
+        llm_client=llm_client, 
+        number_activities=args.number_activities_create
+    )
+     
+    details_companys(
+        llm_client=llm_client, 
+        max_rows=args.max_rows, 
+        atividades_lista=atividades_lista
+    )    
+    
+    related_activities(
+        llm_client=llm_client, 
+        number_activities=args.number_activities_related,
+        atividades_data=atividades_data,
+        atividades_lista=atividades_lista
+    )
 
 if __name__ == "__main__":
     main()

@@ -6,10 +6,7 @@ from typing import List, Dict, Any, TypedDict
 from langchain_core.documents import Document
 from langgraph.graph import StateGraph, END
 from tqdm import tqdm
-
-# Função auxiliar para limpar nomes de arquivos (exemplo, substitua se já existir)
-def clean_filename(filename: str) -> str:
-    return re.sub(r'[^\w\s-]', '', filename).replace(' ', '_').lower()
+from utils import clean_filename
 
 # Classe para gerenciar o RAG com as atividades
 class ActivitiesRAG:
