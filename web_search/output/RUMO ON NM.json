@@ -1,0 +1,18 @@
+{
+  "company_name": "RUMO Logistica Operadora Multimodal SA",
+  "primary_activity": "Operação de serviços de logística e transporte multimodal",
+  "sector": "Logística e Transporte",
+  "subsector": "Transporte Ferroviário e Multimodal",
+  "industry": "Logística e Transporte de Mercadorias",
+  "activity_description": "A RUMO Logística Operadora Multimodal SA é uma das maiores operadoras de logística no Brasil, focada principalmente no transporte ferroviário de cargas. A empresa atua na integração de diferentes modais de transporte, como ferrovias, rodovias e terminais portuários, para otimizar a movimentação de mercadorias, especialmente commodities agrícolas. Seu papel é essencial no escoamento da produção brasileira para mercados internos e externos.",
+  "main_products_services": [
+    "Logística e Transporte de Mercadorias",
+    "Transporte Ferroviário"
+  ],
+  "competitors": [
+    "MRS Logística",
+    "VLI Logística",
+    "ALL - América Latina Logística"
+  ],
+  "economic_classification_code": "CNAE 4911-6/00 - Transporte Ferroviário de Carga"
+}
