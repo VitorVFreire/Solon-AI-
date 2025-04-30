@@ -1,0 +1,19 @@
+{
+  "company_name": "BR Properties SA",
+  "primary_activity": "Gestão de propriedades imobiliárias",
+  "sector": "Construção Civil",
+  "subsector": "Desenvolvimento e Gestão Imobiliária",
+  "industry": "Gestão de Propriedades Comerciais e Residenciais",
+  "activity_description": "A BR Properties SA atua no desenvolvimento e gestão de propriedades comerciais e residenciais, oferecendo soluções imobiliárias para diversos segmentos de mercado.",
+  "main_products_services": [
+    "Locação de espaços comerciais",
+    "Administração de propriedades",
+    "Desenvolvimento imobiliário"
+  ],
+  "competitors": [
+    "Cyrela Brazil Realty",
+    "MRV Engenharia",
+    "Gafisa"
+  ],
+  "economic_classification_code": "Real Estate Activities"
+}

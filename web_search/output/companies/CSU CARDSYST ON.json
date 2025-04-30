@@ -1,0 +1,19 @@
+{
+  "company_name": "CSU Cardsystem SA",
+  "primary_activity": "Emissão de cartões e prestação de serviços relacionados",
+  "sector": "Tecnologia da Informação",
+  "subsector": "Serviços de TI em nuvem",
+  "industry": "Processamento de transações eletrônicas e serviços de pagamento",
+  "activity_description": "A CSU Cardsystem SA atua na emissão de cartões de crédito e débito, bem como na prestação de serviços relacionados, como processamento de transações eletrônicas e serviços de pagamento. A empresa oferece soluções tecnológicas para instituições financeiras e varejistas.",
+  "main_products_services": [
+    "Emissão de cartões de crédito e débito",
+    "Processamento de transações eletrônicas",
+    "Serviços de pagamento"
+  ],
+  "competitors": [
+    "Cielo",
+    "Redecard",
+    "StoneCo"
+  ],
+  "economic_classification_code": null
+}

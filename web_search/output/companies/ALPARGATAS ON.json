@@ -1,0 +1,17 @@
+{
+  "company_name": "Alpargatas SA",
+  "primary_activity": "Fabricação e comercialização de calçados",
+  "sector": "Moda",
+  "subsector": "Calçados",
+  "industry": "Calçados de moda",
+  "activity_description": "Alpargatas SA é uma empresa brasileira especializada na fabricação e comercialização de calçados, com foco em calçados de moda.",
+  "main_products_services": [
+    "Calçados de moda"
+  ],
+  "competitors": [
+    "Havaianas",
+    "Arezzo&Co",
+    "Schutz"
+  ],
+  "economic_classification_code": "C1520"
+}

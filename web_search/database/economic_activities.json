@@ -2,195 +2,1023 @@
   "atividades_economicas": [
     {
       "atividade_economica": "Agricultura",
-      "descricao_atividade": "Produção de culturas agrícolas como grãos, frutas, vegetais e outros produtos para alimentação e matéria-prima.",
+      "descricao_atividade": "Produção de alimentos, fibras e outras matérias-primas através do cultivo de plantas, criação de animais e atividades relacionadas.",
       "tipo_atividade": "Primária",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Tecnologia da Informação",
+      "descricao_atividade": "Desenvolvimento, implementação e manutenção de sistemas de informação, softwares e tecnologias relacionadas.",
+      "tipo_atividade": "Serviço",
       "nivel_de_importancia": "9"
-    },
-    {
-      "atividade_economica": "Pecuária",
-      "descricao_atividade": "Criação de animais para produção de carne, leite, lã e outros subprodutos.",
-      "tipo_atividade": "Primária",
-      "nivel_de_importancia": "8"
-    },
-    {
-      "atividade_economica": "Mineração",
-      "descricao_atividade": "Extração de minerais e recursos naturais como ferro, ouro, carvão e petróleo do solo ou subsolo.",
-      "tipo_atividade": "Primária",
-      "nivel_de_importancia": "7"
-    },
-    {
-      "atividade_economica": "Indústria Automotiva",
-      "descricao_atividade": "Fabricação de veículos, peças e componentes para automóveis, caminhões e motos.",
-      "tipo_atividade": "Secundária",
-      "nivel_de_importancia": "8"
-    },
-    {
-      "atividade_economica": "Indústria Têxtil",
-      "descricao_atividade": "Produção de tecidos, roupas e outros produtos a partir de fibras naturais ou sintéticas.",
-      "tipo_atividade": "Secundária",
-      "nivel_de_importancia": "6"
     },
     {
       "atividade_economica": "Construção Civil",
-      "descricao_atividade": "Atividade de construção de edifícios, infraestrutura, estradas e outras obras públicas ou privadas.",
-      "tipo_atividade": "Secundária",
-      "nivel_de_importancia": "8"
-    },
-    {
-      "atividade_economica": "Indústria Farmacêutica",
-      "descricao_atividade": "Desenvolvimento e produção de medicamentos, vacinas e outros produtos para a saúde.",
-      "tipo_atividade": "Secundária",
-      "nivel_de_importancia": "9"
-    },
-    {
-      "atividade_economica": "Indústria de Tecnologia",
-      "descricao_atividade": "Produção de hardware, software e dispositivos eletrônicos como computadores e smartphones.",
-      "tipo_atividade": "Secundária",
-      "nivel_de_importancia": "9"
-    },
-    {
-      "atividade_economica": "Energia Elétrica",
-      "descricao_atividade": "Geração, transmissão e distribuição de energia elétrica a partir de fontes como hidrelétrica, solar e eólica.",
-      "tipo_atividade": "Secundária",
-      "nivel_de_importancia": "10"
-    },
-    {
-      "atividade_economica": "Comércio Varejista",
-      "descricao_atividade": "Venda de bens diretamente ao consumidor final em lojas físicas ou online.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "8"
-    },
-    {
-      "atividade_economica": "Comércio Atacadista",
-      "descricao_atividade": "Venda de bens em grandes quantidades para revendedores ou outras empresas.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "7"
-    },
-    {
-      "atividade_economica": "Transporte Rodoviário",
-      "descricao_atividade": "Movimentação de bens e pessoas por meio de veículos em rodovias.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "8"
-    },
-    {
-      "atividade_economica": "Transporte Aéreo",
-      "descricao_atividade": "Transporte de passageiros e cargas por meio de aeronaves.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "7"
-    },
-    {
-      "atividade_economica": "Transporte Marítimo",
-      "descricao_atividade": "Movimentação de cargas e passageiros por meio de navios e embarcações.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "7"
-    },
-    {
-      "atividade_economica": "Serviços Bancários",
-      "descricao_atividade": "Gestão de dinheiro, empréstimos, investimentos e outros serviços financeiros.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "9"
-    },
-    {
-      "atividade_economica": "Seguros",
-      "descricao_atividade": "Fornecimento de proteção financeira contra riscos como acidentes, doenças ou perdas materiais.",
-      "tipo_atividade": "Terciária",
+      "descricao_atividade": "Construção, reforma e manutenção de edifícios, residências, estradas, pontes e outras estruturas.",
+      "tipo_atividade": "Indústria",
       "nivel_de_importancia": "7"
     },
     {
       "atividade_economica": "Educação",
-      "descricao_atividade": "Prestação de serviços de ensino e formação em escolas, universidades e outras instituições.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "9"
-    },
-    {
-      "atividade_economica": "Saúde",
-      "descricao_atividade": "Prestação de serviços médicos, hospitalares e de cuidados preventivos à população.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "10"
-    },
-    {
-      "atividade_economica": "Turismo",
-      "descricao_atividade": "Atividades relacionadas a viagens, hospedagem, lazer e atrações culturais.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "6"
-    },
-    {
-      "atividade_economica": "Hotelaria",
-      "descricao_atividade": "Gestão de hotéis, pousadas e outros tipos de acomodação para viajantes.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "6"
-    },
-    {
-      "atividade_economica": "Restaurantes e Alimentação",
-      "descricao_atividade": "Preparação e venda de alimentos e bebidas em restaurantes, bares e lanchonetes.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "6"
-    },
-    {
-      "atividade_economica": "Consultoria Empresarial",
-      "descricao_atividade": "Prestação de serviços de aconselhamento estratégico, financeiro e operacional para empresas.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "7"
-    },
-    {
-      "atividade_economica": "Publicidade e Marketing",
-      "descricao_atividade": "Criação e divulgação de campanhas para promover produtos, serviços ou marcas.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "6"
-    },
-    {
-      "atividade_economica": "Tecnologia da Informação",
-      "descricao_atividade": "Desenvolvimento e manutenção de sistemas, redes e soluções digitais para empresas e usuários.",
-      "tipo_atividade": "Terciária",
-      "nivel_de_importancia": "9"
-    },
-    {
-      "atividade_economica": "Logística",
-      "descricao_atividade": "Gestão de armazenamento, distribuição e transporte de bens de forma eficiente.",
-      "tipo_atividade": "Terciária",
+      "descricao_atividade": "Transmissão de conhecimentos, habilidades e valores por meio de métodos formais ou informais.",
+      "tipo_atividade": "Serviço",
       "nivel_de_importancia": "8"
     },
     {
-      "atividade_economica": "Indústria Química",
-      "descricao_atividade": "Produção de produtos químicos como fertilizantes, plásticos e materiais industriais.",
-      "tipo_atividade": "Secundária",
+      "atividade_economica": "Transporte",
+      "descricao_atividade": "Movimentação de pessoas ou mercadorias de um lugar para outro, utilizando diferentes meios de transporte.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria Automobilística",
+      "descricao_atividade": "Fabricação de veículos automotores, peças e acessórios relacionados.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria Financeira",
+      "descricao_atividade": "Fornecimento de aconselhamento e serviços financeiros a indivíduos e empresas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Saúde",
+      "descricao_atividade": "Manutenção e restauração da saúde humana por meio de diagnóstico, tratamento e prevenção de doenças.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Turismo",
+      "descricao_atividade": "Viagens e atividades recreativas realizadas por pessoas em locais fora de seu ambiente habitual.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Comércio Varejista",
+      "descricao_atividade": "Venda de bens diretamente aos consumidores finais para uso pessoal, não para revenda.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Engenharia Ambiental",
+      "descricao_atividade": "Aplicação de princípios de engenharia para proteger e melhorar o meio ambiente.",
+      "tipo_atividade": "Serviço",
       "nivel_de_importancia": "7"
     },
     {
       "atividade_economica": "Indústria Alimentícia",
-      "descricao_atividade": "Processamento e embalagem de alimentos para consumo humano ou animal.",
-      "tipo_atividade": "Secundária",
+      "descricao_atividade": "Produção de alimentos e bebidas em larga escala para distribuição e consumo.",
+      "tipo_atividade": "Indústria",
       "nivel_de_importancia": "8"
     },
     {
-      "atividade_economica": "Pesca",
-      "descricao_atividade": "Captura de peixes e outros organismos aquáticos para alimentação ou comércio.",
-      "tipo_atividade": "Primária",
-      "nivel_de_importancia": "6"
+      "atividade_economica": "Telecomunicações",
+      "descricao_atividade": "Transmissão de informações por longas distâncias utilizando tecnologias de comunicação.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
     },
     {
-      "atividade_economica": "Silvicultura",
-      "descricao_atividade": "Cultivo e manejo de florestas para produção de madeira, papel e outros produtos florestais.",
-      "tipo_atividade": "Primária",
-      "nivel_de_importancia": "6"
-    },
-    {
-      "atividade_economica": "Gestão de Resíduos",
-      "descricao_atividade": "Coleta, tratamento e reciclagem de resíduos sólidos e líquidos para preservação ambiental.",
-      "tipo_atividade": "Terciária",
+      "atividade_economica": "Moda",
+      "descricao_atividade": "Indústria relacionada à produção e comercialização de roupas, acessórios e tendências de estilo.",
+      "tipo_atividade": "Indústria",
       "nivel_de_importancia": "7"
     },
     {
-      "atividade_economica": "Indústria de Energia Renovável",
-      "descricao_atividade": "Produção e distribuição de energia a partir de fontes renováveis, como solar, eólica e hidrelétrica, visando a sustentabilidade e a redução de impactos ambientais.",
-      "tipo_atividade": "Manufatura e Serviços",
+      "atividade_economica": "Pesquisa Científica",
+      "descricao_atividade": "Investigação sistemática, estudo e experimentação para descobrir novos conhecimentos e avanços.",
+      "tipo_atividade": "Serviço",
       "nivel_de_importancia": "9"
     },
     {
-      "atividade_economica": "Serviços de Consultoria Ambiental",
-      "descricao_atividade": "Prestação de serviços especializados em assessoria para empresas e governos sobre questões ambientais, incluindo gestão de impacto ambiental, conformidade regulatória e estratégias de sustentabilidade.",
+      "atividade_economica": "Logística",
+      "descricao_atividade": "Planejamento, execução e controle do fluxo de mercadorias, informações e recursos entre origem e destino.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria Farmacêutica",
+      "descricao_atividade": "Produção de medicamentos e produtos farmacêuticos para prevenção, tratamento e cura de doenças.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Recursos Humanos",
+      "descricao_atividade": "Gestão de pessoas, recrutamento, seleção, treinamento e desenvolvimento de profissionais em organizações.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria Química",
+      "descricao_atividade": "Produção de substâncias químicas, plásticos, fertilizantes, produtos de limpeza, entre outros.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Marketing Digital",
+      "descricao_atividade": "Promoção de produtos ou marcas através de estratégias digitais e canais online.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria Metalúrgica",
+      "descricao_atividade": "Produção de metais, ligas metálicas, peças e produtos derivados do metal.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços Jurídicos",
+      "descricao_atividade": "Prestação de serviços legais, consultoria jurídica e representação em questões legais.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de Energia Renovável",
+      "descricao_atividade": "Produção de energia a partir de fontes renováveis, como solar, eólica, hidrelétrica, entre outras.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Arquitetura",
+      "descricao_atividade": "Projeto e planejamento de espaços arquitetônicos, edifícios e ambientes.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria Têxtil",
+      "descricao_atividade": "Produção de tecidos, fios, vestuário e produtos relacionados à indústria têxtil.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de Projetos",
+      "descricao_atividade": "Planejamento, execução e controle de projetos para atingir objetivos específicos dentro de prazos e orçamentos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de Cosméticos",
+      "descricao_atividade": "Fabricação e venda de produtos de beleza, higiene pessoal e cosméticos.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Telemedicina",
+      "descricao_atividade": "Prestação de serviços médicos à distância, utilizando tecnologias de comunicação.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria Automotiva",
+      "descricao_atividade": "Produção de veículos, motores, peças e acessórios para o setor automotivo.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria Empresarial",
+      "descricao_atividade": "Fornecimento de consultoria e serviços para empresas visando melhorar sua eficiência e desempenho.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria Aeroespacial",
+      "descricao_atividade": "Fabricação de aeronaves, foguetes, satélites e componentes relacionados à indústria aeroespacial.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de eletrônicos",
+      "descricao_atividade": "Produção e comercialização de equipamentos eletrônicos como smartphones, computadores, TVs, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de TI em nuvem",
+      "descricao_atividade": "Fornecimento de serviços de tecnologia da informação baseados em nuvem para empresas e usuários finais.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de materiais de construção",
+      "descricao_atividade": "Produção e distribuição de materiais utilizados na construção civil, como cimento, tijolos, tintas, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de delivery de alimentos",
+      "descricao_atividade": "Entrega de refeições e alimentos diversos diretamente aos clientes, geralmente realizada por aplicativos especializados.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos médicos",
+      "descricao_atividade": "Fabricação de equipamentos utilizados em hospitais e clínicas, como aparelhos de ultrassom, monitores cardíacos, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em sustentabilidade",
+      "descricao_atividade": "Prestação de serviços de consultoria para empresas interessadas em adotar práticas sustentáveis em suas operações.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens",
+      "descricao_atividade": "Produção de embalagens utilizadas para acondicionar produtos diversos, como caixas, sacolas, potes, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em marketing",
+      "descricao_atividade": "Oferta de serviços de consultoria em estratégias de marketing para empresas de diversos segmentos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de brinquedos",
+      "descricao_atividade": "Fabricação e comercialização de brinquedos para crianças de diferentes faixas etárias.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "5"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em recursos humanos",
+      "descricao_atividade": "Prestação de serviços de consultoria em recrutamento, seleção, treinamento e desenvolvimento de pessoal.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens sustentáveis",
+      "descricao_atividade": "Produção de embalagens ecologicamente corretas e biodegradáveis para reduzir o impacto ambiental.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de streaming de vídeo",
+      "descricao_atividade": "Oferta de plataformas de streaming de vídeo sob demanda para entretenimento e educação.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de móveis",
+      "descricao_atividade": "Fabricação e comercialização de móveis para residências, escritórios e ambientes comerciais.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em logística",
+      "descricao_atividade": "Consultoria especializada em otimização de processos logísticos, armazenamento e distribuição de produtos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos esportivos",
+      "descricao_atividade": "Produção de equipamentos esportivos como bolas, raquetes, tênis, entre outros, para prática de diferentes modalidades esportivas.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em educação corporativa",
+      "descricao_atividade": "Oferta de serviços de consultoria em treinamento e desenvolvimento de colaboradores em empresas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de joias",
+      "descricao_atividade": "Produção e comercialização de joias e acessórios de luxo, muitas vezes feitos com metais preciosos e gemas.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em segurança da informação",
+      "descricao_atividade": "Consultoria especializada em proteção de dados e sistemas de informação contra ameaças cibernéticas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de limpeza",
+      "descricao_atividade": "Fabricação e comercialização de produtos de limpeza doméstica e industrial, como detergentes, desinfetantes, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de riscos",
+      "descricao_atividade": "Consultoria especializada em identificação, avaliação e gestão de riscos operacionais e financeiros nas empresas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de segurança",
+      "descricao_atividade": "Produção e comercialização de equipamentos de segurança, como câmeras de vigilância, alarmes, fechaduras, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em design de interiores",
+      "descricao_atividade": "Prestação de serviços de consultoria em design de interiores para residências, escritórios e espaços comerciais.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Indústria de produtos orgânicos",
+      "descricao_atividade": "Produção e comercialização de alimentos e produtos cultivados de forma orgânica, sem o uso de pesticidas ou fertilizantes químicos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em inovação",
+      "descricao_atividade": "Consultoria especializada em fomentar a inovação em produtos, processos e modelos de negócios nas empresas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de reciclagem",
+      "descricao_atividade": "Coleta, separação e reciclagem de resíduos sólidos para a produção de novos materiais e redução do impacto ambiental.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em estratégia empresarial",
+      "descricao_atividade": "Prestação de serviços de consultoria em definição de estratégias de negócio e posicionamento no mercado.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de higiene pessoal",
+      "descricao_atividade": "Fabricação e comercialização de produtos de higiene pessoal, como sabonetes, shampoos, cremes, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de projetos",
+      "descricao_atividade": "Consultoria especializada em planejamento, execução e controle de projetos em diferentes áreas de negócio.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de tecnologia vestível",
+      "descricao_atividade": "Produção de dispositivos tecnológicos vestíveis, como smartwatches, óculos inteligentes, roupas com sensores, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em marketing digital",
+      "descricao_atividade": "Oferta de serviços de consultoria em estratégias de marketing digital, incluindo redes sociais, SEO, e-mail marketing, entre outros.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de petróleo",
+      "descricao_atividade": "Produção e comercialização de produtos derivados de petróleo, como gasolina, diesel, lubrificantes, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão financeira",
+      "descricao_atividade": "Consultoria especializada em gestão financeira, planejamento tributário, análise de investimentos e controle de custos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de calçados",
+      "descricao_atividade": "Fabricação e comercialização de calçados de diversos tipos e estilos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em sustentabilidade",
+      "descricao_atividade": "Assessoria a empresas e organizações para implementação de práticas sustentáveis.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens biodegradáveis",
+      "descricao_atividade": "Produção de embalagens que se degradam naturalmente no meio ambiente.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de inovação",
+      "descricao_atividade": "Auxílio a empresas na implementação de processos inovadores e tecnológicos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de ginástica",
+      "descricao_atividade": "Fabricação de equipamentos utilizados em academias e espaços de ginástica.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos",
+      "descricao_atividade": "Assessoria em otimização e gerenciamento da cadeia de suprimentos de empresas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de luxo",
+      "descricao_atividade": "Produção de embalagens sofisticadas e exclusivas para produtos de alto padrão.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de qualidade",
+      "descricao_atividade": "Consultoria para implementação de padrões de qualidade em processos e produtos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de limpeza ecológicos",
+      "descricao_atividade": "Fabricação de produtos de limpeza que respeitam o meio ambiente.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de recursos naturais",
+      "descricao_atividade": "Assessoria em práticas sustentáveis e preservação dos recursos naturais.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de alimentos",
+      "descricao_atividade": "Produção de embalagens específicas para acondicionamento de alimentos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de vendas",
+      "descricao_atividade": "Consultoria para otimização de estratégias de vendas e aumento de receitas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de higiene pessoal naturais",
+      "descricao_atividade": "Fabricação de produtos de higiene pessoal com ingredientes naturais e orgânicos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de marketing",
+      "descricao_atividade": "Assessoria em estratégias de marketing para empresas de diversos segmentos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens recicláveis",
+      "descricao_atividade": "Produção de embalagens que podem ser recicladas e reutilizadas.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de recursos humanos",
+      "descricao_atividade": "Consultoria em processos de recrutamento, seleção e desenvolvimento de pessoal.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de limpeza hospitalar",
+      "descricao_atividade": "Fabricação de produtos de limpeza específicos para uso em ambientes hospitalares.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de operações",
+      "descricao_atividade": "Assessoria em otimização e eficiência de processos operacionais de empresas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens plásticas",
+      "descricao_atividade": "Produção de embalagens feitas de materiais plásticos para diversos fins.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de logística",
+      "descricao_atividade": "Consultoria em processos logísticos para otimização de cadeias de suprimentos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de limpeza industrial",
+      "descricao_atividade": "Fabricação de produtos de limpeza voltados para uso em ambientes industriais.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de tecnologia da informação",
+      "descricao_atividade": "Assessoria em estratégias de TI para empresas e implementação de soluções tecnológicas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de vidro",
+      "descricao_atividade": "Produção de embalagens feitas de vidro para diversos produtos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de riscos ambientais",
+      "descricao_atividade": "Assessoria em identificação e mitigação de riscos ambientais para empresas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de limpeza doméstica",
+      "descricao_atividade": "Fabricação de produtos de limpeza para uso doméstico e limpeza geral.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de comunicação",
+      "descricao_atividade": "Consultoria em estratégias de comunicação interna e externa das empresas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de papel",
+      "descricao_atividade": "Produção de embalagens feitas de papel para diversos produtos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de limpeza automotiva",
+      "descricao_atividade": "Fabricação de produtos de limpeza específicos para veículos automotivos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de metal",
+      "descricao_atividade": "Produção de embalagens feitas de materiais metálicos para diversos produtos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de marketing digital",
+      "descricao_atividade": "Assessoria em estratégias de marketing digital para empresas de diversos segmentos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de calçados esportivos",
+      "descricao_atividade": "Fabricação de calçados voltados para prática esportiva, como tênis, chuteiras, sapatilhas de balé, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de projetos de construção",
+      "descricao_atividade": "Prestação de serviços de consultoria especializada em gerenciamento de projetos de construção civil, desde a concepção até a entrega final.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de pesca",
+      "descricao_atividade": "Produção de equipamentos utilizados na pesca, como varas, carretilhas, anzóis, redes, entre outros.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de resíduos sólidos",
+      "descricao_atividade": "Consultoria especializada em gestão de resíduos sólidos, incluindo coleta, tratamento e destinação adequada.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de limpeza automotiva de alta performance",
+      "descricao_atividade": "Fabricação de produtos de limpeza específicos para automóveis, com fórmulas de alta performance para limpeza e conservação.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de eventos corporativos",
+      "descricao_atividade": "Consultoria especializada em planejamento, organização e execução de eventos corporativos, como congressos, feiras e convenções.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens sustentáveis para alimentos",
+      "descricao_atividade": "Produção de embalagens ecologicamente corretas destinadas ao armazenamento e transporte de alimentos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de franquias",
+      "descricao_atividade": "Consultoria especializada em auxiliar na gestão e expansão de redes de franquias, oferecendo suporte em diversos aspectos do negócio.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de móveis planejados",
+      "descricao_atividade": "Fabricação de móveis sob medida, projetados de acordo com as necessidades e preferências dos clientes.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de e-commerce",
+      "descricao_atividade": "Consultoria especializada em estratégias de comércio eletrônico, incluindo gestão de plataformas online, logística e marketing digital.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens biodegradáveis para cosméticos",
+      "descricao_atividade": "Produção de embalagens que se degradam naturalmente no meio ambiente, utilizadas para acondicionar produtos cosméticos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de investimentos",
+      "descricao_atividade": "Consultoria financeira especializada em orientar clientes na alocação de recursos em investimentos diversos, visando maximizar retornos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de luxo para joias",
+      "descricao_atividade": "Fabricação de embalagens sofisticadas e exclusivas destinadas ao armazenamento e apresentação de joias de alto padrão.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de patrimônio",
+      "descricao_atividade": "Consultoria especializada em administração de patrimônios, oferecendo orientações para preservação e crescimento do capital.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de higiene pessoal masculinos",
+      "descricao_atividade": "Fabricação de produtos de higiene pessoal voltados especificamente para o público masculino, como cremes, loções e produtos para barba.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de seguros",
+      "descricao_atividade": "Consultoria especializada em seguros, auxiliando na escolha, contratação e gestão de apólices de seguros pessoais e empresariais.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de papel reciclado",
+      "descricao_atividade": "Produção de embalagens feitas a partir de papel reciclado, contribuindo para a redução do impacto ambiental.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de brinquedos educativos",
+      "descricao_atividade": "Fabricação de brinquedos que estimulam o aprendizado e o desenvolvimento das crianças, com foco em aspectos educativos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de qualidade de alimentos",
+      "descricao_atividade": "Consultoria especializada em garantir a qualidade e segurança dos alimentos desde a produção até o consumo, seguindo normas e regulamentações.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de vidro reciclado",
+      "descricao_atividade": "Produção de embalagens de vidro proveniente de material reciclado, promovendo a sustentabilidade e a redução do uso de recursos naturais.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de marketing esportivo",
+      "descricao_atividade": "Consultoria especializada em estratégias de marketing voltadas para o segmento esportivo, incluindo patrocínios, eventos e parcerias.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de segurança para construção civil",
+      "descricao_atividade": "Fabricação de equipamentos de proteção individual e coletiva utilizados na construção civil, visando garantir a segurança dos trabalhadores.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de recursos hídricos",
+      "descricao_atividade": "Consultoria especializada em manejo e preservação dos recursos hídricos, incluindo gestão de águas superficiais e subterrâneas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de produtos de limpeza hospitalar de alta eficiência",
+      "descricao_atividade": "Fabricação de produtos de limpeza hospitalar com fórmulas específicas para garantir a máxima eficiência na desinfecção de ambientes hospitalares.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de tecnologia educacional",
+      "descricao_atividade": "Consultoria especializada em implementação de tecnologias voltadas para a educação, visando aprimorar os processos de ensino e aprendizagem.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens para presentes personalizadas",
+      "descricao_atividade": "Produção de embalagens exclusivas e personalizadas para presentes, agregando valor estético e emocional aos produtos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de eventos esportivos",
+      "descricao_atividade": "Consultoria especializada em organização e planejamento de eventos esportivos, desde competições até ações promocionais.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de cosméticos personalizadas",
+      "descricao_atividade": "Fabricação de embalagens sob medida para produtos cosméticos, permitindo a personalização e diferenciação no mercado.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de startups",
+      "descricao_atividade": "Consultoria especializada em auxiliar startups em diversos aspectos, como planejamento estratégico, captação de investimentos e desenvolvimento de negócios.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de segurança para trabalho em altura",
+      "descricao_atividade": "Produção de equipamentos de proteção individual e coletiva para atividades em altura, garantindo a segurança dos trabalhadores em ambientes elevados.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de alimentos orgânicos",
+      "descricao_atividade": "Produção de embalagens sustentáveis e biodegradáveis para alimentos orgânicos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de segurança para indústria química",
+      "descricao_atividade": "Fabricação de equipamentos de segurança específicos para o setor químico, visando proteger os trabalhadores e o ambiente.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de resíduos sólidos urbanos",
+      "descricao_atividade": "Assessoria em estratégias de gestão de resíduos sólidos urbanos, incluindo coleta seletiva, reciclagem e destinação correta.",
       "tipo_atividade": "Serviços",
       "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de produtos farmacêuticos",
+      "descricao_atividade": "Produção de embalagens seguras e adequadas para acondicionar produtos farmacêuticos, garantindo sua integridade e qualidade.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de alimentos",
+      "descricao_atividade": "Consultoria especializada em otimização e gestão eficiente da cadeia de suprimentos de alimentos, desde a produção até a distribuição.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de produtos de limpeza concentrados",
+      "descricao_atividade": "Fabricação de embalagens específicas para produtos de limpeza concentrados, visando reduzir o impacto ambiental.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de riscos em operações industriais",
+      "descricao_atividade": "Assessoria na identificação, avaliação e mitigação de riscos em operações industriais, visando a segurança e eficiência.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de produtos de higiene pessoal infantil",
+      "descricao_atividade": "Produção de embalagens atrativas e seguras para produtos de higiene pessoal destinados ao público infantil.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de eventos corporativos sustentáveis",
+      "descricao_atividade": "Consultoria especializada em planejamento e execução de eventos corporativos com foco em práticas sustentáveis.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de produtos de limpeza biodegradáveis",
+      "descricao_atividade": "Fabricação de embalagens ecológicas para produtos de limpeza biodegradáveis, contribuindo para a preservação do meio ambiente.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de tecnologia vestível",
+      "descricao_atividade": "Assessoria em estratégias de gestão e inovação no desenvolvimento de tecnologias vestíveis, como smartwatches e dispositivos de saúde.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de luxo para produtos de beleza",
+      "descricao_atividade": "Produção de embalagens sofisticadas e exclusivas para produtos de beleza de alta qualidade e marcas de luxo.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de moda",
+      "descricao_atividade": "Assessoria em otimização e gestão eficiente da cadeia de suprimentos no setor de moda, incluindo design, produção e distribuição.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de produtos de limpeza biotecnológicos",
+      "descricao_atividade": "Fabricação de embalagens inovadoras para produtos de limpeza desenvolvidos com base em biotecnologia, visando a sustentabilidade.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de produtos de limpeza sustentáveis",
+      "descricao_atividade": "Produção de embalagens ecologicamente corretas para produtos de limpeza com foco na sustentabilidade ambiental.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de marketing digital para pequenas empresas",
+      "descricao_atividade": "Assessoria em estratégias de marketing digital direcionadas a pequenas empresas, visando aumentar sua presença online e vendas.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de recursos hídricos para agricultura",
+      "descricao_atividade": "Consultoria especializada em gestão eficiente e sustentável de recursos hídricos voltada para o setor agrícola.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de produtos de higiene pessoal naturais",
+      "descricao_atividade": "Fabricação de embalagens adequadas para produtos de higiene pessoal feitos com ingredientes naturais e sustentáveis.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de alimentos para pets",
+      "descricao_atividade": "Produção de embalagens seguras e atrativas para alimentos destinados a animais de estimação, garantindo qualidade e conservação.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de tecnologia espacial",
+      "descricao_atividade": "Setor responsável pelo desenvolvimento e fabricação de tecnologias para exploração e pesquisa espacial, incluindo satélites e veículos espaciais.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "10"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de recursos hídricos para saneamento básico",
+      "descricao_atividade": "Assessoria em gestão eficiente e sustentável de recursos hídricos voltada para projetos de saneamento básico e tratamento de água.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de tecnologia",
+      "descricao_atividade": "Consultoria especializada em otimização da cadeia de suprimentos no setor de tecnologia, incluindo logística e distribuição de produtos.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de produtos de beleza sustentáveis",
+      "descricao_atividade": "Produção de embalagens ecológicas para produtos de beleza, com foco na sustentabilidade e redução do impacto ambiental.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de saúde",
+      "descricao_atividade": "Assessoria em otimização e gestão eficiente da cadeia de suprimentos no setor de saúde, incluindo hospitais e farmácias.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de proteção individual",
+      "descricao_atividade": "Fabricação de equipamentos de proteção individual, como capacetes, luvas, óculos de proteção, entre outros, utilizados para garantir a segurança dos trabalhadores em diversos ambientes de trabalho.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de alimentos orgânicos",
+      "descricao_atividade": "Consultoria especializada em otimizar a cadeia de suprimentos de alimentos orgânicos, desde a produção até a distribuição, visando garantir a qualidade e sustentabilidade dos produtos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de recursos humanos para startups",
+      "descricao_atividade": "Consultoria especializada em estratégias de gestão de recursos humanos voltadas para startups, auxiliando na contratação, retenção e desenvolvimento de talentos em empresas em fase inicial.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de refrigeração comercial",
+      "descricao_atividade": "Fabricação de equipamentos de refrigeração utilizados em estabelecimentos comerciais, como geladeiras, freezers e balcões refrigerados, essenciais para a conservação de alimentos perecíveis.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de alimentos para animais de estimação",
+      "descricao_atividade": "Produção de embalagens específicas para alimentos destinados a animais de estimação, garantindo a segurança e conservação dos produtos para o consumo animal.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de produtos sustentáveis",
+      "descricao_atividade": "Consultoria especializada em otimizar a cadeia de suprimentos de produtos sustentáveis, desde a produção até a distribuição, visando reduzir impactos ambientais e sociais.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de energia solar",
+      "descricao_atividade": "Fabricação de equipamentos de energia solar, como painéis fotovoltaicos e inversores, utilizados na geração de energia limpa e renovável a partir da luz solar.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de moda sustentável",
+      "descricao_atividade": "Consultoria especializada em otimizar a cadeia de suprimentos de moda sustentável, desde a produção até o varejo, visando promover práticas mais éticas e responsáveis na indústria da moda.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de cosméticos naturais",
+      "descricao_atividade": "Produção de embalagens específicas para cosméticos naturais, feitas com materiais sustentáveis e biodegradáveis, atendendo à demanda por produtos mais ecológicos e saudáveis.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de tecnologia da informação",
+      "descricao_atividade": "Consultoria especializada em otimizar a cadeia de suprimentos de tecnologia da informação, desde a aquisição de hardware até a implementação de softwares, visando melhorar a eficiência e inovação tecnológica nas empresas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de segurança para indústria alimentícia",
+      "descricao_atividade": "Fabricação de equipamentos de segurança específicos para a indústria alimentícia, como redes de proteção, uniformes especiais e calçados antiderrapantes, garantindo a segurança dos trabalhadores e a qualidade dos alimentos produzidos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de saúde pública",
+      "descricao_atividade": "Consultoria especializada em otimizar a cadeia de suprimentos de saúde pública, desde a aquisição de medicamentos até a distribuição de vacinas, visando garantir o acesso equitativo a produtos de saúde de qualidade.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de energia renovável",
+      "descricao_atividade": "Consultoria especializada em otimizar a cadeia de suprimentos de energia renovável, desde a produção de equipamentos até a distribuição de energia limpa, visando promover a transição para fontes de energia mais sustentáveis e renováveis.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de operações industriais",
+      "descricao_atividade": "Consultoria especializada em otimizar as operações industriais, desde a produção até a logística, visando aumentar a eficiência, reduzir custos e melhorar a qualidade dos produtos fabricados.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de calçados esportivos de alta performance",
+      "descricao_atividade": "Fabricação de calçados esportivos de alta tecnologia e desempenho, desenvolvidos para atletas profissionais e praticantes de esportes de alto rendimento, garantindo conforto, segurança e performance.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria química de produtos de limpeza industrial",
+      "descricao_atividade": "Produção de produtos químicos destinados à limpeza industrial, como desengraxantes, detergentes e desinfetantes, utilizados em processos de higienização e sanitização de ambientes industriais.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos médicos de alta tecnologia",
+      "descricao_atividade": "Fabricação de equipamentos médicos avançados, como ressonâncias magnéticas, tomógrafos e equipamentos de terapia intensiva, utilizados em hospitais e clínicas para diagnóstico e tratamento de doenças.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços jurídicos especializados em direito ambiental",
+      "descricao_atividade": "Prestação de serviços jurídicos especializados em questões relacionadas ao direito ambiental, como licenciamento ambiental, regularização de atividades e litígios envolvendo questões ambientais.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Indústria de equipamentos de segurança para trabalho em espaços confinados",
+      "descricao_atividade": "Fabricação de equipamentos de segurança específicos para trabalho em espaços confinados, como capacetes, cintos de segurança, cordas e sistemas de ventilação.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria em gestão de cadeia de suprimentos de produtos eletrônicos",
+      "descricao_atividade": "Consultoria especializada em otimizar a cadeia de suprimentos de empresas do setor de produtos eletrônicos, visando melhorias na logística, distribuição e gestão de estoques.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de produtos de saúde e bem-estar",
+      "descricao_atividade": "Produção de embalagens especialmente desenvolvidas para acondicionar produtos relacionados à saúde e ao bem-estar, como suplementos alimentares, medicamentos naturais e cosméticos terapêuticos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de consultoria financeira",
+      "descricao_atividade": "Consultoria especializada em oferecer orientações financeiras estratégicas para empresas e indivíduos, visando a otimização dos recursos, investimentos e planejamento financeiro.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Indústria de embalagens de produtos de higiene pessoal masculinos",
+      "descricao_atividade": "Produção de embalagens específicas para acondicionar produtos de higiene pessoal destinados ao público masculino, como cremes, loções e produtos para barba, atendendo às necessidades e preferências desse segmento.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
     }
   ]
 }

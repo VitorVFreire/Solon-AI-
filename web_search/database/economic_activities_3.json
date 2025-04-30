@@ -1,0 +1,538 @@
+{
+  "atividades_economicas": [
+    {
+    "atividade_economica": "Produção de Geradores de Energia",
+    "descricao_atividade": "Fabricação de equipamentos para produção de eletricidade a partir de diversas fontes",
+    "tipo_atividade": "Energia",
+    "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Embalagem Industrial",
+      "descricao_atividade": "Acondicionamento de produtos para transporte e distribuição em larga escala",
+      "tipo_atividade": "Logística",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Vidro Temperado",
+      "descricao_atividade": "Fabricação de vidro com resistência aumentada por tratamento térmico para uso em construções e automóveis",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Fisioterapia Esportiva",
+      "descricao_atividade": "Tratamento especializado para recuperação de atletas após lesões e melhorar desempenho",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Derivados do Cacau",
+      "descricao_atividade": "Fabricação de produtos obtidos a partir da transformação das sementes do cacaueiro",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de Importação e Exportação",
+      "descricao_atividade": "Intermediação e consultoria em processos de comércio internacional",
+      "tipo_atividade": "Comércio",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de Componentes Eletrônicos",
+      "descricao_atividade": "Fabricação de peças e módulos utilizados em equipamentos eletrônicos",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Arbitragem Comercial",
+      "descricao_atividade": "Resolução de disputas empresariais fora do sistema judiciário tradicional",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Enzimas Industriais",
+      "descricao_atividade": "Fabricação de catalisadores biológicos usados em processos industriais",
+      "tipo_atividade": "Biotecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Tradução Automática",
+      "descricao_atividade": "Conversão de conteúdo entre idiomas utilizando inteligência artificial",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Materiais para Energia Nuclear",
+      "descricao_atividade": "Fabricação de componentes especializados para usinas nucleares e aplicações relacionadas",
+      "tipo_atividade": "Energia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Planejamento Urbano",
+      "descricao_atividade": "Desenvolvimento de projetos para ocupação e uso do solo em cidades",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Alimentos para Animais",
+      "descricao_atividade": "Fabricação de rações e suplementos para nutrição animal",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Inteligência Artificial Aplicada",
+      "descricao_atividade": "Desenvolvimento de soluções personalizadas baseadas em IA para demandas específicas",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "10"
+    },
+    {
+      "atividade_economica": "Produção de Fibra Óptica",
+      "descricao_atividade": "Fabricação de filamentos de vidro ou plástico utilizados para transmissão de dados por luz",
+      "tipo_atividade": "Comunicação",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Logística Reversa",
+      "descricao_atividade": "Gerenciamento do retorno de produtos, embalagens e materiais para reúso ou descarte adequado",
+      "tipo_atividade": "Logística",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Carros Elétricos",
+      "descricao_atividade": "Fabricação de veículos movidos por motores elétricos alimentados por baterias",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Auditoria Ambiental",
+      "descricao_atividade": "Avaliação sistemática de práticas organizacionais relacionadas ao meio ambiente",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Aparelhos Ortopédicos",
+      "descricao_atividade": "Fabricação de dispositivos para correção de problemas músculo-esqueléticos",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Coaching Executivo",
+      "descricao_atividade": "Orientação personalizada para desenvolvimento de lideranças empresariais",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Bioplásticos",
+      "descricao_atividade": "Fabricação de polímeros biodegradáveis derivados de fontes renováveis",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Consultoria em Eficiência Energética",
+      "descricao_atividade": "Assessoria para redução do consumo de energia em processos industriais e edificações",
+      "tipo_atividade": "Energia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Artigos para Campismo",
+      "descricao_atividade": "Fabricação de equipamentos para atividades ao ar livre como barracas, mochilas e sacos de dormir",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Serviços de Diagnóstico por Imagem",
+      "descricao_atividade": "Realização de exames como raio-X, ressonância magnética e ultrassonografia",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de Instrumentos de Medição",
+      "descricao_atividade": "Fabricação de dispositivos para quantificação de grandezas físicas",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Automação Residencial",
+      "descricao_atividade": "Instalação e configuração de sistemas inteligentes para controle doméstico",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Equipamentos para Energias Renováveis",
+      "descricao_atividade": "Fabricação de componentes para geração de energia a partir de fontes sustentáveis",
+      "tipo_atividade": "Energia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Assessoria Jurídica Ambiental",
+      "descricao_atividade": "Consultoria legal especializada em legislação e litígios relacionados ao meio ambiente",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Móveis Sustentáveis",
+      "descricao_atividade": "Fabricação de mobiliário com materiais ecológicos e processos de baixo impacto ambiental",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de Registro de Marcas e Patentes",
+      "descricao_atividade": "Assessoria para proteção legal de criações intelectuais e identidades comerciais",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Roupas de Proteção Individual",
+      "descricao_atividade": "Fabricação de vestuário especializado para segurança em ambientes de risco",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Gestão de Redes Sociais",
+      "descricao_atividade": "Administração de perfis empresariais em plataformas digitais",
+      "tipo_atividade": "Mídia",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Equipamentos para Mineração",
+      "descricao_atividade": "Fabricação de máquinas e ferramentas especializadas para extração mineral",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Compliance Empresarial",
+      "descricao_atividade": "Assessoria para adequação a normas legais e regulatórias em empresas",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Bebidas Funcionais",
+      "descricao_atividade": "Fabricação de bebidas com adição de nutrientes e compostos bioativos benéficos à saúde",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de Modelagem 3D",
+      "descricao_atividade": "Criação de representações tridimensionais digitais de objetos e espaços",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Fertilizantes Orgânicos",
+      "descricao_atividade": "Fabricação de adubos derivados de matéria orgânica sem adição de químicos sintéticos",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Desenvolvimento de Energias Alternativas",
+      "descricao_atividade": "Pesquisa e implementação de novas fontes de energia renovável",
+      "tipo_atividade": "Energia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de Tecnologia Assistiva",
+      "descricao_atividade": "Fabricação de dispositivos para auxílio a pessoas com deficiência",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Gestão de Dados",
+      "descricao_atividade": "Organização, armazenamento e processamento de informações digitais para empresas",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de Alimentos Funcionais",
+      "descricao_atividade": "Fabricação de produtos alimentícios enriquecidos com compostos benéficos à saúde",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Desenho Industrial",
+      "descricao_atividade": "Criação de projetos para produção em série considerando estética e funcionalidade",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Sistemas de Purificação de Água",
+      "descricao_atividade": "Fabricação de equipamentos para tratamento e filtragem de água",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Agricultura de Precisão",
+      "descricao_atividade": "Aplicação de tecnologias avançadas para otimização de cultivos agrícolas",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de Equipamentos para Energia Geotérmica",
+      "descricao_atividade": "Fabricação de sistemas para aproveitamento do calor interno da Terra para geração energética",
+      "tipo_atividade": "Energia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Certificação de Produtos Orgânicos",
+      "descricao_atividade": "Verificação e atestado de conformidade com normas de produção orgânica",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Vestuário Inteligente",
+      "descricao_atividade": "Fabricação de roupas com tecnologia incorporada como sensores e conectividade",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Intermediação Financeira",
+      "descricao_atividade": "Facilitação de transações entre poupadores e tomadores de recursos",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de Nanomateriais",
+      "descricao_atividade": "Fabricação de materiais com partículas em escala nanométrica para aplicações avançadas",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Recuperação de Áreas Degradadas",
+      "descricao_atividade": "Restauração ecológica de ecossistemas danificados por atividades humanas",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Tintas Sustentáveis",
+      "descricao_atividade": "Fabricação de revestimentos com baixa toxicidade e impacto ambiental reduzido",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Serviços de Consultoria em Blockchain",
+      "descricao_atividade": "Assessoria para implementação de tecnologias de registro distribuído em negócios",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Embalagens Compostáveis",
+      "descricao_atividade": "Fabricação de recipientes biodegradáveis que podem ser convertidos em adubo",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Educação Ambiental",
+      "descricao_atividade": "Programas de conscientização sobre sustentabilidade e preservação da natureza",
+      "tipo_atividade": "Educação",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Biodiesel",
+      "descricao_atividade": "Fabricação de combustível renovável a partir de óleos vegetais ou gorduras animais",
+      "tipo_atividade": "Energia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Gestão de Propriedade Intelectual",
+      "descricao_atividade": "Administração estratégica de ativos intangíveis como patentes e direitos autorais",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Baterias de Lítio",
+      "descricao_atividade": "Fabricação de dispositivos de armazenamento de energia para aplicações portáteis e veiculares",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Monitoramento de Ecossistemas",
+      "descricao_atividade": "Acompanhamento sistemático de indicadores ambientais em áreas naturais",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Sistemas de Captação de Água da Chuva",
+      "descricao_atividade": "Fabricação de equipamentos para coleta e armazenamento de águas pluviais",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Gestão de Resíduos Industriais",
+      "descricao_atividade": "Administração especializada do descarte e tratamento de dejetos de processos produtivos",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Equipamentos para Telemedicina",
+      "descricao_atividade": "Fabricação de dispositivos para monitoramento e atendimento médico à distância",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Realidade Virtual",
+      "descricao_atividade": "Criação de ambientes digitais imersivos para treinamento, entretenimento e outros fins",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Alimentos à Base de Proteínas Vegetais",
+      "descricao_atividade": "Fabricação de substitutos da carne utilizando ingredientes de origem vegetal",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Design de Experiência do Usuário",
+      "descricao_atividade": "Planejamento da interação entre pessoas e produtos digitais visando facilidade de uso",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Equipamentos para Tratamento de Efluentes",
+      "descricao_atividade": "Fabricação de sistemas para purificação de águas residuais",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Avaliação de Impacto Ambiental",
+      "descricao_atividade": "Análise técnica dos efeitos potenciais de projetos sobre o meio ambiente",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Materiais Biocompatíveis",
+      "descricao_atividade": "Fabricação de substâncias que podem interagir com sistemas biológicos sem causar rejeição",
+      "tipo_atividade": "Biotecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Logística de Última Milha",
+      "descricao_atividade": "Gerenciamento do trecho final da entrega de produtos ao consumidor",
+      "tipo_atividade": "Logística",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Sistemas de Automação Industrial",
+      "descricao_atividade": "Fabricação de equipamentos para controle autônomo de processos produtivos",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Saúde Mental Online",
+      "descricao_atividade": "Atendimento psicológico e psiquiátrico através de plataformas digitais",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Materiais para Construção Sustentável",
+      "descricao_atividade": "Fabricação de componentes ecológicos para edificações com menor impacto ambiental",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Marketing de Conteúdo",
+      "descricao_atividade": "Estratégias de atração de público através da criação de material informativo relevante",
+      "tipo_atividade": "Mídia",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Equipamentos para Geração de Hidrogênio Verde",
+      "descricao_atividade": "Fabricação de sistemas para obtenção de hidrogênio a partir de fontes renováveis",
+      "tipo_atividade": "Energia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Consultoria em ESG",
+      "descricao_atividade": "Assessoria para implementação de práticas ambientais, sociais e de governança",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de Proteínas Cultivadas em Laboratório",
+      "descricao_atividade": "Fabricação de carne e outros alimentos proteicos sem abate animal",
+      "tipo_atividade": "Biotecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Gestão de Conhecimento",
+      "descricao_atividade": "Organização e disseminação de informações estratégicas dentro de organizações",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Equipamentos para Dessalinização",
+      "descricao_atividade": "Fabricação de sistemas para remoção de sal da água do mar ou salobra",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Otimização de Cadeia de Suprimentos",
+      "descricao_atividade": "Aperfeiçoamento de processos logísticos desde fornecedores até consumidores finais",
+      "tipo_atividade": "Logística",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Materiais para Isolamento Térmico",
+      "descricao_atividade": "Fabricação de componentes que reduzem a transferência de calor entre ambientes",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Pesquisa Comportamental",
+      "descricao_atividade": "Análise sistemática de padrões de comportamento humano para diversos fins",
+      "tipo_atividade": "Pesquisa",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Tecnologias para Agricultura Vertical",
+      "descricao_atividade": "Fabricação de sistemas para cultivo em camadas sobrepostas em ambientes controlados",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Criptoeconomia",
+      "descricao_atividade": "Operações financeiras baseadas em criptomoedas e tecnologias de registro distribuído",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Materiais para Impressão 3D",
+      "descricao_atividade": "Fabricação de filamentos e resinas para manufatura aditiva",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Desenvolvimento de Habilidades Digitais",
+      "descricao_atividade": "Treinamento em competências relacionadas ao uso de tecnologias da informação",
+      "tipo_atividade": "Educação",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Insumos para Biorrefinarias",
+      "descricao_atividade": "Fabricação de materiais utilizados na transformação de biomassa em produtos químicos",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Serviços de Análise Preditiva",
+      "descricao_atividade": "Utilização de dados históricos e algoritmos para prever tendências futuras",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de Equipamentos para Internet das Coisas",
+      "descricao_atividade": "Fabricação de sensores e dispositivos conectados para automação e monitoramento",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Serviços de Bem-Estar Corporativo",
+      "descricao_atividade": "Programas para promoção de saúde física e mental em ambientes de trabalho",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Kits para Diagnóstico Rápido",
+      "descricao_atividade": "Fabricação de testes de detecção imediata de patógenos e condições de saúde",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "9"
+    }
+  ]
+}

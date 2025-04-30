@@ -1,0 +1,17 @@
+{
+  "company_name": "Cia Energetica de Sao Paulo",
+  "primary_activity": "Geração e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica",
+  "activity_description": "A Cia Energetica de Sao Paulo atua na geração e distribuição de energia elétrica no Brasil, fornecendo eletricidade para residências, empresas e indústrias.",
+  "main_products_services": [
+    "Energia elétrica"
+  ],
+  "competitors": [
+    "Eletropaulo",
+    "CPFL Energia",
+    "Engie Brasil Energia"
+  ],
+  "economic_classification_code": "4911"
+}

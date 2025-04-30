@@ -1,0 +1,17 @@
+{
+  "company_name": "Cia Energetica de Minas Gerais",
+  "primary_activity": "Geração, transmissão e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica Convencional",
+  "activity_description": "A Cia Energetica de Minas Gerais atua na geração, transmissão e distribuição de energia elétrica convencional, fornecendo eletricidade para residências, indústrias e comércios.",
+  "main_products_services": [
+    "Energia Elétrica"
+  ],
+  "competitors": [
+    "AES Tietê",
+    "CPFL Energia",
+    "Eletropaulo"
+  ],
+  "economic_classification_code": "4911-3/00"
+}

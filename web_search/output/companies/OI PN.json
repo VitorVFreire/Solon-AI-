@@ -1,0 +1,20 @@
+{
+  "company_name": "Oi SA Pref",
+  "primary_activity": "Telecomunicações",
+  "sector": "Tecnologia",
+  "subsector": "Telecomunicações",
+  "industry": "Telecomunicações",
+  "activity_description": "A Oi SA Pref atua no setor de telecomunicações, oferecendo serviços de telefonia fixa e móvel, internet e televisão por assinatura. A empresa opera no Brasil e é listada na bolsa de valores com o símbolo OIBR4.",
+  "main_products_services": [
+    "Telefonia Fixa",
+    "Telefonia Móvel",
+    "Internet",
+    "TV por Assinatura"
+  ],
+  "competitors": [
+    "Vivo",
+    "Claro",
+    "TIM"
+  ],
+  "economic_classification_code": "TBC"
+}

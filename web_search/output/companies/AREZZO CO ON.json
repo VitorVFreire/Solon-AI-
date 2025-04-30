@@ -1,0 +1,19 @@
+{
+  "company_name": "Arezzo Industria e Comercio SA",
+  "primary_activity": "Fabricação e Comércio de Calçados e Acessórios",
+  "sector": "Moda",
+  "subsector": "Calçados e Acessórios",
+  "industry": "Calçados e Acessórios de Moda",
+  "activity_description": "A Arezzo Industria e Comercio SA atua na fabricação e comercialização de calçados e acessórios de moda, oferecendo produtos para diversos segmentos do mercado.",
+  "main_products_services": [
+    "Calçados de Moda",
+    "Bolsas",
+    "Acessórios de Moda"
+  ],
+  "competitors": [
+    "Schutz",
+    "Vizzano",
+    "Santa Lolla"
+  ],
+  "economic_classification_code": "C1413-8/00"
+}

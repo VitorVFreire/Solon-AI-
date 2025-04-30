@@ -1,0 +1,19 @@
+{
+  "company_name": "Braskem SA",
+  "primary_activity": "Produção e comercialização de produtos químicos",
+  "sector": "Indústria Química",
+  "subsector": "Petroquímica",
+  "industry": "Petroquímica",
+  "activity_description": "A Braskem SA é uma empresa brasileira que atua na produção e comercialização de produtos químicos, com foco na petroquímica. Seus principais produtos incluem resinas termoplásticas, petroquímicos básicos e poliolefinas.",
+  "main_products_services": [
+    "Resinas termoplásticas",
+    "Petroquímicos básicos",
+    "Poliolefinas"
+  ],
+  "competitors": [
+    "Dow Chemical",
+    "LyondellBasell",
+    "INEOS"
+  ],
+  "economic_classification_code": "20.16"
+}

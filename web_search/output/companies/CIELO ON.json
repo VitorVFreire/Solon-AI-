@@ -1,0 +1,19 @@
+{
+  "company_name": "Cielo SA",
+  "primary_activity": "Processamento de pagamentos eletrônicos",
+  "sector": "Tecnologia da Informação",
+  "subsector": "Serviços de Pagamento Eletrônico",
+  "industry": "Processamento de Transações Financeiras",
+  "activity_description": "A Cielo SA atua no processamento de pagamentos eletrônicos, oferecendo soluções para transações financeiras por meio de cartões de crédito e débito.",
+  "main_products_services": [
+    "Soluções de pagamento eletrônico",
+    "Processamento de transações financeiras",
+    "Serviços de captura e autorização de pagamentos"
+  ],
+  "competitors": [
+    "PagSeguro",
+    "StoneCo",
+    "Getnet"
+  ],
+  "economic_classification_code": "6399-2/00"
+}

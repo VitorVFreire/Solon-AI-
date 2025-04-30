@@ -1,0 +1,18 @@
+{
+  "company_name": "Cia de Saneamento de Minas Gerais",
+  "primary_activity": "Saneamento básico",
+  "sector": "Recursos Naturais",
+  "subsector": "Água e Saneamento",
+  "industry": "Saneamento Básico",
+  "activity_description": "A Cia de Saneamento de Minas Gerais atua no setor de saneamento básico, fornecendo serviços de abastecimento de água e tratamento de esgoto no estado de Minas Gerais, Brasil.",
+  "main_products_services": [
+    "Abastecimento de água",
+    "Tratamento de esgoto"
+  ],
+  "competitors": [
+    "Sabesp",
+    "Copasa",
+    "Sanepar"
+  ],
+  "economic_classification_code": "49.30-2-02"
+}

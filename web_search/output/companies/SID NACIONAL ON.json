@@ -1,0 +1,20 @@
+{
+  "company_name": "Cia Siderurgica Nacional SA",
+  "primary_activity": "Produção de aço e siderurgia",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Siderurgia",
+  "industry": "Produção de aço e produtos siderúrgicos",
+  "activity_description": "A Cia Siderurgica Nacional SA atua na produção de aço e produtos siderúrgicos, sendo uma das principais empresas do setor no Brasil. Seus principais produtos incluem chapas de aço, vergalhões, perfis e tubos de aço.",
+  "main_products_services": [
+    "Chapas de aço",
+    "Vergalhões",
+    "Perfis de aço",
+    "Tubos de aço"
+  ],
+  "competitors": [
+    "Usiminas",
+    "Gerdau",
+    "ArcelorMittal"
+  ],
+  "economic_classification_code": "27.10-0-01"
+}

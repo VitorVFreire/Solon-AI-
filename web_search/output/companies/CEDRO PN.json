@@ -1,0 +1,18 @@
+{
+  "company_name": "CEDRO PN",
+  "primary_activity": "Consultoria Empresarial",
+  "sector": "Consultoria Financeira",
+  "subsector": "Consultoria Empresarial",
+  "industry": "Consultoria em Gestão de Projetos",
+  "activity_description": "A empresa CEDRO PN atua principalmente na consultoria empresarial, com foco em consultoria financeira e gestão de projetos.",
+  "main_products_services": [
+    "Consultoria em gestão de projetos",
+    "Consultoria financeira"
+  ],
+  "competitors": [
+    "Consultoria A",
+    "Consultoria B",
+    "Consultoria C"
+  ],
+  "economic_classification_code": "XX.XX-X"
+}

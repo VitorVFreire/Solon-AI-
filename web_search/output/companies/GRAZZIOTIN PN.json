@@ -1,0 +1,24 @@
+{
+  "company_name": "Grazziotin SA",
+  "primary_activity": "Varejista de produtos diversos",
+  "sector": "Comércio Varejista",
+  "subsector": "Varejo de Produtos Diversos",
+  "industry": "Varejo em Geral",
+  "activity_description": "Grazziotin SA atua como varejista de uma ampla variedade de produtos para consumidores finais, oferecendo uma gama diversificada de produtos em suas lojas físicas e online.",
+  "main_products_services": [
+    "Roupas",
+    "Calçados",
+    "Acessórios",
+    "Cosméticos",
+    "Eletrônicos",
+    "Móveis",
+    "Utensílios domésticos"
+  ],
+  "competitors": [
+    "Lojas Renner",
+    "Lojas Riachuelo",
+    "Magazine Luiza",
+    "Americanas"
+  ],
+  "economic_classification_code": null
+}

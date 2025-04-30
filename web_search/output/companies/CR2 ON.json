@@ -1,0 +1,19 @@
+{
+  "company_name": "CR2 Empreendimentos Imobiliarios SA",
+  "primary_activity": "Desenvolvimento e investimento imobiliário",
+  "sector": "Construção Civil",
+  "subsector": "Desenvolvimento e Investimento Imobiliário",
+  "industry": "Construção e Desenvolvimento de Projetos Imobiliários",
+  "activity_description": "A CR2 Empreendimentos Imobiliarios SA atua no desenvolvimento e investimento em projetos imobiliários, incluindo a construção de empreendimentos residenciais e comerciais.",
+  "main_products_services": [
+    "Construção de empreendimentos residenciais",
+    "Construção de empreendimentos comerciais",
+    "Investimento em projetos imobiliários"
+  ],
+  "competitors": [
+    "Cyrela",
+    "MRV Engenharia",
+    "Even Construtora e Incorporadora"
+  ],
+  "economic_classification_code": null
+}

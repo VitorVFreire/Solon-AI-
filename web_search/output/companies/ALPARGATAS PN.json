@@ -1,0 +1,19 @@
+{
+  "company_name": "Alpargatas SA",
+  "primary_activity": "Fabricação e comercialização de calçados e artigos de vestuário",
+  "sector": "Moda",
+  "subsector": "Calçados e vestuário",
+  "industry": "Calçados e vestuário",
+  "activity_description": "A Alpargatas SA atua na fabricação e comercialização de calçados e artigos de vestuário, com destaque para a produção de alpargatas e outros calçados casuais.",
+  "main_products_services": [
+    "Alpargatas",
+    "calçados casuais",
+    "artigos de vestuário"
+  ],
+  "competitors": [
+    "Havaianas",
+    "Arezzo",
+    "Vizzano"
+  ],
+  "economic_classification_code": "C1520"
+}

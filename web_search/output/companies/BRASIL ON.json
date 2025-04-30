@@ -1,0 +1,20 @@
+{
+  "company_name": "Banco do Brasil SA",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Banco público",
+  "activity_description": "O Banco do Brasil SA é uma instituição financeira que atua como banco comercial, oferecendo serviços bancários e financeiros para clientes no Brasil e internacionalmente.",
+  "main_products_services": [
+    "Serviços bancários",
+    "Empréstimos",
+    "Investimentos",
+    "Seguros"
+  ],
+  "competitors": [
+    "Itaú Unibanco",
+    "Bradesco",
+    "Santander"
+  ],
+  "economic_classification_code": "6412-3/00"
+}

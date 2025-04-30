@@ -1,0 +1,20 @@
+{
+  "company_name": "BANCO PAN SA PN",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Banco de varejo",
+  "activity_description": "O Banco Pan SA atua como um banco comercial de varejo no Brasil, oferecendo uma variedade de produtos e serviços financeiros para clientes individuais e empresas.",
+  "main_products_services": [
+    "Empréstimos pessoais",
+    "Financiamento de veículos",
+    "Cartões de crédito",
+    "Investimentos"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Itaú Unibanco",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6419-9/00 - Bancos múltiplos, com carteira comercial"
+}

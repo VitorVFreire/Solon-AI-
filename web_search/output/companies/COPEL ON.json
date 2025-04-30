@@ -1,0 +1,17 @@
+{
+  "company_name": "Cia Paranaense de Energia",
+  "primary_activity": "Geração, transmissão e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica Integrada",
+  "activity_description": "A Cia Paranaense de Energia atua na geração, transmissão e distribuição de energia elétrica, fornecendo eletricidade para residências, indústrias e comércios. A empresa também pode estar envolvida em projetos de energia renovável e eficiência energética.",
+  "main_products_services": [
+    "Energia Elétrica"
+  ],
+  "competitors": [
+    "ENEL",
+    "AES",
+    "Eletrobras"
+  ],
+  "economic_classification_code": "4911-3/00"
+}

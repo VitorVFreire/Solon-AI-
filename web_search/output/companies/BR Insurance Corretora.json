@@ -1,0 +1,15 @@
+{
+  "company_name": "BR Insurance Corretora",
+  "primary_activity": "Corretora de seguros",
+  "sector": "Financeiro",
+  "subsector": "Seguros",
+  "industry": "Corretagem de seguros",
+  "activity_description": "A BR Insurance Corretora atua como corretora de seguros, intermediando a contratação de seguros entre seguradoras e clientes. Seu foco está na oferta de soluções de seguros para diversos segmentos.",
+  "main_products_services": [
+    "Intermediação de seguros"
+  ],
+  "competitors": [
+    "Corretoras de seguros concorrentes"
+  ],
+  "economic_classification_code": "6492-8/00"
+}

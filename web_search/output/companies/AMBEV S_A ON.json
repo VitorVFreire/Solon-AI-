@@ -1,0 +1,20 @@
+{
+  "company_name": "Ambev SA",
+  "primary_activity": "Produção e distribuição de bebidas",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Bebidas",
+  "industry": "Cervejaria",
+  "activity_description": "A Ambev SA atua na produção e distribuição de bebidas, com foco principal na fabricação de cervejas. A empresa é uma das principais cervejarias do Brasil e possui presença internacional.",
+  "main_products_services": [
+    "Cervejas",
+    "Refrigerantes",
+    "Água",
+    "Bebidas alcoólicas"
+  ],
+  "competitors": [
+    "Heineken",
+    "AB InBev",
+    "Grupo Petrópolis"
+  ],
+  "economic_classification_code": "1105-2/01"
+}

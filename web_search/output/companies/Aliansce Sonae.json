@@ -1,0 +1,19 @@
+{
+  "company_name": "Aliansce Sonae",
+  "primary_activity": "Gestão de Shopping Centers",
+  "sector": "Comércio Varejista",
+  "subsector": "Shopping Centers",
+  "industry": "Gestão de Shopping Centers",
+  "activity_description": "A Aliansce Sonae atua na gestão de shopping centers, oferecendo espaços comerciais para lojas, alimentação e entretenimento. A empresa é responsável por atrair lojistas, promover eventos e garantir a manutenção das áreas comuns.",
+  "main_products_services": [
+    "Gestão de Shopping Centers",
+    "Locação de Espaços Comerciais",
+    "Promoção de Eventos"
+  ],
+  "competitors": [
+    "BR Malls",
+    "Iguatemi Empresa de Shopping Centers",
+    "Multiplan"
+  ],
+  "economic_classification_code": null
+}

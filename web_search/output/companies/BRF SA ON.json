@@ -1,0 +1,19 @@
+{
+  "company_name": "BRF SA",
+  "primary_activity": "Produção e comercialização de alimentos",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Alimentos processados",
+  "industry": "Alimentos de origem animal",
+  "activity_description": "A BRF SA é uma empresa brasileira especializada na produção e comercialização de alimentos, com foco em alimentos de origem animal, como carne de frango e suína. A empresa atua no subsector de alimentos processados, oferecendo uma variedade de produtos para consumidores em todo o mundo.",
+  "main_products_services": [
+    "Carnes de frango",
+    "Carnes suínas",
+    "Alimentos processados à base de carne"
+  ],
+  "competitors": [
+    "JBS",
+    "Tyson Foods",
+    "Cargill"
+  ],
+  "economic_classification_code": "1511"
+}

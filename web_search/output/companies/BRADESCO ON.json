@@ -1,0 +1,20 @@
+{
+  "company_name": "Banco Bradesco SA",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Bancos múltiplos com carteira comercial",
+  "activity_description": "O Banco Bradesco SA atua como uma instituição financeira, oferecendo uma ampla gama de serviços bancários e financeiros, incluindo empréstimos, investimentos, seguros e gestão de patrimônio.",
+  "main_products_services": [
+    "Empréstimos",
+    "Investimentos",
+    "Seguros",
+    "Gestão de patrimônio"
+  ],
+  "competitors": [
+    "Itaú Unibanco",
+    "Banco do Brasil",
+    "Santander Brasil"
+  ],
+  "economic_classification_code": "6411-7/00"
+}

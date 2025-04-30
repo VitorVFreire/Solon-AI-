@@ -1,0 +1,19 @@
+{
+  "company_name": "Brasil Brokers Participacoes SA",
+  "primary_activity": "Corretora de imóveis e serviços de intermediação imobiliária",
+  "sector": "Construção Civil",
+  "subsector": "Serviços Imobiliários",
+  "industry": "Corretagem de imóveis",
+  "activity_description": "A Brasil Brokers Participacoes SA atua como uma corretora de imóveis, oferecendo serviços de intermediação imobiliária para compra, venda e aluguel de propriedades. Sua principal atividade é facilitar negociações entre compradores e vendedores no mercado imobiliário.",
+  "main_products_services": [
+    "Intermediação de compra e venda de imóveis",
+    "Aluguel de propriedades",
+    "Consultoria imobiliária"
+  ],
+  "competitors": [
+    "Lopes Consultoria de Imóveis",
+    "RE/MAX Brasil",
+    "Imobiliária Cury"
+  ],
+  "economic_classification_code": ""
+}

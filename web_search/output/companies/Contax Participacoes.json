@@ -1,0 +1,18 @@
+{
+  "company_name": "Contax Participacoes",
+  "primary_activity": "Serviços de Contact Center e BPO",
+  "sector": "Tecnologia da Informação",
+  "subsector": "Serviços de Contact Center e BPO",
+  "industry": "Serviços de Contact Center e BPO",
+  "activity_description": "A Contax Participacoes atua no fornecimento de serviços de Contact Center e BPO para empresas de diversos setores, auxiliando na gestão de relacionamento com clientes e processos de negócios.",
+  "main_products_services": [
+    "Serviços de Contact Center",
+    "Serviços de BPO"
+  ],
+  "competitors": [
+    "Atento",
+    "Teleperformance",
+    "AlmavivA"
+  ],
+  "economic_classification_code": "8219-1/00"
+}

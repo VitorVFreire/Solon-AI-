@@ -1,0 +1,19 @@
+{
+  "company_name": "Oi SA",
+  "primary_activity": "Telecomunicações",
+  "sector": "Tecnologia",
+  "subsector": "Telecomunicações",
+  "industry": "Telecomunicações Fixas",
+  "activity_description": "A Oi SA atua no setor de Tecnologia, mais especificamente no subsector de Telecomunicações, oferecendo serviços de telecomunicações fixas.",
+  "main_products_services": [
+    "Serviços de telefonia fixa",
+    "Serviços de internet fixa",
+    "Serviços de televisão por assinatura"
+  ],
+  "competitors": [
+    "Vivo",
+    "Claro",
+    "TIM"
+  ],
+  "economic_classification_code": "J.61.0-8 - Telecomunicações"
+}

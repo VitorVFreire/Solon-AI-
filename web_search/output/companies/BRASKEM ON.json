@@ -1,0 +1,21 @@
+{
+  "company_name": "Braskem SA",
+  "primary_activity": "Produção e comercialização de produtos químicos",
+  "sector": "Indústria Química",
+  "subsector": "Petroquímica",
+  "industry": "Produção de polímeros e produtos químicos petroquímicos",
+  "activity_description": "A Braskem SA é uma empresa brasileira especializada na produção e comercialização de produtos químicos, com foco em polímeros e produtos petroquímicos. Atua principalmente no setor de indústria química, mais especificamente no subsector de petroquímica.",
+  "main_products_services": [
+    "Polietileno",
+    "Polipropileno",
+    "PVC",
+    "Etileno",
+    "Propileno"
+  ],
+  "competitors": [
+    "Dow Chemical",
+    "LyondellBasell",
+    "SABIC"
+  ],
+  "economic_classification_code": null
+}

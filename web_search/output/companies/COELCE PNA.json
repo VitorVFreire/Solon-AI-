@@ -1,0 +1,17 @@
+{
+  "company_name": "Cia Energetica do Ceara",
+  "primary_activity": "Geração, transmissão e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica",
+  "activity_description": "A Cia Energetica do Ceara atua na geração, transmissão e distribuição de energia elétrica no estado do Ceará, no Brasil. A empresa fornece eletricidade para residências, empresas e indústrias.",
+  "main_products_services": [
+    "Energia Elétrica"
+  ],
+  "competitors": [
+    "Enel",
+    "Neoenergia",
+    "CPFL Energia"
+  ],
+  "economic_classification_code": "4911-3/00"
+}

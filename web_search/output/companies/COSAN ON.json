@@ -1,0 +1,19 @@
+{
+  "company_name": "Cosan SA Industria e Comercio",
+  "primary_activity": "Indústria de Energia Renovável",
+  "sector": "Energia",
+  "subsector": "Energia Renovável",
+  "industry": "Produção de biocombustíveis e energia limpa",
+  "activity_description": "A Cosan SA Indústria e Comércio atua na produção de biocombustíveis e energia limpa, com foco em fontes renováveis para redução da emissão de gases poluentes.",
+  "main_products_services": [
+    "Biocombustíveis",
+    "Energia Solar",
+    "Energia Eólica"
+  ],
+  "competitors": [
+    "Raízen",
+    "BP Biofuels",
+    "Renova Energia"
+  ],
+  "economic_classification_code": "CNAE 11.61-8-00"
+}

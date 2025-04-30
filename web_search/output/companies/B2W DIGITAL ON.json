@@ -1,0 +1,18 @@
+{
+  "company_name": "B2W Cia Digital",
+  "primary_activity": "Comércio Varejista Online",
+  "sector": "Tecnologia",
+  "subsector": "E-commerce",
+  "industry": "Varejo Online",
+  "activity_description": "A B2W Cia Digital atua no comércio varejista online, operando plataformas de e-commerce para venda de diversos produtos.",
+  "main_products_services": [
+    "Plataformas de e-commerce",
+    "Venda de produtos online"
+  ],
+  "competitors": [
+    "Mercado Livre",
+    "Amazon",
+    "Magazine Luiza"
+  ],
+  "economic_classification_code": "4731-8/00"
+}

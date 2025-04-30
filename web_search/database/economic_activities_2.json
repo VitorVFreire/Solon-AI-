@@ -1,0 +1,2253 @@
+{
+  "atividades_economicas": [
+    {
+      "atividade_economica": "Desenvolvimento de Inteligência Artificial",
+      "descricao_atividade": "Atividade que envolve a criação e aprimoramento de algoritmos e sistemas capazes de simular inteligência humana.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Turismo Sustentável",
+      "descricao_atividade": "Promoção de viagens que respeitam o meio ambiente, a cultura local e contribuem para o desenvolvimento econômico das comunidades visitadas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "E-commerce de Produtos Artesanais",
+      "descricao_atividade": "Comércio eletrônico de produtos feitos à mão, valorizando a produção artesanal e a exclusividade das peças.",
+      "tipo_atividade": "Comércio",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Consultoria em Gestão Ambiental",
+      "descricao_atividade": "Serviço de consultoria especializada em práticas sustentáveis e preservação ambiental para empresas e organizações.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de Energias Renováveis",
+      "descricao_atividade": "Pesquisa e implementação de fontes de energia limpa e renovável, visando reduzir a dependência de combustíveis fósseis.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Gestão de Resíduos Industriais",
+      "descricao_atividade": "Atividade que envolve a coleta, tratamento e destinação adequada dos resíduos gerados por processos industriais.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Comércio Justo e Solidário",
+      "descricao_atividade": "Modelo de comércio que busca garantir condições justas de trabalho e remuneração aos produtores, promovendo a solidariedade.",
+      "tipo_atividade": "Comércio",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Telemedicina",
+      "descricao_atividade": "Prestação de serviços médicos à distância, utilizando tecnologias de comunicação para diagnósticos e tratamentos.",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Reciclagem de Materiais Eletrônicos",
+      "descricao_atividade": "Processo de coleta, desmontagem e reaproveitamento de componentes de equipamentos eletrônicos descartados.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de Aplicativos Educacionais",
+      "descricao_atividade": "Criação de aplicativos para dispositivos móveis que visam auxiliar no ensino e na aprendizagem de diferentes áreas.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de Alimentos Orgânicos",
+      "descricao_atividade": "Cultivo de alimentos livres de agrotóxicos e aditivos químicos, seguindo práticas sustentáveis e respeitando o meio ambiente.",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de Realidade Virtual",
+      "descricao_atividade": "Pesquisa e criação de ambientes virtuais interativos que proporcionam experiências imersivas aos usuários.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Assessoria Financeira para Pequenas Empresas",
+      "descricao_atividade": "Serviço de consultoria financeira voltado para auxiliar pequenos negócios na gestão de suas finanças e investimentos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Logística Reversa",
+      "descricao_atividade": "Sistema de retorno de produtos e materiais descartados para reciclagem, reaproveitamento ou destinação adequada.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de Veículos Elétricos",
+      "descricao_atividade": "Pesquisa e fabricação de veículos movidos a eletricidade, visando reduzir a emissão de poluentes e a dependência de combustíveis fósseis.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Marketing Digital",
+      "descricao_atividade": "Conjunto de estratégias de marketing aplicadas em meios digitais, como redes sociais, buscadores e e-mail marketing.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Cosméticos Naturais",
+      "descricao_atividade": "Fabricação de produtos de beleza feitos com ingredientes naturais e sustentáveis, sem testes em animais.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Consultoria em Inovação Tecnológica",
+      "descricao_atividade": "Serviço de consultoria especializada em identificar oportunidades de inovação e implementar tecnologias disruptivas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Agrofloresta",
+      "descricao_atividade": "Sistema de cultivo que integra árvores, culturas agrícolas e animais, promovendo a sustentabilidade e a diversidade biológica.",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de Drones",
+      "descricao_atividade": "Pesquisa e fabricação de veículos aéreos não tripulados utilizados em diversas áreas, como agricultura, segurança e entretenimento.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de Recursos Hídricos",
+      "descricao_atividade": "Atividade que envolve o planejamento e a preservação dos recursos hídricos, visando a sustentabilidade e o uso racional da água.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de Blockchain",
+      "descricao_atividade": "Tecnologia que permite o armazenamento e a transmissão segura de informações de forma descentralizada e transparente.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Arquitetura Sustentável",
+      "descricao_atividade": "Prática de projetar edifícios e espaços urbanos considerando a sustentabilidade ambiental, social e econômica.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de Moda Sustentável",
+      "descricao_atividade": "Fabricação de roupas e acessórios seguindo princípios de sustentabilidade, como uso de materiais reciclados e processos eco-friendly.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Teletrabalho",
+      "descricao_atividade": "Modalidade de trabalho remoto que permite realizar as atividades profissionais de forma virtual, sem a necessidade de deslocamento físico.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Agrotech",
+      "descricao_atividade": "Tecnologias aplicadas ao setor agrícola para otimizar processos, aumentar a produtividade e promover a sustentabilidade.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de Resíduos Sólidos Urbanos",
+      "descricao_atividade": "Atividade que envolve a coleta, tratamento e destinação adequada dos resíduos gerados nas áreas urbanas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Educação Financeira",
+      "descricao_atividade": "Ensino de conceitos e práticas relacionadas à gestão financeira pessoal e empresarial, visando o planejamento e a sustentabilidade financeira.",
+      "tipo_atividade": "Educação",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Manufatura Aditiva (Impressão 3D)",
+      "descricao_atividade": "Processo de fabricação de objetos tridimensionais a partir de modelos digitais, possibilitando a personalização e a produção sob demanda.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de Biocombustíveis",
+      "descricao_atividade": "Pesquisa e produção de combustíveis derivados de biomassa, como etanol e biodiesel, como alternativa aos combustíveis fósseis.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de Redes Sociais",
+      "descricao_atividade": "Serviço de administração e estratégia de conteúdo em plataformas de redes sociais para empresas e marcas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Exploração de mineração espacial",
+      "descricao_atividade": "Atividade que envolve a extração de minerais e recursos naturais de asteroides, planetas ou luas fora da Terra.",
+      "tipo_atividade": "Mineração",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de órgãos artificiais",
+      "descricao_atividade": "Atividade que consiste na criação e aprimoramento de órgãos artificiais para uso em transplantes e pesquisas médicas.",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Comércio de produtos sustentáveis",
+      "descricao_atividade": "Atividade que envolve a venda de produtos que são produzidos de forma sustentável e ecologicamente correta.",
+      "tipo_atividade": "Comércio",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de fusão nuclear",
+      "descricao_atividade": "Atividade que busca desenvolver tecnologias para a obtenção de energia por meio da fusão nuclear controlada.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Consultoria em bem-estar animal",
+      "descricao_atividade": "Serviço de consultoria que visa promover o bem-estar e os direitos dos animais em diferentes setores da sociedade.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Produção de alimentos alternativos",
+      "descricao_atividade": "Produção de alimentos inovadores, como proteínas à base de plantas, para atender às demandas de uma dieta mais sustentável.",
+      "tipo_atividade": "Alimentação",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de robótica assistiva",
+      "descricao_atividade": "Atividade que consiste na criação de robôs e dispositivos para auxiliar pessoas com deficiências ou limitações físicas.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em impacto social",
+      "descricao_atividade": "Serviço de gestão de investimentos voltado para projetos e empresas que geram impacto social positivo.",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de materiais biodegradáveis",
+      "descricao_atividade": "Pesquisa e produção de materiais que se decompõem naturalmente, reduzindo o impacto ambiental.",
+      "tipo_atividade": "Pesquisa e Desenvolvimento",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Teletratamento médico",
+      "descricao_atividade": "Prestação de serviços médicos à distância, permitindo consultas e diagnósticos online.",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de captura de carbono",
+      "descricao_atividade": "Pesquisa e criação de tecnologias para capturar e armazenar o dióxido de carbono da atmosfera, contribuindo para a redução do aquecimento global.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Consultoria em compliance ambiental",
+      "descricao_atividade": "Serviço de consultoria especializado em garantir que empresas estejam em conformidade com as leis e regulamentações ambientais.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de armazenamento de energia",
+      "descricao_atividade": "Pesquisa e criação de soluções inovadoras para armazenar energia de forma eficiente e sustentável.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Reciclagem de resíduos eletrônicos",
+      "descricao_atividade": "Processo de reciclagem de equipamentos eletrônicos descartados, visando a reutilização de materiais e a redução do impacto ambiental.",
+      "tipo_atividade": "Reciclagem",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de dessalinização de água",
+      "descricao_atividade": "Pesquisa e criação de tecnologias para remover o sal e outras impurezas da água do mar, tornando-a própria para consumo humano.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em energias limpas",
+      "descricao_atividade": "Serviço de gestão de investimentos focado em projetos de energias renováveis e sustentáveis.",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de plásticos",
+      "descricao_atividade": "Pesquisa e criação de métodos avançados para reciclar plásticos, reduzindo a poluição causada por esses materiais.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em eficiência energética",
+      "descricao_atividade": "Serviço de consultoria especializado em ajudar empresas e residências a reduzir o consumo de energia de forma sustentável.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de monitoramento ambiental",
+      "descricao_atividade": "Pesquisa e criação de sistemas avançados para monitorar e avaliar a qualidade do meio ambiente.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de alimentos funcionais",
+      "descricao_atividade": "Produção de alimentos que oferecem benefícios adicionais à saúde, além de sua função nutricional básica.",
+      "tipo_atividade": "Alimentação",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de agricultura vertical",
+      "descricao_atividade": "Pesquisa e criação de métodos para cultivar alimentos em ambientes internos, otimizando o uso de espaço e recursos.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em responsabilidade social corporativa",
+      "descricao_atividade": "Serviço de consultoria que auxilia empresas a desenvolver e implementar práticas sustentáveis e socialmente responsáveis.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de armazenamento de dados sustentável",
+      "descricao_atividade": "Pesquisa e criação de soluções para armazenar grandes volumes de dados de forma eficiente e amigável ao meio ambiente.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Reciclagem de resíduos orgânicos",
+      "descricao_atividade": "Processo de reciclagem de resíduos de origem orgânica, transformando-os em adubo ou outros produtos úteis.",
+      "tipo_atividade": "Reciclagem",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de transporte sustentável",
+      "descricao_atividade": "Pesquisa e criação de soluções inovadoras para o transporte de pessoas e mercadorias de forma sustentável e eficiente.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em habitação social",
+      "descricao_atividade": "Serviço de gestão de investimentos voltado para projetos de construção de moradias acessíveis e sustentáveis para comunidades carentes.",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de saúde remoto",
+      "descricao_atividade": "Pesquisa e criação de dispositivos e sistemas para monitorar a saúde das pessoas à distância, permitindo diagnósticos e intervenções precoces.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de riscos climáticos",
+      "descricao_atividade": "Serviço de consultoria especializado em identificar e gerenciar os riscos associados às mudanças climáticas e eventos extremos.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de construção sustentável",
+      "descricao_atividade": "Pesquisa e criação de métodos e materiais para construir edifícios de forma sustentável e com baixo impacto ambiental.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de cosméticos veganos",
+      "descricao_atividade": "Fabricação de produtos de beleza livres de ingredientes de origem animal, atendendo a um público preocupado com a sustentabilidade e o bem-estar animal.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de biodiversidade",
+      "descricao_atividade": "Pesquisa e criação de sistemas para monitorar e preservar a diversidade biológica em diferentes ecossistemas.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em educação ambiental",
+      "descricao_atividade": "Serviço de consultoria voltado para a promoção de práticas educacionais que sensibilizem as pessoas sobre questões ambientais e sustentabilidade.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para diagnóstico médico",
+      "descricao_atividade": "Atividade que consiste na criação e aprimoramento de algoritmos e sistemas de inteligência artificial para auxiliar no diagnóstico de doenças e condições médicas.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de veículos autônomos para transporte de cargas",
+      "descricao_atividade": "Fabricação de veículos autônomos que são utilizados no transporte de mercadorias, visando aumentar a eficiência e reduzir os custos logísticos.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de recursos humanos para empresas de tecnologia",
+      "descricao_atividade": "Serviço de consultoria especializado em auxiliar empresas de tecnologia na gestão eficaz de seus recursos humanos, incluindo recrutamento, treinamento e retenção de talentos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para turismo",
+      "descricao_atividade": "Criação de tecnologias que permitem a sobreposição de elementos virtuais ao ambiente real, com aplicações específicas no setor de turismo para oferecer experiências imersivas aos viajantes.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em startups de impacto social",
+      "descricao_atividade": "Atividade que envolve a gestão de recursos financeiros direcionados para investimentos em startups que têm como objetivo gerar impacto social positivo em comunidades e setores específicos.",
+      "tipo_atividade": "Financeiro",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de embalagens biodegradáveis para alimentos",
+      "descricao_atividade": "Fabricação de embalagens sustentáveis feitas de materiais biodegradáveis, com foco em reduzir o impacto ambiental causado pelo descarte de embalagens convencionais.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de assistência virtual para idosos",
+      "descricao_atividade": "Criação de soluções tecnológicas que oferecem assistência virtual e monitoramento para idosos, visando melhorar sua qualidade de vida e segurança.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de cadeia de suprimentos sustentável",
+      "descricao_atividade": "Serviço de consultoria especializado em auxiliar empresas na gestão de suas cadeias de suprimentos de forma sustentável, promovendo práticas responsáveis e ecoeficientes.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de blockchain para rastreabilidade de produtos",
+      "descricao_atividade": "Desenvolvimento de soluções baseadas em blockchain que permitem a rastreabilidade e transparência na cadeia de produção e distribuição de produtos, garantindo sua autenticidade e origem.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de móveis modulares sustentáveis",
+      "descricao_atividade": "Fabricação de móveis modulares que são produzidos de forma sustentável, utilizando materiais e processos que minimizam o impacto ambiental e permitem a personalização dos espaços.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em estratégias de marketing digital para ONGs",
+      "descricao_atividade": "Serviço de consultoria especializado em desenvolver estratégias de marketing digital voltadas para organizações não governamentais, visando aumentar sua visibilidade e impacto social.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de drones para monitoramento agrícola",
+      "descricao_atividade": "Criação de drones e sistemas de monitoramento aéreo para auxiliar na gestão e monitoramento de atividades agrícolas, permitindo uma agricultura mais eficiente e sustentável.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em energias renováveis",
+      "descricao_atividade": "Atividade que envolve a alocação de recursos financeiros em projetos e empresas que atuam no desenvolvimento e implementação de fontes de energia renovável, como solar, eólica e hidrelétrica.",
+      "tipo_atividade": "Financeiro",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de roupas esportivas sustentáveis",
+      "descricao_atividade": "Fabricação de vestuário esportivo produzido de forma sustentável, utilizando materiais eco-friendly e processos de fabricação que reduzem o impacto ambiental da indústria têxtil.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de assistência virtual para educação especial",
+      "descricao_atividade": "Criação de soluções tecnológicas que oferecem assistência virtual e recursos educacionais adaptados para pessoas com necessidades especiais, visando promover a inclusão e acessibilidade na educação.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para indústrias",
+      "descricao_atividade": "Serviço de consultoria especializado em auxiliar indústrias na gestão adequada de seus resíduos sólidos, promovendo práticas de reciclagem, reutilização e redução de resíduos.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de realidade virtual para treinamento corporativo",
+      "descricao_atividade": "Criação de ambientes virtuais imersivos para treinamento e capacitação de colaboradores em empresas, proporcionando experiências de aprendizagem interativas e eficazes.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em startups de tecnologia limpa",
+      "descricao_atividade": "Atividade que envolve a alocação de recursos financeiros em startups que desenvolvem tecnologias e soluções inovadoras para promover a sustentabilidade e reduzir o impacto ambiental.",
+      "tipo_atividade": "Financeiro",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de materiais de construção sustentáveis",
+      "descricao_atividade": "Fabricação de materiais de construção eco-friendly e sustentáveis, como tijolos, telhas e isolantes, que contribuem para a redução do impacto ambiental da construção civil.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em estratégias de e-commerce para pequenas empresas",
+      "descricao_atividade": "Serviço de consultoria especializado em auxiliar pequenas empresas na criação e gestão de suas operações de comércio eletrônico, visando expandir sua presença online e aumentar as vendas.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para segurança cibernética",
+      "descricao_atividade": "Criação de sistemas de inteligência artificial voltados para a proteção e detecção de ameaças cibernéticas, visando garantir a segurança de dados e informações sensíveis.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em infraestrutura sustentável",
+      "descricao_atividade": "Atividade que envolve a alocação de recursos financeiros em projetos de infraestrutura que promovem o desenvolvimento sustentável, como transporte público eficiente, energia limpa e construções eco-friendly.",
+      "tipo_atividade": "Financeiro",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de embalagens sustentáveis para cosméticos",
+      "descricao_atividade": "Fabricação de embalagens ecologicamente corretas destinadas a produtos cosméticos, com foco na redução do uso de plásticos e materiais poluentes.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em projetos de energia solar",
+      "descricao_atividade": "Atividade que envolve a alocação de recursos financeiros em projetos de geração de energia solar, contribuindo para a transição para fontes de energia limpa e renovável.",
+      "tipo_atividade": "Financeiro",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de calçados sustentáveis",
+      "descricao_atividade": "Fabricação de calçados ecologicamente corretos, utilizando materiais reciclados e processos de produção que minimizam o impacto ambiental da indústria calçadista.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de inovação para empresas tradicionais",
+      "descricao_atividade": "Serviço de consultoria especializado em auxiliar empresas tradicionais na implementação de práticas inovadoras e tecnológicas, visando promover a transformação digital e a competitividade no mercado.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de assistência virtual para cuidados de saúde mental",
+      "descricao_atividade": "Criação de soluções tecnológicas que oferecem assistência virtual e suporte para cuidados de saúde mental, proporcionando recursos e acompanhamento remoto para pacientes.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em projetos de reciclagem de resíduos",
+      "descricao_atividade": "Atividade que envolve a alocação de recursos financeiros em projetos de reciclagem de resíduos, promovendo a economia circular e a redução do desperdício de materiais.",
+      "tipo_atividade": "Financeiro",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de brinquedos educativos sustentáveis",
+      "descricao_atividade": "Fabricação de brinquedos educativos feitos com materiais sustentáveis e ecológicos, promovendo a educação ambiental e o desenvolvimento infantil de forma consciente.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em estratégias de marketing digital para empresas de turismo",
+      "descricao_atividade": "Serviço de consultoria especializado em desenvolver estratégias de marketing digital voltadas para empresas do setor de turismo, visando aumentar a visibilidade e a atração de clientes.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de realidade virtual para treinamento de habilidades profissionais",
+      "descricao_atividade": "Criação de ambientes virtuais imersivos para treinamento e desenvolvimento de habilidades profissionais em diversas áreas, proporcionando experiências de aprendizagem interativas e práticas.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de energia geotérmica",
+      "descricao_atividade": "Atividade que consiste na produção de energia elétrica a partir do calor proveniente do interior da Terra, utilizando o calor natural do subsolo para gerar eletricidade de forma sustentável.",
+      "tipo_atividade": "Energia",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de inovação para setor financeiro",
+      "descricao_atividade": "Serviços de consultoria especializados em auxiliar empresas do setor financeiro a inovar em seus processos, produtos e serviços, visando melhorias e competitividade no mercado.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de medicamentos biotecnológicos",
+      "descricao_atividade": "Fabricação de medicamentos que utilizam tecnologias biotecnológicas avançadas, como terapias genéticas e células-tronco, para tratamento de diversas doenças.",
+      "tipo_atividade": "Saúde",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para logística",
+      "descricao_atividade": "Criação de soluções baseadas em inteligência artificial para otimizar processos logísticos, como gestão de estoques, roteirização de entregas e previsão de demanda.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de realidade virtual para entretenimento",
+      "descricao_atividade": "Criação de aplicações e plataformas de entretenimento baseadas em tecnologia de realidade virtual, proporcionando experiências imersivas e inovadoras para os usuários.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de embalagens sustentáveis para produtos farmacêuticos",
+      "descricao_atividade": "Fabricação de embalagens ecologicamente corretas destinadas a acondicionar produtos farmacêuticos, contribuindo para a redução do impacto ambiental e a sustentabilidade do setor.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em startups de inteligência artificial",
+      "descricao_atividade": "Atividade de investimento focada em apoiar financeiramente startups que desenvolvem soluções baseadas em inteligência artificial, visando impulsionar a inovação e o crescimento dessas empresas.",
+      "tipo_atividade": "Investimentos",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para publicidade",
+      "descricao_atividade": "Criação de soluções de realidade aumentada voltadas para o setor publicitário, permitindo a interação do público com anúncios e campanhas de forma inovadora e envolvente.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de embalagens biodegradáveis para produtos de limpeza",
+      "descricao_atividade": "Fabricação de embalagens sustentáveis que se degradam naturalmente no ambiente, utilizadas para acondicionar produtos de limpeza e contribuir para a redução do impacto ambiental.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de inovação para setor automotivo",
+      "descricao_atividade": "Serviços de consultoria especializados em auxiliar empresas do setor automotivo a inovar em seus produtos, processos e serviços, visando maior competitividade e sustentabilidade.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em startups de sustentabilidade",
+      "descricao_atividade": "Atividade de investimento focada em apoiar financeiramente startups que desenvolvem soluções sustentáveis para os desafios ambientais e sociais, visando um futuro mais sustentável.",
+      "tipo_atividade": "Investimentos",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de embalagens sustentáveis para produtos de higiene pessoal",
+      "descricao_atividade": "Fabricação de embalagens ecologicamente corretas destinadas a acondicionar produtos de higiene pessoal, contribuindo para a redução do impacto ambiental e a promoção da sustentabilidade.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de inovação para setor de alimentos e bebidas",
+      "descricao_atividade": "Serviços de consultoria especializados em auxiliar empresas do setor de alimentos e bebidas a inovar em seus produtos, processos e estratégias de mercado, visando a competitividade e a inovação.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de alimentos orgânicos gourmet",
+      "descricao_atividade": "Produção de alimentos orgânicos de alta qualidade, com foco em ingredientes gourmet e processos artesanais, atendendo a um público exigente e preocupado com a origem e qualidade dos alimentos.",
+      "tipo_atividade": "Alimentação",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de realidade virtual para treinamento militar",
+      "descricao_atividade": "Criação de simulações em realidade virtual para treinamento e capacitação das forças armadas, permitindo a prática de estratégias e operações militares de forma segura e eficaz.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em startups de saúde digital",
+      "descricao_atividade": "Atividade de investimento focada em apoiar financeiramente startups que desenvolvem soluções inovadoras na área da saúde digital, como aplicativos, plataformas e dispositivos para cuidados de saúde.",
+      "tipo_atividade": "Investimentos",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para análise de dados",
+      "descricao_atividade": "Criação de soluções baseadas em inteligência artificial para análise e interpretação de grandes volumes de dados, permitindo insights valiosos para tomada de decisões estratégicas.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de embalagens sustentáveis para produtos de beleza",
+      "descricao_atividade": "Fabricação de embalagens ecologicamente corretas destinadas a acondicionar produtos de beleza e cosméticos, contribuindo para a redução do impacto ambiental e a promoção da sustentabilidade no setor.",
+      "tipo_atividade": "Indústria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de inovação para setor de moda",
+      "descricao_atividade": "Serviços de consultoria especializados em auxiliar empresas do setor de moda a inovar em seus produtos, processos e estratégias de mercado, visando a diferenciação e competitividade no segmento.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de assistência para mobilidade urbana",
+      "descricao_atividade": "Desenvolvimento de soluções tecnológicas para melhorar a mobilidade urbana, como aplicativos de transporte, sistemas de compartilhamento de bicicletas e scooters, e integração de transporte público.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de recursos naturais",
+      "descricao_atividade": "Consultoria especializada em estratégias de gestão sustentável de recursos naturais, incluindo manejo florestal, conservação da biodiversidade e uso racional de recursos hídricos.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em projetos de conservação marinha",
+      "descricao_atividade": "Gestão de recursos financeiros destinados a projetos de conservação dos oceanos e ecossistemas marinhos, visando a preservação da vida marinha e dos habitats costeiros.",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos têxteis",
+      "descricao_atividade": "Pesquisa e implementação de tecnologias inovadoras para reciclar resíduos provenientes da indústria têxtil, transformando-os em novos produtos ou matéria-prima.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos de construção civil",
+      "descricao_atividade": "Assessoria especializada em estratégias de gestão de resíduos gerados pela construção civil, promovendo a reciclagem, reutilização e destinação adequada desses materiais.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Produção de alimentos orgânicos para pets",
+      "descricao_atividade": "Cultivo e produção de alimentos orgânicos destinados a animais de estimação, garantindo uma alimentação saudável e livre de aditivos químicos.",
+      "tipo_atividade": "Alimentação",
+      "nivel_de_importancia": "5"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de realidade virtual para turismo espacial",
+      "descricao_atividade": "Criação de experiências imersivas em realidade virtual para simular viagens e explorações turísticas no espaço sideral, promovendo o turismo espacial.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em projetos de reflorestamento",
+      "descricao_atividade": "Administração de recursos financeiros direcionados a iniciativas de reflorestamento e restauração de áreas degradadas, visando à conservação ambiental e mitigação do desmatamento.",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos urbanos",
+      "descricao_atividade": "Assessoria especializada em estratégias de gestão de resíduos sólidos urbanos, incluindo coleta seletiva, reciclagem, tratamento e destinação final adequada dos resíduos.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de alimentos sustentáveis para aquicultura",
+      "descricao_atividade": "Cultivo e produção de alimentos sustentáveis destinados à aquicultura, garantindo uma alimentação balanceada e de qualidade para organismos aquáticos criados em cativeiro.",
+      "tipo_atividade": "Alimentação",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para educação infantil",
+      "descricao_atividade": "Elaboração de ferramentas de realidade aumentada voltadas para o ensino na educação infantil, proporcionando experiências educativas lúdicas e interativas para crianças em idade pré-escolar.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em projetos de energia eólica offshore",
+      "descricao_atividade": "Administração de recursos financeiros destinados a projetos de geração de energia eólica em alto mar, explorando o potencial dos ventos marítimos para produção de energia limpa.",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos de saúde",
+      "descricao_atividade": "Assessoria especializada em gestão segura e sustentável de resíduos provenientes de serviços de saúde, garantindo o correto descarte e tratamento desses materiais para evitar riscos à saúde pública.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de alimentos orgânicos para restaurantes",
+      "descricao_atividade": "Produção e fornecimento de alimentos orgânicos para restaurantes e estabelecimentos gastronômicos, promovendo uma alimentação saudável e sustentável na indústria alimentícia.",
+      "tipo_atividade": "Alimentação",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em projetos de agricultura urbana",
+      "descricao_atividade": "Administração de recursos financeiros direcionados a iniciativas de agricultura urbana, promovendo a produção de alimentos em áreas urbanas e a integração da agricultura com a cidade.",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para reconhecimento facial",
+      "descricao_atividade": "Pesquisa e desenvolvimento de sistemas de inteligência artificial capazes de reconhecer e identificar rostos humanos, aplicados em segurança, identificação biométrica e entretenimento.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos de produtos eletrônicos",
+      "descricao_atividade": "Assessoria especializada em estratégias de gestão de resíduos provenientes de equipamentos eletrônicos, promovendo a reciclagem, recondicionamento e descarte adequado desses materiais.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em projetos de energia solar fotovoltaica",
+      "descricao_atividade": "Administração de recursos financeiros destinados a projetos de geração de energia solar por meio de painéis fotovoltaicos, contribuindo para a transição energética e a redução da pegada de carbono.",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de construção civil",
+      "descricao_atividade": "Pesquisa e implementação de tecnologias inovadoras para reciclar resíduos provenientes da construção civil, transformando-os em novos materiais de construção ou agregados reciclados.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos de alimentos",
+      "descricao_atividade": "Assessoria especializada em estratégias de gestão de resíduos orgânicos provenientes de alimentos, promovendo a compostagem, reciclagem e aproveitamento desses resíduos para reduzir o desperdício alimentar.",
+      "tipo_atividade": "Consultoria",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de alimentos orgânicos para merendas escolares",
+      "descricao_atividade": "Produção e fornecimento de alimentos orgânicos para serem utilizados em merendas escolares, promovendo uma alimentação saudável e nutritiva para crianças e adolescentes nas escolas.",
+      "tipo_atividade": "Alimentação",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em projetos de agricultura regenerativa",
+      "descricao_atividade": "Administração de recursos financeiros direcionados a práticas agrícolas sustentáveis que visam regenerar os solos, aumentar a biodiversidade e promover a resiliência dos ecossistemas agrícolas.",
+      "tipo_atividade": "Finanças",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de calçados sustentáveis para esportes",
+      "descricao_atividade": "Fabricação de calçados esportivos utilizando materiais sustentáveis e práticas ambientalmente responsáveis, visando atender a demanda por produtos ecologicamente corretos no mercado esportivo.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para empresas de entretenimento",
+      "descricao_atividade": "Serviços de consultoria especializada em auxiliar empresas do setor de entretenimento na gestão eficiente e sustentável de seus resíduos sólidos, promovendo a redução do impacto ambiental das atividades do setor.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Produção de embalagens sustentáveis para produtos de jardinagem",
+      "descricao_atividade": "Fabricação de embalagens e recipientes sustentáveis destinados a produtos utilizados na jardinagem, utilizando materiais eco-friendly e biodegradáveis para promover a sustentabilidade no setor de jardinagem.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para eventos corporativos",
+      "descricao_atividade": "Serviços de consultoria especializada em auxiliar na gestão adequada e sustentável dos resíduos sólidos gerados em eventos corporativos, promovendo a redução, reutilização e reciclagem de materiais para minimizar o impacto ambiental.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Produção de alimentos sustentáveis para animais de estimação",
+      "descricao_atividade": "Produção de alimentos balanceados e sustentáveis para cães, gatos e outros animais de estimação, utilizando ingredientes naturais e orgânicos para promover a saúde e o bem-estar dos pets.",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para hotéis e resorts",
+      "descricao_atividade": "Serviços de consultoria especializada em auxiliar hotéis e resorts na implementação de práticas sustentáveis de gestão de resíduos sólidos, visando reduzir o impacto ambiental das atividades hoteleiras e promover a sustentabilidade.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Produção de embalagens sustentáveis para brinquedos infantis",
+      "descricao_atividade": "Fabricação de embalagens e materiais de embalagem sustentáveis destinados a brinquedos infantis, utilizando materiais recicláveis e biodegradáveis para promover a infância sustentável e consciente.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para shoppings centers",
+      "descricao_atividade": "Serviços de consultoria especializada em auxiliar shoppings centers na implementação de estratégias sustentáveis de gestão de resíduos sólidos, visando reduzir o impacto ambiental das operações comerciais e promover a conscientização ambiental.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Produção de alimentos sustentáveis para aves ornamentais",
+      "descricao_atividade": "Produção de alimentos balanceados e sustentáveis para aves ornamentais, utilizando ingredientes naturais e orgânicos para promover a saúde e a vitalidade das aves de estimação.",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para centros de convenções",
+      "descricao_atividade": "Serviços de consultoria especializada em auxiliar centros de convenções na implementação de práticas sustentáveis de gestão de resíduos sólidos, visando reduzir o impacto ambiental dos eventos realizados e promover a sustentabilidade no setor de eventos.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Produção de embalagens sustentáveis para presentes personalizados",
+      "descricao_atividade": "Fabricação de embalagens e caixas sustentáveis destinadas a presentes personalizados, utilizando materiais recicláveis e biodegradáveis para promover a cultura do presente consciente e sustentável.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para parques temáticos",
+      "descricao_atividade": "Serviços de consultoria especializada em auxiliar parques temáticos na implementação de estratégias sustentáveis de gestão de resíduos sólidos, visando reduzir o impacto ambiental das operações e promover a conscientização ambiental entre os visitantes.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de poluição atmosférica",
+      "descricao_atividade": "Pesquisa e criação de tecnologias avançadas para monitorar a qualidade do ar e detectar níveis de poluição atmosférica, contribuindo para a preservação do meio ambiente e a promoção de cidades mais saudáveis.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de alimentos sustentáveis para animais de fazenda",
+      "descricao_atividade": "Produção de alimentos balanceados e sustentáveis para animais de fazenda, utilizando ingredientes naturais e orgânicos para promover a saúde e o bem-estar dos animais de produção.",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de eletrônicos",
+      "descricao_atividade": "Pesquisa e criação de tecnologias inovadoras para reciclar resíduos de equipamentos eletrônicos, recuperando materiais valiosos e reduzindo a contaminação ambiental causada pelo descarte inadequado de eletrônicos.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de alimentos sustentáveis para animais de zoológico",
+      "descricao_atividade": "Produção de alimentos balanceados e sustentáveis para animais de zoológico, utilizando ingredientes naturais e orgânicos para promover a saúde e o bem-estar dos animais em cativeiro.",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para parques de diversões",
+      "descricao_atividade": "Serviços de consultoria especializada em auxiliar parques de diversões na implementação de estratégias sustentáveis de gestão de resíduos sólidos, visando reduzir o impacto ambiental das operações e promover a conscientização ambiental entre os visitantes.",
+      "tipo_atividade": "Serviços",
+      "nivel_de_importancia": "6"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de qualidade da água",
+      "descricao_atividade": "Pesquisa e criação de tecnologias avançadas para monitorar e avaliar a qualidade da água em rios, lagos e oceanos, contribuindo para a preservação dos recursos hídricos e a promoção da saúde ambiental.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de equipamentos de energia solar portáteis",
+      "descricao_atividade": "Fabricação de dispositivos compactos que captam energia solar para uso em atividades ao ar livre, viagens e situações de emergência, promovendo a sustentabilidade e a mobilidade.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de desmatamento",
+      "descricao_atividade": "Criação de sistemas e ferramentas tecnológicas para monitorar e combater o desmatamento, contribuindo para a preservação das florestas e ações de conservação ambiental.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para universidades",
+      "descricao_atividade": "Assessoria especializada para instituições de ensino superior na implementação de estratégias eficientes de gestão de resíduos sólidos, promovendo a sustentabilidade e a conscientização ambiental no ambiente acadêmico.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para condomínios residenciais",
+      "descricao_atividade": "Serviço de consultoria especializada voltado para a implementação de práticas sustentáveis de gestão de resíduos em condomínios, visando a redução de impactos ambientais e a conscientização dos moradores.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Produção de alimentos sustentáveis para animais silvestres",
+      "descricao_atividade": "Produção de alimentos específicos para animais silvestres em cativeiro, seguindo práticas sustentáveis e garantindo uma dieta balanceada e adequada às necessidades dos animais.",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de áreas de conservação",
+      "descricao_atividade": "Criação de sistemas de monitoramento baseados em tecnologia para áreas de conservação ambiental, auxiliando na proteção da biodiversidade e na prevenção de atividades ilegais.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de alimentos sustentáveis para animais de laboratório",
+      "descricao_atividade": "Produção de alimentos específicos para animais utilizados em pesquisas científicas, seguindo padrões sustentáveis e garantindo a nutrição adequada dos animais.",
+      "tipo_atividade": "Agricultura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para feiras e eventos culturais",
+      "descricao_atividade": "Serviço especializado que oferece suporte na implementação de práticas sustentáveis de gestão de resíduos em feiras e eventos culturais, visando a redução do impacto ambiental e a promoção da conscientização do público.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de áreas agrícolas",
+      "descricao_atividade": "Criação de sistemas de monitoramento baseados em tecnologia para áreas agrícolas, auxiliando na gestão eficiente de cultivos, no controle de pragas e no uso sustentável de recursos naturais.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Produção de moda sustentável para crianças",
+      "descricao_atividade": "Produção de roupas e acessórios de moda sustentável voltados para o público infantil, utilizando materiais e processos que respeitam o meio ambiente e os direitos trabalhistas.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Consultoria em gestão de resíduos sólidos para restaurantes",
+      "descricao_atividade": "Serviço de consultoria especializada em orientar restaurantes na gestão eficiente e sustentável de resíduos sólidos, visando a redução do desperdício e o cumprimento das normas ambientais.",
+      "tipo_atividade": "Serviço",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em projetos de energia geotérmica",
+      "descricao_atividade": "Atividade que envolve a gestão de investimentos em projetos de energia geotérmica, uma fonte de energia renovável que utiliza o calor do interior da Terra para gerar eletricidade.",
+      "tipo_atividade": "Financeiro",
+      "nivel_de_importancia": "7"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de áreas de reflorestamento",
+      "descricao_atividade": "Desenvolvimento de tecnologias para monitorar e avaliar áreas de reflorestamento, auxiliando no acompanhamento do crescimento das florestas e na restauração de ecossistemas degradados.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "8"
+    },
+    {
+      "atividade_economica": "Gestão de investimentos em projetos de mobilidade urbana sustentável",
+      "descricao_atividade": "Atividade que envolve a gestão de investimentos em projetos que promovem a mobilidade urbana sustentável, como transporte público eficiente, ciclovias e incentivo ao uso de veículos elétricos.",
+      "tipo_atividade": "Financeiro",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para segurança alimentar",
+      "descricao_atividade": "Desenvolvimento de sistemas de inteligência artificial para garantir a segurança e qualidade dos alimentos, monitorando a cadeia de produção e identificando potenciais riscos à saúde.",
+      "tipo_atividade": "Tecnologia",
+      "nivel_de_importancia": "9"
+    },
+    {
+      "atividade_economica": "Produção de embalagens biodegradáveis para produtos de jardinagem",
+      "descricao_atividade": "Produção de embalagens que se degradam naturalmente destinadas a produtos de jardinagem, promovendo a sustentabilidade e a redução do uso de plásticos convencionais.",
+      "tipo_atividade": "Manufatura",
+      "nivel_de_importancia": "7"
+    }
+  ],
+  "erros": [
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 3: Consultoria em estratégias de marketing digital para startups",
+      "raw_response": {
+        "atividade_economica": "Consultoria em estratégias de marketing digital para startups",
+        "descricao_atividade": "Serviço de consultoria especializado em desenvolver estratégias de marketing digital direcionadas para startups, visando aumentar sua visibilidade, atração de clientes e crescimento no mercado.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "6"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 3: Desenvolvimento de tecnologia de realidade aumentada para educação",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para educação",
+        "descricao_atividade": "Criação de soluções de realidade aumentada aplicadas à educação, com o objetivo de proporcionar experiências de aprendizagem interativas e imersivas para estudantes de todas as idades.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 4: Desenvolvimento de tecnologia de realidade aumentada para educação",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para educação",
+        "descricao_atividade": "Desenvolvimento de soluções tecnológicas que utilizam realidade aumentada para melhorar a experiência de aprendizagem e ensino em diversos níveis educacionais.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 4: Gestão de investimentos em startups de biotecnologia",
+      "raw_response": {
+        "atividade_economica": "Gestão de investimentos em startups de biotecnologia",
+        "descricao_atividade": "Atividade de investimento focada em apoiar financeiramente startups que desenvolvem soluções inovadoras na área da biotecnologia, visando impulsionar o crescimento dessas empresas.",
+        "tipo_atividade": "Investimentos",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 4: Produção de alimentos funcionais",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos funcionais",
+        "descricao_atividade": "Fabricação de alimentos que, além de nutrir, possuem propriedades benéficas à saúde, como fortalecimento do sistema imunológico, controle do colesterol, entre outros benefícios.",
+        "tipo_atividade": "Alimentação",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 4: Consultoria em gestão de recursos humanos para empresas de saúde",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de recursos humanos para empresas de saúde",
+        "descricao_atividade": "Serviços de consultoria especializados em auxiliar empresas da área da saúde na gestão estratégica de recursos humanos, recrutamento, seleção e desenvolvimento de talentos.",
+        "tipo_atividade": "Serviços",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 4: Desenvolvimento de tecnologia de realidade aumentada para varejo",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para varejo",
+        "descricao_atividade": "Criação de soluções de realidade aumentada voltadas para o setor varejista, visando melhorar a experiência de compra dos clientes, facilitar a escolha de produtos e aumentar as vendas.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 4: Desenvolvimento de tecnologia de realidade virtual para turismo",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade virtual para turismo",
+        "descricao_atividade": "Criação de experiências imersivas em realidade virtual para promover destinos turísticos, proporcionando aos usuários a sensação de estar presente em diferentes locais ao redor do mundo.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 4: Desenvolvimento de tecnologia de realidade virtual para eventos",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade virtual para eventos",
+        "descricao_atividade": "Criação de soluções de realidade virtual para a realização de eventos virtuais, conferências e feiras, proporcionando uma experiência imersiva e interativa aos participantes.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 4: Desenvolvimento de tecnologia de inteligência artificial para segurança pública",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para segurança pública",
+        "descricao_atividade": "Criação de soluções baseadas em inteligência artificial para auxiliar as forças de segurança na prevenção e combate à criminalidade, melhorando a eficiência e a segurança nas cidades.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 4: Desenvolvimento de tecnologia de realidade aumentada para arquitetura",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para arquitetura",
+        "descricao_atividade": "Criação de soluções de realidade aumentada voltadas para o setor de arquitetura e construção, permitindo visualizações imersivas de projetos e facilitando o processo de design e planejamento.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 4: Consultoria em gestão de recursos humanos para empresas de tecnologia",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de recursos humanos para empresas de tecnologia",
+        "descricao_atividade": "Serviços de consultoria especializados em auxiliar empresas do setor de tecnologia na gestão estratégica de recursos humanos, recrutamento, seleção e desenvolvimento de talentos.",
+        "tipo_atividade": "Serviços",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de tecnologia de agricultura vertical",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de agricultura vertical",
+        "descricao_atividade": "Desenvolvimento de sistemas e técnicas para cultivar alimentos de forma vertical, otimizando o uso de espaço e recursos.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Produção de calçados sustentáveis",
+      "raw_response": {
+        "atividade_economica": "Produção de calçados sustentáveis",
+        "descricao_atividade": "Fabricação de calçados utilizando materiais e processos sustentáveis, visando reduzir o impacto ambiental da indústria da moda.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Gestão de investimentos em projetos de energia solar",
+      "raw_response": {
+        "atividade_economica": "Gestão de investimentos em projetos de energia solar",
+        "descricao_atividade": "Administração de recursos financeiros em projetos de energia solar, visando promover a transição para fontes de energia limpa.",
+        "tipo_atividade": "Finanças",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de veículos elétricos",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de veículos elétricos",
+        "descricao_atividade": "Pesquisa e criação de veículos que funcionam com eletricidade, visando reduzir a dependência de combustíveis fósseis.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Produção de alimentos orgânicos gourmet",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos orgânicos gourmet",
+        "descricao_atividade": "Produção de alimentos orgânicos de alta qualidade e sabor diferenciado, voltados para um público exigente.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de tecnologia de monitoramento de biodiversidade",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de biodiversidade",
+        "descricao_atividade": "Criação de sistemas e dispositivos para monitorar e preservar a diversidade biológica em diferentes ecossistemas.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Produção de moda sustentável",
+      "raw_response": {
+        "atividade_economica": "Produção de moda sustentável",
+        "descricao_atividade": "Fabricação de roupas e acessórios seguindo princípios de sustentabilidade ambiental e social.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de tecnologia de fusão nuclear",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de fusão nuclear",
+        "descricao_atividade": "Pesquisa e inovação em tecnologia de fusão nuclear para geração de energia limpa e segura.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de tecnologia de inteligência artificial para segurança cibernética",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para segurança cibernética",
+        "descricao_atividade": "Criação de sistemas de inteligência artificial para proteger redes e sistemas contra ameaças cibernéticas.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Turismo sustentável",
+      "raw_response": {
+        "atividade_economica": "Turismo sustentável",
+        "descricao_atividade": "Promoção de atividades turísticas que respeitam o meio ambiente, a cultura local e contribuem para o desenvolvimento sustentável das comunidades.",
+        "tipo_atividade": "Serviços",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Consultoria em eficiência energética",
+      "raw_response": {
+        "atividade_economica": "Consultoria em eficiência energética",
+        "descricao_atividade": "Assessoria especializada em identificar e implementar medidas para otimizar o uso de energia em residências e empresas.",
+        "tipo_atividade": "Serviços",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de tecnologia de realidade virtual para treinamento militar",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade virtual para treinamento militar",
+        "descricao_atividade": "Criação de simulações em realidade virtual para treinamento e capacitação das forças armadas e segurança pública.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de drones",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de drones",
+        "descricao_atividade": "Pesquisa e fabricação de drones para diversas aplicações, como monitoramento, entregas e mapeamento.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de tecnologia de assistência virtual para educação especial",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de assistência virtual para educação especial",
+        "descricao_atividade": "Criação de ferramentas de assistência virtual para auxiliar no ensino e inclusão de pessoas com necessidades especiais.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Gestão de investimentos em projetos de reciclagem de resíduos",
+      "raw_response": {
+        "atividade_economica": "Gestão de investimentos em projetos de reciclagem de resíduos",
+        "descricao_atividade": "Administração de recursos financeiros em iniciativas que visam reciclar e reutilizar resíduos de forma sustentável.",
+        "tipo_atividade": "Finanças",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Gestão de resíduos sólidos urbanos",
+      "raw_response": {
+        "atividade_economica": "Gestão de resíduos sólidos urbanos",
+        "descricao_atividade": "Planejamento e execução de estratégias para gerenciar de forma adequada os resíduos sólidos gerados nas cidades.",
+        "tipo_atividade": "Serviços",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de energias renováveis",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de energias renováveis",
+        "descricao_atividade": "Pesquisa e implementação de fontes de energia limpa e renovável, como solar, eólica e hidrelétrica.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Arquitetura sustentável",
+      "raw_response": {
+        "atividade_economica": "Arquitetura sustentável",
+        "descricao_atividade": "Planejamento e construção de edificações que respeitam o meio ambiente, utilizando materiais e técnicas sustentáveis.",
+        "tipo_atividade": "Serviços",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Teletratamento médico",
+      "raw_response": {
+        "atividade_economica": "Teletratamento médico",
+        "descricao_atividade": "Prestação de serviços médicos à distância, utilizando tecnologias de comunicação para diagnóstico e tratamento de pacientes.",
+        "tipo_atividade": "Saúde",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Logística reversa",
+      "raw_response": {
+        "atividade_economica": "Logística reversa",
+        "descricao_atividade": "Sistema de gestão de resíduos que visa coletar, reciclar e reaproveitar produtos descartados, contribuindo para a sustentabilidade.",
+        "tipo_atividade": "Serviços",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de biocombustíveis",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de biocombustíveis",
+        "descricao_atividade": "Pesquisa e produção de combustíveis derivados de biomassa, como etanol e biodiesel, como alternativa aos combustíveis fósseis.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Gestão de investimentos em startups de inteligência artificial",
+      "raw_response": {
+        "atividade_economica": "Gestão de investimentos em startups de inteligência artificial",
+        "descricao_atividade": "Administração de recursos financeiros em empresas iniciantes que desenvolvem soluções baseadas em inteligência artificial.",
+        "tipo_atividade": "Finanças",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de tecnologia de monitoramento ambiental",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento ambiental",
+        "descricao_atividade": "Criação de sistemas para monitorar e analisar a qualidade do ar, água e solo, visando a preservação do meio ambiente.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Agrofloresta",
+      "raw_response": {
+        "atividade_economica": "Agrofloresta",
+        "descricao_atividade": "Sistema de cultivo que integra árvores, culturas agrícolas e animais, promovendo a biodiversidade e a sustentabilidade.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Produção de embalagens sustentáveis para produtos de beleza",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens sustentáveis para produtos de beleza",
+        "descricao_atividade": "Fabricação de embalagens ecologicamente corretas para cosméticos e produtos de beleza, reduzindo o impacto ambiental.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de tecnologia de realidade aumentada para publicidade",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para publicidade",
+        "descricao_atividade": "Criação de experiências interativas de realidade aumentada para campanhas publicitárias e marketing digital.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de blockchain",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de blockchain",
+        "descricao_atividade": "Pesquisa e implementação de tecnologia de blockchain para garantir transparência e segurança em transações digitais.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Gestão de investimentos em projetos de energia solar",
+      "raw_response": {
+        "atividade_economica": "Gestão de investimentos em projetos de energia solar",
+        "descricao_atividade": "Administração de recursos financeiros em projetos de energia solar, visando promover a transição para fontes de energia limpa.",
+        "tipo_atividade": "Finanças",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Comércio justo e solidário",
+      "raw_response": {
+        "atividade_economica": "Comércio justo e solidário",
+        "descricao_atividade": "Prática de comércio que busca garantir condições justas e equitativas para produtores e trabalhadores, promovendo a solidariedade.",
+        "tipo_atividade": "Comércio",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Produção de energia geotérmica",
+      "raw_response": {
+        "atividade_economica": "Produção de energia geotérmica",
+        "descricao_atividade": "Geração de energia a partir do calor proveniente do interior da Terra, uma fonte renovável e sustentável.",
+        "tipo_atividade": "Energia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 5: Desenvolvimento de tecnologia de inteligência artificial para logística",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para logística",
+        "descricao_atividade": "Criação de sistemas de IA para otimizar processos logísticos, como gestão de estoques, rotas de transporte e cadeia de suprimentos.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 6: Produção de alimentos funcionais",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos funcionais",
+        "descricao_atividade": "Produção de alimentos enriquecidos com ingredientes funcionais que proporcionam benefícios à saúde, como alimentos ricos em fibras, ômega-3, antioxidantes, entre outros.",
+        "tipo_atividade": "Alimentação",
+        "nivel_de_importancia": "6"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 6: Desenvolvimento de tecnologia de realidade aumentada para educação",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para educação",
+        "descricao_atividade": "Criação de ferramentas de realidade aumentada para melhorar a experiência de aprendizagem, permitindo a visualização de conteúdos educacionais de forma interativa e imersiva.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 6: Desenvolvimento de tecnologia de inteligência artificial para diagnóstico de doenças",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para diagnóstico de doenças",
+        "descricao_atividade": "Pesquisa e implementação de sistemas de inteligência artificial para auxiliar no diagnóstico precoce e preciso de doenças, contribuindo para a medicina de precisão e a saúde preventiva.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 6: Desenvolvimento de tecnologia de reciclagem de resíduos plásticos",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos plásticos",
+        "descricao_atividade": "Pesquisa e implementação de tecnologias avançadas para reciclar resíduos plásticos, visando reduzir a poluição ambiental e promover a economia circular.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 6: Desenvolvimento de tecnologia de realidade virtual para treinamento esportivo",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade virtual para treinamento esportivo",
+        "descricao_atividade": "Criação de plataformas de realidade virtual para simular treinamentos esportivos e aprimorar o desempenho de atletas em diversas modalidades esportivas.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 6: Produção de alimentos sustentáveis para avicultura",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos sustentáveis para avicultura",
+        "descricao_atividade": "Cultivo e produção de alimentos sustentáveis destinados à avicultura, garantindo uma alimentação balanceada e de qualidade para aves criadas em sistemas de produção avícola.",
+        "tipo_atividade": "Alimentação",
+        "nivel_de_importancia": "6"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 6: Desenvolvimento de tecnologia de realidade aumentada para treinamento corporativo",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para treinamento corporativo",
+        "descricao_atividade": "Elaboração de soluções de realidade aumentada voltadas para o treinamento e capacitação de colaboradores em ambientes corporativos, proporcionando experiências de aprendizagem interativas e imersivas.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 6: Desenvolvimento de tecnologia de realidade virtual para turismo cultural",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade virtual para turismo cultural",
+        "descricao_atividade": "Criação de experiências imersivas em realidade virtual para explorar e preservar o patrimônio cultural e histórico de diferentes regiões, promovendo o turismo cultural de forma inovadora.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 7: Desenvolvimento de tecnologia de reciclagem de resíduos de plásticos",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de plásticos",
+        "descricao_atividade": "Atividade que envolve a pesquisa e criação de tecnologias inovadoras para reciclar resíduos plásticos, contribuindo para a redução da poluição ambiental e a promoção da economia circular.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 7: Desenvolvimento de tecnologia de reciclagem de resíduos têxteis",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos têxteis",
+        "descricao_atividade": "Pesquisa e criação de tecnologias inovadoras para reciclar resíduos têxteis, transformando resíduos da indústria têxtil em novos produtos ou matéria-prima, contribuindo para a economia circular e a redução do desperdício.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 7: Desenvolvimento de tecnologia de monitoramento de biodiversidade marinha",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de biodiversidade marinha",
+        "descricao_atividade": "Pesquisa e criação de tecnologias avançadas para monitorar e preservar a biodiversidade dos ecossistemas marinhos, contribuindo para a conservação dos oceanos e a proteção das espécies marinhas.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 7: Desenvolvimento de tecnologia de reciclagem de resíduos de alimentos",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de alimentos",
+        "descricao_atividade": "Pesquisa e criação de tecnologias inovadoras para reciclar resíduos de alimentos, transformando restos de comida em novos produtos ou fontes de energia, contribuindo para a redução do desperdício alimentar e a promoção da economia circular.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 7: Desenvolvimento de tecnologia de monitoramento de saúde em tempo real",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de saúde em tempo real",
+        "descricao_atividade": "Pesquisa e criação de tecnologias avançadas para monitorar a saúde em tempo real, permitindo o acompanhamento contínuo de parâmetros de saúde e a detecção precoce de possíveis problemas, contribuindo para a promoção do bem-estar e prevenção de doenças.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 7: Desenvolvimento de tecnologia de reciclagem de resíduos de construção civil",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de construção civil",
+        "descricao_atividade": "Pesquisa e criação de tecnologias inovadoras para reciclar resíduos de construção civil, transformando entulhos e resíduos da construção em novos materiais ou produtos, contribuindo para a redução do desperdício e a sustentabilidade na construção civil.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 7: Consultoria em gestão de resíduos sólidos para parques naturais",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para parques naturais",
+        "descricao_atividade": "Serviços de consultoria especializada em auxiliar parques naturais na implementação de práticas sustentáveis de gestão de resíduos sólidos, visando preservar a natureza e promover o turismo sustentável em áreas protegidas.",
+        "tipo_atividade": "Serviços",
+        "nivel_de_importancia": "6"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 7: Produção de embalagens sustentáveis para produtos de jardinagem",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens sustentáveis para produtos de jardinagem",
+        "descricao_atividade": "Fabricação de embalagens e recipientes sustentáveis destinados a produtos utilizados na jardinagem, utilizando materiais eco-friendly e biodegradáveis para promover a sustentabilidade no setor de jardinagem.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 7: Consultoria em gestão de resíduos sólidos para eventos esportivos",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para eventos esportivos",
+        "descricao_atividade": "Serviços de consultoria especializada em auxiliar na gestão adequada e sustentável dos resíduos sólidos gerados em eventos esportivos, promovendo a redução, reutilização e reciclagem de materiais para minimizar o impacto ambiental das competições esportivas.",
+        "tipo_atividade": "Serviços",
+        "nivel_de_importancia": "6"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 7: Desenvolvimento de tecnologia de monitoramento de biodiversidade terrestre",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de biodiversidade terrestre",
+        "descricao_atividade": "Pesquisa e criação de tecnologias avançadas para monitorar e preservar a biodiversidade dos ecossistemas terrestres, contribuindo para a conservação da fauna e flora e a proteção dos habitats naturais.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Desenvolvimento de tecnologia de reciclagem de resíduos de eletrônicos",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de eletrônicos",
+        "descricao_atividade": "Atividade que envolve a criação de soluções tecnológicas para reciclar e reutilizar resíduos provenientes de equipamentos eletrônicos, contribuindo para a redução do impacto ambiental e a preservação dos recursos naturais.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de embalagens biodegradáveis para produtos de limpeza",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens biodegradáveis para produtos de limpeza",
+        "descricao_atividade": "Fabricação de embalagens sustentáveis feitas de materiais biodegradáveis para acondicionar produtos de limpeza, visando reduzir o impacto ambiental e promover a sustentabilidade no setor de limpeza doméstica e industrial.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Desenvolvimento de tecnologia de monitoramento de qualidade da água",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de qualidade da água",
+        "descricao_atividade": "Atividade que se dedica à criação de sistemas e dispositivos tecnológicos para monitorar e garantir a qualidade da água em diferentes ambientes, contribuindo para a preservação dos recursos hídricos e a saúde pública.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de moda sustentável",
+      "raw_response": {
+        "atividade_economica": "Produção de moda sustentável",
+        "descricao_atividade": "Fabricação de roupas, acessórios e calçados seguindo princípios de sustentabilidade, utilizando materiais e processos que minimizam o impacto ambiental e promovem a responsabilidade social na indústria da moda.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Desenvolvimento de tecnologia de fusão nuclear",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de fusão nuclear",
+        "descricao_atividade": "Atividade que busca desenvolver tecnologias para a fusão nuclear controlada, visando a produção de energia limpa e sustentável a partir da fusão de núcleos atômicos, com potencial para revolucionar o setor energético.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "10"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de alimentos sustentáveis para aquicultura",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos sustentáveis para aquicultura",
+        "descricao_atividade": "Cultivo e produção de alimentos específicos para a aquicultura de forma sustentável, garantindo a qualidade dos alimentos destinados à criação de organismos aquáticos e promovendo a sustentabilidade no setor.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Desenvolvimento de tecnologia de assistência virtual para educação especial",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de assistência virtual para educação especial",
+        "descricao_atividade": "Desenvolvimento de soluções tecnológicas que utilizam realidade virtual e assistentes virtuais para auxiliar no processo de educação de pessoas com necessidades especiais, promovendo a inclusão e o acesso à educação de qualidade.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de veículos autônomos para transporte de cargas",
+      "raw_response": {
+        "atividade_economica": "Produção de veículos autônomos para transporte de cargas",
+        "descricao_atividade": "Fabricação de veículos autônomos projetados para o transporte de cargas de forma eficiente e segura, utilizando tecnologias avançadas de automação para otimizar a logística e reduzir os custos operacionais.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Desenvolvimento de tecnologia de realidade aumentada para publicidade",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para publicidade",
+        "descricao_atividade": "Criação de soluções tecnológicas que utilizam realidade aumentada para desenvolver campanhas publicitárias interativas e envolventes, proporcionando experiências inovadoras aos consumidores e ampliando o alcance das marcas.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de embalagens sustentáveis para cosméticos",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens sustentáveis para cosméticos",
+        "descricao_atividade": "Fabricação de embalagens ecologicamente corretas destinadas a produtos cosméticos, utilizando materiais sustentáveis e biodegradáveis para reduzir o impacto ambiental da indústria de beleza e cuidados pessoais.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Desenvolvimento de blockchain",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de blockchain",
+        "descricao_atividade": "Atividade voltada para a criação e implementação de tecnologias baseadas em blockchain, que permitem a descentralização, segurança e transparência em processos de registro e transações, com aplicações em diversos setores.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Gestão de investimentos em projetos de energia solar",
+      "raw_response": {
+        "atividade_economica": "Gestão de investimentos em projetos de energia solar",
+        "descricao_atividade": "Atividade que envolve a administração e direcionamento de recursos financeiros para projetos de energia solar, visando promover a transição para fontes de energia renovável e sustentável.",
+        "tipo_atividade": "Financeiro",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Comércio justo e solidário",
+      "raw_response": {
+        "atividade_economica": "Comércio justo e solidário",
+        "descricao_atividade": "Prática comercial que busca promover relações justas e solidárias entre produtores, consumidores e demais agentes da cadeia produtiva, garantindo condições dignas de trabalho, sustentabilidade e equidade nas trocas comerciais.",
+        "tipo_atividade": "Comércio",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de energia geotérmica",
+      "raw_response": {
+        "atividade_economica": "Produção de energia geotérmica",
+        "descricao_atividade": "Geração de energia a partir do calor proveniente do interior da Terra, por meio de sistemas geotérmicos que aproveitam o calor natural do subsolo para produzir eletricidade de forma sustentável e renovável.",
+        "tipo_atividade": "Energia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Desenvolvimento de tecnologia de inteligência artificial para logística",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para logística",
+        "descricao_atividade": "Desenvolvimento de soluções baseadas em inteligência artificial para otimizar processos logísticos, como roteirização, gestão de estoques e previsão de demanda, visando aumentar a eficiência e reduzir custos nas operações de transporte e distribuição.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Desenvolvimento de tecnologia de monitoramento ambiental",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento ambiental",
+        "descricao_atividade": "Criação de sistemas e dispositivos tecnológicos para monitorar e avaliar a qualidade ambiental, incluindo parâmetros como qualidade do ar, da água e do solo, com o objetivo de promover a preservação e a sustentabilidade dos ecossistemas.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Agrofloresta",
+      "raw_response": {
+        "atividade_economica": "Agrofloresta",
+        "descricao_atividade": "Sistema de produção agrícola que integra árvores, culturas agrícolas e/ou animais de forma sinérgica e sustentável, promovendo a diversidade biológica, a conservação do solo e a produção de alimentos de maneira equilibrada e ambientalmente amigável.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de embalagens sustentáveis para produtos de beleza",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens sustentáveis para produtos de beleza",
+        "descricao_atividade": "Fabricação de embalagens ecologicamente corretas destinadas a produtos de beleza e cuidados pessoais, utilizando materiais sustentáveis e biodegradáveis para reduzir o impacto ambiental da indústria cosmética.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de alimentos sustentáveis para animais de zoológico",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos sustentáveis para animais de zoológico",
+        "descricao_atividade": "Produção de alimentos balanceados e nutritivos para atender às necessidades alimentares dos animais mantidos em zoológicos, com foco na sustentabilidade, qualidade e bem-estar dos animais em cativeiro.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Consultoria em gestão de inovação para setor financeiro",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de inovação para setor financeiro",
+        "descricao_atividade": "Serviços de consultoria especializada em estratégias de inovação voltadas para o setor financeiro, auxiliando instituições financeiras na identificação e implementação de práticas inovadoras para melhorar sua competitividade e eficiência.",
+        "tipo_atividade": "Consultoria",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Desenvolvimento de tecnologia de inteligência artificial para reconhecimento facial",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para reconhecimento facial",
+        "descricao_atividade": "Desenvolvimento de sistemas e algoritmos de inteligência artificial capazes de reconhecer e identificar rostos humanos, com aplicações em segurança, autenticação biométrica, análise de emoções e personalização de serviços.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de alimentos orgânicos para merendas escolares",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos orgânicos para merendas escolares",
+        "descricao_atividade": "Produção de alimentos livres de agrotóxicos e aditivos químicos destinados a compor as merendas escolares, proporcionando uma alimentação saudável e nutritiva para os estudantes, com foco na promoção da saúde e da educação alimentar.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Educação financeira",
+      "raw_response": {
+        "atividade_economica": "Educação financeira",
+        "descricao_atividade": "Atividade educacional que visa promover o conhecimento e a conscientização sobre temas relacionados a finanças pessoais, investimentos, orçamento doméstico, planejamento financeiro e sustentabilidade econômica, contribuindo para a formação de uma sociedade mais financeiramente saudável.",
+        "tipo_atividade": "Educação",
+        "nivel_de_importancia": "6"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Desenvolvimento de tecnologia de inteligência artificial para diagnóstico médico",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para diagnóstico médico",
+        "descricao_atividade": "Desenvolvimento de sistemas de inteligência artificial capazes de auxiliar no diagnóstico de doenças e condições médicas, utilizando algoritmos e análise de dados para identificar padrões e fornecer suporte aos profissionais de saúde.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de alimentos sustentáveis para animais de estimação",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos sustentáveis para animais de estimação",
+        "descricao_atividade": "Produção de alimentos balanceados e nutritivos destinados a animais de estimação, utilizando ingredientes sustentáveis e de alta qualidade para promover a saúde, o bem-estar e a sustentabilidade na alimentação de pets.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Consultoria em estratégias de e-commerce para pequenas empresas",
+      "raw_response": {
+        "atividade_economica": "Consultoria em estratégias de e-commerce para pequenas empresas",
+        "descricao_atividade": "Serviços de consultoria especializada em estratégias de comércio eletrônico voltadas para pequenas empresas, auxiliando na criação, implementação e otimização de estratégias de vendas online para impulsionar os negócios e a presença digital.",
+        "tipo_atividade": "Consultoria",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Consultoria em compliance ambiental",
+      "raw_response": {
+        "atividade_economica": "Consultoria em compliance ambiental",
+        "descricao_atividade": "Serviços de consultoria especializada em conformidade com as normas e regulamentações ambientais, auxiliando empresas e organizações a adotar práticas sustentáveis, reduzir impactos ambientais e cumprir as legislações vigentes.",
+        "tipo_atividade": "Consultoria",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Consultoria em educação ambiental",
+      "raw_response": {
+        "atividade_economica": "Consultoria em educação ambiental",
+        "descricao_atividade": "Serviços de consultoria voltados para a promoção da educação ambiental em escolas, empresas e comunidades, visando sensibilizar e conscientizar sobre questões ambientais, sustentabilidade e preservação dos recursos naturais.",
+        "tipo_atividade": "Consultoria",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de brinquedos educativos sustentáveis",
+      "raw_response": {
+        "atividade_economica": "Produção de brinquedos educativos sustentáveis",
+        "descricao_atividade": "Fabricação de brinquedos pedagógicos e educativos feitos com materiais sustentáveis e ecologicamente corretos, promovendo a educação ambiental, o desenvolvimento infantil e a conscientização sobre práticas sustentáveis desde a infância.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Produção de roupas esportivas sustentáveis",
+      "raw_response": {
+        "atividade_economica": "Produção de roupas esportivas sustentáveis",
+        "descricao_atividade": "Fabricação de vestuário esportivo utilizando materiais sustentáveis e processos eco-friendly, visando atender às demandas do mercado esportivo com produtos de alta qualidade, durabilidade e baixo impacto ambiental.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 8: Gestão de investimentos em projetos de energia eólica offshore",
+      "raw_response": {
+        "atividade_economica": "Gestão de investimentos em projetos de energia eólica offshore",
+        "descricao_atividade": "Atividade de direcionamento de recursos financeiros para projetos de geração de energia eólica em alto-mar, explorando o potencial dos ventos marítimos para produzir eletricidade de forma sustentável e renovável.",
+        "tipo_atividade": "Financeiro",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Desenvolvimento de tecnologia de reciclagem de resíduos de pneus",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de pneus",
+        "descricao_atividade": "Atividade que visa desenvolver métodos eficientes para reciclar pneus usados, contribuindo para a redução do impacto ambiental e a reutilização de materiais.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Consultoria em gestão de resíduos sólidos para hospitais",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para hospitais",
+        "descricao_atividade": "Serviço especializado que auxilia hospitais na implementação de práticas sustentáveis para o gerenciamento adequado de resíduos sólidos, visando a redução de impactos ambientais e riscos à saúde.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Produção de alimentos sustentáveis para aquicultura",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos sustentáveis para aquicultura",
+        "descricao_atividade": "Cultivo e produção de alimentos específicos para a aquicultura, seguindo práticas sustentáveis que respeitam o meio ambiente e garantem a qualidade dos produtos destinados à criação de peixes e outros organismos aquáticos.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Desenvolvimento de tecnologia de reciclagem de resíduos de vidro",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de vidro",
+        "descricao_atividade": "Pesquisa e criação de métodos inovadores para reciclar resíduos de vidro, transformando-os em novos produtos e contribuindo para a redução da extração de matéria-prima virgem.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Produção de embalagens sustentáveis para produtos de jardinagem",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens sustentáveis para produtos de jardinagem",
+        "descricao_atividade": "Fabricação de embalagens e recipientes ecológicos para acondicionar produtos utilizados na jardinagem, promovendo a redução do uso de plásticos convencionais e o estímulo à práticas sustentáveis.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Desenvolvimento de tecnologia de monitoramento de poluição hídrica",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de poluição hídrica",
+        "descricao_atividade": "Criação de sistemas e dispositivos tecnológicos para monitorar a qualidade da água, identificar fontes de poluição e contribuir para a preservação dos recursos hídricos.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Consultoria em gestão de resíduos sólidos para escritórios corporativos",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para escritórios corporativos",
+        "descricao_atividade": "Assessoria especializada para empresas na implementação de políticas e práticas sustentáveis de gestão de resíduos sólidos, visando a redução de desperdícios e o aumento da eficiência ambiental.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Desenvolvimento de tecnologia de reciclagem de resíduos de papel",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de papel",
+        "descricao_atividade": "Pesquisa e desenvolvimento de métodos inovadores para reciclar resíduos de papel, promovendo a reutilização de materiais e a redução do impacto ambiental associado à produção de papel virgem.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Produção de embalagens sustentáveis para produtos de camping",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens sustentáveis para produtos de camping",
+        "descricao_atividade": "Fabricação de embalagens e recipientes ecológicos para acondicionar produtos utilizados em atividades de camping e aventura, promovendo a sustentabilidade e o respeito ao meio ambiente.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Consultoria em gestão de resíduos sólidos para eventos esportivos",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para eventos esportivos",
+        "descricao_atividade": "Serviço especializado que oferece suporte na implementação de práticas sustentáveis de gestão de resíduos em eventos esportivos, visando a redução do impacto ambiental e a promoção da conscientização ambiental.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Consultoria em gestão de resíduos sólidos para condomínios comerciais",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para condomínios comerciais",
+        "descricao_atividade": "Assessoria especializada voltada para a implementação de práticas sustentáveis de gestão de resíduos em condomínios comerciais, visando a redução de impactos ambientais e a promoção da responsabilidade socioambiental.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Desenvolvimento de tecnologia de reciclagem de resíduos de plástico",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de plástico",
+        "descricao_atividade": "Pesquisa e criação de métodos avançados para reciclar resíduos plásticos, visando a redução da poluição por plástico e o fomento da economia circular.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Produção de embalagens sustentáveis para produtos de pesca",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens sustentáveis para produtos de pesca",
+        "descricao_atividade": "Fabricação de embalagens e recipientes ecológicos para acondicionar produtos relacionados à pesca, promovendo a sustentabilidade e a preservação dos recursos marinhos.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Produção de alimentos sustentáveis para animais de estimação exóticos",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos sustentáveis para animais de estimação exóticos",
+        "descricao_atividade": "Produção de alimentos específicos para animais de estimação não convencionais, seguindo padrões sustentáveis e garantindo uma dieta equilibrada e adequada às necessidades dos animais.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Consultoria em gestão de resíduos sólidos para centros de convenções",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para centros de convenções",
+        "descricao_atividade": "Assessoria especializada voltada para a implementação de práticas sustentáveis de gestão de resíduos em centros de convenções, visando a redução de impactos ambientais e a promoção de eventos mais sustentáveis.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Desenvolvimento de tecnologia de reciclagem de resíduos de metais",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de metais",
+        "descricao_atividade": "Pesquisa e criação de métodos inovadores para reciclar resíduos de metais, contribuindo para a preservação de recursos naturais e a redução da necessidade de mineração.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Produção de embalagens sustentáveis para produtos de turismo",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens sustentáveis para produtos de turismo",
+        "descricao_atividade": "Fabricação de embalagens e recipientes ecológicos para acondicionar produtos relacionados ao turismo, promovendo a sustentabilidade e a preservação de destinos turísticos.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Consultoria em gestão de resíduos sólidos para eventos corporativos",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para eventos corporativos",
+        "descricao_atividade": "Serviço especializado que oferece suporte na implementação de práticas sustentáveis de gestão de resíduos em eventos corporativos, visando a redução do impacto ambiental e a promoção de eventos mais responsáveis.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Desenvolvimento de tecnologia de monitoramento de áreas de mineração",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de áreas de mineração",
+        "descricao_atividade": "Criação de sistemas de monitoramento baseados em tecnologia para áreas de mineração, auxiliando na gestão ambiental, no controle de impactos e na promoção de práticas sustentáveis na indústria extrativa.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Produção de alimentos sustentáveis para animais de estimação domésticos",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos sustentáveis para animais de estimação domésticos",
+        "descricao_atividade": "Produção de alimentos específicos para animais de estimação convencionais, seguindo padrões sustentáveis e garantindo uma alimentação saudável e equilibrada para os pets.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 9: Consultoria em gestão de resíduos sólidos para parques nacionais",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para parques nacionais",
+        "descricao_atividade": "Assessoria especializada voltada para a implementação de práticas sustentáveis de gestão de resíduos em parques nacionais, visando a preservação da biodiversidade e a promoção do ecoturismo responsável.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Desenvolvimento de tecnologia de reciclagem de resíduos de couro",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de couro",
+        "descricao_atividade": "Atividade que visa desenvolver tecnologias inovadoras para reciclar resíduos de couro, contribuindo para a redução do desperdício e impacto ambiental negativo.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Consultoria em gestão de resíduos sólidos para hospitais",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para hospitais",
+        "descricao_atividade": "Serviço especializado que oferece consultoria para hospitais na gestão eficiente e sustentável de resíduos sólidos, garantindo o cumprimento das normas ambientais e de saúde.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Produção de alimentos sustentáveis para aquicultura",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos sustentáveis para aquicultura",
+        "descricao_atividade": "Produção de alimentos específicos para a aquicultura, utilizando práticas sustentáveis que visam a preservação dos ecossistemas aquáticos e a saúde dos animais.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Desenvolvimento de tecnologia de monitoramento de qualidade do ar",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de qualidade do ar",
+        "descricao_atividade": "Desenvolvimento de tecnologias inovadoras para monitorar e avaliar a qualidade do ar, auxiliando na identificação de poluentes e na promoção de ambientes mais saudáveis.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Gestão de investimentos em projetos de reciclagem de resíduos sólidos",
+      "raw_response": {
+        "atividade_economica": "Gestão de investimentos em projetos de reciclagem de resíduos sólidos",
+        "descricao_atividade": "Atividade que envolve a gestão de investimentos em projetos que visam a reciclagem de resíduos sólidos, contribuindo para a economia circular e a redução da geração de lixo.",
+        "tipo_atividade": "Financeiro",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Desenvolvimento de tecnologia de monitoramento de áreas de mineração",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de áreas de mineração",
+        "descricao_atividade": "Desenvolvimento de tecnologias para monitorar áreas de mineração, visando a segurança, a eficiência e a redução dos impactos ambientais causados por essa atividade.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Produção de embalagens sustentáveis para produtos de jardinagem",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens sustentáveis para produtos de jardinagem",
+        "descricao_atividade": "Produção de embalagens ecologicamente corretas destinadas a produtos de jardinagem, promovendo a sustentabilidade e a redução do uso de plásticos convencionais.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "6"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Consultoria em gestão de resíduos sólidos para universidades",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para universidades",
+        "descricao_atividade": "Serviço de consultoria especializada voltado para universidades, com o objetivo de implementar práticas sustentáveis na gestão de resíduos sólidos dentro dos campi universitários.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Desenvolvimento de tecnologia de reciclagem de resíduos de plástico",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de reciclagem de resíduos de plástico",
+        "descricao_atividade": "Desenvolvimento de tecnologias avançadas para reciclar resíduos de plástico, contribuindo para a redução da poluição e o reaproveitamento de materiais plásticos.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Consultoria em gestão de resíduos sólidos para eventos esportivos",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para eventos esportivos",
+        "descricao_atividade": "Serviço de consultoria especializada em auxiliar na gestão sustentável de resíduos sólidos durante eventos esportivos, promovendo a conscientização ambiental e a redução do impacto ambiental.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Desenvolvimento de tecnologia de inteligência artificial para diagnóstico médico",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de inteligência artificial para diagnóstico médico",
+        "descricao_atividade": "Desenvolvimento de sistemas de inteligência artificial para auxiliar no diagnóstico médico, agilizando e aprimorando a identificação de doenças e condições de saúde.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Produção de embalagens biodegradáveis para produtos de limpeza",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens biodegradáveis para produtos de limpeza",
+        "descricao_atividade": "Produção de embalagens que se degradam naturalmente para produtos de limpeza, contribuindo para a redução do impacto ambiental e a promoção da sustentabilidade.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Desenvolvimento de tecnologia de monitoramento de áreas de conservação marinha",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de áreas de conservação marinha",
+        "descricao_atividade": "Desenvolvimento de tecnologias avançadas para monitorar e preservar áreas de conservação marinha, contribuindo para a proteção da biodiversidade marinha e dos ecossistemas costeiros.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Desenvolvimento de tecnologia de realidade aumentada para educação ambiental",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de realidade aumentada para educação ambiental",
+        "descricao_atividade": "Desenvolvimento de aplicativos e ferramentas de realidade aumentada para promover a educação ambiental, sensibilizando as pessoas sobre questões relacionadas ao meio ambiente e à sustentabilidade.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Produção de alimentos orgânicos gourmet",
+      "raw_response": {
+        "atividade_economica": "Produção de alimentos orgânicos gourmet",
+        "descricao_atividade": "Produção de alimentos orgânicos de alta qualidade e sabor diferenciado, voltados para um público que valoriza a alimentação saudável e sustentável.",
+        "tipo_atividade": "Agricultura",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Consultoria em gestão de resíduos sólidos para condomínios residenciais",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para condomínios residenciais",
+        "descricao_atividade": "Serviço de consultoria especializada em auxiliar condomínios residenciais na implementação de práticas sustentáveis de gestão de resíduos sólidos, promovendo a coleta seletiva e a reciclagem.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Desenvolvimento de tecnologia de dessalinização de água",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de dessalinização de água",
+        "descricao_atividade": "Desenvolvimento de tecnologias inovadoras para dessalinizar água do mar, tornando-a própria para consumo humano e uso agrícola, em regiões com escassez de água potável.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Produção de embalagens sustentáveis para produtos de higiene pessoal",
+      "raw_response": {
+        "atividade_economica": "Produção de embalagens sustentáveis para produtos de higiene pessoal",
+        "descricao_atividade": "Produção de embalagens ecologicamente corretas destinadas a produtos de higiene pessoal, visando reduzir o impacto ambiental e promover a sustentabilidade na indústria cosmética.",
+        "tipo_atividade": "Manufatura",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Consultoria em gestão de resíduos sólidos para escolas",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para escolas",
+        "descricao_atividade": "Serviço de consultoria especializada em auxiliar escolas na implementação de práticas sustentáveis de gestão de resíduos sólidos, promovendo a educação ambiental e a conscientização dos alunos.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Desenvolvimento de tecnologia de monitoramento de áreas de conservação ambiental",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de áreas de conservação ambiental",
+        "descricao_atividade": "Desenvolvimento de tecnologias avançadas para monitorar e proteger áreas de conservação ambiental, contribuindo para a preservação da biodiversidade e dos ecossistemas naturais.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "7"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Gestão de investimentos em projetos de energia solar fotovoltaica",
+      "raw_response": {
+        "atividade_economica": "Gestão de investimentos em projetos de energia solar fotovoltaica",
+        "descricao_atividade": "Atividade que envolve a gestão de investimentos em projetos de energia solar fotovoltaica, uma fonte limpa e renovável de energia que utiliza a luz do sol para gerar eletricidade.",
+        "tipo_atividade": "Financeiro",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Consultoria em gestão de resíduos sólidos para eventos culturais",
+      "raw_response": {
+        "atividade_economica": "Consultoria em gestão de resíduos sólidos para eventos culturais",
+        "descricao_atividade": "Serviço de consultoria especializada em auxiliar eventos culturais na implementação de práticas sustentáveis de gestão de resíduos sólidos, promovendo a coleta seletiva e a reciclagem.",
+        "tipo_atividade": "Serviço",
+        "nivel_de_importancia": "8"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Desenvolvimento de tecnologia de monitoramento de áreas de desmatamento",
+      "raw_response": {
+        "atividade_economica": "Desenvolvimento de tecnologia de monitoramento de áreas de desmatamento",
+        "descricao_atividade": "Desenvolvimento de tecnologias avançadas para monitorar áreas de desmatamento, auxiliando na identificação de áreas desmatadas e no combate ao desmatamento ilegal.",
+        "tipo_atividade": "Tecnologia",
+        "nivel_de_importancia": "9"
+      }
+    },
+    {
+      "error": "Atividade duplicada ou muito semelhante no lote 10: Gestão de investimentos em projetos de energia eólica offshore",
+      "raw_response": {
+        "atividade_economica": "Gestão de investimentos em projetos de energia eólica offshore",
+        "descricao_atividade": "Atividade que envolve a gestão de investimentos em projetos de energia eólica offshore, aproveitando os ventos marítimos para gerar energia limpa e renovável.",
+        "tipo_atividade": "Financeiro",
+        "nivel_de_importancia": "7"
+      }
+    }
+  ]
+}

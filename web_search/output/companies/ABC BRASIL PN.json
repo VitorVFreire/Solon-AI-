@@ -1,22 +1,20 @@
 {
   "company_name": "Banco ABC Brasil SA",
-  "primary_activity": "Prestação de serviços bancários e financeiros",
+  "primary_activity": "Instituição financeira especializada em serviços bancários",
   "sector": "Finanças",
-  "subsector": "Bancos",
-  "industry": "Bancos Comerciais",
-  "activity_description": "O Banco ABC Brasil SA é uma instituição financeira que atua no mercado brasileiro, oferecendo uma ampla gama de serviços bancários e financeiros, incluindo crédito, investimentos e gestão de recursos. A empresa foca em atender tanto clientes corporativos quanto pessoas físicas, com ênfase em soluções personalizadas para médias e grandes empresas. Sua operação está alinhada às dinâmicas do setor financeiro no Brasil, um mercado altamente regulado e competitivo.",
+  "subsector": "Bancos comerciais",
+  "industry": "Bancos comerciais privados",
+  "activity_description": "O Banco ABC Brasil SA é uma instituição financeira especializada em serviços bancários, atuando como um banco comercial privado no Brasil. Oferece uma variedade de produtos e serviços financeiros para clientes corporativos e pessoas físicas.",
   "main_products_services": [
-    "Crédito corporativo",
-    "Gestão de investimentos",
-    "Serviços bancários para pessoas físicas",
-    "Financiamentos",
-    "Pecuária"
+    "Serviços bancários",
+    "Empréstimos",
+    "Investimentos",
+    "Financiamentos"
   ],
   "competitors": [
-    "Itaú Unibanco",
-    "Bradesco",
     "Banco do Brasil",
-    "Santander Brasil"
+    "Itaú Unibanco",
+    "Bradesco"
   ],
-  "economic_classification_code": "CNAE 6422-1/00 - Bancos múltiplos, com carteira comercial"
+  "economic_classification_code": "6412-3/00 - Bancos comerciais"
 }

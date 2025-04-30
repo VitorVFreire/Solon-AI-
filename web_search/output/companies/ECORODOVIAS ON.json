@@ -1,0 +1,19 @@
+{
+  "company_name": "EcoRodovias SA",
+  "primary_activity": "Construção e operação de rodovias",
+  "sector": "Transporte",
+  "subsector": "Infraestrutura de transporte terrestre",
+  "industry": "Construção e operação de rodovias",
+  "activity_description": "A EcoRodovias SA atua na construção e operação de rodovias, sendo responsável pela manutenção e gestão de trechos rodoviários no Brasil. A empresa oferece serviços de infraestrutura de transporte terrestre, contribuindo para a mobilidade e logística no país.",
+  "main_products_services": [
+    "Construção e operação de rodovias",
+    "Manutenção de trechos rodoviários",
+    "Gestão de infraestrutura de transporte terrestre"
+  ],
+  "competitors": [
+    "CCR SA",
+    "Arteris SA",
+    "Ecorodovias Infraestrutura e Logística SA"
+  ],
+  "economic_classification_code": "4911-6/01"
+}

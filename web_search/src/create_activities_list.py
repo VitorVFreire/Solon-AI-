@@ -5,13 +5,14 @@ from typing import List, Dict, Any
 from tqdm import tqdm
 import re
 from utils import clean_filename
+import difflib  # Para verificar similaridade de strings
 
 class ActivitiesGenerate:
     def __init__(self, llm_client: Any, system_prompt_file: str, 
-                 human_prompt_file: str, file_name: str, output_dir: str = "resultados"):
+                 human_prompt_file: str, name_file: str, output_dir: str = "resultados"):
         self.llm_client = llm_client
         self.output_dir = output_dir
-        self.file_name = file_name
+        self.name_file = name_file
         
         # Valida arquivos de prompt
         if not os.path.exists(system_prompt_file):
@@ -23,6 +24,23 @@ class ActivitiesGenerate:
         self.human_prompt = open(human_prompt_file, encoding='utf-8').read()
         os.makedirs(self.output_dir, exist_ok=True)
 
+        # Carrega atividades previamente geradas (se existirem)
+        self.activities_history_file = os.path.join(self.output_dir, f"{self.name_file}.json")
+        self.load_activities_history()
+
+    def load_activities_history(self):
+        """Carrega atividades geradas anteriormente de um arquivo JSON."""
+        if os.path.exists(self.activities_history_file):
+            with open(self.activities_history_file, 'r', encoding='utf-8') as f:
+                self.generated_activities = set(json.load(f))
+        else:
+            self.generated_activities = set()
+
+    def save_activities_history(self):
+        """Salva o conjunto de atividades geradas em um arquivo JSON."""
+        with open(self.activities_history_file, 'w', encoding='utf-8') as f:
+            json.dump(list(self.generated_activities), f, ensure_ascii=False, indent=2)
+
     def _clean_markdown(self, text: str) -> str:
         """Remove Markdown code block delimiters and extract JSON content."""
         pattern = r'```json\s*([\s\S]*?)\s*```'
@@ -31,23 +49,39 @@ class ActivitiesGenerate:
             return match.group(1).strip()
         return text.strip()
 
+    def _is_similar_activity(self, activity_name: str, existing_activities: set, threshold: float = 0.9) -> bool:
+        """Verifica se a atividade é muito semelhante a uma atividade existente."""
+        activity_name = activity_name.lower()
+        for existing in existing_activities:
+            similarity = difflib.SequenceMatcher(None, activity_name, existing).ratio()
+            if similarity > threshold:
+                return True
+        return False
+
     def generate_dependencies(self, state: Dict[str, Any]) -> Dict[str, Any]:
         batch_size = state.get('batch_size', 20)
         amount_activities = state['amount_activities']
         results = []
         required_keys = {"atividade_economica", "descricao_atividade", "tipo_atividade", "nivel_de_importancia"}
-        generated_activities = state.get('generated_activities', set())
-
+        
         # Calcula o número de lotes
         num_batches = (amount_activities + batch_size - 1) // batch_size
+        total_valid_activities = 0
+        
+        # Adicionar ao prompt do sistema instruções para evitar duplicatas
+        enhanced_system_prompt = self.system_prompt + "\n\n## ATENÇÃO ESPECIAL\nTodas as atividades econômicas devem ser completamente únicas. Evite criar atividades com nomes semelhantes ou conceitos muito próximos. Verifique cuidadosamente cada item antes de incluí-lo na lista."
 
-        for i in tqdm(range(num_batches), desc="Processando lotes", unit="lote"):
-            current_batch_size = min(batch_size, amount_activities - i * batch_size)
-            tqdm.write(f"Gerando lote {i+1}/{num_batches} com {current_batch_size} atividades")
+        while total_valid_activities < amount_activities:
+            current_batch_size = min(batch_size, amount_activities - total_valid_activities)
+            if current_batch_size <= 0:
+                break
+                
+            tqdm.write(f"Gerando lote com {current_batch_size} atividades ({total_valid_activities}/{amount_activities} completadas)")
             
-            activities_context = ", ".join(generated_activities) if generated_activities else "Nenhuma atividade gerada ainda"
+            # Inclui as atividades já geradas no contexto para que a IA as evite
+            activities_context = ", ".join(self.generated_activities) if self.generated_activities else "Nenhuma atividade gerada ainda"
             input_data = {
-                "system": self.system_prompt,
+                "system": enhanced_system_prompt,
                 "human": self.human_prompt.format(
                     amount_activities=current_batch_size,
                     existing_activities=activities_context
@@ -59,109 +93,81 @@ class ActivitiesGenerate:
                 cleaned_result = self._clean_markdown(result)
                 json_result = json.loads(cleaned_result)
                 
+                valid_items = []
+                
                 if isinstance(json_result, list):
                     for item in json_result:
                         if not isinstance(item, dict) or not all(key in item for key in required_keys):
-                            results.append({
-                                "error": f"Item inválido no lote {i+1}: chaves ausentes ou formato incorreto",
-                                "raw_response": item
-                            })
                             continue
                         
                         activity_name = item["atividade_economica"].lower()
-                        if activity_name in generated_activities:
-                            results.append({
-                                "error": f"Atividade duplicada no lote {i+1}: {item['atividade_economica']}",
-                                "raw_response": item
-                            })
-                            tqdm.write(f"Aviso: Atividade duplicada '{item['atividade_economica']}' ignorada no lote {i+1}")
+                        if activity_name in self.generated_activities or self._is_similar_activity(activity_name, self.generated_activities):
+                            tqdm.write(f"Ignorando atividade duplicada ou semelhante: '{item['atividade_economica']}'")
                             continue
                         
-                        results.append(item)
-                        generated_activities.add(activity_name)
-                
+                        valid_items.append(item)
+                        self.generated_activities.add(activity_name)
                 else:
-                    if not all(key in json_result for key in required_keys):
-                        results.append({
-                            "error": f"Resposta inválida no lote {i+1}: chaves ausentes",
-                            "raw_response": json_result
-                        })
-                    else:
+                    if all(key in json_result for key in required_keys):
                         activity_name = json_result["atividade_economica"].lower()
-                        if activity_name in generated_activities:
-                            results.append({
-                                "error": f"Atividade duplicada no lote {i+1}: {json_result['atividade_economica']}",
-                                "raw_response": json_result
-                            })
-                            tqdm.write(f"Aviso: Atividade duplicada '{json_result['atividade_economica']}' ignorada no lote {i+1}")
-                        else:
-                            results.append(json_result)
-                            generated_activities.add(activity_name)
+                        if activity_name not in self.generated_activities and not self._is_similar_activity(activity_name, self.generated_activities):
+                            valid_items.append(json_result)
+                            self.generated_activities.add(activity_name)
                 
-                valid_items = [item for item in results[-current_batch_size:] if "error" not in item]
-                if len(valid_items) < current_batch_size:
-                    tqdm.write(f"Aviso: Lote {i+1} retornou {len(valid_items)} atividades válidas de {current_batch_size} solicitadas")
-            
+                # Adiciona apenas itens válidos aos resultados
+                results.extend(valid_items)
+                total_valid_activities += len(valid_items)
+                
+                tqdm.write(f"Status: {total_valid_activities}/{amount_activities} atividades válidas geradas")
+                
+                # Se não conseguimos atividades válidas neste lote, aumentar o tamanho do próximo lote
+                if len(valid_items) == 0:
+                    batch_size = min(batch_size * 2, 50)  # Aumentar o tamanho do lote, mas não além de 50
+                    tqdm.write(f"Aumentando tamanho do lote para {batch_size} para obter mais atividades únicas")
+                
             except json.JSONDecodeError:
-                results.append({
-                    "error": f"Não foi possível parsear a resposta como JSON no lote {i+1}",
-                    "raw_response": result
-                })
-                tqdm.write(f"Erro: Não foi possível parsear JSON no lote {i+1}")
+                tqdm.write(f"Erro: Não foi possível parsear JSON na resposta")
             except Exception as e:
-                results.append({
-                    "error": f"Erro ao processar lote {i+1}: {str(e)}",
-                    "raw_response": None
-                })
-                tqdm.write(f"Erro: Falha no lote {i+1}: {str(e)}")
+                tqdm.write(f"Erro: Falha ao processar lote: {str(e)}")
 
-        state["result"] = results
-        state["generated_activities"] = generated_activities
+        # Salva o histórico de atividades geradas
+        self.save_activities_history()
+        
+        # Limita o número de resultados ao solicitado
+        state["result"] = results[:amount_activities]
+        state["generated_activities"] = self.generated_activities
         return state
     
     def format_output(self, state: Dict[str, Any]) -> Dict[str, Any]:
         results = state["result"]
         amount_activities = state["amount_activities"]
+        required_keys = {"atividade_economica", "descricao_atividade", "tipo_atividade", "nivel_de_importancia"}
         
-        # Remove duplicatas e filtra erros
+        # Garante que temos apenas atividades únicas (sem duplicatas)
         seen_activities = set()
         unique_activities = []
-        duplicates_found = 0
-        errors = []
         
         for item in results:
-            if "error" in item:
-                errors.append(item)
-                continue
             activity_name = item["atividade_economica"].lower()
-            if activity_name not in seen_activities:
+            if activity_name not in seen_activities and not self._is_similar_activity(activity_name, seen_activities):
+                for key in required_keys:
+                    if key not in item:
+                        item[key] = None
                 seen_activities.add(activity_name)
                 unique_activities.append(item)
-            else:
-                duplicates_found += 1
-                print(f"Aviso: Atividade duplicada '{item['atividade_economica']}' removida ao gerar JSON")
         
-        # Conta atividades válidas
         if len(unique_activities) < amount_activities:
             print(f"Aviso: Geradas {len(unique_activities)} atividades válidas de {amount_activities} solicitadas")
-        if duplicates_found > 0:
-            print(f"Aviso: {duplicates_found} atividades duplicadas foram removidas do JSON final")
         
-        # Estrutura o JSON com a chave atividades_economicas
+        # Cria o JSON final apenas com as atividades únicas, sem incluir erros
         output_json = {
             "atividades_economicas": unique_activities
         }
-        # Inclui erros, se houver, em uma chave separada (opcional)
-        if errors:
-            output_json["erros"] = errors
-            print(f"Aviso: {len(errors)} erros registrados no JSON final")
         
-        # Gera o arquivo JSON
-        output_path = os.path.join(self.output_dir, f"{self.file_name}.json")
+        output_path = os.path.join(self.output_dir, f"{self.name_file}.json")
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(output_json, f, ensure_ascii=False, indent=2)
         
-        # Converte apenas as atividades válidas para um DataFrame
         state["formatted_result"] = pd.DataFrame(unique_activities)
         return state
     
@@ -174,7 +180,7 @@ class ActivitiesGenerate:
         state = {
             "amount_activities": amount_activities,
             "batch_size": batch_size,
-            "generated_activities": set()
+            "generated_activities": self.generated_activities
         }
         
         state = self.generate_dependencies(state)

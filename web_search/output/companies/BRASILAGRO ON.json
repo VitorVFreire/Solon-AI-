@@ -1,20 +1,17 @@
 {
   "company_name": "BrasilAgro - Co ON NM",
-  "primary_activity": "Produção e comercialização de produtos agrícolas",
+  "primary_activity": "Agricultura",
   "sector": "Agricultura",
-  "subsector": "Agricultura e Pecuária",
-  "industry": "Produção Agrícola",
-  "activity_description": "A BrasilAgro é uma empresa brasileira focada na aquisição, desenvolvimento e exploração de propriedades rurais para a produção agrícola. Atua principalmente no cultivo de grãos, como soja e milho, além de outras culturas, e na gestão de terras para valorização e venda. Sua operação está inserida no agronegócio, um dos setores mais relevantes da economia brasileira.",
+  "subsector": "Agricultura Diversificada",
+  "industry": "Agricultura e Pecuária",
+  "activity_description": "A BrasilAgro atua no setor de agricultura, com foco em agricultura diversificada, englobando atividades agrícolas e pecuárias.",
   "main_products_services": [
-    "Soja",
-    "Milho",
-    "Algodão",
-    "Cana-de-açúcar"
+    "Produção agrícola",
+    "Pecuária"
   ],
   "competitors": [
-    "SLC Agrícola",
-    "Adecoagro",
-    "Terra Santa Agro"
+    "Agropecuária S.A.",
+    "Agricultura Ltda."
   ],
-  "economic_classification_code": "CNAE 0111-3/01 (Cultivo de culturas temporárias)"
+  "economic_classification_code": "0111-3/01"
 }

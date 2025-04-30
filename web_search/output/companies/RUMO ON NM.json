@@ -1,0 +1,20 @@
+{
+  "company_name": "RUMO Logistica Operadora Multimodal SA",
+  "primary_activity": "Operação de logística multimodal",
+  "sector": "Transporte",
+  "subsector": "Logística de transporte de carga",
+  "industry": "Operadora de logística multimodal",
+  "activity_description": "A RUMO Logística Operadora Multimodal SA atua na operação de logística multimodal, envolvendo o transporte de carga por diferentes modais, como ferroviário, rodoviário e portuário. A empresa oferece soluções integradas para o transporte eficiente de mercadorias.",
+  "main_products_services": [
+    "Operação de transporte ferroviário",
+    "Operação de transporte rodoviário",
+    "Operação de transporte portuário",
+    "Soluções integradas de logística"
+  ],
+  "competitors": [
+    "ALL - América Latina Logística",
+    "MRS Logística",
+    "VALE Logística"
+  ],
+  "economic_classification_code": null
+}

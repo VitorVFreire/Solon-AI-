@@ -1,0 +1,20 @@
+{
+  "company_name": "Duratex SA",
+  "primary_activity": "Fabricação de produtos de madeira, louças e metais sanitários",
+  "sector": "Indústria",
+  "subsector": "Indústria de materiais de construção",
+  "industry": "Indústria de materiais de construção em geral",
+  "activity_description": "A Duratex SA atua na fabricação de produtos de madeira, louças e metais sanitários, fornecendo uma ampla gama de materiais de construção para diversos fins.",
+  "main_products_services": [
+    "Madeira compensada",
+    "Louças sanitárias",
+    "Metais sanitários",
+    "Materiais de construção em geral"
+  ],
+  "competitors": [
+    "Eucatex SA",
+    "Portobello SA",
+    "Roca Sanitários SA"
+  ],
+  "economic_classification_code": "20.61-4/00"
+}

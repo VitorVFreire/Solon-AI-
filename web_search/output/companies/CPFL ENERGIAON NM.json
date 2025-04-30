@@ -1,0 +1,17 @@
+{
+  "company_name": "CPFL Energia SA",
+  "primary_activity": "Geração, transmissão e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica",
+  "activity_description": "A CPFL Energia SA atua na geração, transmissão e distribuição de energia elétrica no Brasil. A empresa fornece energia para residências, indústrias e comércios, contribuindo para o desenvolvimento e funcionamento de diversas atividades econômicas.",
+  "main_products_services": [
+    "Energia elétrica"
+  ],
+  "competitors": [
+    "Energisa",
+    "Neoenergia",
+    "Eletropaulo"
+  ],
+  "economic_classification_code": "4911"
+}

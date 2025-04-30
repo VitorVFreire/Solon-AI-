@@ -1,0 +1,19 @@
+{
+  "company_name": "BANRISUL PNB",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Banco comercial",
+  "activity_description": "O Banrisul PNB é uma instituição financeira brasileira que atua como banco comercial, oferecendo uma variedade de serviços bancários para seus clientes.",
+  "main_products_services": [
+    "Serviços bancários",
+    "Empréstimos",
+    "Investimentos"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Itaú",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6512-0/01"
+}

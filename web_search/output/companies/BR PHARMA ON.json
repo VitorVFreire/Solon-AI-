@@ -1,0 +1,19 @@
+{
+  "company_name": "Brasil Pharma SA",
+  "primary_activity": "Varejo farmacêutico",
+  "sector": "Saúde",
+  "subsector": "Farmácias e Drogarias",
+  "industry": "Varejo Farmacêutico",
+  "activity_description": "A Brasil Pharma SA atua no varejo farmacêutico, operando uma rede de farmácias e drogarias em todo o Brasil. A empresa oferece uma variedade de produtos farmacêuticos e serviços de saúde para seus clientes.",
+  "main_products_services": [
+    "Medicamentos",
+    "Produtos de saúde",
+    "Serviços farmacêuticos"
+  ],
+  "competitors": [
+    "Raia Drogasil",
+    "Pague Menos",
+    "Droga Raia"
+  ],
+  "economic_classification_code": "4731-8/00"
+}

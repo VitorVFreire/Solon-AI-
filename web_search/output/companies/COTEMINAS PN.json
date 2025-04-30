@@ -1,0 +1,19 @@
+{
+  "company_name": "COTEMINAS PN",
+  "primary_activity": "Produção e comercialização de produtos têxteis",
+  "sector": "Indústria Têxtil",
+  "subsector": "Indústria Têxtil Diversificada",
+  "industry": "Indústria Têxtil",
+  "activity_description": "A COTEMINAS PN atua na produção e comercialização de produtos têxteis, como tecidos, roupas de cama, toalhas, entre outros.",
+  "main_products_services": [
+    "Tecidos",
+    "Roupas de cama",
+    "Toalhas"
+  ],
+  "competitors": [
+    "Santista Têxtil",
+    "Hering",
+    "Malwee"
+  ],
+  "economic_classification_code": "C1711-3/01 - Fabricação de tecidos de malha"
+}

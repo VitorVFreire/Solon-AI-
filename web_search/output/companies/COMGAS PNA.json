@@ -1,0 +1,17 @@
+{
+  "company_name": "Companhia de Gas de Sao Paulo",
+  "primary_activity": "Distribuição de gás natural",
+  "sector": "Energia",
+  "subsector": "Energia - Gás Natural",
+  "industry": "Distribuição de gás natural",
+  "activity_description": "A Companhia de Gás de São Paulo atua na distribuição de gás natural para residências, indústrias e comércios na região de São Paulo, fornecendo uma fonte de energia limpa e eficiente.",
+  "main_products_services": [
+    "Distribuição de gás natural"
+  ],
+  "competitors": [
+    "Ultragaz",
+    "Copagaz",
+    "GasBrasiliano"
+  ],
+  "economic_classification_code": "49.300-2-02"
+}

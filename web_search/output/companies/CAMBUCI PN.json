@@ -1,0 +1,19 @@
+{
+  "company_name": "Cambuci SA",
+  "primary_activity": "Fabricação e comercialização de artigos esportivos",
+  "sector": "Moda",
+  "subsector": "Artigos esportivos",
+  "industry": "Fabricação de artigos esportivos",
+  "activity_description": "A Cambuci SA atua na fabricação e comercialização de artigos esportivos, incluindo roupas, calçados e acessórios para prática de esportes.",
+  "main_products_services": [
+    "Roupas esportivas",
+    "Calçados esportivos",
+    "Acessórios esportivos"
+  ],
+  "competitors": [
+    "Nike",
+    "Adidas",
+    "Puma"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Diagnosticos da America SA",
+  "primary_activity": "Laboratório de análises clínicas e diagnósticos por imagem",
+  "sector": "Saúde",
+  "subsector": "Serviços de Saúde",
+  "industry": "Laboratórios de Análises Clínicas e Diagnósticos por Imagem",
+  "activity_description": "A Diagnosticos da America SA atua como um laboratório de análises clínicas e diagnósticos por imagem, oferecendo serviços de saúde para diagnóstico e monitoramento de doenças.",
+  "main_products_services": [
+    "Exames laboratoriais",
+    "Exames de imagem",
+    "Consultas médicas especializadas"
+  ],
+  "competitors": [
+    "Fleury",
+    "Alliar",
+    "Hermes Pardini"
+  ],
+  "economic_classification_code": "8630-5/01 - Atividades de laboratórios de patologia clínica, citológica e de imagem"
+}

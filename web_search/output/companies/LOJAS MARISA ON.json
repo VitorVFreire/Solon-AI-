@@ -1,0 +1,18 @@
+{
+  "company_name": "Marisa Lojas SA",
+  "primary_activity": "Varejo de moda",
+  "sector": "Moda",
+  "subsector": "Varejo de vestuário e acessórios",
+  "industry": "Varejo de roupas e acessórios",
+  "activity_description": "A Marisa Lojas SA atua no varejo de moda, oferecendo roupas e acessórios para diversos públicos. A empresa possui lojas físicas e presença online, buscando atender as demandas do mercado de vestuário.",
+  "main_products_services": [
+    "Roupas",
+    "Acessórios de moda"
+  ],
+  "competitors": [
+    "Renner",
+    "C&A",
+    "Hering"
+  ],
+  "economic_classification_code": null
+}
