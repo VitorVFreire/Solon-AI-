@@ -1,0 +1,19 @@
+{
+  "company_name": "Bank of New York Mellon Corp",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Serviços bancários",
+  "industry": "Bancos comerciais",
+  "activity_description": "O Bank of New York Mellon Corp é uma instituição financeira que atua no setor de Finanças, mais especificamente no subsector de Serviços bancários, sendo classificado na indústria de Bancos comerciais. Oferece uma variedade de serviços financeiros, incluindo gestão de ativos, serviços de custódia e administração de investimentos.",
+  "main_products_services": [
+    "Gestão de ativos",
+    "Serviços de custódia",
+    "Administração de investimentos"
+  ],
+  "competitors": [
+    "JPMorgan Chase & Co",
+    "Bank of America Corp",
+    "Wells Fargo & Co"
+  ],
+  "economic_classification_code": "6512-0/01"
+}

@@ -1,0 +1,20 @@
+{
+  "company_name": "Saraiva SA Livreiros Editores",
+  "primary_activity": "Varejista de Livros e Editora",
+  "sector": "Comércio Varejista",
+  "subsector": "Livros e Publicações",
+  "industry": "Varejista de Livros e Editora",
+  "activity_description": "A Saraiva SA Livreiros Editores atua como varejista de livros e editora, oferecendo uma ampla variedade de títulos para seus clientes. Além disso, a empresa também publica e distribui livros em diversos segmentos.",
+  "main_products_services": [
+    "Livros",
+    "Revistas",
+    "E-books",
+    "Publicações Especializadas"
+  ],
+  "competitors": [
+    "Livraria Cultura",
+    "Livrarias Curitiba",
+    "Amazon"
+  ],
+  "economic_classification_code": null
+}

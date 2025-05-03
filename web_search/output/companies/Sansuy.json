@@ -1,0 +1,17 @@
+{
+  "company_name": "Sansuy SA Industria de Plasticos",
+  "primary_activity": "Fabricação de produtos plásticos",
+  "sector": "Indústria de Materiais de Construção",
+  "subsector": "Indústria de Embalagens",
+  "industry": "Indústria de Embalagens de Plástico",
+  "activity_description": "A Sansuy SA Indústria de Plásticos atua na fabricação de embalagens de plástico para diversos fins, como embalagens industriais, embalagens para alimentos e embalagens para produtos diversos. Seus produtos são amplamente utilizados em diferentes setores da indústria.",
+  "main_products_services": [
+    "Embalagens de plástico para diversos fins"
+  ],
+  "competitors": [
+    "Embalpack",
+    "Plastipak",
+    "Plasvale"
+  ],
+  "economic_classification_code": "22.23-6"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Tec Toy SA",
+  "primary_activity": "Fabricação e comercialização de produtos eletrônicos de consumo",
+  "sector": "Tecnologia",
+  "subsector": "Indústria de eletrônicos",
+  "industry": "Fabricação de brinquedos e dispositivos eletrônicos de entretenimento",
+  "activity_description": "A Tec Toy SA é uma empresa brasileira especializada na fabricação e comercialização de produtos eletrônicos de consumo, com foco em brinquedos e dispositivos eletrônicos de entretenimento.",
+  "main_products_services": [
+    "Brinquedos eletrônicos",
+    "Video games",
+    "Acessórios para jogos"
+  ],
+  "competitors": [
+    "Sony",
+    "Microsoft",
+    "Nintendo"
+  ],
+  "economic_classification_code": ""
+}

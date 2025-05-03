@@ -1,0 +1,19 @@
+{
+  "company_name": "Pfizer Inc BDR",
+  "primary_activity": "Desenvolvimento e fabricação de produtos farmacêuticos",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Farmacêutica",
+  "activity_description": "A Pfizer Inc BDR atua no desenvolvimento, fabricação e comercialização de produtos farmacêuticos, incluindo medicamentos e vacinas.",
+  "main_products_services": [
+    "Medicamentos",
+    "Vacinas",
+    "Produtos Farmacêuticos"
+  ],
+  "competitors": [
+    "Johnson & Johnson",
+    "Novartis",
+    "Merck & Co."
+  ],
+  "economic_classification_code": "325412"
+}

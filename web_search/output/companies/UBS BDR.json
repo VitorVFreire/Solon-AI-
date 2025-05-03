@@ -1,0 +1,19 @@
+{
+  "company_name": "UBS Group AG BDR",
+  "primary_activity": "Serviços Financeiros",
+  "sector": "Finanças",
+  "subsector": "Serviços Bancários",
+  "industry": "Bancos de Investimento",
+  "activity_description": "A UBS Group AG BDR atua no setor financeiro, oferecendo serviços bancários e de investimento, com foco em bancos de investimento.",
+  "main_products_services": [
+    "Gestão de Patrimônio",
+    "Assessoria Financeira",
+    "Investimentos"
+  ],
+  "competitors": [
+    "Credit Suisse",
+    "Goldman Sachs",
+    "Morgan Stanley"
+  ],
+  "economic_classification_code": "6512-0/01 - Bancos de Investimento"
+}

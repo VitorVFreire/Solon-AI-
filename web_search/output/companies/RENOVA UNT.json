@@ -1,0 +1,19 @@
+{
+  "company_name": "Renova Energia SA Unit",
+  "primary_activity": "Geração de energia renovável",
+  "sector": "Energia",
+  "subsector": "Energia Renovável",
+  "industry": "Energia Eólica",
+  "activity_description": "A Renova Energia SA Unit atua na geração de energia renovável, com foco em energia eólica. A empresa desenvolve, opera e mantém parques eólicos para a produção sustentável de eletricidade.",
+  "main_products_services": [
+    "Geração de energia eólica",
+    "Desenvolvimento de parques eólicos",
+    "Operação e manutenção de turbinas eólicas"
+  ],
+  "competitors": [
+    "CPFL Renováveis",
+    "AES Tietê Energia",
+    "Energimp"
+  ],
+  "economic_classification_code": "Energia - 4010"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Ourinvest RE I",
+  "primary_activity": "Investimento imobiliário",
+  "sector": "Finanças",
+  "subsector": "Investimentos",
+  "industry": "Investimento imobiliário",
+  "activity_description": "A empresa Ourinvest RE I atua no setor financeiro, mais especificamente no subsector de investimentos, com foco em investimento imobiliário.",
+  "main_products_services": [
+    "Investimento em imóveis comerciais",
+    "Investimento em imóveis residenciais",
+    "Desenvolvimento de projetos imobiliários"
+  ],
+  "competitors": [
+    "XP Investimentos",
+    "BTG Pactual",
+    "Hedge Investments"
+  ],
+  "economic_classification_code": "6492-0/00"
+}

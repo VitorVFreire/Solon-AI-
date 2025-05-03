@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de riscos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de riscos desempenham um papel fundamental no auxílio às empresas na identificação, avaliação e gestão de riscos operacionais e financeiros. Essa atividade é essencial para garantir a sustentabilidade e segurança dos negócios em um ambiente econômico cada vez mais complexo e volátil.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão de riscos ambientais",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de riscos ambientais são altamente complementares, pois ambas as atividades lidam com a identificação e gestão de riscos, sendo que os riscos ambientais podem impactar diretamente os riscos operacionais e financeiros das empresas.",
+      "economic_justification": "A gestão eficaz de riscos ambientais é essencial para a sustentabilidade e reputação das empresas, enquanto a gestão de riscos operacionais e financeiros busca garantir a continuidade dos negócios. A integração dessas duas áreas de consultoria pode fornecer uma visão abrangente dos riscos enfrentados pelas empresas."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de tecnologia da informação",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de tecnologia da informação são correlacionados devido à crescente interdependência entre a gestão de riscos e a segurança da informação nas empresas, onde falhas em uma área podem impactar diretamente a outra.",
+      "economic_justification": "A gestão eficaz de riscos de TI é essencial para proteger os ativos e dados das empresas, enquanto a consultoria em gestão de riscos busca identificar e mitigar ameaças em diversas áreas. A integração dessas atividades pode fortalecer a segurança e resiliência organizacional."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de seguros",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de seguros estão correlacionados, uma vez que a gestão de riscos é essencial para a avaliação adequada das necessidades de seguros das empresas, garantindo uma cobertura adequada e eficaz.",
+      "economic_justification": "A gestão de riscos ajuda a identificar os eventos que podem impactar negativamente as empresas, enquanto a consultoria em seguros busca mitigar esses impactos. A integração dessas atividades pode resultar em decisões mais informadas e eficazes em relação à proteção patrimonial."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas taxas de juros que podem impactar a avaliação de riscos financeiros",
+    "Instabilidade econômica que aumenta a demanda por serviços de gestão de riscos",
+    "Regulamentações governamentais que influenciam as práticas de gestão de riscos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar de acordo com a região e setor específicos. Outras correlações podem existir, mas não foram abordadas neste contexto."
+}

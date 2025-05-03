@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens de papel",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens de papel desempenha um papel fundamental na cadeia de suprimentos de diversos setores, fornecendo embalagens essenciais para acondicionar e proteger produtos de diferentes segmentos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma forte correlação entre a Indústria de embalagens de papel e a Indústria de produtos de limpeza, pois as embalagens de papel são frequentemente utilizadas para acondicionar produtos de limpeza.",
+      "economic_justification": "A Indústria de embalagens de papel fornece embalagens específicas para produtos de limpeza, sendo essencial para a comercialização e distribuição desses produtos no mercado."
+    },
+    {
+      "activity": "Indústria de alimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Cliente",
+      "correlation_description": "Há uma forte correlação entre a Indústria de embalagens de papel e a Indústria de alimentos, uma vez que as embalagens de papel são amplamente utilizadas para embalar alimentos.",
+      "economic_justification": "As embalagens de papel são comumente utilizadas na indústria alimentícia devido às suas propriedades de segurança e sustentabilidade, desempenhando um papel crucial na preservação e apresentação dos alimentos."
+    },
+    {
+      "activity": "Indústria de brinquedos",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de embalagens de papel e a Indústria de brinquedos, pois embalagens de papel são frequentemente utilizadas para embalar e apresentar brinquedos.",
+      "economic_justification": "As embalagens de papel desempenham um papel importante na indústria de brinquedos, contribuindo para a atratividade e proteção dos produtos durante o transporte e exposição nas prateleiras."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos preços da celulose e papel",
+    "Demanda por embalagens sustentáveis",
+    "Inovações tecnológicas na produção de embalagens",
+    "Legislação ambiental relacionada ao uso de materiais recicláveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da Indústria de embalagens de papel, podendo haver variações regionais e específicas de mercado que não foram abordadas."
+}

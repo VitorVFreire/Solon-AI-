@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens de cosméticos personalizadas",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens de cosméticos personalizadas desempenha um papel fundamental no setor de cosméticos, permitindo a diferenciação de produtos e a criação de identidade de marca.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de beleza sustentáveis",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação entre a indústria de embalagens de cosméticos personalizadas e a indústria de produtos de beleza sustentáveis, pois ambas buscam atender a demanda por produtos personalizados e ecologicamente corretos.",
+      "economic_justification": "A demanda por embalagens personalizadas e sustentáveis está em alta devido à preocupação crescente com o meio ambiente e a busca por produtos exclusivos no setor de cosméticos."
+    },
+    {
+      "activity": "Indústria de cosméticos naturais",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada entre a indústria de embalagens de cosméticos personalizadas e a indústria de cosméticos naturais, pois ambas estão alinhadas com a tendência de produtos personalizados e naturais.",
+      "economic_justification": "A preferência dos consumidores por produtos naturais e personalizados impulsiona a demanda por embalagens que transmitam esses valores de forma eficaz."
+    },
+    {
+      "activity": "Indústria de produtos de higiene pessoal masculinos",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Substituto",
+      "correlation_description": "Existe uma correlação fraca entre a indústria de embalagens de cosméticos personalizadas e a indústria de produtos de higiene pessoal masculinos, pois embora atendam a públicos diferentes, podem competir por recursos de marketing e produção.",
+      "economic_justification": "Ambas as indústrias buscam atrair consumidores, e recursos investidos em embalagens personalizadas podem impactar a disponibilidade de investimentos em embalagens de produtos de higiene pessoal masculinos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Tendências de consumo no setor de cosméticos",
+    "Regulamentações ambientais sobre embalagens",
+    "Inovações tecnológicas em materiais de embalagem"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral do mercado e pode variar de acordo com tendências específicas e mudanças no comportamento do consumidor."
+}

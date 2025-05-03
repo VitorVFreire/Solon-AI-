@@ -1,0 +1,21 @@
+{
+  "company_name": "Banco Santander Brasil SA",
+  "primary_activity": "Instituição financeira especializada em serviços bancários e financeiros",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Bancos comerciais de varejo",
+  "activity_description": "O Banco Santander Brasil SA é uma instituição financeira especializada em oferecer serviços bancários e financeiros para clientes no Brasil. Atua como um banco comercial de varejo, fornecendo uma ampla gama de produtos e serviços financeiros.",
+  "main_products_services": [
+    "Empréstimos",
+    "Financiamentos",
+    "Investimentos",
+    "Cartões de crédito",
+    "Seguros"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Itaú Unibanco",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6412-3/00 - Bancos comerciais"
+}

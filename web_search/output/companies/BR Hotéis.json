@@ -1,0 +1,18 @@
+{
+  "company_name": "BR Hotéis",
+  "primary_activity": "Hotelaria e Turismo",
+  "sector": "Turismo",
+  "subsector": "Hotelaria",
+  "industry": "Hotéis e Hospedagem",
+  "activity_description": "A BR Hotéis atua no setor de turismo, mais especificamente na hotelaria, oferecendo serviços de hospedagem em suas unidades hoteleiras.",
+  "main_products_services": [
+    "Serviços de hospedagem",
+    "Acomodações em hotéis"
+  ],
+  "competitors": [
+    "Rede de Hotéis X",
+    "Grupo de Hospedagem Y",
+    "Cadeia de Hotéis Z"
+  ],
+  "economic_classification_code": "5610-3/01 - Hotéis"
+}

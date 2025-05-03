@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de marketing digital para pequenas empresas",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de marketing digital para pequenas empresas desempenham um papel fundamental no apoio às estratégias de marketing online e vendas desses negócios de menor porte, auxiliando na sua visibilidade e competitividade no mercado digital.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em marketing digital",
+      "correlation_level": "4",
+      "dependency_level": "0.70",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação complementar entre os serviços de consultoria em gestão de marketing digital para pequenas empresas e os serviços de consultoria em marketing digital em geral, visto que ambos atuam na mesma área, porém com focos ligeiramente diferentes.",
+      "economic_justification": "Ambos os serviços estão inseridos no mercado de marketing digital e compartilham conhecimentos e técnicas semelhantes, sendo que a consultoria específica para pequenas empresas se destaca pela adaptação de estratégias ao contexto e recursos limitados desses negócios."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de projetos",
+      "correlation_level": "3",
+      "dependency_level": "0.50",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada complementar entre os serviços de consultoria em gestão de marketing digital para pequenas empresas e os serviços de consultoria em gestão de projetos, pois a implementação de estratégias de marketing digital pode envolver projetos específicos que requerem gerenciamento especializado.",
+      "economic_justification": "A gestão de projetos é essencial para a execução eficaz de campanhas de marketing digital, especialmente para pequenas empresas que podem ter recursos limitados e necessitam de uma abordagem estruturada para alcançar seus objetivos."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de vendas",
+      "correlation_level": "3",
+      "dependency_level": "0.45",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada complementar entre os serviços de consultoria em gestão de marketing digital para pequenas empresas e os serviços de consultoria em gestão de vendas, uma vez que a eficácia das estratégias de marketing digital pode impactar diretamente as vendas dos negócios.",
+      "economic_justification": "A gestão de vendas está intimamente ligada ao marketing digital, pois as ações de marketing bem-sucedidas podem gerar leads e oportunidades de vendas, sendo essencial uma abordagem integrada para maximizar os resultados."
+    }
+  ],
+  "macroeconomic_factors": [
+    "As principais variáveis macroeconômicas que afetam os serviços de consultoria em gestão de marketing digital para pequenas empresas incluem o crescimento do comércio eletrônico, as taxas de investimento em publicidade online, a penetração da internet em mercados locais e as políticas governamentais de incentivo ao empreendedorismo digital."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto genérico de mercado e pode variar dependendo da região e do setor específico de atuação das pequenas empresas."
+}

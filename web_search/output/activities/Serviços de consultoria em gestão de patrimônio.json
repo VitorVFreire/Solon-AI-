@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de patrimônio",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de patrimônio desempenham um papel fundamental no auxílio a indivíduos e empresas na gestão eficiente de seus ativos financeiros, visando a preservação e crescimento do capital ao longo do tempo. Essa atividade está intimamente ligada ao setor financeiro e de investimentos, atuando na orientação estratégica para a tomada de decisões financeiras sólidas e rentáveis.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão de investimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de investimentos estão fortemente correlacionados com os serviços de consultoria em gestão de patrimônio, uma vez que ambos visam otimizar a alocação de recursos financeiros para maximizar retornos e atender aos objetivos financeiros dos clientes.",
+      "economic_justification": "Ambas as atividades compartilham o objetivo comum de maximizar o potencial de crescimento do capital dos clientes, sendo a consultoria em gestão de investimentos mais focada na seleção de ativos específicos, enquanto a consultoria em gestão de patrimônio abrange uma visão mais ampla e estratégica da gestão financeira."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de riscos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de riscos estão correlacionados com os serviços de consultoria em gestão de patrimônio, pois a avaliação e mitigação de riscos financeiros são essenciais para a preservação do patrimônio e a segurança dos investimentos.",
+      "economic_justification": "A gestão eficaz de riscos é crucial para proteger o patrimônio dos clientes de perdas significativas, tornando a consultoria em gestão de riscos uma atividade complementar e essencial para a consultoria em gestão de patrimônio."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão financeira",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão financeira estão correlacionados com os serviços de consultoria em gestão de patrimônio, pois ambas as atividades envolvem a análise e planejamento financeiro para atingir objetivos de longo prazo.",
+      "economic_justification": "A consultoria em gestão financeira auxilia na estruturação de estratégias financeiras abrangentes, enquanto a consultoria em gestão de patrimônio se concentra na gestão específica de ativos e investimentos dentro desse contexto mais amplo."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxas de juros",
+    "Mercado de capitais",
+    "Regulamentações financeiras"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar dependendo das condições específicas do mercado financeiro e das preferências individuais dos clientes."
+}

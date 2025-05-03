@@ -1,0 +1,19 @@
+{
+  "company_name": "Rossi Residencial SA",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Incorporação e Construção Residencial",
+  "industry": "Construção e Incorporação de Empreendimentos Residenciais",
+  "activity_description": "A Rossi Residencial SA atua na incorporação e construção de empreendimentos residenciais, desenvolvendo projetos imobiliários para habitação.",
+  "main_products_services": [
+    "Construção de empreendimentos residenciais",
+    "Incorporação imobiliária",
+    "Venda de imóveis residenciais"
+  ],
+  "competitors": [
+    "Cyrela",
+    "MRV Engenharia",
+    "Even Construtora e Incorporadora"
+  ],
+  "economic_classification_code": "Real Estate Development and Operations"
+}

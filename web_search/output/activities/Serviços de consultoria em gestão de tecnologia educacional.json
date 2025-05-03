@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de tecnologia educacional",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de tecnologia educacional desempenham um papel fundamental na integração de tecnologias inovadoras no ambiente educacional, buscando melhorar a qualidade da educação e a eficiência dos processos educativos.",
+  "correlated_activities": [
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre os serviços de consultoria em gestão de tecnologia educacional e a Tecnologia da Informação, pois a implementação de soluções tecnológicas educacionais requer expertise em TI para garantir o funcionamento adequado e a integração eficaz dos sistemas.",
+      "economic_justification": "A Tecnologia da Informação fornece a base tecnológica necessária para o desenvolvimento e implementação de soluções educacionais inovadoras, sendo essencial para o sucesso dos projetos de tecnologia educacional."
+    },
+    {
+      "activity": "Educação",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação muito forte e uma alta dependência entre os serviços de consultoria em gestão de tecnologia educacional e a Educação, uma vez que esses serviços visam aprimorar os processos educativos e a qualidade do ensino por meio da integração de tecnologias inovadoras.",
+      "economic_justification": "Os serviços de consultoria em gestão de tecnologia educacional são diretamente voltados para o setor educacional, buscando melhorar a eficácia do ensino por meio da implementação de soluções tecnológicas, sendo essencial para a evolução e inovação na área da Educação."
+    },
+    {
+      "activity": "Consultoria em inovação",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada e uma dependência significativa entre os serviços de consultoria em gestão de tecnologia educacional e a Consultoria em inovação, uma vez que a inovação tecnológica é essencial para a evolução constante das soluções educacionais.",
+      "economic_justification": "A Consultoria em inovação contribui para a identificação e implementação de novas tecnologias no setor educacional, sendo um parceiro estratégico para a melhoria contínua dos processos educativos por meio da inovação tecnológica."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de consultoria em gestão de tecnologia educacional incluem investimentos em tecnologia educacional, políticas governamentais de incentivo à inovação na educação, e a demanda por soluções educacionais mais eficientes e personalizadas."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo das condições específicas de cada mercado regional."
+}

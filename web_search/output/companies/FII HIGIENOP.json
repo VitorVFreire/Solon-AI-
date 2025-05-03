@@ -1,0 +1,22 @@
+{
+  "company_name": "FII HIGIENOP",
+  "primary_activity": "Produção e comercialização de produtos de higiene pessoal",
+  "sector": "Indústria de Produtos de Higiene Pessoal",
+  "subsector": "Produtos de Higiene Pessoal",
+  "industry": "Higiene Pessoal",
+  "activity_description": "A empresa FII HIGIENOP atua na produção e comercialização de produtos de higiene pessoal, oferecendo uma variedade de itens para cuidados pessoais.",
+  "main_products_services": [
+    "Sabonetes",
+    "Shampoos",
+    "Condicionadores",
+    "Cremes Corporais",
+    "Desodorantes"
+  ],
+  "competitors": [
+    "Unilever",
+    "Procter & Gamble",
+    "Colgate-Palmolive",
+    "Johnson & Johnson"
+  ],
+  "economic_classification_code": "CNAE 2063-1/00"
+}

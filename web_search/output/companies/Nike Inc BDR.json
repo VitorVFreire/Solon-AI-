@@ -1,0 +1,19 @@
+{
+  "company_name": "Nike Inc BDR",
+  "primary_activity": "Fabricação e comercialização de artigos esportivos",
+  "sector": "Moda",
+  "subsector": "Calçados esportivos",
+  "industry": "Indústria de calçados esportivos",
+  "activity_description": "A Nike Inc BDR é uma empresa especializada na fabricação e comercialização de calçados esportivos, vestuário e acessórios esportivos. Seus produtos são amplamente reconhecidos no mercado global e utilizados por atletas e entusiastas do esporte.",
+  "main_products_services": [
+    "Calçados esportivos",
+    "Vestuário esportivo",
+    "Acessórios esportivos"
+  ],
+  "competitors": [
+    "Adidas AG",
+    "Puma SE",
+    "Under Armour, Inc."
+  ],
+  "economic_classification_code": null
+}

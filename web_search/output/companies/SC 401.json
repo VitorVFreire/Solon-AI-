@@ -1,0 +1,16 @@
+{
+  "company_name": "SC 401",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Desenvolvimento de Software e Serviços Relacionados",
+  "industry": "Desenvolvimento de Software",
+  "activity_description": "A empresa SC 401 atua no desenvolvimento de software e serviços relacionados, com foco em tecnologia da informação.",
+  "main_products_services": [
+    "Desenvolvimento de Software",
+    "Serviços de TI"
+  ],
+  "competitors": [
+    "Empresas de Desenvolvimento de Software e TI"
+  ],
+  "economic_classification_code": "6201-5/00"
+}

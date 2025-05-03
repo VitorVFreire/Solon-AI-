@@ -1,0 +1,44 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de projetos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de projetos desempenham um papel fundamental na melhoria da eficiência operacional e no sucesso de projetos em diversas áreas de negócio. Essa atividade é essencial para garantir a entrega de projetos dentro do prazo, orçamento e escopo definidos, contribuindo para a competitividade e inovação das empresas.",
+  "correlated_activities": [
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Os serviços de consultoria em gestão de projetos estão altamente correlacionados com a atividade de gestão de projetos, pois ambas se complementam na execução eficaz e eficiente de projetos em diferentes setores.",
+      "economic_justification": "A gestão de projetos é essencial para o sucesso de empreendimentos em diversas áreas, e a consultoria especializada agrega valor ao trazer expertise, metodologias e práticas recomendadas para otimizar o gerenciamento de projetos."
+    },
+    {
+      "activity": "Gestão de Operações",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Os serviços de consultoria em gestão de projetos têm uma correlação forte com a gestão de operações, uma vez que projetos bem gerenciados impactam diretamente a eficiência e qualidade das operações de uma organização.",
+      "economic_justification": "Uma gestão eficaz de projetos influencia diretamente a execução das operações diárias de uma empresa, garantindo que os processos sejam implementados de forma eficiente e alinhados aos objetivos estratégicos."
+    },
+    {
+      "activity": "Consultoria Empresarial",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Os serviços de consultoria em gestão de projetos estão correlacionados com a consultoria empresarial, pois a gestão eficaz de projetos é essencial para a implementação bem-sucedida de estratégias e processos de negócio.",
+      "economic_justification": "A consultoria empresarial busca melhorar a eficiência e eficácia das organizações, e a gestão de projetos desempenha um papel crucial na implementação de mudanças e na condução de iniciativas estratégicas."
+    },
+    {
+      "activity": "Gestão de Qualidade",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre os serviços de consultoria em gestão de projetos e a gestão de qualidade, uma vez que a qualidade é um aspecto fundamental a ser considerado durante a execução de projetos.",
+      "economic_justification": "A gestão de qualidade assegura que os produtos ou serviços entregues atendam aos requisitos e expectativas do cliente, sendo essencial para o sucesso de um projeto e complementar à gestão de projetos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de consultoria em gestão de projetos incluem o crescimento econômico, investimentos em infraestrutura, políticas governamentais de incentivo a projetos e a demanda por inovação e eficiência nas empresas."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante ressaltar que a correlação identificada entre as atividades econômicas é baseada em princípios econômicos e práticas comuns do mercado, no entanto, variações regionais e setoriais podem influenciar as relações identificadas."
+}

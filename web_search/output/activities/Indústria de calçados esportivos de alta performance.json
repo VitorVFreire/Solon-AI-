@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Indústria de calçados esportivos de alta performance",
+  "sector_classification": "Secundário",
+  "economic_context": "A indústria de calçados esportivos de alta performance está inserida no setor secundário da economia, sendo responsável pela fabricação de calçados especializados para atletas profissionais e praticantes de esportes de alto rendimento. Esses calçados são desenvolvidos com tecnologia avançada para garantir conforto, segurança e melhorar a performance dos usuários.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos esportivos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação forte e significativa com a indústria de equipamentos esportivos, pois ambos os setores atendem ao mercado de esportes de alto rendimento e compartilham tecnologias e inovações para melhorar o desempenho dos atletas.",
+      "economic_justification": "A indústria de calçados esportivos de alta performance e a indústria de equipamentos esportivos possuem uma relação complementar, uma vez que os calçados fazem parte do conjunto de equipamentos essenciais para atletas de alto nível. Ambos os setores buscam constantemente inovações tecnológicas para oferecer produtos de alta qualidade e desempenho aos consumidores."
+    },
+    {
+      "activity": "Indústria de tecnologia vestível",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com a indústria de tecnologia vestível, uma vez que os calçados esportivos de alta performance podem integrar tecnologias vestíveis para monitoramento e melhoria do desempenho esportivo.",
+      "economic_justification": "A indústria de calçados esportivos de alta performance pode se beneficiar da integração de tecnologias vestíveis em seus produtos, como sensores de movimento e monitoramento de desempenho. Essa colaboração pode resultar em calçados ainda mais avançados e personalizados para atletas de alto rendimento."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança para trabalho em altura",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Substituto",
+      "correlation_description": "Existe uma correlação fraca com a indústria de equipamentos de segurança para trabalho em altura, pois em alguns casos os calçados esportivos de alta performance podem ser utilizados como alternativa para garantir segurança em atividades específicas.",
+      "economic_justification": "Embora não sejam produtos diretamente substituíveis, em algumas situações os calçados esportivos de alta performance podem ser utilizados como uma opção segura em atividades que demandam calçados resistentes e de alta tecnologia, como em trabalhos em altura."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de calçados esportivos de alta performance incluem a demanda por produtos esportivos de alto desempenho, a inovação tecnológica, as tendências de mercado em esportes de alto rendimento e o poder de compra dos consumidores interessados em produtos premium."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante ressaltar que as correlações identificadas são baseadas em análises setoriais gerais e podem variar de acordo com o contexto regional e as condições específicas de mercado."
+}

@@ -1,0 +1,20 @@
+{
+  "company_name": "Portobello SA",
+  "primary_activity": "Fabricação e comercialização de revestimentos cerâmicos",
+  "sector": "Construção Civil",
+  "subsector": "Materiais de Construção",
+  "industry": "Indústria de Revestimentos Cerâmicos",
+  "activity_description": "A Portobello SA atua na fabricação e comercialização de revestimentos cerâmicos para diversos fins, incluindo pisos e azulejos. A empresa oferece uma ampla variedade de produtos de alta qualidade para o setor da construção civil.",
+  "main_products_services": [
+    "Pisos cerâmicos",
+    "Azulejos",
+    "Porcelanatos",
+    "Pastilhas decorativas"
+  ],
+  "competitors": [
+    "Eliane Revestimentos",
+    "Ceusa Revestimentos",
+    "Portinari"
+  ],
+  "economic_classification_code": null
+}

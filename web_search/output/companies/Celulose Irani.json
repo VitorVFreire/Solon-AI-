@@ -1,0 +1,18 @@
+{
+  "company_name": "Celulose Irani",
+  "primary_activity": "Produção de celulose e papel",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Papel e Celulose",
+  "industry": "Fabricação de papel e celulose",
+  "activity_description": "A Celulose Irani atua na produção de celulose e papel, fornecendo produtos para diversos segmentos industriais e comerciais. Sua principal atividade é a fabricação de papel e celulose a partir de matéria-prima sustentável.",
+  "main_products_services": [
+    "Papel",
+    "Celulose"
+  ],
+  "competitors": [
+    "Klabin",
+    "Suzano",
+    "Fibria"
+  ],
+  "economic_classification_code": "17.12-0-00 - Fabricação de papel e celulose"
+}

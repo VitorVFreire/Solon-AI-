@@ -1,0 +1,16 @@
+{
+  "company_name": "JSL SA",
+  "primary_activity": "Logística e Transporte",
+  "sector": "Transporte",
+  "subsector": "Logística e Transporte Rodoviário",
+  "industry": "Logística e Transporte de Cargas",
+  "activity_description": "A JSL SA atua no setor de transporte, mais especificamente na logística e transporte rodoviário de cargas. A empresa oferece serviços de transporte de mercadorias por meio de sua frota de veículos.",
+  "main_products_services": [
+    "Transporte Rodoviário de Cargas"
+  ],
+  "competitors": [
+    "Rumo Logística",
+    "Log-In Logística"
+  ],
+  "economic_classification_code": "4923-9/02"
+}

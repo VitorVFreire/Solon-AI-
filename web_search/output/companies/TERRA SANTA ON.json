@@ -1,0 +1,19 @@
+{
+  "company_name": "Terra Santa Agro SA",
+  "primary_activity": "Agricultura",
+  "sector": "Agricultura",
+  "subsector": "Agricultura Diversificada",
+  "industry": "Agricultura e Pecuária",
+  "activity_description": "A Terra Santa Agro SA atua no setor de agricultura, com foco em atividades diversificadas que englobam cultivo de diversos tipos de produtos agrícolas e criação de animais.",
+  "main_products_services": [
+    "Cultivo de grãos",
+    "Criação de gado",
+    "Produção de leite"
+  ],
+  "competitors": [
+    "SLC Agrícola",
+    "BrasilAgro",
+    "Agropecuária Santa Bárbara"
+  ],
+  "economic_classification_code": "0111-3/01"
+}

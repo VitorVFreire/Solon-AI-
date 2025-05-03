@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens desempenha um papel crucial na economia, fornecendo soluções de embalagem para uma ampla gama de produtos em diversos setores, como alimentos, cosméticos, farmacêutico, entre outros. Sua produção é essencial para proteção, armazenamento e transporte de mercadorias.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de alimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "A Indústria de embalagens tem uma correlação forte com a Indústria de alimentos, pois as embalagens são essenciais para acondicionar e preservar os produtos alimentícios.",
+      "economic_justification": "A Indústria de embalagens depende fortemente da Indústria de alimentos como cliente principal, uma vez que a demanda por embalagens está diretamente ligada à produção e distribuição de alimentos embalados."
+    },
+    {
+      "activity": "Indústria de cosméticos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de embalagens e a Indústria de cosméticos, devido à necessidade de embalagens específicas e atrativas para produtos cosméticos.",
+      "economic_justification": "A Indústria de embalagens atende à Indústria de cosméticos fornecendo embalagens personalizadas e diferenciadas, sendo um elo importante na apresentação e proteção dos produtos cosméticos."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Cliente",
+      "correlation_description": "Há uma correlação moderada entre a Indústria de embalagens e a Indústria de produtos de limpeza, pois as embalagens são essenciais para acondicionar e comercializar esses produtos.",
+      "economic_justification": "A Indústria de embalagens fornece embalagens adequadas para os produtos de limpeza, garantindo praticidade, segurança e atratividade nas prateleiras, o que impacta diretamente na escolha do consumidor."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos preços das matérias-primas (plástico, papel, vidro)",
+    "Tendências de sustentabilidade e embalagens eco-friendly",
+    "Inovações tecnológicas em materiais de embalagem",
+    "Regulamentações ambientais e de segurança de embalagens"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considerou principalmente o mercado nacional, podendo haver variações significativas em contextos regionais específicos."
+}

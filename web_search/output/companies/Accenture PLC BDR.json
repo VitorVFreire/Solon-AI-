@@ -1,0 +1,19 @@
+{
+  "company_name": "Accenture PLC",
+  "primary_activity": "Consultoria Empresarial",
+  "sector": "Tecnologia",
+  "subsector": "Consultoria em Tecnologia da Informação",
+  "industry": "Consultoria em Transformação Digital e Inovação",
+  "activity_description": "A Accenture PLC é uma empresa de consultoria empresarial especializada em transformação digital e inovação. Seus serviços incluem consultoria em tecnologia da informação, estratégias de negócios digitais e implementação de soluções tecnológicas.",
+  "main_products_services": [
+    "Consultoria em Transformação Digital",
+    "Consultoria em Inovação",
+    "Implementação de Soluções Tecnológicas"
+  ],
+  "competitors": [
+    "IBM",
+    "Deloitte",
+    "Capgemini"
+  ],
+  "economic_classification_code": "NA"
+}

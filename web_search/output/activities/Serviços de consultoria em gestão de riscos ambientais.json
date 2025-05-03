@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de riscos ambientais",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de riscos ambientais desempenham um papel fundamental no auxílio às empresas na identificação, avaliação e mitigação de potenciais impactos ambientais adversos em suas operações. Essa atividade é essencial para garantir a conformidade com regulamentações ambientais, reduzir riscos legais e reputacionais, e promover práticas sustentáveis de negócios.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de embalagens",
+      "correlation_level": "4",
+      "dependency_level": "0,65",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de riscos ambientais e a indústria de embalagens, pois esta última frequentemente lida com questões relacionadas à sustentabilidade, reciclagem e redução de impactos ambientais em seus produtos.",
+      "economic_justification": "As empresas de consultoria em gestão de riscos ambientais podem fornecer orientações especializadas para a indústria de embalagens no desenvolvimento de práticas mais sustentáveis, na conformidade com regulamentações ambientais e na gestão de riscos associados à cadeia de suprimentos."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza ecológicos",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Cliente",
+      "correlation_description": "Há uma correlação moderada com a indústria de produtos de limpeza ecológicos, uma vez que essas empresas buscam reduzir impactos ambientais em seus processos e produtos, podendo demandar serviços de consultoria em gestão de riscos ambientais para garantir a conformidade e a sustentabilidade de suas operações.",
+      "economic_justification": "Os serviços de consultoria em gestão de riscos ambientais podem auxiliar a indústria de produtos de limpeza ecológicos na identificação e mitigação de riscos ambientais, na certificação de práticas sustentáveis e no desenvolvimento de estratégias de responsabilidade ambiental."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de riscos em operações industriais",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação com os serviços de consultoria em gestão de riscos em operações industriais, pois ambas as atividades estão focadas na identificação e mitigação de riscos operacionais, incluindo aspectos ambientais, de saúde e segurança.",
+      "economic_justification": "A complementaridade entre os serviços de consultoria em gestão de riscos ambientais e em operações industriais permite uma abordagem integrada na gestão de riscos, garantindo a segurança, conformidade e sustentabilidade das operações das empresas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Regulamentações ambientais",
+    "Tendências de sustentabilidade",
+    "Investimentos em tecnologias verdes"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo das especificidades regionais e setoriais."
+}

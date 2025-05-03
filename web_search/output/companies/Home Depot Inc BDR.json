@@ -1,0 +1,19 @@
+{
+  "company_name": "Home Depot Inc BDR",
+  "primary_activity": "Varejista de materiais de construção",
+  "sector": "Comércio Varejista",
+  "subsector": "Materiais de Construção",
+  "industry": "Varejista de Materiais de Construção",
+  "activity_description": "A Home Depot Inc BDR atua como varejista de materiais de construção, oferecendo uma ampla variedade de produtos para construção e reforma de residências e estabelecimentos comerciais.",
+  "main_products_services": [
+    "Materiais de construção",
+    "Ferramentas",
+    "Equipamentos de segurança"
+  ],
+  "competitors": [
+    "Leroy Merlin",
+    "C&C Casa e Construção",
+    "Telhanorte"
+  ],
+  "economic_classification_code": ""
+}

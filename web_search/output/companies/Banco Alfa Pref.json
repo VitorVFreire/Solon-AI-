@@ -1,0 +1,18 @@
+{
+  "company_name": "Banco Alfa de Investimento SA Pref",
+  "primary_activity": "Instituição financeira especializada em investimentos",
+  "sector": "Finanças",
+  "subsector": "Instituições financeiras",
+  "industry": "Bancos de investimento",
+  "activity_description": "O Banco Alfa de Investimento SA Pref é uma instituição financeira especializada em investimentos, oferecendo serviços de assessoria financeira, gestão de carteiras e investimentos em diversos ativos financeiros.",
+  "main_products_services": [
+    "Assessoria financeira",
+    "Gestão de carteiras",
+    "Investimentos em diversos ativos financeiros"
+  ],
+  "competitors": [
+    "Banco Beta de Investimento",
+    "Banco Gama de Investimento"
+  ],
+  "economic_classification_code": "6411-7/01"
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "ArcelorMittal BDR",
+  "primary_activity": "Produção e comercialização de aço e produtos siderúrgicos",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Siderurgia",
+  "industry": "Produção de aço e produtos siderúrgicos",
+  "activity_description": "A ArcelorMittal BDR é uma empresa do setor de Indústria Metalúrgica, atuando especificamente na produção e comercialização de aço e produtos siderúrgicos. Sua principal atividade consiste na fabricação de diferentes tipos de aço para diversos fins industriais e comerciais.",
+  "main_products_services": [
+    "Aço",
+    "Produtos siderúrgicos"
+  ],
+  "competitors": [
+    "Usiminas",
+    "Gerdau",
+    "CSN"
+  ],
+  "economic_classification_code": "27.11-0-00 - Fabricação de produtos siderúrgicos semiacabados, barras, perfis e fios de aço"
+}

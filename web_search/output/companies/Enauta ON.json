@@ -1,0 +1,19 @@
+{
+  "company_name": "Enauta Participacoes SA",
+  "primary_activity": "Exploração e produção de petróleo e gás",
+  "sector": "Energia",
+  "subsector": "Exploração e Produção de Petróleo e Gás",
+  "industry": "Exploração e Produção de Petróleo e Gás",
+  "activity_description": "A Enauta Participacoes SA atua na exploração e produção de petróleo e gás, buscando reservatórios de hidrocarbonetos para extração e comercialização. A empresa opera em campos terrestres e marítimos, contribuindo para o setor energético.",
+  "main_products_services": [
+    "Exploração de campos de petróleo",
+    "Produção de petróleo e gás",
+    "Comercialização de hidrocarbonetos"
+  ],
+  "competitors": [
+    "Petrobras",
+    "Equinor",
+    "Shell"
+  ],
+  "economic_classification_code": "0610-7/01"
+}

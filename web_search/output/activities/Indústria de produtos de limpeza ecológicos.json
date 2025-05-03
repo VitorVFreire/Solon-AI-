@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de produtos de limpeza ecológicos",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A Indústria de produtos de limpeza ecológicos está inserida no setor secundário da economia, sendo responsável pela fabricação de produtos de limpeza que são ambientalmente sustentáveis e respeitam o meio ambiente. Essa atividade tem ganhado importância devido ao aumento da conscientização ambiental e da demanda por produtos ecologicamente corretos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos orgânicos",
+      "correlation_level": "4",
+      "dependency_level": "0,65",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação forte entre a Indústria de produtos de limpeza ecológicos e a Indústria de produtos orgânicos, pois ambos os setores estão focados em produtos sustentáveis e saudáveis. A demanda por produtos orgânicos pode impulsionar a procura por produtos de limpeza ecológicos.",
+      "economic_justification": "Ambos os setores compartilham valores semelhantes de sustentabilidade e saúde, atendendo a um público consumidor preocupado com o meio ambiente e com a saúde. A sinergia entre produtos orgânicos e produtos de limpeza ecológicos pode resultar em estratégias de marketing conjuntas e parcerias comerciais."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de produtos de limpeza ecológicos e a Indústria de embalagens sustentáveis, pois ambas buscam reduzir o impacto ambiental de seus produtos. A escolha de embalagens sustentáveis pode ser um diferencial para os produtos de limpeza ecológicos.",
+      "economic_justification": "A preocupação com a sustentabilidade permeia toda a cadeia produtiva, desde a fabricação dos produtos até sua embalagem. A colaboração com fornecedores de embalagens sustentáveis pode fortalecer a imagem e a proposta de valor dos produtos de limpeza ecológicos."
+    },
+    {
+      "activity": "Indústria de produtos de higiene pessoal naturais",
+      "correlation_level": "2",
+      "dependency_level": "0,35",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação fraca entre a Indústria de produtos de limpeza ecológicos e a Indústria de produtos de higiene pessoal naturais, pois ambos os setores compartilham a preocupação com ingredientes naturais e saudáveis, mas atendem a necessidades diferentes dos consumidores.",
+      "economic_justification": "Embora haja uma sobreposição de valores e princípios entre os setores, os produtos de limpeza ecológicos e os produtos de higiene pessoal naturais geralmente são adquiridos por públicos distintos. No entanto, estratégias de marketing conjunto podem explorar essa sinergia."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas ambientais e de sustentabilidade",
+    "Tendências de consumo consciente",
+    "Preocupações com a saúde e bem-estar",
+    "Inovações tecnológicas em produtos sustentáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da economia e pode variar dependendo de fatores regionais e específicos de cada mercado."
+}

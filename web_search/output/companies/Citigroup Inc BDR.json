@@ -1,0 +1,19 @@
+{
+  "company_name": "Citigroup Inc BDR",
+  "primary_activity": "Serviços Financeiros",
+  "sector": "Finanças",
+  "subsector": "Bancos Diversos",
+  "industry": "Bancos Comerciais",
+  "activity_description": "A Citigroup Inc BDR atua no setor de Finanças, mais especificamente no subsector de Bancos Diversos, oferecendo serviços como empréstimos, investimentos e gestão financeira.",
+  "main_products_services": [
+    "Empréstimos",
+    "Investimentos",
+    "Gestão Financeira"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Itaú Unibanco",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6512-0/00"
+}

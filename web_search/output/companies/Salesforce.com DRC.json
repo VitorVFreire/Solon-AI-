@@ -1,0 +1,19 @@
+{
+  "company_name": "Salesforce com Inc DRC",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Software e Serviços de TI",
+  "industry": "Desenvolvimento de Software e Serviços Relacionados",
+  "activity_description": "A Salesforce com Inc DRC atua no desenvolvimento de software e prestação de serviços relacionados, com foco em soluções de CRM e nuvem.",
+  "main_products_services": [
+    "Soluções de CRM",
+    "Plataformas de nuvem",
+    "Serviços de consultoria em TI"
+  ],
+  "competitors": [
+    "Microsoft",
+    "Oracle",
+    "SAP"
+  ],
+  "economic_classification_code": "6201-5/00 - Desenvolvimento de programas de computador sob encomenda"
+}

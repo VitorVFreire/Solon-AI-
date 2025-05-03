@@ -1,0 +1,20 @@
+{
+  "company_name": "Taurus Armas Right Series B",
+  "primary_activity": "Fabricação e venda de armas de fogo e acessórios",
+  "sector": "Indústria de Defesa",
+  "subsector": "Fabricação de armas de fogo",
+  "industry": "Indústria de armas de fogo",
+  "activity_description": "A Taurus Armas Right Series B é uma empresa especializada na fabricação e venda de armas de fogo e acessórios, atuando no setor da Indústria de Defesa. Seus principais produtos incluem revólveres, pistolas, rifles e acessórios relacionados.",
+  "main_products_services": [
+    "Revólveres",
+    "Pistolas",
+    "Rifles",
+    "Acessórios para armas de fogo"
+  ],
+  "competitors": [
+    "Smith & Wesson",
+    "Glock",
+    "Beretta"
+  ],
+  "economic_classification_code": "332994"
+}

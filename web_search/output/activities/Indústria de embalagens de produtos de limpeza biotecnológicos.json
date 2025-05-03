@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens de produtos de limpeza biotecnológicos",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens de produtos de limpeza biotecnológicos está inserida no setor secundário da economia, atuando na manufatura de embalagens inovadoras para produtos de limpeza desenvolvidos com base em biotecnologia, com foco na sustentabilidade. Esta atividade desempenha um papel fundamental na cadeia produtiva dos produtos de limpeza biotecnológicos, agregando valor ao produto final e contribuindo para a promoção de práticas mais sustentáveis no setor de limpeza.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza biotecnológicos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação forte entre a Indústria de embalagens de produtos de limpeza biotecnológicos e a Indústria de produtos de limpeza biotecnológicos, devido à complementaridade entre os produtos fabricados por ambos os setores. As embalagens inovadoras desenvolvidas pela indústria de embalagens atendem às necessidades específicas dos produtos de limpeza biotecnológicos, agregando valor e sustentabilidade.",
+      "economic_justification": "A indústria de embalagens de produtos de limpeza biotecnológicos depende diretamente da demanda e inovação da Indústria de produtos de limpeza biotecnológicos. A qualidade e eficiência das embalagens impactam diretamente a percepção do consumidor sobre os produtos de limpeza, tornando essa relação de complementaridade essencial para o sucesso de ambas as atividades."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de embalagens de produtos de limpeza biotecnológicos e a Indústria de embalagens sustentáveis, devido à busca por práticas sustentáveis em ambas as atividades. A indústria de embalagens sustentáveis pode fornecer soluções complementares e inovadoras para a embalagem de produtos de limpeza biotecnológicos.",
+      "economic_justification": "Ambas as indústrias compartilham o compromisso com a sustentabilidade e a inovação em embalagens. A colaboração entre a Indústria de embalagens de produtos de limpeza biotecnológicos e a Indústria de embalagens sustentáveis pode resultar em soluções mais eficientes e ecologicamente corretas, atendendo à demanda por produtos mais sustentáveis no mercado."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza sustentáveis",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação fraca entre a Indústria de embalagens de produtos de limpeza biotecnológicos e a Indústria de produtos de limpeza sustentáveis, devido à sinergia na oferta de produtos sustentáveis para o mercado. Embora haja uma relação, a dependência direta é limitada.",
+      "economic_justification": "A Indústria de embalagens de produtos de limpeza biotecnológicos pode encontrar oportunidades de colaboração com a Indústria de produtos de limpeza sustentáveis na promoção de produtos ecologicamente corretos. Apesar da correlação fraca, a cooperação entre esses setores pode impulsionar a inovação e a conscientização ambiental."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Inovação em embalagens sustentáveis",
+    "Demanda por produtos de limpeza biotecnológicos",
+    "Tendências de consumo sustentável",
+    "Regulamentações ambientais sobre embalagens"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o cenário atual de mercado e as tendências sustentáveis, mas variações significativas na demanda ou regulamentações podem afetar as correlações identificadas."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Abbott Laboratories BDR",
+  "primary_activity": "Desenvolvimento e comercialização de produtos farmacêuticos e de saúde",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Indústria Farmacêutica",
+  "activity_description": "A Abbott Laboratories BDR atua no desenvolvimento, fabricação e comercialização de produtos farmacêuticos e de saúde, incluindo medicamentos, dispositivos médicos e produtos nutricionais.",
+  "main_products_services": [
+    "Medicamentos",
+    "Dispositivos Médicos",
+    "Produtos Nutricionais"
+  ],
+  "competitors": [
+    "Johnson & Johnson",
+    "Pfizer Inc.",
+    "Novartis AG"
+  ],
+  "economic_classification_code": "325412"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Celulose Irani SA Pref",
+  "primary_activity": "Produção de celulose e papel",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Papel e Celulose",
+  "industry": "Produção de Celulose e Papel",
+  "activity_description": "A empresa Celulose Irani SA Pref atua na produção de celulose e papel, fornecendo produtos para diversos setores da indústria.",
+  "main_products_services": [
+    "Celulose",
+    "Papel",
+    "Embalagens de papel"
+  ],
+  "competitors": [
+    "Klabin",
+    "Suzano",
+    "Fibria"
+  ],
+  "economic_classification_code": "17.21-2-00 - Fabricação de papel e celulose"
+}

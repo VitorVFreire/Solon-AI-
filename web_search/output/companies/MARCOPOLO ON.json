@@ -1,0 +1,19 @@
+{
+  "company_name": "Marcopolo SA",
+  "primary_activity": "Fabricação de ônibus e carrocerias",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de Ônibus e Carrocerias",
+  "industry": "Fabricação de Ônibus e Carrocerias para Transporte Coletivo",
+  "activity_description": "A Marcopolo SA é uma empresa brasileira especializada na fabricação de ônibus e carrocerias para transporte coletivo. Seus principais produtos incluem ônibus urbanos, rodoviários e micro-ônibus, atendendo tanto o mercado interno quanto o externo.",
+  "main_products_services": [
+    "Ônibus Urbanos",
+    "Ônibus Rodoviários",
+    "Micro-ônibus"
+  ],
+  "competitors": [
+    "Comil Ônibus",
+    "Caio Induscar",
+    "Busscar Ônibus"
+  ],
+  "economic_classification_code": "CNAE 2930-1/02"
+}

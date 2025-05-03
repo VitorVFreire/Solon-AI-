@@ -1,0 +1,19 @@
+{
+  "company_name": "Banco Mercantil de Investimentos SA",
+  "primary_activity": "Instituição financeira especializada em investimentos",
+  "sector": "Finanças",
+  "subsector": "Serviços financeiros",
+  "industry": "Bancos de investimento",
+  "activity_description": "O Banco Mercantil de Investimentos SA é uma instituição financeira especializada em investimentos, atuando no setor de finanças, no subsector de serviços financeiros e na indústria de bancos de investimento. Oferece serviços de assessoria financeira, gestão de investimentos e consultoria em operações financeiras complexas.",
+  "main_products_services": [
+    "Assessoria financeira",
+    "Gestão de investimentos",
+    "Consultoria em operações financeiras"
+  ],
+  "competitors": [
+    "Banco BTG Pactual",
+    "Banco Safra",
+    "Banco Itaú BBA"
+  ],
+  "economic_classification_code": "6412-4/00"
+}

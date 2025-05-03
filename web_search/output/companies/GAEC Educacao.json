@@ -1,0 +1,17 @@
+{
+  "company_name": "GAEC Educacao SA",
+  "primary_activity": "Educação",
+  "sector": "Educação",
+  "subsector": "Educação Básica e Superior",
+  "industry": "Ensino Fundamental, Médio e Superior",
+  "activity_description": "A GAEC Educacao SA atua no setor de Educação, mais especificamente no subsector de Educação Básica e Superior, oferecendo serviços de ensino fundamental, médio e superior.",
+  "main_products_services": [
+    "Ensino Fundamental",
+    "Ensino Médio",
+    "Ensino Superior"
+  ],
+  "competitors": [
+    "Instituições de Ensino concorrentes"
+  ],
+  "economic_classification_code": "8291-1/00"
+}

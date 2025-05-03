@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de comunicação",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de comunicação desempenham um papel fundamental no auxílio às empresas na definição e implementação de estratégias de comunicação eficazes, tanto internamente quanto externamente. Essa atividade contribui para a construção de uma imagem positiva da empresa, fortalecimento da marca e relacionamento com os stakeholders.",
+  "correlated_activities": [
+    {
+      "activity": "Marketing Digital",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de comunicação e o marketing digital possuem uma correlação forte e complementar, uma vez que a comunicação eficaz é essencial para o sucesso das estratégias de marketing digital. Ambas as atividades buscam promover a imagem da empresa e engajar o público-alvo.",
+      "economic_justification": "A comunicação eficaz é essencial para transmitir a mensagem da marca de forma consistente e impactante, o que é fundamental para o sucesso das campanhas de marketing digital. A integração entre essas atividades maximiza os resultados e a eficácia das ações de comunicação e marketing."
+    },
+    {
+      "activity": "Serviços de consultoria em marketing",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de comunicação e os serviços de consultoria em marketing possuem uma correlação moderada e complementar, uma vez que a comunicação eficaz é essencial para o desenvolvimento e implementação de estratégias de marketing bem-sucedidas.",
+      "economic_justification": "A comunicação eficaz desempenha um papel crucial na definição da mensagem da marca e na interação com o público-alvo, aspectos fundamentais para o sucesso das estratégias de marketing. A integração dessas atividades permite uma abordagem mais abrangente e coerente na construção da imagem da empresa."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "2",
+      "dependency_level": "0.40",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de comunicação e a gestão de projetos possuem uma correlação fraca e complementar, uma vez que a comunicação eficaz é essencial para o alinhamento e engajamento das equipes em projetos corporativos.",
+      "economic_justification": "A comunicação eficaz desempenha um papel fundamental na coordenação e execução de projetos, garantindo o alinhamento de objetivos, a motivação das equipes e o sucesso das iniciativas empresariais. A integração dessas atividades contribui para a eficiência e eficácia na implementação de projetos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de consultoria em gestão de comunicação incluem o crescimento econômico, a concorrência no mercado, as tendências de consumo, a inovação tecnológica e as políticas governamentais relacionadas à comunicação e publicidade."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de mercado e pode variar de acordo com as características específicas de cada empresa e setor de atuação."
+}

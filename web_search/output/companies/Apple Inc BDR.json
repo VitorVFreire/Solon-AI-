@@ -1,0 +1,19 @@
+{
+  "company_name": "Apple Inc BDR",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Hardware e Equipamentos Eletrônicos",
+  "industry": "Fabricação de Produtos Eletrônicos",
+  "activity_description": "A Apple Inc é uma empresa multinacional de tecnologia conhecida por seus produtos eletrônicos, como iPhones, iPads e MacBooks. Atua principalmente na fabricação e comercialização de dispositivos eletrônicos.",
+  "main_products_services": [
+    "iPhones",
+    "iPads",
+    "MacBooks"
+  ],
+  "competitors": [
+    "Samsung Electronics",
+    "Huawei Technologies",
+    "Dell Technologies"
+  ],
+  "economic_classification_code": "2610000"
+}

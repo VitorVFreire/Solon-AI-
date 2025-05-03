@@ -1,0 +1,31 @@
+{
+  "economic_activity": "Serviços Jurídicos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os Serviços Jurídicos são essenciais para a sociedade e para o funcionamento do sistema legal, fornecendo consultoria, representação e assessoria em questões legais para indivíduos, empresas e instituições.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria Financeira",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os Serviços Jurídicos e a Consultoria Financeira são altamente complementares, pois as decisões financeiras muitas vezes envolvem aspectos legais complexos que exigem aconselhamento jurídico especializado.",
+      "economic_justification": "A Consultoria Financeira frequentemente lida com questões que têm implicações legais, como planejamento tributário, estruturação de negócios e conformidade regulatória, tornando a colaboração com os Serviços Jurídicos fundamental para garantir a conformidade e eficácia das decisões financeiras."
+    },
+    {
+      "activity": "Serviços de Consultoria em Marketing",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Os Serviços Jurídicos e os Serviços de Consultoria em Marketing possuem uma relação de cliente-fornecedor, onde os Serviços Jurídicos contratam os serviços de marketing para promover sua expertise e atrair clientes.",
+      "economic_justification": "Os Serviços Jurídicos podem se beneficiar da expertise em marketing para promover seus serviços e alcançar um público mais amplo, enquanto os Serviços de Consultoria em Marketing podem encontrar nos Serviços Jurídicos uma demanda constante por seus serviços especializados."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas regulamentações legais e fiscais",
+    "Taxas de juros que impactam investimentos e transações financeiras",
+    "Crescimento econômico que influencia a demanda por serviços jurídicos",
+    "Mudanças na legislação que afetam a estrutura de negócios e contratos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A correlação com outras atividades pode variar dependendo do contexto regional e das especificidades do mercado."
+}

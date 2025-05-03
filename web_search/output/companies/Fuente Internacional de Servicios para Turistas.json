@@ -1,0 +1,17 @@
+{
+  "company_name": "Fuente Internacional de Servicios para Turistas Ltd",
+  "primary_activity": "Serviços para Turistas",
+  "sector": "Turismo",
+  "subsector": "Serviços para Turistas",
+  "industry": "Agência de Viagens",
+  "activity_description": "A Fuente Internacional de Servicios para Turistas Ltd atua no setor de Turismo, mais especificamente no subsector de Serviços para Turistas, oferecendo serviços como agenciamento de viagens, reservas de hotéis e passeios turísticos.",
+  "main_products_services": [
+    "Agenciamento de Viagens",
+    "Reservas de Hotéis",
+    "Passeios Turísticos"
+  ],
+  "competitors": [
+    "Agências de Viagens concorrentes"
+  ],
+  "economic_classification_code": ""
+}

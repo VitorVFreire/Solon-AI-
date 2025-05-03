@@ -1,0 +1,20 @@
+{
+  "company_name": "Pettenati SA Industria Textil",
+  "primary_activity": "Fabricação de tecidos e produtos têxteis",
+  "sector": "Indústria Têxtil",
+  "subsector": "Tecidos e Produtos Têxteis",
+  "industry": "Indústria Têxtil",
+  "activity_description": "A Pettenati SA Indústria Têxtil atua na fabricação de tecidos e produtos têxteis, fornecendo uma variedade de materiais para diferentes segmentos de mercado.",
+  "main_products_services": [
+    "Tecidos",
+    "Malhas",
+    "Fios",
+    "Produtos Têxteis"
+  ],
+  "competitors": [
+    "Santista Têxtil",
+    "Hering Textil",
+    "Sulamericana Têxtil"
+  ],
+  "economic_classification_code": null
+}

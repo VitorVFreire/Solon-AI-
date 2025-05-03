@@ -1,0 +1,19 @@
+{
+  "company_name": "Banco Inter Unit",
+  "primary_activity": "Instituição financeira digital",
+  "sector": "Finanças",
+  "subsector": "Bancos digitais",
+  "industry": "Serviços financeiros online",
+  "activity_description": "O Banco Inter Unit é uma instituição financeira digital que oferece serviços bancários online, como conta corrente, cartão de crédito e investimentos, sem agências físicas.",
+  "main_products_services": [
+    "Conta corrente digital",
+    "Cartão de crédito",
+    "Investimentos online"
+  ],
+  "competitors": [
+    "Nubank",
+    "Neon",
+    "C6 Bank"
+  ],
+  "economic_classification_code": "6419-1/00 - Bancos múltiplos, com carteira comercial"
+}

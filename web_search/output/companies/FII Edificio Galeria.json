@@ -1,0 +1,16 @@
+{
+  "company_name": "FI Imobiliario BM Edificio Galeria",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Construção Civil",
+  "subsector": "Desenvolvimento e Investimento Imobiliário",
+  "industry": "Fundos de Investimento Imobiliário",
+  "activity_description": "A empresa atua no desenvolvimento e investimento em imóveis, principalmente por meio de fundos de investimento imobiliário.",
+  "main_products_services": [
+    "Gestão de Fundos Imobiliários",
+    "Investimento em Projetos Imobiliários"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário"
+  ],
+  "economic_classification_code": "Real Estate Investment Trusts (REITs)"
+}

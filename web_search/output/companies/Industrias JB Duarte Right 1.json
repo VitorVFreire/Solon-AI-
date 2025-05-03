@@ -1,0 +1,19 @@
+{
+  "company_name": "Industrias JB Duarte SA Right 1",
+  "primary_activity": "Indústria Metalúrgica",
+  "sector": "Indústria",
+  "subsector": "Metalurgia",
+  "industry": "Metalurgia em Geral",
+  "activity_description": "Fabricação e comercialização de produtos metálicos, tais como peças, estruturas e equipamentos em geral.",
+  "main_products_services": [
+    "Peças metálicas",
+    "Estruturas metálicas",
+    "Equipamentos metálicos"
+  ],
+  "competitors": [
+    "Metalúrgica Silva",
+    "Indústria Metalúrgica Nacional",
+    "Metalúrgica Ferro e Aço"
+  ],
+  "economic_classification_code": ""
+}

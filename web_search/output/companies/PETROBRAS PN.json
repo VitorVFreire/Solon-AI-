@@ -1,0 +1,19 @@
+{
+  "company_name": "Petroleo Brasileiro SA PN",
+  "primary_activity": "Exploração, produção, refino e distribuição de petróleo e derivados",
+  "sector": "Energia",
+  "subsector": "Petróleo e Gás",
+  "industry": "Exploração e Produção de Petróleo",
+  "activity_description": "A Petroleo Brasileiro SA PN atua na exploração, produção, refino e distribuição de petróleo e derivados, sendo uma das principais empresas do setor de petróleo e gás no Brasil.",
+  "main_products_services": [
+    "Petróleo",
+    "Gás Natural",
+    "Derivados de Petróleo"
+  ],
+  "competitors": [
+    "Shell",
+    "Chevron",
+    "ExxonMobil"
+  ],
+  "economic_classification_code": "0610-7/01"
+}

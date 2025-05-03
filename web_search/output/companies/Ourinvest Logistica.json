@@ -1,0 +1,19 @@
+{
+  "company_name": "Ourinvest Logistica",
+  "primary_activity": "Logística e transporte de mercadorias",
+  "sector": "Logística",
+  "subsector": "Transporte de Cargas",
+  "industry": "Logística e Transporte de Cargas",
+  "activity_description": "A Ourinvest Logistica atua na prestação de serviços de logística e transporte de mercadorias, oferecendo soluções de armazenagem, distribuição e transporte de cargas.",
+  "main_products_services": [
+    "Transporte de cargas",
+    "Armazenagem",
+    "Distribuição de mercadorias"
+  ],
+  "competitors": [
+    "JSL",
+    "Rodojacto",
+    "Tegma"
+  ],
+  "economic_classification_code": null
+}

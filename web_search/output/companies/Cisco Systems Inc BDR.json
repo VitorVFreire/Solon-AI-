@@ -1,0 +1,19 @@
+{
+  "company_name": "Cisco Systems Inc BDR",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Hardware de Rede e Equipamentos de Comunicação",
+  "industry": "Equipamentos de Rede",
+  "activity_description": "A Cisco Systems Inc BDR atua no desenvolvimento e fabricação de equipamentos de rede, incluindo roteadores, switches e soluções de segurança para redes de comunicação.",
+  "main_products_services": [
+    "Roteadores",
+    "Switches",
+    "Soluções de Segurança de Rede"
+  ],
+  "competitors": [
+    "Huawei Technologies Co. Ltd.",
+    "Juniper Networks Inc.",
+    "Hewlett Packard Enterprise Company"
+  ],
+  "economic_classification_code": "6201-5/00 - Desenvolvimento e Produção de Equipamentos de Comunicação"
+}

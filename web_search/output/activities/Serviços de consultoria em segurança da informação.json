@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de consultoria em segurança da informação",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em segurança da informação desempenham um papel fundamental na proteção de dados e sistemas contra ameaças cibernéticas, sendo essenciais para empresas que lidam com informações sensíveis e buscam garantir a integridade e confidencialidade de seus dados.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão de riscos",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Os serviços de consultoria em segurança da informação e em gestão de riscos são altamente complementares, uma vez que a segurança da informação é parte fundamental da gestão de riscos corporativos.",
+      "economic_justification": "A consultoria em segurança da informação visa proteger ativos digitais e reduzir vulnerabilidades, enquanto a consultoria em gestão de riscos busca identificar, avaliar e mitigar os riscos que podem afetar a organização, sendo essencial considerar a segurança da informação como um dos principais aspectos de gestão de riscos."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de tecnologia da informação",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Os serviços de consultoria em segurança da informação e em gestão de tecnologia da informação são complementares, pois a segurança da informação é um componente essencial da gestão de TI.",
+      "economic_justification": "A segurança da informação é um aspecto crítico da gestão de tecnologia da informação, uma vez que a proteção dos dados e sistemas é fundamental para o bom funcionamento e integridade das operações de TI de uma organização."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de riscos ambientais",
+      "correlation_level": "2",
+      "dependency_level": "0.40",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Os serviços de consultoria em segurança da informação e em gestão de riscos ambientais possuem uma correlação fraca, mas complementar, devido à necessidade de proteção de informações sensíveis em ambientes sujeitos a riscos ambientais.",
+      "economic_justification": "Ambos os serviços lidam com a identificação e mitigação de riscos, sendo importante considerar a segurança da informação em ambientes onde riscos ambientais podem impactar a integridade dos dados e sistemas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que podem afetar os serviços de consultoria em segurança da informação incluem a evolução das ameaças cibernéticas, regulamentações de proteção de dados, investimentos em tecnologias de segurança, e a conscientização das empresas sobre a importância da segurança da informação."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera correlações gerais e pode variar de acordo com o contexto específico de cada empresa ou setor."
+}

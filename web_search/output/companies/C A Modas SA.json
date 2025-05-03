@@ -1,0 +1,18 @@
+{
+  "company_name": "C A Modas SA",
+  "primary_activity": "Comércio Varejista de Moda",
+  "sector": "Moda",
+  "subsector": "Vestuário",
+  "industry": "Varejo de Moda",
+  "activity_description": "A C A Modas SA atua no comércio varejista de moda, oferecendo roupas, acessórios e calçados para seus clientes. Seu foco está na venda de produtos de vestuário para o público em geral.",
+  "main_products_services": [
+    "Roupas",
+    "Acessórios",
+    "Calçados"
+  ],
+  "competitors": [
+    "Lojas de Departamento de Moda",
+    "Outras Lojas de Moda Varejistas"
+  ],
+  "economic_classification_code": null
+}

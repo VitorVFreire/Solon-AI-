@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Agricultura",
+  "sector_classification": "Primário",
+  "economic_context": "A agricultura é uma atividade fundamental para a produção de alimentos, fibras e matérias-primas essenciais para diversas indústrias. É a base da segurança alimentar e tem impacto direto na economia global.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Alimentícia",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Cliente",
+      "correlation_description": "A agricultura fornece matérias-primas essenciais para a Indústria Alimentícia, sendo um elo crucial na cadeia de produção de alimentos.",
+      "economic_justification": "A Indústria Alimentícia depende diretamente dos produtos agrícolas para a fabricação de alimentos processados, bebidas, entre outros. Qualquer variação na produção agrícola impacta diretamente a disponibilidade e os preços dos alimentos."
+    },
+    {
+      "activity": "Indústria de Produtos de Limpeza",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "Agricultura fornece matérias-primas naturais utilizadas na fabricação de produtos de limpeza, como óleos essenciais e extratos vegetais.",
+      "economic_justification": "A Indústria de Produtos de Limpeza utiliza ingredientes derivados de plantas cultivadas na agricultura para desenvolver produtos de limpeza naturais e sustentáveis. Qualquer alteração na produção agrícola pode afetar a disponibilidade desses insumos."
+    },
+    {
+      "activity": "Indústria Têxtil",
+      "correlation_level": "3",
+      "dependency_level": "0,65",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Agricultura fornece fibras naturais, como algodão e linho, para a Indústria Têxtil na produção de tecidos e roupas.",
+      "economic_justification": "A Indústria Têxtil depende da agricultura para obter matérias-primas como algodão, linho e outras fibras naturais. Variações na produção agrícola afetam a oferta e os preços dessas matérias-primas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações climáticas e sazonais",
+    "Preços de commodities agrícolas",
+    "Políticas governamentais de incentivo à agricultura",
+    "Demanda global por alimentos e matérias-primas agrícolas"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera correlações gerais e pode variar dependendo das condições específicas de cada região ou mercado."
+}

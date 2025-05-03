@@ -1,0 +1,18 @@
+{
+  "company_name": "Ultrapar Participacoes SA",
+  "primary_activity": "Distribuição de combustíveis e produtos químicos",
+  "sector": "Energia",
+  "subsector": "Distribuição de combustíveis e produtos químicos",
+  "industry": "Distribuição de combustíveis e produtos químicos",
+  "activity_description": "A Ultrapar Participacoes SA atua principalmente na distribuição de combustíveis e produtos químicos, operando em diversos segmentos do mercado energético.",
+  "main_products_services": [
+    "Distribuição de combustíveis",
+    "Distribuição de produtos químicos"
+  ],
+  "competitors": [
+    "Petrobras Distribuidora",
+    "Raízen",
+    "Ipiranga"
+  ],
+  "economic_classification_code": "4671100"
+}

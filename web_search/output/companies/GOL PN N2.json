@@ -1,0 +1,17 @@
+{
+  "company_name": "Gol Linhas Aereas Inteligentes SA Pref",
+  "primary_activity": "Transporte aéreo de passageiros",
+  "sector": "Transporte",
+  "subsector": "Transporte aéreo",
+  "industry": "Companhia aérea",
+  "activity_description": "A Gol Linhas Aéreas Inteligentes SA é uma companhia aérea brasileira que atua no transporte aéreo de passageiros, oferecendo voos domésticos e internacionais.",
+  "main_products_services": [
+    "Passagens aéreas",
+    "Serviços de transporte aéreo"
+  ],
+  "competitors": [
+    "LATAM Airlines",
+    "Azul Linhas Aéreas"
+  ],
+  "economic_classification_code": "4911-3/02"
+}

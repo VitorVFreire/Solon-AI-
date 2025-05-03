@@ -1,0 +1,18 @@
+{
+  "company_name": "FII RIOBRCIB",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Finanças",
+  "subsector": "Fundos de Investimento Imobiliário",
+  "industry": "Investimento em Ativos Imobiliários",
+  "activity_description": "A empresa atua no mercado de investimento imobiliário, adquirindo e gerindo ativos imobiliários para obter retorno financeiro através de aluguéis, valorização dos imóveis e outros ganhos relacionados ao setor.",
+  "main_products_services": [
+    "Aquisição de imóveis",
+    "Gestão de ativos imobiliários",
+    "Distribuição de rendimentos aos cotistas"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário",
+    "Empresas de Gestão de Ativos Imobiliários"
+  ],
+  "economic_classification_code": "6492-9/00"
+}

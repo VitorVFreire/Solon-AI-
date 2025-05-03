@@ -1,0 +1,19 @@
+{
+  "company_name": "Tecnosolo Engenharia SA",
+  "primary_activity": "Engenharia Civil e Consultoria",
+  "sector": "Construção Civil",
+  "subsector": "Engenharia Civil",
+  "industry": "Consultoria em Engenharia Civil",
+  "activity_description": "A Tecnosolo Engenharia SA atua na prestação de serviços de engenharia civil, com foco em consultoria e projetos de construção. A empresa oferece soluções especializadas para obras de infraestrutura e edificações.",
+  "main_products_services": [
+    "Consultoria em Engenharia Civil",
+    "Projetos de Construção",
+    "Obras de Infraestrutura"
+  ],
+  "competitors": [
+    "Empresa de Engenharia X",
+    "Consultoria de Engenharia Y",
+    "Construtora Z"
+  ],
+  "economic_classification_code": "NA"
+}

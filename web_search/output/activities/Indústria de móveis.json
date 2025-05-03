@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de móveis",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de móveis desempenha um papel fundamental na economia, fornecendo produtos essenciais para residências, escritórios e ambientes comerciais. É um setor de manufatura que reflete as tendências de design, estilo de vida e demanda do mercado.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de materiais de construção",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de móveis depende fortemente da indústria de materiais de construção para obter matérias-primas como madeira, metal, vidro, entre outros.",
+      "economic_justification": "A produção de móveis requer uma variedade de materiais de construção, tornando a indústria de materiais de construção um fornecedor essencial para a indústria de móveis."
+    },
+    {
+      "activity": "Comércio Varejista",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "O comércio varejista é um importante canal de distribuição para os produtos da indústria de móveis, atingindo diretamente os consumidores finais.",
+      "economic_justification": "O comércio varejista desempenha um papel crucial na venda e exposição dos móveis fabricados, impactando diretamente as vendas e a visibilidade da indústria de móveis."
+    },
+    {
+      "activity": "Indústria de decoração de interiores",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Complementar",
+      "correlation_description": "A indústria de móveis e a indústria de decoração de interiores estão intimamente ligadas, pois os móveis são peças-chave na decoração de ambientes.",
+      "economic_justification": "A colaboração entre a indústria de móveis e a indústria de decoração de interiores é essencial para criar ambientes esteticamente agradáveis e funcionais, impulsionando ambas as áreas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas taxas de juros, que podem afetar o financiamento de projetos de construção e compra de móveis",
+    "Tendências de design e estilo que influenciam a demanda por móveis",
+    "Crescimento econômico que impacta a capacidade de investimento em móveis e decoração"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de móveis, podendo haver variações regionais e específicas de mercado que não foram abordadas."
+}

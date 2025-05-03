@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Arquitetura",
+  "sector_classification": "Terciário",
+  "economic_context": "A atividade de arquitetura desempenha um papel fundamental na concepção e planejamento de espaços físicos, edifícios e ambientes, sendo essencial para o desenvolvimento urbano, a construção civil e o design de interiores.",
+  "correlated_activities": [
+    {
+      "activity": "Construção Civil",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A arquitetura está fortemente correlacionada com a construção civil, uma vez que os projetos arquitetônicos são a base para a construção de edifícios e estruturas físicas.",
+      "economic_justification": "A arquitetura e a construção civil possuem uma relação de complementaridade, onde os projetos arquitetônicos são essenciais para a execução e desenvolvimento dos projetos de construção, impactando diretamente o setor da construção civil."
+    },
+    {
+      "activity": "Engenharia Ambiental",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "A arquitetura e a engenharia ambiental possuem uma correlação moderada, pois ambas estão envolvidas na concepção de projetos sustentáveis e ecologicamente corretos.",
+      "economic_justification": "A arquitetura e a engenharia ambiental trabalham em conjunto para desenvolver projetos arquitetônicos que sejam sustentáveis e tenham baixo impacto ambiental, atendendo às demandas por construções ecologicamente corretas."
+    },
+    {
+      "activity": "Indústria de Materiais de Construção",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A arquitetura possui uma correlação moderada com a indústria de materiais de construção, uma vez que os materiais utilizados nos projetos arquitetônicos são fornecidos por essa indústria.",
+      "economic_justification": "A indústria de materiais de construção fornece os insumos necessários para a execução dos projetos arquitetônicos, sendo uma relação de fornecedor essencial para a atividade de arquitetura."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a atividade de arquitetura incluem o crescimento econômico, as taxas de juros (impacto no financiamento de projetos), políticas governamentais de incentivo à construção civil e sustentabilidade, e a demanda por projetos arquitetônicos inovadores e sustentáveis."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante ressaltar que as correlações identificadas podem variar de acordo com o contexto regional e as condições específicas do mercado."
+}

@@ -1,0 +1,21 @@
+{
+  "company_name": "American International Group BDR",
+  "primary_activity": "Seguros e serviços financeiros",
+  "sector": "Finanças",
+  "subsector": "Seguros",
+  "industry": "Seguros gerais",
+  "activity_description": "A American International Group (AIG) atua no setor de seguros e serviços financeiros, oferecendo uma ampla gama de produtos de seguros gerais.",
+  "main_products_services": [
+    "Seguros de vida",
+    "Seguros de automóveis",
+    "Seguros residenciais",
+    "Seguros empresariais"
+  ],
+  "competitors": [
+    "Chubb",
+    "Allianz",
+    "AXA",
+    "Zurich"
+  ],
+  "economic_classification_code": "6512-0/01"
+}

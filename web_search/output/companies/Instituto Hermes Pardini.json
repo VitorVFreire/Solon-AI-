@@ -1,0 +1,20 @@
+{
+  "company_name": "Instituto Hermes Pardini",
+  "primary_activity": "Laboratório de Análises Clínicas",
+  "sector": "Saúde",
+  "subsector": "Serviços de Saúde",
+  "industry": "Laboratórios de Análises Clínicas",
+  "activity_description": "O Instituto Hermes Pardini atua como um laboratório de análises clínicas, oferecendo serviços de diagnóstico laboratorial para a área da saúde. Realiza exames de sangue, urina, entre outros, contribuindo para a identificação e monitoramento de doenças.",
+  "main_products_services": [
+    "Exames de sangue",
+    "Exames de urina",
+    "Exames de imagem",
+    "Testes laboratoriais"
+  ],
+  "competitors": [
+    "Dasa",
+    "Fleury",
+    "Alliar"
+  ],
+  "economic_classification_code": "8690-9/99 - Atividades de serviços de diagnóstico por imagem"
+}

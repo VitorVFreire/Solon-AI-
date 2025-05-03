@@ -1,0 +1,18 @@
+{
+  "company_name": "Embraer SA",
+  "primary_activity": "Fabricação de aeronaves comerciais e executivas",
+  "sector": "Indústria Aeroespacial",
+  "subsector": "Fabricação de aeronaves",
+  "industry": "Aeronaves comerciais e executivas",
+  "activity_description": "A Embraer SA é uma empresa brasileira especializada na fabricação de aeronaves comerciais e executivas. Reconhecida internacionalmente pela qualidade e inovação de seus produtos, a Embraer atua no setor aeroespacial, contribuindo para o desenvolvimento da aviação mundial.",
+  "main_products_services": [
+    "Aeronaves comerciais",
+    "Aeronaves executivas"
+  ],
+  "competitors": [
+    "Boeing",
+    "Airbus",
+    "Bombardier"
+  ],
+  "economic_classification_code": "30.30-3-00 - Fabricação de aeronaves"
+}

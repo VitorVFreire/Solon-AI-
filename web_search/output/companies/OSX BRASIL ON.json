@@ -1,0 +1,18 @@
+{
+  "company_name": "OSX Brasil SA",
+  "primary_activity": "Construção Naval",
+  "sector": "Indústria",
+  "subsector": "Construção Naval",
+  "industry": "Construção Naval",
+  "activity_description": "A OSX Brasil SA atua na construção naval, envolvendo a fabricação de navios, plataformas e estruturas marítimas.",
+  "main_products_services": [
+    "Navios",
+    "Plataformas",
+    "Estruturas Marítimas"
+  ],
+  "competitors": [
+    "Estaleiros Brasileiros",
+    "Estaleiros Internacionais"
+  ],
+  "economic_classification_code": "3311-4/00"
+}

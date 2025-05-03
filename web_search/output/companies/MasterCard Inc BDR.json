@@ -1,0 +1,18 @@
+{
+  "company_name": "MasterCard Inc BDR",
+  "primary_activity": "Serviços Financeiros de Pagamentos Eletrônicos",
+  "sector": "Finanças",
+  "subsector": "Serviços Financeiros Diversos",
+  "industry": "Processamento de Transações Financeiras",
+  "activity_description": "A MasterCard Inc BDR atua no processamento de transações financeiras, oferecendo serviços de pagamentos eletrônicos para facilitar transações comerciais e financeiras. Sua principal atividade é intermediar pagamentos entre comerciantes, instituições financeiras e consumidores.",
+  "main_products_services": [
+    "Processamento de transações financeiras",
+    "Serviços de pagamentos eletrônicos"
+  ],
+  "competitors": [
+    "Visa Inc",
+    "American Express Company",
+    "PayPal Holdings, Inc"
+  ],
+  "economic_classification_code": "6492-9/01"
+}

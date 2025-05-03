@@ -1,0 +1,20 @@
+{
+  "company_name": "Banco do Nordeste do Brasil SA",
+  "primary_activity": "Instituição financeira especializada em operações bancárias na região nordeste do Brasil",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Banco regional",
+  "activity_description": "O Banco do Nordeste do Brasil SA é uma instituição financeira especializada em operações bancárias na região nordeste do Brasil, oferecendo serviços bancários, financiamentos, investimentos e apoio ao desenvolvimento econômico da região.",
+  "main_products_services": [
+    "Serviços bancários",
+    "Financiamentos",
+    "Investimentos",
+    "Apoio ao desenvolvimento econômico"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Caixa Econômica Federal",
+    "Banco do Nordeste"
+  ],
+  "economic_classification_code": "6412-3/00"
+}

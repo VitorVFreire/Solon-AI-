@@ -1,0 +1,20 @@
+{
+  "company_name": "Charles Schwab Corp",
+  "primary_activity": "Corretora de investimentos e serviços financeiros",
+  "sector": "Finanças",
+  "subsector": "Corretagem de investimentos",
+  "industry": "Serviços financeiros",
+  "activity_description": "A Charles Schwab Corp é uma empresa do setor financeiro especializada em corretagem de investimentos e serviços financeiros, oferecendo soluções para investidores individuais e institucionais.",
+  "main_products_services": [
+    "Corretagem de investimentos",
+    "Consultoria financeira",
+    "Gestão de ativos",
+    "Serviços bancários"
+  ],
+  "competitors": [
+    "Fidelity Investments",
+    "TD Ameritrade",
+    "E*TRADE Financial"
+  ],
+  "economic_classification_code": "6419-1/00 - Corretoras de títulos e valores mobiliários"
+}

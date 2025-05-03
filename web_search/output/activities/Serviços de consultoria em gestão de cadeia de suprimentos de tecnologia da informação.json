@@ -1,0 +1,28 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de cadeia de suprimentos de tecnologia da informação",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de cadeia de suprimentos de tecnologia da informação desempenham um papel fundamental na melhoria da eficiência operacional e inovação tecnológica das empresas que atuam no setor de tecnologia da informação. Esses serviços visam otimizar a aquisição, logística e implementação de recursos tecnológicos, contribuindo para a competitividade e adaptação às mudanças do mercado.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão de cadeia de suprimentos de saúde pública",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de cadeia de suprimentos de tecnologia da informação e os serviços de consultoria em gestão de cadeia de suprimentos de saúde pública, pois ambos lidam com a otimização de processos complexos e a integração de tecnologias para melhorar a eficiência e qualidade dos serviços prestados.",
+      "economic_justification": "A integração eficiente de tecnologias da informação e sistemas de gestão de cadeia de suprimentos é essencial tanto para a área de tecnologia da informação quanto para a saúde pública, garantindo o fornecimento adequado de insumos, equipamentos e informações necessárias para o bom funcionamento desses setores."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de cadeia de suprimentos de energia renovável",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de cadeia de suprimentos de tecnologia da informação e os serviços de consultoria em gestão de cadeia de suprimentos de energia renovável, pois ambas as áreas requerem uma abordagem integrada para garantir a eficiência e sustentabilidade dos processos.",
+      "economic_justification": "A gestão eficaz da cadeia de suprimentos na área de tecnologia da informação pode contribuir para a implementação bem-sucedida de projetos de energia renovável, garantindo a integração de sistemas tecnológicos e a otimização dos processos logísticos necessários para o setor de energia limpa."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que podem afetar os serviços de consultoria em gestão de cadeia de suprimentos de tecnologia da informação incluem as taxas de câmbio (devido à dependência de tecnologias importadas), as políticas governamentais de incentivo à inovação e a demanda por serviços de TI no mercado."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante ressaltar que as correlações identificadas são baseadas em princípios econômicos e podem variar dependendo do contexto regional e das condições específicas de cada mercado."
+}

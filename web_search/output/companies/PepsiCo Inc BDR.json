@@ -1,0 +1,21 @@
+{
+  "company_name": "PepsiCo Inc BDR",
+  "primary_activity": "Produção e comercialização de alimentos e bebidas",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Alimentos e Bebidas",
+  "industry": "Bebidas não alcoólicas e alimentos processados",
+  "activity_description": "A PepsiCo Inc BDR é uma empresa do setor de indústria alimentícia, especializada na produção e comercialização de bebidas não alcoólicas e alimentos processados. Seus principais produtos incluem refrigerantes, sucos, salgadinhos, cereais e outros alimentos e bebidas.",
+  "main_products_services": [
+    "Refrigerantes",
+    "Sucos",
+    "Salgadinhos",
+    "Cereais",
+    "Alimentos e Bebidas em Geral"
+  ],
+  "competitors": [
+    "Coca-Cola Company",
+    "Nestlé",
+    "Unilever"
+  ],
+  "economic_classification_code": "C10.9 - Fabricação de produtos alimentícios não especificados anteriormente"
+}

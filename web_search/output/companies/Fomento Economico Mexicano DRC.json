@@ -1,0 +1,19 @@
+{
+  "company_name": "Fomento Economico Mexicano SAB de CV DRC",
+  "primary_activity": "Bebidas e produtos alimentícios",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Bebidas",
+  "industry": "Fabricação de bebidas não alcoólicas",
+  "activity_description": "A empresa Fomento Economico Mexicano SAB de CV DRC atua na fabricação de bebidas não alcoólicas, como refrigerantes, sucos e águas envasadas.",
+  "main_products_services": [
+    "Refrigerantes",
+    "Sucos",
+    "Águas envasadas"
+  ],
+  "competitors": [
+    "Ambev",
+    "Coca-Cola",
+    "PepsiCo"
+  ],
+  "economic_classification_code": "CNAE 11.84-2"
+}

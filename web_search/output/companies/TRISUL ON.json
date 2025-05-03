@@ -1,0 +1,17 @@
+{
+  "company_name": "Trisul SA",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Incorporação Imobiliária",
+  "industry": "Construção Residencial",
+  "activity_description": "A Trisul SA atua no setor da Construção Civil, mais especificamente no subsector de Incorporação Imobiliária, focando na construção de empreendimentos residenciais.",
+  "main_products_services": [
+    "Construção de empreendimentos residenciais"
+  ],
+  "competitors": [
+    "Cyrela",
+    "Even Construtora",
+    "MRV Engenharia"
+  ],
+  "economic_classification_code": ""
+}

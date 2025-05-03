@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de eventos corporativos sustentáveis",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de eventos corporativos sustentáveis atuam no setor terciário da economia, oferecendo suporte especializado para empresas que buscam realizar eventos corporativos de forma sustentável, alinhados com práticas ambientais e sociais responsáveis.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria em sustentabilidade",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre os serviços de consultoria em gestão de eventos corporativos sustentáveis e a consultoria em sustentabilidade, pois ambas as atividades estão focadas em práticas sustentáveis e ambientalmente responsáveis.",
+      "economic_justification": "A consultoria em sustentabilidade fornece conhecimentos e diretrizes gerais sobre práticas sustentáveis, enquanto os serviços de consultoria em gestão de eventos corporativos sustentáveis aplicam esses princípios de forma específica na organização de eventos empresariais."
+    },
+    {
+      "activity": "Gestão de eventos",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada e dependência significativa entre os serviços de consultoria em gestão de eventos corporativos sustentáveis e a gestão de eventos, devido à especialização em planejamento e execução de eventos.",
+      "economic_justification": "A gestão de eventos fornece a base conceitual e prática para a consultoria em gestão de eventos corporativos sustentáveis, sendo uma atividade complementar que contribui para a eficiência e sucesso dos eventos sustentáveis."
+    },
+    {
+      "activity": "Consultoria em marketing sustentável",
+      "correlation_level": "4",
+      "dependency_level": "0.70",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre os serviços de consultoria em gestão de eventos corporativos sustentáveis e a consultoria em marketing sustentável, devido à ênfase em práticas de marketing responsável.",
+      "economic_justification": "A consultoria em marketing sustentável contribui para a promoção e comunicação eficaz dos eventos corporativos sustentáveis, enquanto a consultoria em gestão de eventos corporativos sustentáveis garante a integração dessas práticas no planejamento e execução dos eventos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas ambientais e de sustentabilidade",
+    "Tendências de consumo responsável",
+    "Regulamentações governamentais sobre eventos corporativos sustentáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de correlações econômicas e depende da disponibilidade de dados específicos sobre o mercado e as interações entre os setores."
+}

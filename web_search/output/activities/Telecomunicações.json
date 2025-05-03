@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Telecomunicações",
+  "sector_classification": "Terciário",
+  "economic_context": "As telecomunicações desempenham um papel fundamental na conectividade global, permitindo a transmissão de informações em tempo real em longas distâncias por meio de tecnologias de comunicação.",
+  "correlated_activities": [
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0.80",
+      "correlation_type": "Complementar",
+      "correlation_description": "As telecomunicações e a tecnologia da informação são altamente complementares, pois a infraestrutura de redes de comunicação é essencial para suportar sistemas de TI e transferência de dados.",
+      "economic_justification": "A interdependência entre telecomunicações e tecnologia da informação é crucial para a transmissão e processamento eficiente de dados, sendo essencial para empresas e indivíduos na era digital."
+    },
+    {
+      "activity": "Serviços de TI em nuvem",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de TI em nuvem dependem fortemente da infraestrutura de rede das telecomunicações para oferecer armazenamento e processamento remoto de dados.",
+      "economic_justification": "A conectividade confiável fornecida pelas telecomunicações é essencial para a prestação eficaz de serviços em nuvem, impactando diretamente a eficiência e disponibilidade desses serviços."
+    },
+    {
+      "activity": "Indústria de eletrônicos",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria de eletrônicos é uma cliente significativa das telecomunicações, demandando redes de comunicação para suportar a conectividade de dispositivos e sistemas eletrônicos.",
+      "economic_justification": "A demanda por dispositivos eletrônicos conectados à rede impulsiona a necessidade de infraestrutura de telecomunicações robusta, tornando a indústria de eletrônicos dependente desse setor."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam as telecomunicações incluem investimentos em infraestrutura de rede, regulamentações governamentais sobre telecomunicações, inovações tecnológicas e demanda por serviços de comunicação."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral das telecomunicações e pode variar em detalhes específicos de acordo com regiões e mercados."
+}

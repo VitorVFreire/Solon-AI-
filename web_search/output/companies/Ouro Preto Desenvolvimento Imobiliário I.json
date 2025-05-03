@@ -1,0 +1,18 @@
+{
+  "company_name": "Ouro Preto Desenvolvimento Imobiliário I",
+  "primary_activity": "Desenvolvimento imobiliário",
+  "sector": "Construção Civil",
+  "subsector": "Desenvolvimento Imobiliário",
+  "industry": "Desenvolvimento de empreendimentos imobiliários",
+  "activity_description": "A empresa Ouro Preto Desenvolvimento Imobiliário I atua no desenvolvimento de empreendimentos imobiliários, incluindo a construção e venda de imóveis residenciais e comerciais.",
+  "main_products_services": [
+    "Construção e venda de imóveis residenciais",
+    "Construção e venda de imóveis comerciais"
+  ],
+  "competitors": [
+    "Cyrela",
+    "MRV Engenharia",
+    "Even Construtora e Incorporadora"
+  ],
+  "economic_classification_code": "Real Estate Development"
+}

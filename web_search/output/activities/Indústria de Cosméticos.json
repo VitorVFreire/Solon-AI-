@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de Cosméticos",
+  "sector_classification": "Secundário",
+  "economic_context": "A Indústria de Cosméticos engloba a fabricação e comercialização de produtos de beleza, higiene pessoal e cosméticos, sendo um setor essencial para a indústria de bens de consumo e bem-estar.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de Produtos de Higiene Pessoal",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria de Cosméticos e a Indústria de Produtos de Higiene Pessoal possuem uma forte correlação, pois muitos produtos são complementares e utilizados em conjunto.",
+      "economic_justification": "Ambos os setores atendem à demanda por produtos de cuidados pessoais, compartilhando canais de distribuição e público-alvo semelhante."
+    },
+    {
+      "activity": "Indústria de Produtos de Limpeza",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria de Cosméticos e a Indústria de Produtos de Limpeza possuem uma correlação moderada, uma vez que produtos de limpeza específicos são utilizados em conjunto com produtos de higiene pessoal.",
+      "economic_justification": "Há uma interligação entre os produtos de limpeza utilizados para higiene pessoal e os produtos cosméticos, especialmente em termos de limpeza facial e corporal."
+    },
+    {
+      "activity": "Indústria de Embalagens",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria de Cosméticos e a Indústria de Embalagens possuem uma correlação moderada, pois a embalagem é um componente essencial para os produtos cosméticos.",
+      "economic_justification": "As embalagens desempenham um papel crucial na atratividade e proteção dos produtos cosméticos, sendo fornecidas pela Indústria de Embalagens."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Tendências de consumo e comportamento do mercado de produtos de beleza e higiene pessoal",
+    "Flutuações nos preços de matérias-primas utilizadas na fabricação de cosméticos",
+    "Regulamentações governamentais sobre a segurança e rotulagem de produtos cosméticos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da Indústria de Cosméticos, podendo haver variações específicas em subsegmentos do setor."
+}

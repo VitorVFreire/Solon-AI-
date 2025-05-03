@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de franquias",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de franquias desempenham um papel fundamental no apoio às redes de franquias, ajudando na expansão, padronização e gestão eficiente dos negócios dentro desse modelo de negócio.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de franquias",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação forte entre os serviços de consultoria em gestão de franquias e a indústria de franquias, pois os serviços prestados são essenciais para o desenvolvimento, crescimento e sucesso das redes de franquias.",
+      "economic_justification": "As empresas de consultoria em gestão de franquias dependem diretamente do setor de franquias para sua demanda de serviços, enquanto as redes de franquias buscam ativamente esse tipo de consultoria para otimizar suas operações e expandir seus negócios."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de marketing",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de franquias e os serviços de consultoria em gestão de marketing, pois ambas as áreas são essenciais para o sucesso e crescimento das redes de franquias.",
+      "economic_justification": "A gestão eficaz de franquias requer não apenas expertise em operações e expansão, mas também em estratégias de marketing para atrair e reter clientes. Portanto, esses serviços de consultoria são complementares e frequentemente utilizados em conjunto."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações na economia que afetam o consumo e investimento em franquias",
+    "Regulamentações governamentais sobre franquias e consultoria empresarial",
+    "Tendências de mercado que impactam a expansão de redes de franquias"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar dependendo das condições específicas do mercado e da região."
+}

@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de produtos de limpeza doméstica",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de produtos de limpeza doméstica está inserida no setor secundário da economia, sendo responsável pela fabricação de produtos utilizados para limpeza em residências e ambientes domésticos. Essa atividade desempenha um papel essencial na higiene e manutenção de espaços habitacionais.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza hospitalar",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação entre a indústria de produtos de limpeza doméstica e a indústria de produtos de limpeza hospitalar devido à similaridade dos produtos e processos de fabricação.",
+      "economic_justification": "Ambas as indústrias compartilham tecnologias e conhecimentos na formulação de produtos de limpeza eficazes, sendo que a demanda por produtos hospitalares pode influenciar a pesquisa e desenvolvimento de novos produtos domésticos e vice-versa."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza industrial",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada entre a indústria de produtos de limpeza doméstica e a indústria de produtos de limpeza industrial devido à utilização de tecnologias e ingredientes similares.",
+      "economic_justification": "A inovação em produtos de limpeza doméstica pode ser aplicada em escala industrial, enquanto a demanda por produtos de limpeza industriais pode impulsionar a produção de ingredientes mais eficazes que também beneficiam os produtos domésticos."
+    },
+    {
+      "activity": "Indústria de embalagens",
+      "correlation_level": "2",
+      "dependency_level": "0.40",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação fraca entre a indústria de produtos de limpeza doméstica e a indústria de embalagens devido à necessidade de embalagens específicas para acondicionar os produtos de limpeza.",
+      "economic_justification": "As embalagens desempenham um papel crucial na comercialização e armazenamento dos produtos de limpeza, sendo essenciais para garantir a segurança e eficácia dos mesmos, o que gera uma interdependência entre esses setores."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de matérias-primas (ex: produtos químicos)",
+    "Legislação ambiental e regulatória sobre compostos químicos",
+    "Tendências de consumo relacionadas à sustentabilidade e produtos eco-friendly"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral da indústria de produtos de limpeza doméstica e pode variar dependendo de fatores regionais e específicos de cada empresa."
+}

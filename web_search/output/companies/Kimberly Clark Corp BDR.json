@@ -1,0 +1,20 @@
+{
+  "company_name": "Kimberly Clark Corp",
+  "primary_activity": "Fabricação e comercialização de produtos de higiene pessoal e limpeza",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Produtos de Higiene Pessoal e Limpeza",
+  "industry": "Produtos de Higiene Pessoal e Limpeza",
+  "activity_description": "A Kimberly Clark Corp é uma empresa especializada na fabricação e comercialização de uma ampla variedade de produtos de higiene pessoal e limpeza, incluindo fraldas, papel higiênico, lenços umedecidos e produtos de cuidados femininos.",
+  "main_products_services": [
+    "Fraldas",
+    "Papel Higiênico",
+    "Lenços Umedecidos",
+    "Produtos de Cuidados Femininos"
+  ],
+  "competitors": [
+    "Procter & Gamble",
+    "Johnson & Johnson",
+    "Unilever"
+  ],
+  "economic_classification_code": "CNAE 2062-1"
+}

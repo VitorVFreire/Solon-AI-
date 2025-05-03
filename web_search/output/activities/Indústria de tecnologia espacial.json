@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Indústria de tecnologia espacial",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de tecnologia espacial desempenha um papel fundamental no avanço da exploração espacial, fornecendo tecnologias essenciais para satélites, veículos espaciais e missões espaciais em geral. É um setor altamente especializado e de alta tecnologia, com impacto significativo em diversas áreas, desde comunicações até observação da Terra e pesquisa científica.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de eletrônicos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de tecnologia espacial depende fortemente da indústria de eletrônicos para o desenvolvimento de componentes e sistemas eletrônicos avançados utilizados em satélites e veículos espaciais.",
+      "economic_justification": "Os equipamentos eletrônicos são essenciais para o funcionamento de satélites e veículos espaciais, sendo utilizados em sistemas de comunicação, controle, sensoriamento e processamento de dados, criando uma interdependência significativa entre os setores."
+    },
+    {
+      "activity": "Indústria Aeroespacial",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementar",
+      "correlation_description": "A indústria de tecnologia espacial e a indústria aeroespacial possuem uma forte correlação devido à similaridade de tecnologias, materiais e processos utilizados em ambas as áreas.",
+      "economic_justification": "Ambas as indústrias compartilham conhecimentos e tecnologias relacionadas à aerodinâmica, propulsão, materiais leves e resistentes, sistemas de suporte à vida, entre outros, o que as torna complementares e frequentemente colaborativas em projetos espaciais e aeronáuticos."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança para trabalho em espaços confinados",
+      "correlation_level": "2",
+      "dependency_level": "0,30",
+      "correlation_type": "Substituto",
+      "correlation_description": "A indústria de equipamentos de segurança para trabalho em espaços confinados pode ter uma relação de substituição com a indústria de tecnologia espacial em termos de tecnologias de segurança específicas.",
+      "economic_justification": "Embora não diretamente relacionadas, ambas as indústrias compartilham preocupações com a segurança em ambientes extremos, o que pode levar a alguma substituição de tecnologias ou práticas de segurança em situações específicas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de tecnologia espacial incluem investimentos governamentais em programas espaciais, avanços tecnológicos em eletrônica e materiais, regulação espacial internacional, demanda por serviços de satélites para comunicações e observação da Terra, e parcerias público-privadas no setor aeroespacial."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "Devido à natureza altamente especializada e confidencial de muitos projetos espaciais, algumas correlações podem não ser totalmente visíveis ou documentadas publicamente."
+}

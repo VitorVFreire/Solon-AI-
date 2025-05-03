@@ -1,0 +1,16 @@
+{
+  "company_name": "FII Domo",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Finanças",
+  "subsector": "Gestão de Ativos Imobiliários",
+  "industry": "Fundos de Investimento Imobiliário (FII)",
+  "activity_description": "A FII Domo atua no mercado de investimento imobiliário, gerindo ativos imobiliários e oferecendo oportunidades de investimento por meio de fundos imobiliários.",
+  "main_products_services": [
+    "Gestão de Ativos Imobiliários",
+    "Fundos de Investimento Imobiliário"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário"
+  ],
+  "economic_classification_code": "6492-9/01"
+}

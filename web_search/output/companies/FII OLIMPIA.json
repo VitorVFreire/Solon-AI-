@@ -1,0 +1,17 @@
+{
+  "company_name": "FII OLIMPIA",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Finanças",
+  "subsector": "Investimento Imobiliário",
+  "industry": "Fundos de Investimento Imobiliário",
+  "activity_description": "A FII OLIMPIA atua no mercado de investimento imobiliário por meio de fundos de investimento imobiliário, que consiste na aquisição e gestão de ativos imobiliários para geração de renda e valorização do patrimônio.",
+  "main_products_services": [
+    "Gestão de Ativos Imobiliários",
+    "Investimento em Imóveis",
+    "Distribuição de Rendimentos aos Cotistas"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário"
+  ],
+  "economic_classification_code": "6512-0/00"
+}

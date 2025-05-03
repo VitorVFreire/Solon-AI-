@@ -1,0 +1,17 @@
+{
+  "company_name": "VALID ON",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Tecnologia da Informação",
+  "industry": "Serviços de TI em nuvem",
+  "activity_description": "A VALID ON atua no setor de Tecnologia, mais especificamente no subsector de Tecnologia da Informação, oferecendo serviços de TI em nuvem para seus clientes.",
+  "main_products_services": [
+    "Serviços de TI em nuvem"
+  ],
+  "competitors": [
+    "Amazon Web Services",
+    "Microsoft Azure",
+    "Google Cloud"
+  ],
+  "economic_classification_code": null
+}

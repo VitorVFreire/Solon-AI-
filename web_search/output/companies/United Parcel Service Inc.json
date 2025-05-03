@@ -1,0 +1,19 @@
+{
+  "company_name": "United Parcel Service Inc",
+  "primary_activity": "Serviços de Logística e Transporte",
+  "sector": "Transporte",
+  "subsector": "Logística e Transporte de Cargas",
+  "industry": "Serviços de Entrega e Logística",
+  "activity_description": "A United Parcel Service Inc é uma empresa especializada em serviços de entrega e logística, atuando no transporte de cargas e encomendas.",
+  "main_products_services": [
+    "Serviços de entrega expressa",
+    "Logística de cadeia de suprimentos",
+    "Transporte de cargas"
+  ],
+  "competitors": [
+    "FedEx Corporation",
+    "DHL International GmbH",
+    "C.H. Robinson Worldwide, Inc."
+  ],
+  "economic_classification_code": "4921-3/02"
+}

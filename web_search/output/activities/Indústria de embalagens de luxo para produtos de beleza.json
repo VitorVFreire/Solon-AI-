@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens de luxo para produtos de beleza",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens de luxo para produtos de beleza desempenha um papel crucial no segmento de produtos de beleza de alta qualidade e marcas de luxo, agregando valor estético e exclusividade aos produtos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de beleza",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma forte correlação entre a indústria de embalagens de luxo para produtos de beleza e a indústria de produtos de beleza, uma vez que as embalagens de luxo são essenciais para a apresentação e posicionamento de produtos de beleza de alta qualidade no mercado.",
+      "economic_justification": "A demanda por embalagens de luxo está diretamente relacionada à demanda por produtos de beleza de alta qualidade, refletindo a importância da embalagem na percepção de valor e na diferenciação de marcas no setor de beleza."
+    },
+    {
+      "activity": "Indústria de cosméticos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com a indústria de cosméticos, pois embalagens de luxo são frequentemente utilizadas em produtos cosméticos de alta gama para atrair consumidores exigentes.",
+      "economic_justification": "As embalagens de luxo e os produtos cosméticos de alta qualidade muitas vezes são comercializados juntos, visando um público-alvo semelhante que valoriza a estética e a qualidade dos produtos."
+    },
+    {
+      "activity": "Indústria de moda",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Comportamento de mercado similar",
+      "correlation_description": "Existe uma correlação fraca com a indústria de moda, uma vez que ambas as indústrias estão ligadas ao conceito de luxo, design e exclusividade.",
+      "economic_justification": "Tanto a indústria de embalagens de luxo para produtos de beleza quanto a indústria da moda compartilham valores semelhantes de sofisticação e exclusividade, podendo haver sinergias em estratégias de marketing e posicionamento de marca."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Tendências de consumo de produtos de luxo",
+    "Variações nos padrões de design e estética",
+    "Impacto de eventos e desfiles de moda",
+    "Flutuações cambiais em mercados internacionais"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um cenário geral e pode variar dependendo de fatores regionais e de mercado específicos."
+}

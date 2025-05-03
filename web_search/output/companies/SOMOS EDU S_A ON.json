@@ -1,0 +1,20 @@
+{
+  "company_name": "Somos Educacao SA",
+  "primary_activity": "Educação",
+  "sector": "Educação",
+  "subsector": "Ensino Básico e Secundário",
+  "industry": "Educação Básica",
+  "activity_description": "Somos Educacao SA atua no setor de Educação, mais especificamente no subsector de Ensino Básico e Secundário, oferecendo serviços de Educação Básica.",
+  "main_products_services": [
+    "Ensino Fundamental",
+    "Ensino Médio",
+    "Material Didático",
+    "Aulas Extracurriculares"
+  ],
+  "competitors": [
+    "Kroton Educacional",
+    "Cogna Educação",
+    "Ânima Educação"
+  ],
+  "economic_classification_code": "8292-9/00 - Atividades de ensino, não especificadas anteriormente"
+}

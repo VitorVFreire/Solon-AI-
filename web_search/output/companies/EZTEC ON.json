@@ -1,0 +1,19 @@
+{
+  "company_name": "Ez Tec SA",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Incorporação e Construção Civil",
+  "industry": "Incorporação Imobiliária",
+  "activity_description": "A Ez Tec SA atua no setor de Construção Civil, mais especificamente na incorporação imobiliária, desenvolvendo e construindo empreendimentos residenciais e comerciais.",
+  "main_products_services": [
+    "Construção de empreendimentos residenciais",
+    "Construção de empreendimentos comerciais",
+    "Incorporação de imóveis"
+  ],
+  "competitors": [
+    "Cyrela",
+    "MRV Engenharia",
+    "Even Construtora"
+  ],
+  "economic_classification_code": "n/a"
+}

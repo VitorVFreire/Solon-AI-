@@ -1,0 +1,19 @@
+{
+  "company_name": "Celgene Corp DRC",
+  "primary_activity": "Desenvolvimento e comercialização de produtos farmacêuticos",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Farmacêutica",
+  "activity_description": "A Celgene Corp DRC atua no desenvolvimento e comercialização de produtos farmacêuticos, com foco em tratamentos para diversas condições médicas.",
+  "main_products_services": [
+    "Medicamentos para tratamento de câncer",
+    "Medicamentos para doenças autoimunes",
+    "Medicamentos para doenças hematológicas"
+  ],
+  "competitors": [
+    "Roche",
+    "Novartis",
+    "Merck"
+  ],
+  "economic_classification_code": "325412"
+}

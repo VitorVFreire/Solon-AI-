@@ -1,0 +1,19 @@
+{
+  "company_name": "Tecnisa SA",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Incorporação e Construção de Imóveis",
+  "industry": "Construção Residencial e Comercial",
+  "activity_description": "A Tecnisa SA atua no setor da Construção Civil, especificamente na incorporação e construção de imóveis residenciais e comerciais. A empresa é especializada no desenvolvimento de empreendimentos imobiliários.",
+  "main_products_services": [
+    "Construção de imóveis residenciais",
+    "Construção de imóveis comerciais",
+    "Incorporação de empreendimentos imobiliários"
+  ],
+  "competitors": [
+    "Cyrela Brazil Realty",
+    "MRV Engenharia",
+    "Even Construtora e Incorporadora"
+  ],
+  "economic_classification_code": null
+}

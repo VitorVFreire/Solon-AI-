@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Indústria de reciclagem",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de reciclagem desempenha um papel fundamental na economia, contribuindo para a sustentabilidade ambiental, a redução de resíduos e a produção de novos materiais a partir de materiais reciclados. É uma atividade essencial para a economia circular e para a redução do impacto ambiental causado pelo descarte inadequado de resíduos sólidos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de embalagens",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de reciclagem depende fortemente da indústria de embalagens como fornecedora de materiais recicláveis, como papelão, plástico e vidro.",
+      "economic_justification": "A indústria de reciclagem tem na indústria de embalagens uma fonte crucial de matéria-prima reciclável, uma vez que boa parte dos resíduos sólidos gerados provém de embalagens descartadas."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza ecológicos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria de reciclagem tem uma correlação moderada com a indústria de produtos de limpeza ecológicos, que buscam utilizar materiais reciclados em suas embalagens e produtos.",
+      "economic_justification": "A indústria de produtos de limpeza ecológicos valoriza a sustentabilidade e a utilização de materiais reciclados em suas embalagens, o que cria uma demanda por produtos da indústria de reciclagem."
+    },
+    {
+      "activity": "Indústria de embalagens de alimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de reciclagem depende fortemente da indústria de embalagens de alimentos como fornecedora de materiais recicláveis, como papelão e plástico.",
+      "economic_justification": "A indústria de embalagens de alimentos gera uma quantidade significativa de resíduos sólidos, que podem ser reciclados pela indústria de reciclagem, estabelecendo uma relação de fornecedor-importante para a reciclagem."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de reciclagem incluem políticas governamentais de incentivo à reciclagem, preços de matéria-prima virgem, demanda por produtos reciclados e consciência ambiental da população."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de reciclagem, mas variações regionais e especificidades de mercado podem influenciar as correlações identificadas."
+}

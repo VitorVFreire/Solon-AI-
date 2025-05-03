@@ -1,0 +1,21 @@
+{
+  "company_name": "Wal Mart Stores Inc BDR",
+  "primary_activity": "Varejo de produtos diversos",
+  "sector": "Comércio Varejista",
+  "subsector": "Varejo de Produtos Diversos",
+  "industry": "Varejista Multissetorial",
+  "activity_description": "A Wal Mart Stores Inc BDR atua no varejo de produtos diversos, oferecendo uma ampla variedade de itens para os consumidores. Sua presença abrange diferentes categorias de produtos, desde alimentos até eletrônicos.",
+  "main_products_services": [
+    "Alimentos",
+    "Eletrônicos",
+    "Roupas",
+    "Produtos de Limpeza",
+    "Artigos para Casa"
+  ],
+  "competitors": [
+    "Carrefour",
+    "Grupo Pão de Açúcar",
+    "Magazine Luiza"
+  ],
+  "economic_classification_code": null
+}

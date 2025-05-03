@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Logística",
+  "sector_classification": "Terciário",
+  "economic_context": "A logística desempenha um papel fundamental na economia, garantindo a eficiência e fluidez no transporte e armazenamento de mercadorias, influenciando diretamente a cadeia de suprimentos e a distribuição de produtos.",
+  "correlated_activities": [
+    {
+      "activity": "Transporte",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementar",
+      "correlation_description": "A logística e o transporte estão altamente correlacionados, pois a eficiência na movimentação de mercadorias depende diretamente de uma infraestrutura de transporte adequada. A logística depende do transporte para realizar a distribuição de produtos de forma eficiente.",
+      "economic_justification": "A logística e o transporte são interdependentes, uma vez que a logística envolve o planejamento e a execução do transporte de mercadorias. Uma rede de transporte eficiente é essencial para garantir a integridade e pontualidade das entregas, impactando diretamente a qualidade do serviço logístico."
+    },
+    {
+      "activity": "Indústria Automobilística",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria automobilística é cliente da logística, pois depende de serviços logísticos para o transporte de peças, componentes e veículos. A eficiência da logística impacta diretamente a produção e distribuição na indústria automotiva.",
+      "economic_justification": "A indústria automobilística requer serviços logísticos especializados para garantir o abastecimento de insumos, o transporte de componentes e a distribuição de veículos. A logística desempenha um papel crucial na cadeia de suprimentos da indústria automotiva, influenciando diretamente sua produtividade e competitividade."
+    },
+    {
+      "activity": "Comércio Varejista",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A logística atua como fornecedora de serviços para o comércio varejista, garantindo a entrega eficiente de produtos aos pontos de venda. A logística desempenha um papel essencial na cadeia de abastecimento do varejo.",
+      "economic_justification": "O comércio varejista depende fortemente de serviços logísticos para abastecer suas lojas e atender aos clientes de forma rápida e eficiente. A logística é responsável por garantir a disponibilidade de produtos nas prateleiras, influenciando diretamente a experiência de compra dos consumidores."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a logística incluem o crescimento econômico, os investimentos em infraestrutura de transporte, as políticas comerciais e tarifárias, e as condições do mercado de trabalho."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral da atividade de logística e suas principais interações com setores específicos, podendo variar dependendo de fatores regionais e de mercado."
+}

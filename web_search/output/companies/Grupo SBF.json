@@ -1,0 +1,20 @@
+{
+  "company_name": "Grupo SBF",
+  "primary_activity": "Varejo de artigos esportivos",
+  "sector": "Comércio Varejista",
+  "subsector": "Artigos Esportivos",
+  "industry": "Varejo de Artigos Esportivos",
+  "activity_description": "O Grupo SBF atua no varejo de artigos esportivos, oferecendo uma variedade de produtos relacionados a esportes e atividades físicas.",
+  "main_products_services": [
+    "Roupas esportivas",
+    "Calçados esportivos",
+    "Equipamentos esportivos",
+    "Acessórios esportivos"
+  ],
+  "competitors": [
+    "Decathlon",
+    "Netshoes",
+    "Centauro"
+  ],
+  "economic_classification_code": "4713-7/00"
+}

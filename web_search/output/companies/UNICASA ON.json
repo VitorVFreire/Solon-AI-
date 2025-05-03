@@ -1,0 +1,18 @@
+{
+  "company_name": "UNICASA Industria de Moveis SA",
+  "primary_activity": "Fabricação de móveis",
+  "sector": "Indústria",
+  "subsector": "Indústria de móveis",
+  "industry": "Móveis residenciais e comerciais",
+  "activity_description": "A UNICASA Industria de Moveis SA atua na fabricação de móveis residenciais e comerciais, oferecendo uma variedade de produtos para ambientes diversos.",
+  "main_products_services": [
+    "Móveis residenciais",
+    "Móveis comerciais"
+  ],
+  "competitors": [
+    "Móveis Carraro",
+    "Móveis Rudnick",
+    "Móveis Bartira"
+  ],
+  "economic_classification_code": "C1731"
+}

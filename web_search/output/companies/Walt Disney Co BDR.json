@@ -1,0 +1,21 @@
+{
+  "company_name": "Walt Disney Co BDR",
+  "primary_activity": "Entretenimento e Mídia",
+  "sector": "Tecnologia da Informação",
+  "subsector": "Produção de Conteúdo e Entretenimento",
+  "industry": "Cinema e Animação",
+  "activity_description": "A Walt Disney Co BDR atua na produção de conteúdo audiovisual, incluindo filmes, séries e animações. Além disso, a empresa também é conhecida por seus parques temáticos e produtos licenciados.",
+  "main_products_services": [
+    "Filmes",
+    "Séries",
+    "Animações",
+    "Parques Temáticos",
+    "Produtos Licenciados"
+  ],
+  "competitors": [
+    "Universal Studios",
+    "Warner Bros",
+    "Sony Pictures"
+  ],
+  "economic_classification_code": "7721-7/00 - Aluguel de obras cinematográficas e produção de vídeos para internet"
+}

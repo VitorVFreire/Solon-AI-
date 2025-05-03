@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de inovação",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de inovação desempenham um papel fundamental na modernização e competitividade das empresas, auxiliando na adoção de práticas inovadoras e tecnológicas para impulsionar o crescimento e a eficiência.",
+  "correlated_activities": [
+    {
+      "activity": "Pesquisa Científica",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de inovação frequentemente se beneficiam da pesquisa científica para desenvolver soluções inovadoras e tecnologicamente avançadas.",
+      "economic_justification": "A pesquisa científica fornece a base para a inovação, sendo essencial para a criação de novos produtos, processos e tecnologias que as empresas de consultoria em gestão de inovação podem ajudar a implementar."
+    },
+    {
+      "activity": "Consultoria Empresarial",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "A consultoria empresarial pode trabalhar em conjunto com os serviços de consultoria em gestão de inovação para implementar estratégias inovadoras e melhorar a eficiência operacional das empresas.",
+      "economic_justification": "A consultoria empresarial pode fornecer insights sobre processos de negócios e estratégias organizacionais, complementando o foco mais específico em inovação dos serviços de consultoria em gestão de inovação."
+    },
+    {
+      "activity": "Indústria de Tecnologia da Informação",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de Tecnologia da Informação fornece as ferramentas e soluções tecnológicas necessárias para a implementação de inovações propostas pelos serviços de consultoria em gestão de inovação.",
+      "economic_justification": "A TI é essencial para a implementação de soluções inovadoras, sendo um fornecedor crítico para os serviços de consultoria em gestão de inovação que dependem de tecnologia avançada."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas taxas de investimento em pesquisa e desenvolvimento",
+    "Políticas governamentais de incentivo à inovação",
+    "Tendências de mercado em tecnologias emergentes"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo das especificidades regionais e setoriais."
+}

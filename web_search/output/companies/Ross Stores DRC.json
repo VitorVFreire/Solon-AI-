@@ -1,0 +1,18 @@
+{
+  "company_name": "Ross Stores Inc",
+  "primary_activity": "Varejo de moda e acessórios",
+  "sector": "Comércio Varejista",
+  "subsector": "Vestuário e Acessórios",
+  "industry": "Varejo de roupas e acessórios",
+  "activity_description": "A Ross Stores Inc é uma empresa de varejo especializada na venda de roupas e acessórios de moda a preços acessíveis. Atua no segmento de vestuário e acessórios, oferecendo uma variedade de produtos para seus clientes.",
+  "main_products_services": [
+    "Roupas de moda",
+    "Acessórios de vestuário"
+  ],
+  "competitors": [
+    "TJX Companies",
+    "Gap Inc",
+    "H&M"
+  ],
+  "economic_classification_code": ""
+}

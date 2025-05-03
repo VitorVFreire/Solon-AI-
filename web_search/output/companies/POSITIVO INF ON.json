@@ -1,0 +1,20 @@
+{
+  "company_name": "Positivo Informatica SA",
+  "primary_activity": "Fabricação e comercialização de produtos de tecnologia da informação",
+  "sector": "Tecnologia da Informação",
+  "subsector": "Hardware de Computadores e Equipamentos Periféricos",
+  "industry": "Computadores e Equipamentos Periféricos",
+  "activity_description": "A Positivo Informatica SA atua na fabricação e comercialização de computadores e equipamentos periféricos, oferecendo soluções tecnológicas para diversos segmentos.",
+  "main_products_services": [
+    "Computadores",
+    "Notebooks",
+    "Tablets",
+    "Acessórios de Informática"
+  ],
+  "competitors": [
+    "Dell Technologies",
+    "HP Inc.",
+    "Lenovo Group Limited"
+  ],
+  "economic_classification_code": "2610801"
+}

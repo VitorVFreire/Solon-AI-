@@ -1,0 +1,19 @@
+{
+  "company_name": "Berkshire Hathaway Inc BDR",
+  "primary_activity": "Investimento e Holdings",
+  "sector": "Finanças",
+  "subsector": "Investimentos Diversificados",
+  "industry": "Investimentos e Holdings",
+  "activity_description": "A Berkshire Hathaway Inc é uma empresa de investimento e holdings que atua em diversas áreas, incluindo seguros, ferrovias, energia, varejo e manufatura.",
+  "main_products_services": [
+    "Investimentos em diversas empresas",
+    "Participações acionárias em diferentes setores",
+    "Gestão de portfólio diversificado"
+  ],
+  "competitors": [
+    "Vanguard Group",
+    "BlackRock",
+    "JPMorgan Chase & Co"
+  ],
+  "economic_classification_code": "6712-1/00 - Holdings de instituições não-financeiras"
+}

@@ -1,0 +1,21 @@
+{
+  "company_name": "Costco Wholesale Corp DRC",
+  "primary_activity": "Varejista de produtos em grande escala",
+  "sector": "Comércio Varejista",
+  "subsector": "Varejista de produtos diversos",
+  "industry": "Varejista de produtos em geral",
+  "activity_description": "A Costco Wholesale Corp DRC atua como varejista de produtos em grande escala, oferecendo uma variedade de produtos diversos para seus clientes.",
+  "main_products_services": [
+    "Alimentos",
+    "Produtos de limpeza",
+    "Eletrônicos",
+    "Roupas",
+    "Móveis"
+  ],
+  "competitors": [
+    "Walmart",
+    "Carrefour",
+    "Amazon"
+  ],
+  "economic_classification_code": ""
+}

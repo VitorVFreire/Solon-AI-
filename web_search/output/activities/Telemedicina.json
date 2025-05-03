@@ -1,0 +1,40 @@
+{
+  "economic_activity": "Telemedicina",
+  "sector_classification": "Terciário",
+  "economic_context": "A telemedicina é uma atividade em crescimento, especialmente devido à sua capacidade de fornecer serviços médicos de forma remota, facilitando o acesso à saúde em áreas remotas e otimizando o atendimento em geral.",
+  "correlated_activities": [
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A telemedicina depende fortemente da tecnologia da informação para viabilizar a prestação de serviços médicos à distância, incluindo plataformas de comunicação, segurança de dados e integração de sistemas.",
+      "economic_justification": "A tecnologia da informação é essencial para o funcionamento eficiente da telemedicina, fornecendo as ferramentas necessárias para a comunicação entre médicos e pacientes, armazenamento seguro de dados de saúde e integração de sistemas para facilitar diagnósticos e tratamentos."
+    },
+    {
+      "activity": "Saúde",
+      "correlation_level": "5",
+      "dependency_level": "0.85",
+      "correlation_type": "Cliente",
+      "correlation_description": "A telemedicina é diretamente relacionada à área da saúde, sendo os profissionais de saúde e os pacientes os principais usuários e beneficiários desses serviços.",
+      "economic_justification": "A saúde é o setor cliente da telemedicina, pois os serviços são prestados a profissionais de saúde e pacientes, impactando diretamente a qualidade e eficiência dos cuidados médicos, a acessibilidade aos serviços de saúde e a expansão do alcance dos tratamentos."
+    },
+    {
+      "activity": "Telecomunicações",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "As telecomunicações fornecem a infraestrutura de comunicação necessária para a transmissão de dados e informações médicas na telemedicina.",
+      "economic_justification": "As telecomunicações são essenciais como fornecedoras dos meios de comunicação utilizados na telemedicina, garantindo a conectividade e a transmissão segura de dados entre profissionais de saúde e pacientes, contribuindo para a eficácia dos serviços prestados."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Adoção de tecnologias de comunicação",
+    "Regulamentação da telemedicina",
+    "Investimento em infraestrutura de telecomunicações",
+    "Acesso à internet e conectividade",
+    "Demanda por serviços de saúde remotos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral da telemedicina, podendo haver variações regionais e específicas em relação às correlações identificadas."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Qualcomm Inc BDR",
+  "primary_activity": "Desenvolvimento e fabricação de tecnologia de semicondutores e comunicações sem fio",
+  "sector": "Tecnologia",
+  "subsector": "Tecnologia da Informação",
+  "industry": "Desenvolvimento de semicondutores e tecnologia de comunicações sem fio",
+  "activity_description": "A Qualcomm Inc BDR atua no desenvolvimento e fabricação de tecnologia de semicondutores e comunicações sem fio, fornecendo soluções para dispositivos móveis, redes sem fio e outros equipamentos eletrônicos.",
+  "main_products_services": [
+    "Processadores para dispositivos móveis",
+    "Modems para redes sem fio",
+    "Plataformas de conectividade sem fio"
+  ],
+  "competitors": [
+    "Intel Corporation",
+    "Broadcom Inc",
+    "MediaTek Inc"
+  ],
+  "economic_classification_code": "2610-0/00 - Fabricação de componentes eletrônicos"
+}

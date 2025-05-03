@@ -1,0 +1,17 @@
+{
+  "company_name": "Ser Educa ON",
+  "primary_activity": "Educação online",
+  "sector": "Educação",
+  "subsector": "Educação online",
+  "industry": "Plataforma de ensino à distância",
+  "activity_description": "A Ser Educa ON atua no setor de Educação, oferecendo uma plataforma online de ensino à distância para diversos níveis educacionais.",
+  "main_products_services": [
+    "Plataforma de ensino à distância"
+  ],
+  "competitors": [
+    "Coursera",
+    "Udemy",
+    "edX"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,21 @@
+{
+  "company_name": "Magazine Luiza SA",
+  "primary_activity": "Varejo de produtos eletrônicos e eletrodomésticos",
+  "sector": "Comércio Varejista",
+  "subsector": "Varejo de Produtos Eletrônicos e Eletrodomésticos",
+  "industry": "Varejo de eletrônicos e eletrodomésticos",
+  "activity_description": "A Magazine Luiza SA atua no varejo de produtos eletrônicos e eletrodomésticos, oferecendo uma ampla variedade de produtos para seus clientes. Além disso, a empresa também possui uma plataforma online de vendas.",
+  "main_products_services": [
+    "Eletrônicos",
+    "Eletrodomésticos",
+    "Móveis",
+    "Celulares",
+    "Informática"
+  ],
+  "competitors": [
+    "Via Varejo",
+    "Americanas",
+    "Casas Bahia"
+  ],
+  "economic_classification_code": null
+}

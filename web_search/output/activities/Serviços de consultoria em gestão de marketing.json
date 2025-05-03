@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de marketing",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de marketing desempenham um papel fundamental no auxílio às empresas na definição e implementação de estratégias de marketing eficazes, visando aumentar a visibilidade, atratividade e vendas de produtos e serviços.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria em sustentabilidade",
+      "correlation_level": "3",
+      "dependency_level": "0,45",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre os serviços de consultoria em gestão de marketing e a consultoria em sustentabilidade, pois estratégias de marketing sustentável são cada vez mais valorizadas pelas empresas e podem ser integradas às estratégias de marketing convencionais.",
+      "economic_justification": "A consultoria em sustentabilidade pode agregar valor às estratégias de marketing ao promover a imagem de responsabilidade social e ambiental das empresas, o que pode ser um diferencial competitivo no mercado atual."
+    },
+    {
+      "activity": "Serviços de consultoria em marketing digital",
+      "correlation_level": "4",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação forte entre os serviços de consultoria em gestão de marketing e os serviços de consultoria em marketing digital, uma vez que o marketing digital é uma extensão essencial das estratégias de marketing tradicionais.",
+      "economic_justification": "A integração de estratégias de marketing digital com as estratégias de marketing convencionais pode potencializar a presença online das empresas, alcançar novos públicos e melhorar a eficácia das campanhas de marketing."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de vendas",
+      "correlation_level": "3",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre os serviços de consultoria em gestão de marketing e os serviços de consultoria em gestão de vendas, pois ambas as áreas estão relacionadas à maximização de resultados comerciais.",
+      "economic_justification": "A integração de estratégias de marketing eficazes com estratégias de vendas bem estruturadas pode impulsionar o desempenho comercial das empresas, aumentando as vendas e a fidelização de clientes."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos investimentos em publicidade e marketing",
+    "Tendências de consumo e comportamento do cliente",
+    "Inovações tecnológicas no setor de marketing",
+    "Regulamentações governamentais sobre práticas de marketing"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de mercado e pode variar de acordo com as particularidades de cada empresa e setor."
+}

@@ -1,0 +1,21 @@
+{
+  "company_name": "AbbVie Inc",
+  "primary_activity": "Desenvolvimento e comercialização de produtos farmacêuticos",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Farmacêutica",
+  "activity_description": "A AbbVie Inc é uma empresa especializada no desenvolvimento e comercialização de produtos farmacêuticos para diversas áreas terapêuticas, como imunologia, oncologia, neurociência e dermatologia. Seus medicamentos visam melhorar a qualidade de vida dos pacientes e contribuir para avanços na área da saúde.",
+  "main_products_services": [
+    "Medicamentos para imunologia",
+    "Medicamentos para oncologia",
+    "Medicamentos para neurociência",
+    "Medicamentos para dermatologia"
+  ],
+  "competitors": [
+    "Roche",
+    "Merck",
+    "Pfizer",
+    "Novartis"
+  ],
+  "economic_classification_code": "325412"
+}

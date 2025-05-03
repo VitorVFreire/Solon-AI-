@@ -1,0 +1,19 @@
+{
+  "company_name": "Infra Real State",
+  "primary_activity": "Investimento em imóveis e desenvolvimento imobiliário",
+  "sector": "Construção Civil",
+  "subsector": "Desenvolvimento Imobiliário",
+  "industry": "Investimento em Imóveis",
+  "activity_description": "A empresa Infra Real State atua no setor da Construção Civil, mais especificamente no subsector de Desenvolvimento Imobiliário, focando em investimento em imóveis para desenvolvimento e comercialização.",
+  "main_products_services": [
+    "Investimento em imóveis residenciais",
+    "Investimento em imóveis comerciais",
+    "Desenvolvimento de empreendimentos imobiliários"
+  ],
+  "competitors": [
+    "Cyrela",
+    "MRV Engenharia",
+    "Even Construtora"
+  ],
+  "economic_classification_code": null
+}

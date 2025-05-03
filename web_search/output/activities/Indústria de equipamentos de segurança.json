@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de equipamentos de segurança",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de equipamentos de segurança desempenha um papel fundamental na proteção de pessoas e propriedades, fornecendo soluções tecnológicas para monitoramento e controle de acesso.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de tecnologia da informação",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A indústria de equipamentos de segurança depende fortemente da tecnologia da informação para desenvolver sistemas de monitoramento e controle.",
+      "economic_justification": "A tecnologia da informação é essencial para a integração de sistemas de segurança, como câmeras, alarmes e sensores, tornando a colaboração entre essas indústrias altamente complementar."
+    },
+    {
+      "activity": "Indústria de equipamentos médicos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Ambas as indústrias compartilham conhecimentos em tecnologia de sensores e dispositivos de monitoramento, podendo colaborar em inovações para segurança e saúde.",
+      "economic_justification": "A expertise em desenvolvimento de dispositivos de alta precisão e confiabilidade é comum a ambas as indústrias, permitindo sinergias em pesquisa e desenvolvimento."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de segurança",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "A indústria de equipamentos de segurança demanda embalagens específicas para seus produtos, criando uma relação cliente-fornecedor.",
+      "economic_justification": "As embalagens desempenham um papel importante na proteção dos equipamentos durante o transporte e armazenamento, sendo essenciais para a entrega segura aos clientes."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações na taxa de criminalidade que impactam a demanda por equipamentos de segurança",
+    "Investimentos em infraestrutura tecnológica que impulsionam a inovação na indústria",
+    "Regulamentações governamentais de segurança que afetam os padrões de produção e comercialização"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considera especificidades regionais que podem influenciar as correlações identificadas."
+}

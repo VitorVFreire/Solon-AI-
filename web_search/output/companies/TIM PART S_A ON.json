@@ -1,0 +1,19 @@
+{
+  "company_name": "Tim Participacoes SA",
+  "primary_activity": "Telecomunicações",
+  "sector": "Tecnologia",
+  "subsector": "Telecomunicações",
+  "industry": "Operadora de Telecomunicações",
+  "activity_description": "A Tim Participacoes SA é uma empresa do setor de tecnologia, atuando no subsector de telecomunicações como operadora de serviços de telecomunicações no Brasil.",
+  "main_products_services": [
+    "Serviços de telefonia móvel",
+    "Serviços de internet móvel",
+    "Serviços de telefonia fixa"
+  ],
+  "competitors": [
+    "Vivo",
+    "Claro",
+    "Oi"
+  ],
+  "economic_classification_code": "CNAE 6120-4/00"
+}

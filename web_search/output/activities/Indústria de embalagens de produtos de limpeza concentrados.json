@@ -1,0 +1,28 @@
+{
+  "economic_activity": "Indústria de embalagens de produtos de limpeza concentrados",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens de produtos de limpeza concentrados desempenha um papel fundamental na cadeia de produção de produtos de limpeza concentrados, fornecendo embalagens específicas que atendam aos requisitos de segurança e sustentabilidade necessários para esse segmento de mercado. Sua atuação está diretamente ligada à preocupação ambiental e eficiência dos produtos finais.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza concentrados",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação forte entre a indústria de embalagens de produtos de limpeza concentrados e a indústria de produtos de limpeza concentrados, pois a qualidade, segurança e sustentabilidade das embalagens impactam diretamente a eficácia e comercialização dos produtos de limpeza concentrados.",
+      "economic_justification": "A qualidade e eficiência das embalagens de produtos de limpeza concentrados são essenciais para garantir a integridade e segurança dos produtos durante o armazenamento, transporte e uso, influenciando diretamente a satisfação do cliente e a aceitação no mercado."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com a indústria de embalagens sustentáveis, uma vez que a preocupação ambiental e a busca por soluções ecológicas são pontos em comum entre esses setores, podendo haver sinergias na busca por práticas mais sustentáveis.",
+      "economic_justification": "Ambas as indústrias compartilham o compromisso com a sustentabilidade ambiental, o que pode resultar em parcerias estratégicas para desenvolver embalagens de produtos de limpeza concentrados mais eco-friendly e inovadoras."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de embalagens de produtos de limpeza concentrados incluem a demanda por produtos de limpeza concentrados, as políticas ambientais e regulatórias, a inovação tecnológica em materiais sustentáveis, e a conscientização do consumidor sobre sustentabilidade."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considerou o contexto geral da indústria, no entanto, variações regionais e eventos inesperados podem influenciar as correlações identificadas."
+}

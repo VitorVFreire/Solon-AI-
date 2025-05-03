@@ -1,0 +1,20 @@
+{
+  "company_name": "Tecnosolo Engenharia SA ON",
+  "primary_activity": "Engenharia Civil e Ambiental",
+  "sector": "Construção Civil",
+  "subsector": "Engenharia Civil e Ambiental",
+  "industry": "Consultoria em Engenharia",
+  "activity_description": "A Tecnosolo Engenharia SA ON atua na prestação de serviços de consultoria em engenharia civil e ambiental, oferecendo soluções para projetos de construção e questões ambientais.",
+  "main_products_services": [
+    "Consultoria em Engenharia Civil",
+    "Consultoria em Engenharia Ambiental",
+    "Projetos de Construção",
+    "Soluções Ambientais"
+  ],
+  "competitors": [
+    "Empresa de Engenharia A",
+    "Empresa de Engenharia B",
+    "Empresa de Consultoria em Engenharia C"
+  ],
+  "economic_classification_code": "NA"
+}

@@ -1,0 +1,16 @@
+{
+  "company_name": "Bardella SA Industrias Mecanicas Pref",
+  "primary_activity": "Indústria Metalúrgica",
+  "sector": "Indústria",
+  "subsector": "Metalurgia",
+  "industry": "Fabricação de equipamentos mecânicos",
+  "activity_description": "A Bardella SA Indústrias Mecânicas atua na fabricação de equipamentos mecânicos, com foco em produtos metalúrgicos.",
+  "main_products_services": [
+    "Equipamentos mecânicos",
+    "Peças metalúrgicas"
+  ],
+  "competitors": [
+    "Empresas metalúrgicas concorrentes"
+  ],
+  "economic_classification_code": "CNAE 28.49-0-01"
+}

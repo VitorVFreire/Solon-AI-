@@ -1,0 +1,20 @@
+{
+  "company_name": "Eucatex SA Industria e Comercio",
+  "primary_activity": "Fabricação e Comércio de Produtos de Madeira e Derivados",
+  "sector": "Indústria",
+  "subsector": "Indústria de Materiais de Construção",
+  "industry": "Indústria de Materiais de Construção em Madeira e Derivados",
+  "activity_description": "A Eucatex SA atua na fabricação e comercialização de produtos de madeira e derivados, incluindo painéis de madeira, tintas, vernizes e pisos laminados. A empresa é especializada na produção de materiais de construção sustentáveis.",
+  "main_products_services": [
+    "Painéis de Madeira",
+    "Tintas",
+    "Vernizes",
+    "Pisos Laminados"
+  ],
+  "competitors": [
+    "Duratex",
+    "Berneck",
+    "Masisa"
+  ],
+  "economic_classification_code": null
+}

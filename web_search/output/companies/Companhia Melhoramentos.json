@@ -1,0 +1,15 @@
+{
+  "company_name": "Companhia Melhoramentos",
+  "primary_activity": "Indústria de Produtos de Limpeza",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Produtos de Limpeza",
+  "industry": "Produtos de Limpeza Doméstica",
+  "activity_description": "A Companhia Melhoramentos atua na fabricação e comercialização de produtos de limpeza doméstica, oferecendo uma variedade de itens para limpeza residencial.",
+  "main_products_services": [
+    "Produtos de Limpeza Doméstica"
+  ],
+  "competitors": [
+    "Outras empresas de produtos de limpeza doméstica"
+  ],
+  "economic_classification_code": "CNAE 2062-1/00"
+}

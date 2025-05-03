@@ -1,0 +1,19 @@
+{
+  "company_name": "MMX Mineracao e Metalicos SA",
+  "primary_activity": "Mineração e Metalurgia",
+  "sector": "Recursos Naturais",
+  "subsector": "Mineração de Minérios Metálicos",
+  "industry": "Mineração de Ferro",
+  "activity_description": "A MMX Mineracao e Metalicos SA atua na extração de minérios metálicos, com foco na mineração de ferro.",
+  "main_products_services": [
+    "Minério de Ferro",
+    "Pelotas de Minério de Ferro",
+    "Mineração de Minérios Metálicos"
+  ],
+  "competitors": [
+    "Vale SA",
+    "Anglo American",
+    "BHP Group"
+  ],
+  "economic_classification_code": "NA"
+}

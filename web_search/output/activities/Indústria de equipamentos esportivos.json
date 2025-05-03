@@ -1,0 +1,28 @@
+{
+  "economic_activity": "Indústria de equipamentos esportivos",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de equipamentos esportivos faz parte do setor secundário da economia, sendo responsável pela produção de uma variedade de equipamentos utilizados na prática de diferentes modalidades esportivas. Essa indústria atende tanto atletas profissionais quanto amadores, contribuindo para a promoção da atividade física e do esporte em geral.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de calçados esportivos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A indústria de equipamentos esportivos e a indústria de calçados esportivos possuem uma correlação forte devido à complementaridade de seus produtos. Os equipamentos esportivos, como tênis e chuteiras, frequentemente são utilizados em conjunto com os calçados esportivos, sendo essenciais para o desempenho e segurança dos atletas.",
+      "economic_justification": "Ambas as indústrias atendem ao mesmo público-alvo, os praticantes de atividades esportivas, e seus produtos são frequentemente adquiridos em conjunto. A inovação em materiais e tecnologias utilizadas em equipamentos esportivos e calçados esportivos muitas vezes caminham lado a lado, impulsionando o desenvolvimento de novos produtos e melhorias para os atletas."
+    },
+    {
+      "activity": "Indústria de produtos de higiene pessoal masculinos",
+      "correlation_level": "2",
+      "dependency_level": "0,30",
+      "correlation_type": "Fraca",
+      "correlation_description": "Existe uma correlação fraca entre a indústria de equipamentos esportivos e a indústria de produtos de higiene pessoal masculinos, pois alguns produtos de cuidados pessoais, como géis de banho e desodorantes esportivos, podem ter alguma relação devido ao público-alvo semelhante.",
+      "economic_justification": "Embora haja uma relação indireta entre os produtos, uma vez que os praticantes de atividades esportivas podem demandar produtos específicos de higiene pessoal, a interdependência direta entre as indústrias é limitada, resultando em uma correlação fraca."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de equipamentos esportivos incluem o crescimento do mercado esportivo, investimentos em inovação e tecnologia, tendências de saúde e bem-estar, e o desempenho econômico geral que influencia o poder de compra dos consumidores."
+  ],
+  "confidence_level": "Médio",
+  "analysis_limitations": "A análise considerou principalmente correlações diretas e indiretas com base na complementaridade de produtos e no perfil do público-alvo. Outras relações mais sutis podem existir, mas não foram abordadas devido à falta de dados específicos."
+}

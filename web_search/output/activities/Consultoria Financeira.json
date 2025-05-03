@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Consultoria Financeira",
+  "sector_classification": "Terciário",
+  "economic_context": "A Consultoria Financeira é uma atividade crucial no setor de serviços, fornecendo aconselhamento e serviços financeiros especializados para indivíduos e empresas, auxiliando na tomada de decisões estratégicas relacionadas a investimentos, planejamento financeiro, gestão de patrimônio, entre outros.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão financeira",
+      "correlation_level": "5",
+      "dependency_level": "0.85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre Consultoria Financeira e Serviços de consultoria em gestão financeira, pois ambos os setores atuam na prestação de serviços financeiros especializados, complementando-se na oferta de soluções abrangentes para indivíduos e empresas.",
+      "economic_justification": "Ambos os setores lidam com aspectos financeiros complexos, como investimentos, planejamento financeiro e gestão de patrimônio, e a combinação de serviços de consultoria financeira e gestão financeira permite uma abordagem holística para atender às necessidades financeiras dos clientes."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de investimentos",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação forte e dependência significativa entre Consultoria Financeira e Serviços de consultoria em gestão de investimentos, pois ambos os setores estão envolvidos na análise, planejamento e execução de estratégias de investimento para clientes.",
+      "economic_justification": "A Consultoria Financeira e os Serviços de consultoria em gestão de investimentos trabalham em conjunto para fornecer orientação especializada na alocação de recursos financeiros, maximizando retornos e gerenciando riscos de forma eficaz."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de riscos",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada e dependência razoável entre Consultoria Financeira e Serviços de consultoria em gestão de riscos, uma vez que ambos os setores lidam com a avaliação e mitigação de riscos financeiros para clientes.",
+      "economic_justification": "A colaboração entre Consultoria Financeira e Serviços de consultoria em gestão de riscos permite uma abordagem integrada na identificação, avaliação e gestão de riscos financeiros, garantindo a segurança e estabilidade dos ativos financeiros dos clientes."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxas de juros",
+    "Regulamentações financeiras",
+    "Cenário econômico global"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar com base em condições específicas de mercado ou região."
+}

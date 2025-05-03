@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de produtos de higiene pessoal masculinos",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A indústria de produtos de higiene pessoal masculinos faz parte do setor de manufatura, atendendo a uma demanda específica por produtos de cuidados pessoais voltados para homens. Essa indústria está inserida em um mercado competitivo que busca atender às necessidades e preferências do público masculino em termos de cuidados com a pele, barba e cabelo.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza masculinos",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Produtos complementares",
+      "correlation_description": "A indústria de produtos de higiene pessoal masculinos e a indústria de produtos de limpeza masculinos apresentam uma correlação forte, pois ambos os setores atendem às necessidades de cuidados pessoais e limpeza voltados para o público masculino.",
+      "economic_justification": "Homens que consomem produtos de higiene pessoal masculinos muitas vezes também buscam produtos de limpeza específicos para seu uso pessoal, criando uma interdependência entre esses setores."
+    },
+    {
+      "activity": "Indústria de produtos de barbear",
+      "correlation_level": "5",
+      "dependency_level": "0.85",
+      "correlation_type": "Produtos complementares",
+      "correlation_description": "A indústria de produtos de higiene pessoal masculinos e a indústria de produtos de barbear apresentam uma correlação muito forte, uma vez que os produtos de barbear fazem parte dos cuidados diários dos homens, sendo complementares aos produtos de higiene pessoal.",
+      "economic_justification": "Os produtos de barbear são essenciais para muitos homens e estão diretamente relacionados aos cuidados com a pele e barba, tornando-os complementares aos produtos de higiene pessoal masculinos."
+    },
+    {
+      "activity": "Indústria de cosméticos masculinos",
+      "correlation_level": "3",
+      "dependency_level": "0.65",
+      "correlation_type": "Produtos complementares",
+      "correlation_description": "A indústria de produtos de higiene pessoal masculinos e a indústria de cosméticos masculinos apresentam uma correlação moderada, pois ambos os setores estão envolvidos na oferta de produtos de cuidados pessoais para homens, abrangendo diferentes necessidades e preferências.",
+      "economic_justification": "Os produtos de higiene pessoal masculinos e os cosméticos masculinos podem ser utilizados de forma complementar para atender às demandas de cuidados com a pele, cabelo e barba dos homens."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nas tendências de moda masculina",
+    "Taxa de participação da população masculina em atividades sociais e profissionais",
+    "Índices de consumo e poder de compra do público masculino"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de produtos de higiene pessoal masculinos, mas variações regionais e tendências de mercado específicas podem influenciar as correlações identificadas."
+}

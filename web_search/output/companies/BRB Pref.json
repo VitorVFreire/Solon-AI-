@@ -1,0 +1,19 @@
+{
+  "company_name": "BRB Banco de Brasilia SA Pref",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Banco regional",
+  "activity_description": "O BRB Banco de Brasília SA é uma instituição financeira que atua como banco regional, oferecendo serviços bancários e financeiros principalmente na região de Brasília. Seus principais produtos incluem empréstimos, investimentos e serviços bancários tradicionais.",
+  "main_products_services": [
+    "Empréstimos",
+    "Investimentos",
+    "Serviços bancários"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Caixa Econômica Federal",
+    "Banco Santander"
+  ],
+  "economic_classification_code": "6021-7/00"
+}

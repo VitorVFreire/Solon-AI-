@@ -1,0 +1,19 @@
+{
+  "company_name": "Arconic Inc BDR",
+  "primary_activity": "Fabricação de produtos de alumínio e soluções de engenharia",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Fabricação de produtos de alumínio",
+  "industry": "Indústria de Alumínio",
+  "activity_description": "A Arconic Inc BDR é uma empresa especializada na fabricação de produtos de alumínio e soluções de engenharia para diversas aplicações industriais e comerciais. Seus principais produtos incluem chapas, folhas e componentes de alumínio de alta qualidade.",
+  "main_products_services": [
+    "Chapas de alumínio",
+    "Folhas de alumínio",
+    "Componentes de alumínio"
+  ],
+  "competitors": [
+    "Alcoa Corporation",
+    "Norsk Hydro ASA",
+    "Constellium SE"
+  ],
+  "economic_classification_code": "32.11-3"
+}

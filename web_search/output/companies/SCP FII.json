@@ -1,0 +1,16 @@
+{
+  "company_name": "SCP FII",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Finanças",
+  "subsector": "Investimentos Imobiliários",
+  "industry": "Fundos de Investimento Imobiliário (FII)",
+  "activity_description": "A SCP FII atua no mercado de investimentos imobiliários, adquirindo e gerindo ativos imobiliários para obter rendimentos através de aluguéis e valorização dos imóveis.",
+  "main_products_services": [
+    "Gestão de Ativos Imobiliários",
+    "Distribuição de Rendimentos aos Cotistas"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário"
+  ],
+  "economic_classification_code": "6432-8/00"
+}

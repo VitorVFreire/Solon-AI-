@@ -1,0 +1,19 @@
+{
+  "company_name": "BlackRock Inc DRC",
+  "primary_activity": "Gestão de investimentos e consultoria financeira",
+  "sector": "Finanças",
+  "subsector": "Gestão de investimentos",
+  "industry": "Gestão de ativos",
+  "activity_description": "A BlackRock Inc DRC atua na gestão de investimentos e consultoria financeira, oferecendo serviços de gestão de ativos para clientes institucionais e individuais. A empresa é conhecida por sua expertise em investimentos diversificados e estratégias financeiras.",
+  "main_products_services": [
+    "Gestão de investimentos",
+    "Consultoria financeira",
+    "Gestão de ativos"
+  ],
+  "competitors": [
+    "Vanguard Group",
+    "Fidelity Investments",
+    "State Street Global Advisors"
+  ],
+  "economic_classification_code": "XX.XX-X"
+}

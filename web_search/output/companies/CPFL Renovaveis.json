@@ -1,0 +1,19 @@
+{
+  "company_name": "CPFL Energias Renovaveis SA",
+  "primary_activity": "Geração de energia renovável",
+  "sector": "Energia",
+  "subsector": "Energia renovável",
+  "industry": "Energia solar e eólica",
+  "activity_description": "A CPFL Energias Renováveis atua na geração de energia elétrica a partir de fontes renováveis, com foco em energia solar e eólica. A empresa contribui para a sustentabilidade do setor energético.",
+  "main_products_services": [
+    "Energia elétrica renovável",
+    "Projetos de energia solar",
+    "Projetos de energia eólica"
+  ],
+  "competitors": [
+    "Renova Energia",
+    "AES Tietê",
+    "Enel Green Power"
+  ],
+  "economic_classification_code": "Energia - 4010"
+}

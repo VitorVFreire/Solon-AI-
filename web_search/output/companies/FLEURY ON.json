@@ -1,0 +1,19 @@
+{
+  "company_name": "Fleury SA",
+  "primary_activity": "Laboratório de análises clínicas",
+  "sector": "Saúde",
+  "subsector": "Serviços de saúde",
+  "industry": "Laboratórios de análises clínicas",
+  "activity_description": "A Fleury SA atua como um laboratório de análises clínicas, oferecendo uma ampla gama de exames e serviços de saúde para seus clientes. Seu foco principal está na realização de análises laboratoriais para diagnóstico e acompanhamento de doenças.",
+  "main_products_services": [
+    "Exames laboratoriais",
+    "Análises clínicas",
+    "Serviços de saúde"
+  ],
+  "competitors": [
+    "Dasa",
+    "Hermes Pardini",
+    "Alliar"
+  ],
+  "economic_classification_code": null
+}

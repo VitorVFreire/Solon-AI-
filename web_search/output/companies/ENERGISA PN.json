@@ -1,0 +1,17 @@
+{
+  "company_name": "Energisa SA",
+  "primary_activity": "Distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Distribuição de Energia Elétrica",
+  "activity_description": "Energisa SA atua na distribuição de energia elétrica, fornecendo eletricidade para consumidores residenciais, comerciais e industriais em diferentes regiões do Brasil.",
+  "main_products_services": [
+    "Fornecimento de energia elétrica"
+  ],
+  "competitors": [
+    "CPFL Energia",
+    "Neoenergia",
+    "Equatorial Energia"
+  ],
+  "economic_classification_code": "4911-6/01"
+}

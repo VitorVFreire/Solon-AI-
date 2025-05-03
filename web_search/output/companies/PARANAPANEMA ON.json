@@ -1,0 +1,18 @@
+{
+  "company_name": "Paranapanema SA",
+  "primary_activity": "Produção e comercialização de metais não ferrosos",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Metalurgia de Metais Não Ferrosos",
+  "industry": "Produção de metais não ferrosos",
+  "activity_description": "A Paranapanema SA atua na produção e comercialização de metais não ferrosos, como cobre e ligas de cobre. A empresa opera no setor de Indústria Metalúrgica, especificamente na Metalurgia de Metais Não Ferrosos.",
+  "main_products_services": [
+    "Cobre",
+    "Ligas de cobre"
+  ],
+  "competitors": [
+    "Votorantim Metais",
+    "Codelco",
+    "Anglo American"
+  ],
+  "economic_classification_code": null
+}

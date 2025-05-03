@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de qualidade de alimentos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de qualidade de alimentos desempenham um papel fundamental na garantia da segurança alimentar, auxiliando empresas e organizações a atenderem padrões de qualidade e regulamentações do setor alimentício.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Alimentícia",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação forte entre os serviços de consultoria em gestão de qualidade de alimentos e a indústria alimentícia, pois as empresas alimentícias necessitam garantir a conformidade com normas de qualidade e segurança alimentar.",
+      "economic_justification": "A indústria alimentícia depende de padrões rigorosos de qualidade e segurança, sendo essencial contar com consultorias especializadas para assegurar o cumprimento dessas normas e evitar problemas que possam afetar a reputação e a saúde dos consumidores."
+    },
+    {
+      "activity": "Indústria de embalagens de alimentos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação moderada com a indústria de embalagens de alimentos, uma vez que a qualidade e segurança dos alimentos também estão relacionadas à adequação das embalagens utilizadas.",
+      "economic_justification": "As embalagens de alimentos desempenham um papel crucial na preservação da qualidade e integridade dos produtos, sendo importante para a consultoria em gestão de qualidade de alimentos considerar a qualidade das embalagens fornecidas."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de cadeia de suprimentos de alimentos",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada com os serviços de consultoria em gestão de cadeia de suprimentos de alimentos, pois a qualidade dos alimentos está diretamente ligada à eficiência e segurança da cadeia de suprimentos.",
+      "economic_justification": "Uma gestão eficaz da cadeia de suprimentos de alimentos contribui para a garantia da qualidade e segurança dos produtos, sendo complementar à consultoria em gestão de qualidade de alimentos na busca por excelência operacional."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Regulamentações governamentais sobre segurança alimentar",
+    "Tendências de consumo e preferências dos consumidores",
+    "Inovações tecnológicas na indústria alimentícia"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto genérico da atividade, podendo variar conforme regulamentações locais e especificidades do mercado."
+}

@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Consultoria em sustentabilidade",
+  "sector_classification": "Terciário",
+  "economic_context": "A consultoria em sustentabilidade é uma atividade essencial no contexto atual, onde as empresas buscam cada vez mais adotar práticas sustentáveis em suas operações para atender às demandas do mercado e reduzir seu impacto ambiental.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria em gestão de recursos naturais",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Ambas as atividades estão focadas em promover práticas sustentáveis, sendo a consultoria em gestão de recursos naturais voltada para a preservação e uso eficiente dos recursos naturais, o que se alinha diretamente com os objetivos da consultoria em sustentabilidade.",
+      "economic_justification": "A consultoria em gestão de recursos naturais e a consultoria em sustentabilidade compartilham o objetivo comum de promover a sustentabilidade ambiental e a responsabilidade social corporativa, atendendo à crescente demanda por práticas empresariais mais sustentáveis."
+    },
+    {
+      "activity": "Consultoria em gestão de cadeia de suprimentos de produtos sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "A consultoria em gestão de cadeia de suprimentos de produtos sustentáveis está diretamente relacionada à consultoria em sustentabilidade, pois ambas visam aprimorar a cadeia de suprimentos para incluir produtos sustentáveis e promover práticas responsáveis.",
+      "economic_justification": "A consultoria em gestão de cadeia de suprimentos de produtos sustentáveis complementa a consultoria em sustentabilidade ao focar na implementação de práticas sustentáveis ao longo de toda a cadeia de suprimentos, alinhando-se com os objetivos de sustentabilidade empresarial."
+    },
+    {
+      "activity": "Consultoria em gestão de riscos ambientais",
+      "correlation_level": "4",
+      "dependency_level": "0.80",
+      "correlation_type": "Complementar",
+      "correlation_description": "A consultoria em gestão de riscos ambientais é fundamental para empresas que buscam adotar práticas sustentáveis, pois auxilia na identificação, avaliação e mitigação de impactos ambientais adversos, o que está alinhado com os princípios da consultoria em sustentabilidade.",
+      "economic_justification": "A consultoria em gestão de riscos ambientais e a consultoria em sustentabilidade são complementares, uma vez que a gestão eficaz dos riscos ambientais é essencial para a implementação bem-sucedida de estratégias sustentáveis e a redução de impactos negativos no meio ambiente."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas ambientais e regulatórias",
+    "Tendências de consumo sustentável",
+    "Inovações tecnológicas em sustentabilidade"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da consultoria em sustentabilidade, podendo haver variações regionais ou setoriais que não foram abordadas."
+}

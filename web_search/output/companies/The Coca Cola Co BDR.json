@@ -1,0 +1,19 @@
+{
+  "company_name": "The Coca-Cola Co BDR",
+  "primary_activity": "Produção e distribuição de bebidas não alcoólicas",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Bebidas não alcoólicas",
+  "industry": "Refrigerantes",
+  "activity_description": "A The Coca-Cola Co BDR atua na produção e distribuição de refrigerantes e outras bebidas não alcoólicas.",
+  "main_products_services": [
+    "Refrigerantes",
+    "Águas",
+    "Chás",
+    "Bebidas energéticas"
+  ],
+  "competitors": [
+    "PepsiCo Inc.",
+    "Dr. Pepper Snapple Group Inc."
+  ],
+  "economic_classification_code": "1107 - Fabricação de refrigerantes"
+}

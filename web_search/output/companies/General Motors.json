@@ -1,0 +1,18 @@
+{
+  "company_name": "General Motors Co",
+  "primary_activity": "Fabricação e venda de veículos automotores",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de veículos automotores",
+  "industry": "Fabricação de automóveis e veículos comerciais leves",
+  "activity_description": "A General Motors Co é uma empresa do setor automobilístico que se dedica à fabricação e venda de veículos automotores, incluindo automóveis e veículos comerciais leves.",
+  "main_products_services": [
+    "Automóveis",
+    "Veículos comerciais leves"
+  ],
+  "competitors": [
+    "Ford Motor Company",
+    "Toyota Motor Corporation",
+    "Volkswagen AG"
+  ],
+  "economic_classification_code": "336111"
+}

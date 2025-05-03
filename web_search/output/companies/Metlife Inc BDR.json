@@ -1,0 +1,18 @@
+{
+  "company_name": "Metlife Inc",
+  "primary_activity": "Seguros e Previdência Privada",
+  "sector": "Finanças",
+  "subsector": "Seguros",
+  "industry": "Seguros de Vida e Previdência",
+  "activity_description": "A Metlife Inc atua no setor de seguros e previdência privada, oferecendo principalmente seguros de vida e previdência para seus clientes.",
+  "main_products_services": [
+    "Seguros de Vida",
+    "Seguros de Previdência Privada"
+  ],
+  "competitors": [
+    "Bradesco Seguros",
+    "Porto Seguro",
+    "SulAmérica Seguros"
+  ],
+  "economic_classification_code": "6512-0/00 - Seguros de vida"
+}

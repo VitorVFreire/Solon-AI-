@@ -1,0 +1,18 @@
+{
+  "company_name": "DuPont de Nemours Inc",
+  "primary_activity": "Fabricação de produtos químicos e materiais avançados",
+  "sector": "Indústria Química",
+  "subsector": "Químicos Diversos",
+  "industry": "Químicos Especiais",
+  "activity_description": "A DuPont de Nemours Inc atua na fabricação de produtos químicos e materiais avançados, com foco em químicos especiais para diversas aplicações industriais e comerciais.",
+  "main_products_services": [
+    "Químicos Especiais",
+    "Materiais Avançados"
+  ],
+  "competitors": [
+    "BASF",
+    "Dow Chemical",
+    "Lanxess"
+  ],
+  "economic_classification_code": "20.59-3"
+}

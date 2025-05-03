@@ -1,0 +1,46 @@
+{
+  "economic_activity": "Construção Civil",
+  "sector_classification": "Indústria",
+  "economic_context": "A Construção Civil engloba atividades essenciais para o desenvolvimento e infraestrutura de uma região, incluindo a construção, reforma e manutenção de diversos tipos de estruturas. É um setor fundamental para a economia, com impacto direto no emprego, investimentos e crescimento econômico.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de Materiais de Construção",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria de Materiais de Construção fornece os insumos necessários para a Construção Civil, como cimento, aço, tintas, entre outros. Existe uma forte interdependência entre esses setores devido à necessidade constante de materiais para as obras.",
+      "economic_justification": "A Construção Civil depende diretamente dos materiais fornecidos pela Indústria de Materiais de Construção para realizar suas atividades, tornando essa correlação essencial para o funcionamento do setor."
+    },
+    {
+      "activity": "Engenharia Ambiental",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Engenharia Ambiental atua na gestão sustentável de recursos e na redução do impacto ambiental de obras e projetos da Construção Civil. Ambos os setores podem se beneficiar da colaboração mútua para promover práticas mais sustentáveis.",
+      "economic_justification": "A Construção Civil, ao adotar práticas de Engenharia Ambiental, pode reduzir custos operacionais, minimizar impactos ambientais e atender a regulamentações mais rígidas, enquanto a Engenharia Ambiental encontra na Construção Civil um campo de aplicação e oportunidades de inovação."
+    },
+    {
+      "activity": "Indústria de Equipamentos de Segurança",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria de Equipamentos de Segurança fornece equipamentos essenciais para garantir a segurança dos trabalhadores na Construção Civil, como capacetes, botas e cintos de segurança. A relação entre esses setores é crítica para a prevenção de acidentes de trabalho.",
+      "economic_justification": "A segurança dos trabalhadores na Construção Civil é uma prioridade, e a dependência da Indústria de Equipamentos de Segurança é fundamental para garantir condições seguras de trabalho, cumprir normas regulamentadoras e evitar custos associados a acidentes."
+    },
+    {
+      "activity": "Indústria de Móveis",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Cliente",
+      "correlation_description": "A Construção Civil demanda móveis para residências, escritórios e espaços comerciais construídos. A Indústria de Móveis depende da demanda gerada pela Construção Civil para impulsionar suas vendas e produção.",
+      "economic_justification": "A Indústria de Móveis tem na Construção Civil um mercado consumidor significativo, pois os imóveis construídos demandam mobiliário. A variação na atividade da Construção Civil pode impactar diretamente a demanda por móveis."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxa de juros: Influencia os financiamentos para construções e reformas",
+    "Crescimento econômico: Impacta diretamente a demanda por novas construções",
+    "Políticas de incentivo à construção civil: Podem estimular o setor e impulsionar investimentos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera correlações gerais e pode variar em contextos específicos de região ou mercado."
+}

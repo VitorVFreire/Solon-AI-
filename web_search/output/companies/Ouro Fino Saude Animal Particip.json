@@ -1,0 +1,19 @@
+{
+  "company_name": "Ouro Fino Saude Animal Particip",
+  "primary_activity": "Saúde animal",
+  "sector": "Saúde",
+  "subsector": "Saúde animal",
+  "industry": "Produtos veterinários",
+  "activity_description": "A Ouro Fino Saúde Animal Particip atua no desenvolvimento, fabricação e comercialização de produtos veterinários para saúde animal.",
+  "main_products_services": [
+    "Medicamentos veterinários",
+    "Vacinas para animais",
+    "Suplementos nutricionais para animais"
+  ],
+  "competitors": [
+    "Zoetis Inc.",
+    "Merck Animal Health",
+    "Boehringer Ingelheim Animal Health"
+  ],
+  "economic_classification_code": "CNAE: 2121-1/02"
+}

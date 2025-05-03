@@ -1,0 +1,17 @@
+{
+  "company_name": "Duke Energy Intl Geracao Para",
+  "primary_activity": "Geração de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Geração de Energia Elétrica",
+  "activity_description": "A Duke Energy Intl Geracao Para atua na geração de energia elétrica, fornecendo eletricidade para consumidores e empresas. Sua principal atividade é a produção de energia por meio de usinas hidrelétricas, térmicas ou outras fontes.",
+  "main_products_services": [
+    "Energia elétrica"
+  ],
+  "competitors": [
+    "Eletrobras",
+    "Engie",
+    "AES Brasil"
+  ],
+  "economic_classification_code": "4911"
+}

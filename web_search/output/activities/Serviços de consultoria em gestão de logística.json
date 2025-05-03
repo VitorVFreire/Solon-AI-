@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de logística",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de logística desempenham um papel fundamental na otimização de cadeias de suprimentos, melhorando a eficiência operacional e reduzindo custos para empresas de diversos setores.",
+  "correlated_activities": [
+    {
+      "activity": "Logística",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação muito forte e dependência crítica entre os serviços de consultoria em gestão de logística e a atividade de logística. A consultoria em logística complementa as operações logísticas das empresas, fornecendo expertise especializada para melhorar a eficiência e reduzir custos.",
+      "economic_justification": "Os serviços de consultoria em gestão de logística atuam em estreita colaboração com as operações logísticas das empresas, oferecendo soluções personalizadas para otimizar processos, reduzir desperdícios e melhorar a gestão de estoques. A expertise da consultoria é essencial para lidar com desafios complexos e garantir a integração eficaz de todas as etapas da cadeia de suprimentos."
+    },
+    {
+      "activity": "Indústria de Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação forte e dependência alta entre os serviços de consultoria em gestão de logística e a Indústria de Tecnologia da Informação. A TI desempenha um papel crucial na implementação de soluções tecnológicas para aprimorar a logística, tornando essa correlação significativa.",
+      "economic_justification": "A integração de sistemas de informação e tecnologia é essencial para a eficiência da gestão logística. A Indústria de Tecnologia da Informação fornece as ferramentas e plataformas necessárias para a automação de processos, rastreamento de mercadorias, análise de dados e tomada de decisões estratégicas na cadeia de suprimentos."
+    },
+    {
+      "activity": "Transporte",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Existe uma correlação forte e dependência alta entre os serviços de consultoria em gestão de logística e o setor de Transporte. Os serviços de consultoria em logística são clientes importantes do setor de transporte, ao passo que também são fornecedores de demanda por serviços de transporte.",
+      "economic_justification": "Os serviços de consultoria em gestão de logística dependem do setor de transporte para a movimentação eficiente de mercadorias ao longo da cadeia de suprimentos. Por outro lado, o setor de transporte depende da consultoria em logística para aprimorar suas operações, reduzir custos e atender às demandas do mercado de forma mais eficiente."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços do petróleo, que impactam os custos de transporte e logística",
+    "Taxas de câmbio, que afetam os custos de importação e exportação",
+    "Políticas governamentais de infraestrutura, que influenciam a eficiência dos transportes",
+    "Tecnologias emergentes, como IoT e Big Data, que impactam a logística e a TI"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de mercado e pode variar dependendo de condições específicas de cada indústria ou região."
+}

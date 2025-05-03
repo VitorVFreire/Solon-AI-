@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de cadeia de suprimentos de produtos eletrônicos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de cadeia de suprimentos de produtos eletrônicos desempenham um papel fundamental na melhoria da eficiência operacional e na redução de custos das empresas do setor de eletrônicos, garantindo uma cadeia de suprimentos mais ágil e eficaz.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de eletrônicos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de cadeia de suprimentos de produtos eletrônicos e a indústria de eletrônicos, atuando como fornecedor de soluções especializadas para otimização da cadeia de suprimentos.",
+      "economic_justification": "Os serviços de consultoria em gestão de cadeia de suprimentos de produtos eletrônicos são essenciais para a indústria de eletrônicos, pois contribuem para a eficiência operacional, redução de custos e melhoria da qualidade dos produtos, impactando diretamente a competitividade no mercado."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de logística",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada com os serviços de consultoria em gestão de logística, pois ambos visam aprimorar a eficiência e a integração dos processos logísticos nas empresas.",
+      "economic_justification": "A consultoria em gestão de cadeia de suprimentos de produtos eletrônicos e a consultoria em gestão de logística compartilham objetivos semelhantes de otimização de processos, redução de custos e melhoria da qualidade dos serviços, o que os torna complementares em uma estratégia integrada."
+    },
+    {
+      "activity": "Indústria de tecnologia da informação",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Comportamento de Mercado",
+      "correlation_description": "Existe uma correlação fraca com a indústria de tecnologia da informação, devido à crescente integração de sistemas e tecnologias na gestão da cadeia de suprimentos.",
+      "economic_justification": "A interseção entre os serviços de consultoria em gestão de cadeia de suprimentos de produtos eletrônicos e a indústria de tecnologia da informação ocorre principalmente na implementação de soluções tecnológicas para aprimorar a eficiência e a visibilidade da cadeia de suprimentos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações cambiais",
+    "Tendências de consumo de eletrônicos",
+    "Inovações tecnológicas na logística",
+    "Regulamentações de comércio internacional"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considera o impacto de eventos imprevisíveis, como crises econômicas ou pandemias, que podem afetar significativamente as correlações identificadas."
+}

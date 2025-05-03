@@ -1,0 +1,19 @@
+{
+  "company_name": "Cambuci SA Pref",
+  "primary_activity": "Fabricação de produtos esportivos",
+  "sector": "Moda",
+  "subsector": "Artigos esportivos",
+  "industry": "Equipamentos esportivos",
+  "activity_description": "A Cambuci SA Pref atua na fabricação de equipamentos esportivos, com foco em artigos esportivos para diversas modalidades esportivas.",
+  "main_products_services": [
+    "Bolas esportivas",
+    "Raquetes",
+    "Uniformes esportivos"
+  ],
+  "competitors": [
+    "Nike",
+    "Adidas",
+    "Puma"
+  ],
+  "economic_classification_code": "CNAE 3230-4/00"
+}

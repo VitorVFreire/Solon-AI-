@@ -1,0 +1,19 @@
+{
+  "company_name": "Travelers Companies Inc DRC",
+  "primary_activity": "Seguros e serviços financeiros",
+  "sector": "Finanças",
+  "subsector": "Seguros",
+  "industry": "Seguradora de propriedade e acidentes",
+  "activity_description": "A Travelers Companies Inc é uma seguradora especializada em seguros de propriedade e acidentes, oferecendo uma variedade de produtos e serviços financeiros para seus clientes.",
+  "main_products_services": [
+    "Seguros de propriedade",
+    "Seguros de acidentes",
+    "Serviços financeiros"
+  ],
+  "competitors": [
+    "Allianz",
+    "AXA",
+    "Chubb"
+  ],
+  "economic_classification_code": "7120-7/00 - Corretagem e intermediação de seguros, resseguros e previdência complementar"
+}

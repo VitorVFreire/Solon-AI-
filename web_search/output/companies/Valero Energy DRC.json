@@ -1,0 +1,19 @@
+{
+  "company_name": "Valero Energy Corp DRC",
+  "primary_activity": "Produção e distribuição de energia",
+  "sector": "Energia",
+  "subsector": "Petróleo e Gás",
+  "industry": "Refino de Petróleo",
+  "activity_description": "A Valero Energy Corp DRC atua na produção e distribuição de energia, com foco no refino de petróleo. A empresa está envolvida no processamento de petróleo bruto para a produção de uma variedade de produtos derivados, como gasolina, diesel e outros combustíveis.",
+  "main_products_services": [
+    "Gasolina",
+    "Diesel",
+    "Combustíveis derivados do petróleo"
+  ],
+  "competitors": [
+    "Petrobras",
+    "Shell",
+    "Chevron"
+  ],
+  "economic_classification_code": "NAICS 324110"
+}

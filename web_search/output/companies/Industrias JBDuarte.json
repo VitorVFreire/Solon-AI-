@@ -1,0 +1,16 @@
+{
+  "company_name": "Industrias JB Duarte SA",
+  "primary_activity": "Indústria Metalúrgica",
+  "sector": "Indústria",
+  "subsector": "Metalurgia",
+  "industry": "Metalurgia em Geral",
+  "activity_description": "A Indústrias JB Duarte SA atua na produção e comercialização de produtos metalúrgicos diversos, atendendo a demanda por peças e materiais metálicos em diferentes segmentos.",
+  "main_products_services": [
+    "Peças metálicas",
+    "Materiais metalúrgicos"
+  ],
+  "competitors": [
+    "Empresas metalúrgicas do Brasil"
+  ],
+  "economic_classification_code": "CNAE - 24.4-5-00 - Metalurgia do alumínio e suas ligas"
+}

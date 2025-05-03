@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Engenharia Ambiental",
+  "sector_classification": "Terciário",
+  "economic_context": "A Engenharia Ambiental é fundamental para a preservação e melhoria do meio ambiente, atuando na concepção e implementação de soluções sustentáveis para questões ambientais.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de Energia Renovável",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Engenharia Ambiental e a Indústria de Energia Renovável estão fortemente correlacionadas devido à necessidade de soluções ambientalmente sustentáveis na geração de energia.",
+      "economic_justification": "A Engenharia Ambiental contribui com expertise na mitigação de impactos ambientais, enquanto a Indústria de Energia Renovável demanda soluções sustentáveis para sua operação."
+    },
+    {
+      "activity": "Consultoria em Sustentabilidade",
+      "correlation_level": "5",
+      "dependency_level": "0.85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Engenharia Ambiental e a Consultoria em Sustentabilidade possuem uma correlação muito forte devido ao foco em práticas sustentáveis e impacto ambiental positivo.",
+      "economic_justification": "Ambas as atividades compartilham o objetivo de promover a sustentabilidade e a preservação ambiental, colaborando em projetos e estratégias para um desenvolvimento sustentável."
+    },
+    {
+      "activity": "Indústria de Reciclagem",
+      "correlation_level": "4",
+      "dependency_level": "0.70",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Engenharia Ambiental e a Indústria de Reciclagem estão correlacionadas devido ao foco em práticas ambientalmente responsáveis e na redução de resíduos.",
+      "economic_justification": "A Engenharia Ambiental contribui com conhecimentos técnicos para o desenvolvimento de processos sustentáveis, enquanto a Indústria de Reciclagem transforma resíduos em novos produtos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas ambientais governamentais",
+    "Preços de commodities relacionadas ao setor ambiental",
+    "Investimentos em tecnologias verdes"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar de acordo com a região e condições específicas de mercado."
+}

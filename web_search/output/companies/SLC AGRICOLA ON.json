@@ -1,0 +1,20 @@
+{
+  "company_name": "SLC Agricola SA",
+  "primary_activity": "Produção agrícola",
+  "sector": "Agricultura",
+  "subsector": "Agricultura diversificada",
+  "industry": "Agricultura",
+  "activity_description": "A SLC Agricola SA atua na produção agrícola, com foco em agricultura diversificada, englobando cultivo de grãos, fibras, oleaginosas e outros produtos agrícolas.",
+  "main_products_services": [
+    "Grãos",
+    "Fibras",
+    "Oleaginosas",
+    "Outros produtos agrícolas"
+  ],
+  "competitors": [
+    "Bunge",
+    "Cargill",
+    "ADM"
+  ],
+  "economic_classification_code": "0111-3/01"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Natura Cosmeticos SA",
+  "primary_activity": "Fabricação e venda de produtos cosméticos",
+  "sector": "Moda",
+  "subsector": "Cosméticos",
+  "industry": "Cosméticos e produtos de beleza",
+  "activity_description": "A Natura Cosméticos SA é uma empresa brasileira especializada na fabricação e venda de produtos cosméticos e de beleza. Seu foco está em oferecer produtos naturais e sustentáveis para cuidados com a pele, cabelo e corpo.",
+  "main_products_services": [
+    "Cosméticos naturais",
+    "Produtos para cuidados com a pele",
+    "Produtos para cuidados com o cabelo"
+  ],
+  "competitors": [
+    "O Boticário",
+    "Avon",
+    "L'Oréal"
+  ],
+  "economic_classification_code": "3256201"
+}

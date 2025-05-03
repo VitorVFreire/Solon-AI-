@@ -1,0 +1,17 @@
+{
+  "company_name": "Netflix Inc DRC",
+  "primary_activity": "Streaming de vídeo online",
+  "sector": "Tecnologia",
+  "subsector": "Entretenimento digital",
+  "industry": "Plataforma de streaming de vídeo",
+  "activity_description": "A Netflix Inc DRC é uma empresa especializada na prestação de serviços de streaming de vídeo online, oferecendo uma ampla variedade de conteúdos audiovisuais aos seus assinantes.",
+  "main_products_services": [
+    "Serviços de streaming de vídeo"
+  ],
+  "competitors": [
+    "Amazon Prime Video",
+    "Disney+",
+    "HBO Max"
+  ],
+  "economic_classification_code": null
+}

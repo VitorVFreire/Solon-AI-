@@ -1,0 +1,18 @@
+{
+  "company_name": "Randon Participacoes SA",
+  "primary_activity": "Holding de participações em empresas do setor automotivo",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de veículos automotores",
+  "industry": "Fabricação de veículos comerciais e autopeças",
+  "activity_description": "A Randon Participacoes SA atua como uma holding que possui participações em empresas do setor automotivo, com foco na fabricação de veículos comerciais e autopeças.",
+  "main_products_services": [
+    "Veículos comerciais",
+    "Autopeças"
+  ],
+  "competitors": [
+    "Marcopolo",
+    "Iochpe-Maxion",
+    "Fras-le"
+  ],
+  "economic_classification_code": "CNAE 6422-3/00"
+}

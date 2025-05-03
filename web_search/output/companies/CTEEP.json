@@ -1,0 +1,17 @@
+{
+  "company_name": "CTEEP Companhia de Transmissao de Energia Eletrica Paulista",
+  "primary_activity": "Transmissão de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Transmissão e Distribuição de Energia Elétrica",
+  "industry": "Transmissão de Energia Elétrica",
+  "activity_description": "A CTEEP atua na transmissão de energia elétrica, sendo responsável por transportar a energia gerada até os pontos de consumo. A empresa opera no setor de energia, especificamente no subsector de transmissão e distribuição de energia elétrica.",
+  "main_products_services": [
+    "Transmissão de energia elétrica"
+  ],
+  "competitors": [
+    "Eletropaulo",
+    "ISA Cteep",
+    "Engie Brasil Energia"
+  ],
+  "economic_classification_code": "4911-6/01"
+}

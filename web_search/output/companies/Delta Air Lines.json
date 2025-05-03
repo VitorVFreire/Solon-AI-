@@ -1,0 +1,19 @@
+{
+  "company_name": "Delta Air Lines Inc",
+  "primary_activity": "Transporte aéreo de passageiros e cargas",
+  "sector": "Transporte",
+  "subsector": "Transporte aéreo",
+  "industry": "Companhia aérea",
+  "activity_description": "A Delta Air Lines Inc é uma companhia aérea especializada no transporte de passageiros e cargas, operando voos nacionais e internacionais. Oferece serviços de transporte aéreo para diversos destinos ao redor do mundo.",
+  "main_products_services": [
+    "Passagens aéreas",
+    "Serviços de transporte de cargas",
+    "Serviços de bordo"
+  ],
+  "competitors": [
+    "American Airlines Group",
+    "United Airlines Holdings",
+    "Southwest Airlines Co"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Lojas Renner SA",
+  "primary_activity": "Varejo de moda",
+  "sector": "Moda",
+  "subsector": "Varejo de vestuário e acessórios",
+  "industry": "Varejo de moda",
+  "activity_description": "A Lojas Renner SA atua no varejo de moda, oferecendo uma ampla variedade de roupas, calçados e acessórios para diferentes públicos. A empresa possui lojas físicas e também opera no comércio eletrônico.",
+  "main_products_services": [
+    "Roupas",
+    "Calçados",
+    "Acessórios de moda"
+  ],
+  "competitors": [
+    "C&A",
+    "Marisa",
+    "Cia. Hering"
+  ],
+  "economic_classification_code": null
+}

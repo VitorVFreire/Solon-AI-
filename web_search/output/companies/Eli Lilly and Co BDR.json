@@ -1,0 +1,17 @@
+{
+  "company_name": "Eli Lilly and Co BDR",
+  "primary_activity": "Indústria Farmacêutica",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Farmacêutica",
+  "activity_description": "A empresa Eli Lilly and Co BDR atua na indústria farmacêutica, desenvolvendo e comercializando medicamentos para diversas áreas terapêuticas.",
+  "main_products_services": [
+    "Medicamentos farmacêuticos"
+  ],
+  "competitors": [
+    "Pfizer Inc.",
+    "Novartis AG",
+    "Merck & Co., Inc."
+  ],
+  "economic_classification_code": "325412"
+}

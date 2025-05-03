@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de operações industriais",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de operações industriais desempenham um papel fundamental na melhoria da eficiência e qualidade das operações nas indústrias, contribuindo para a redução de custos e aumento da competitividade no mercado.",
+  "correlated_activities": [
+    {
+      "activity": "Logística",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre os serviços de consultoria em gestão de operações industriais e a logística, pois a otimização das operações industriais impacta diretamente a eficiência e organização da cadeia logística.",
+      "economic_justification": "A gestão eficaz das operações industriais influencia diretamente a logística, pois a eficiência na produção afeta a distribuição dos produtos e o cumprimento de prazos, custos e qualidade."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada e dependência significativa entre os serviços de consultoria em gestão de operações industriais e a gestão de projetos, pois ambas visam a eficiência e a execução adequada de atividades complexas.",
+      "economic_justification": "A gestão eficaz das operações industriais requer habilidades de gestão de projetos para implementar melhorias, controlar processos e garantir a execução adequada das estratégias definidas."
+    },
+    {
+      "activity": "Gestão de Qualidade",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e alta dependência entre os serviços de consultoria em gestão de operações industriais e a gestão de qualidade, pois a eficiência operacional está diretamente ligada à qualidade dos produtos.",
+      "economic_justification": "A gestão eficaz das operações industriais requer um controle rigoroso da qualidade para garantir a conformidade com padrões e especificações, impactando diretamente a satisfação do cliente e a reputação da empresa."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de consultoria em gestão de operações industriais incluem o crescimento econômico, a demanda por eficiência produtiva, as políticas governamentais relacionadas à indústria e as tendências tecnológicas que impactam a automação e a digitalização dos processos industriais."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto genérico de operações industriais e pode variar de acordo com a especificidade de cada setor industrial."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Kepler Weber SA",
+  "primary_activity": "Fabricação de equipamentos para armazenagem agrícola",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Equipamentos para armazenagem agrícola",
+  "industry": "Fabricação de silos e equipamentos para armazenagem de grãos",
+  "activity_description": "A Kepler Weber SA atua na fabricação de silos e equipamentos para armazenagem de grãos, oferecendo soluções para o setor agrícola, especialmente no armazenamento de produtos como grãos e sementes.",
+  "main_products_services": [
+    "Silos metálicos",
+    "Esteiras transportadoras",
+    "Secadores de grãos"
+  ],
+  "competitors": [
+    "Agroindustrial Serra Grande",
+    "GSI Group",
+    "AGCO Corporation"
+  ],
+  "economic_classification_code": "CNAE 2822-4/00"
+}

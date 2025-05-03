@@ -1,0 +1,21 @@
+{
+  "company_name": "Hospital Unimed Sul Capixaba",
+  "primary_activity": "Prestação de serviços de saúde",
+  "sector": "Saúde",
+  "subsector": "Serviços de Saúde",
+  "industry": "Hospitalar",
+  "activity_description": "A empresa atua na prestação de serviços hospitalares na região sul do Espírito Santo, oferecendo atendimento médico, cirúrgico, de emergência, entre outros.",
+  "main_products_services": [
+    "Atendimento médico",
+    "Cirurgias",
+    "Serviços de emergência",
+    "Internações",
+    "Exames clínicos"
+  ],
+  "competitors": [
+    "Hospital Santa Casa de Misericórdia",
+    "Hospital Evangélico de Vila Velha",
+    "Hospital Meridional"
+  ],
+  "economic_classification_code": "8610-1/01"
+}

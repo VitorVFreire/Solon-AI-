@@ -1,0 +1,19 @@
+{
+  "company_name": "LPS Brasil Consultoria de Imoveis",
+  "primary_activity": "Consultoria em Imóveis",
+  "sector": "Consultoria Financeira",
+  "subsector": "Consultoria Imobiliária",
+  "industry": "Consultoria em Compra, Venda e Locação de Imóveis",
+  "activity_description": "A LPS Brasil Consultoria de Imóveis atua na prestação de serviços de consultoria para compra, venda e locação de imóveis, auxiliando clientes na realização de transações imobiliárias.",
+  "main_products_services": [
+    "Consultoria em Compra de Imóveis",
+    "Consultoria em Venda de Imóveis",
+    "Consultoria em Locação de Imóveis"
+  ],
+  "competitors": [
+    "RE/MAX",
+    "Century 21",
+    "Keller Williams"
+  ],
+  "economic_classification_code": null
+}

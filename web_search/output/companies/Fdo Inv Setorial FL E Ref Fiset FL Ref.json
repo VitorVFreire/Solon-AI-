@@ -1,0 +1,17 @@
+{
+  "company_name": "Fdo Inv Setorial FL E Ref Fiset FL Ref",
+  "primary_activity": "Investimento em setor financeiro e refino de petróleo",
+  "sector": "Finanças",
+  "subsector": "Investimentos",
+  "industry": "Investimento em setor financeiro",
+  "activity_description": "A empresa atua no mercado de investimentos, com foco no setor financeiro, e também realiza atividades de refino de petróleo.",
+  "main_products_services": [
+    "Gestão de investimentos",
+    "Refino de petróleo"
+  ],
+  "competitors": [
+    "Outras empresas de investimento em setor financeiro",
+    "Empresas de refino de petróleo"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,20 @@
+{
+  "company_name": "Caterpillar Inc BDR",
+  "primary_activity": "Fabricação e venda de equipamentos pesados para construção e mineração",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de equipamentos pesados para construção e mineração",
+  "industry": "Fabricação de máquinas e equipamentos para construção e mineração",
+  "activity_description": "A Caterpillar Inc é uma empresa especializada na fabricação e venda de equipamentos pesados utilizados na construção e mineração. Seus produtos incluem escavadeiras, tratores, retroescavadeiras, entre outros equipamentos.",
+  "main_products_services": [
+    "Escavadeiras",
+    "Tratores",
+    "Retroescavadeiras",
+    "Equipamentos para construção e mineração"
+  ],
+  "competitors": [
+    "Komatsu Ltd",
+    "Volvo Construction Equipment",
+    "Liebherr Group"
+  ],
+  "economic_classification_code": null
+}

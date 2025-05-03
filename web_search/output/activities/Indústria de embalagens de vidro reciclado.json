@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Indústria de embalagens de vidro reciclado",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens de vidro reciclado atua na produção de embalagens sustentáveis, contribuindo para a redução do impacto ambiental e promovendo a economia circular.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de embalagens de alimentos",
+      "correlation_level": "4",
+      "dependency_level": "0.65",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria de embalagens de vidro reciclado e a Indústria de embalagens de alimentos possuem uma forte correlação, pois as embalagens de vidro reciclado são frequentemente utilizadas para alimentos, devido à sua segurança e sustentabilidade.",
+      "economic_justification": "As embalagens de vidro reciclado são uma opção sustentável e segura para acondicionar alimentos, atendendo à demanda por embalagens ecologicamente corretas no setor alimentício."
+    },
+    {
+      "activity": "Indústria de bebidas",
+      "correlation_level": "3",
+      "dependency_level": "0.50",
+      "correlation_type": "Cliente",
+      "correlation_description": "A Indústria de embalagens de vidro reciclado tem uma correlação moderada com a Indústria de bebidas, pois as embalagens de vidro reciclado são amplamente utilizadas para engarrafamento de bebidas.",
+      "economic_justification": "O uso de embalagens de vidro reciclado é comum na indústria de bebidas devido à sua qualidade e apelo sustentável, atendendo à demanda dos consumidores por produtos ecologicamente responsáveis."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Preço do vidro virgem",
+    "Políticas ambientais e de reciclagem",
+    "Demanda por embalagens sustentáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria, podendo haver variações regionais e específicas de mercado que não foram abordadas."
+}

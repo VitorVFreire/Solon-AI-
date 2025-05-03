@@ -1,0 +1,19 @@
+{
+  "company_name": "American Express Co BDR",
+  "primary_activity": "Serviços Financeiros",
+  "sector": "Finanças",
+  "subsector": "Serviços Financeiros Diversos",
+  "industry": "Cartões de Crédito e Pagamentos Eletrônicos",
+  "activity_description": "A American Express Co BDR atua no setor de Finanças, mais especificamente no subsector de Serviços Financeiros Diversos, oferecendo serviços de cartões de crédito e pagamentos eletrônicos.",
+  "main_products_services": [
+    "Cartões de Crédito",
+    "Serviços de Pagamentos Eletrônicos",
+    "Soluções Financeiras"
+  ],
+  "competitors": [
+    "Visa Inc.",
+    "Mastercard Incorporated",
+    "Discover Financial Services"
+  ],
+  "economic_classification_code": "6492-2/00 - Outras Atividades de Serviços Financeiros Não Especificadas Anteriormente"
+}

@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em logística",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em logística desempenham um papel fundamental na melhoria da eficiência operacional e na redução de custos para empresas que lidam com a gestão de cadeias de suprimentos e logística. Essa atividade é essencial para garantir a entrega eficaz de produtos e materiais aos clientes finais.",
+  "correlated_activities": [
+    {
+      "activity": "Transporte",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente/Fornecedor",
+      "correlation_description": "Os serviços de consultoria em logística têm uma forte correlação com o setor de transporte, atuando muitas vezes como clientes ao demandar serviços de transporte para a execução de estratégias logísticas. Da mesma forma, as empresas de transporte podem ser clientes desses serviços para melhorar suas operações.",
+      "economic_justification": "A otimização da logística está diretamente ligada à eficiência do transporte, pois a escolha de rotas, modais e métodos de transporte impacta diretamente nos custos e na qualidade do serviço prestado."
+    },
+    {
+      "activity": "Indústria de embalagens",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de embalagens tem uma correlação moderada com os serviços de consultoria em logística, pois a escolha e o design de embalagens impactam diretamente na logística de armazenamento e distribuição de produtos.",
+      "economic_justification": "Embora a relação seja mais indireta, a eficiência da logística é influenciada pela adequação e qualidade das embalagens utilizadas, o que pode impactar os processos logísticos e os custos envolvidos."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Comportamento de mercado similar",
+      "correlation_description": "A gestão de projetos apresenta uma correlação fraca com os serviços de consultoria em logística, uma vez que ambos envolvem processos de planejamento, execução e controle de atividades específicas.",
+      "economic_justification": "Embora as áreas tenham focos distintos, a necessidade de planejamento, organização e execução eficiente de projetos é um ponto em comum que pode gerar alguma sinergia entre os setores."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de combustíveis e insumos logísticos",
+    "Taxas de câmbio e impacto nas importações e exportações",
+    "Legislação e regulamentações governamentais sobre transporte e logística"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de correlações, podendo variar em detalhes conforme o mercado específico de atuação das empresas de consultoria em logística."
+}

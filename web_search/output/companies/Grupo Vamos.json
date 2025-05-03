@@ -1,0 +1,19 @@
+{
+  "company_name": "Grupo Vamos",
+  "primary_activity": "Locação de veículos e serviços de mobilidade",
+  "sector": "Transporte",
+  "subsector": "Locação de veículos",
+  "industry": "Locação de veículos para transporte de passageiros e cargas",
+  "activity_description": "O Grupo Vamos atua na locação de veículos para transporte de passageiros e cargas, oferecendo serviços de mobilidade para diversos fins.",
+  "main_products_services": [
+    "Locação de veículos para passageiros",
+    "Locação de veículos para cargas",
+    "Serviços de mobilidade"
+  ],
+  "competitors": [
+    "Localiza",
+    "Movida",
+    "Unidas"
+  ],
+  "economic_classification_code": null
+}

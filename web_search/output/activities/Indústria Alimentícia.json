@@ -1,0 +1,48 @@
+{
+  "economic_activity": "Indústria Alimentícia",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A Indústria Alimentícia é um setor fundamental da economia responsável pela produção em larga escala de alimentos e bebidas para distribuição e consumo. É essencial para a segurança alimentar e tem impacto significativo no mercado de trabalho e no abastecimento de produtos essenciais para a população.",
+  "correlated_activities": [
+    {
+      "activity": "Agicultura",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria Alimentícia depende fortemente da Agricultura como fornecedora de matérias-primas agrícolas para a produção de alimentos e bebidas em larga escala.",
+      "economic_justification": "Sem a produção agrícola, a Indústria Alimentícia não teria insumos para a fabricação de seus produtos, demonstrando uma dependência crítica entre esses setores."
+    },
+    {
+      "activity": "Logística",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "A Indústria Alimentícia demanda serviços logísticos para distribuição eficiente de seus produtos para os mercados consumidores.",
+      "economic_justification": "A Logística desempenha um papel fundamental na cadeia de suprimentos da Indústria Alimentícia, garantindo que os alimentos cheguem aos pontos de venda de forma adequada e oportuna."
+    },
+    {
+      "activity": "Comércio Varejista",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Cliente",
+      "correlation_description": "O Comércio Varejista é um importante cliente da Indústria Alimentícia, responsável por disponibilizar os produtos alimentícios aos consumidores finais.",
+      "economic_justification": "A Indústria Alimentícia depende fortemente do Comércio Varejista para alcançar os consumidores e garantir a comercialização de seus produtos, evidenciando uma relação de dependência alta entre esses setores."
+    },
+    {
+      "activity": "Saúde",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Comportamento de Mercado Similar",
+      "correlation_description": "A Saúde está relacionada à Indústria Alimentícia devido à importância de uma alimentação saudável para a saúde da população.",
+      "economic_justification": "Ambos os setores têm interesse em promover hábitos alimentares saudáveis, o que pode resultar em campanhas conjuntas e políticas públicas voltadas para a nutrição e saúde da população."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços das commodities agrícolas",
+    "Políticas de segurança alimentar",
+    "Regulamentações sanitárias e de qualidade de alimentos",
+    "Tendências de consumo e preferências alimentares",
+    "Impacto de crises econômicas na demanda por alimentos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considera especificidades regionais que podem influenciar as correlações identificadas."
+}

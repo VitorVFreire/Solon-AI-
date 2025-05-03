@@ -1,0 +1,21 @@
+{
+  "company_name": "Guararapes Confeccoes SA",
+  "primary_activity": "Fabricação e venda de roupas e acessórios de moda",
+  "sector": "Moda",
+  "subsector": "Indústria Têxtil",
+  "industry": "Confecção de roupas e acessórios",
+  "activity_description": "A Guararapes Confeccoes SA atua na fabricação e venda de roupas e acessórios de moda, oferecendo uma variedade de peças para o mercado consumidor. Seus produtos incluem roupas femininas, masculinas e infantis, além de acessórios como bolsas e calçados.",
+  "main_products_services": [
+    "Roupas femininas",
+    "Roupas masculinas",
+    "Roupas infantis",
+    "Bolsas",
+    "Calçados"
+  ],
+  "competitors": [
+    "Lojas Renner",
+    "C&A",
+    "Marisa"
+  ],
+  "economic_classification_code": null
+}

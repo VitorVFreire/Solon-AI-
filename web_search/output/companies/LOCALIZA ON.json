@@ -1,0 +1,18 @@
+{
+  "company_name": "Localiza Rent a Car SA",
+  "primary_activity": "Locação de veículos",
+  "sector": "Transporte",
+  "subsector": "Locação de veículos",
+  "industry": "Locação de automóveis e veículos comerciais leves",
+  "activity_description": "A Localiza Rent a Car SA atua no segmento de locação de veículos, oferecendo serviços de aluguel de automóveis e veículos comerciais leves para clientes no Brasil.",
+  "main_products_services": [
+    "Aluguel de automóveis",
+    "Aluguel de veículos comerciais leves"
+  ],
+  "competitors": [
+    "Movida",
+    "Unidas",
+    "Hertz"
+  ],
+  "economic_classification_code": null
+}

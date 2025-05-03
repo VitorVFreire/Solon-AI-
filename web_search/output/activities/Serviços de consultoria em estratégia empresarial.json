@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em estratégia empresarial",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em estratégia empresarial desempenham um papel fundamental no auxílio às empresas na definição de suas direções estratégicas, identificação de oportunidades de crescimento e melhoria de desempenho.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria Empresarial",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação muito forte e dependência crítica entre os serviços de consultoria em estratégia empresarial e a consultoria empresarial, pois ambas visam melhorar a eficiência e eficácia das operações das empresas.",
+      "economic_justification": "A consultoria empresarial muitas vezes engloba a consultoria em estratégia empresarial como parte de seus serviços, sendo essencial para a definição e implementação de estratégias de negócio bem-sucedidas."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação forte e dependência alta entre os serviços de consultoria em estratégia empresarial e a gestão de projetos, pois a definição de estratégias impacta diretamente na execução e gestão de projetos.",
+      "economic_justification": "Uma estratégia empresarial eficaz requer uma boa gestão de projetos para sua implementação bem-sucedida, tornando essas atividades complementares e interdependentes."
+    },
+    {
+      "activity": "Marketing Digital",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada e dependência moderada entre os serviços de consultoria em estratégia empresarial e o marketing digital, uma vez que a estratégia de negócio influencia diretamente as ações de marketing.",
+      "economic_justification": "A estratégia empresarial define os objetivos e direcionamentos da empresa, os quais são fundamentais para o desenvolvimento de estratégias de marketing digital eficazes e alinhadas com os objetivos organizacionais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxa de crescimento econômico",
+    "Tendências do mercado",
+    "Regulamentações governamentais"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar de acordo com as especificidades de cada empresa e setor."
+}

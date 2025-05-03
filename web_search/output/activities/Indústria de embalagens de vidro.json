@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens de vidro",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens de vidro desempenha um papel fundamental na cadeia de produção de diversos setores, fornecendo embalagens seguras e sustentáveis para uma variedade de produtos, como alimentos, bebidas, produtos farmacêuticos e cosméticos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de bebidas",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação forte entre a indústria de embalagens de vidro e a indústria de bebidas, pois as embalagens de vidro são amplamente utilizadas para engarrafamento de bebidas alcoólicas e não alcoólicas.",
+      "economic_justification": "A indústria de embalagens de vidro depende significativamente da demanda da indústria de bebidas para suas garrafas, o que cria uma relação de dependência mútua entre os setores."
+    },
+    {
+      "activity": "Indústria de produtos farmacêuticos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "Há uma correlação moderada entre a indústria de embalagens de vidro e a indústria de produtos farmacêuticos, devido à utilização de embalagens de vidro para medicamentos e produtos de saúde.",
+      "economic_justification": "A indústria de embalagens de vidro fornece embalagens seguras e inertes que são essenciais para a preservação da qualidade e integridade dos produtos farmacêuticos, estabelecendo uma relação de interdependência."
+    },
+    {
+      "activity": "Indústria de alimentos",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação moderada entre a indústria de embalagens de vidro e a indústria de alimentos, já que embalagens de vidro são comumente utilizadas para acondicionar alimentos gourmet e premium.",
+      "economic_justification": "A indústria de embalagens de vidro atende à demanda por embalagens de alta qualidade e estética da indústria de alimentos, criando uma relação de dependência para produtos específicos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos custos de matéria-prima (vidro)",
+    "Tendências de sustentabilidade e reciclagem",
+    "Demanda do mercado por embalagens premium",
+    "Regulamentações sanitárias e de segurança de produtos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de embalagens de vidro, mas variações regionais e específicas de mercado podem influenciar as correlações identificadas."
+}

@@ -1,0 +1,20 @@
+{
+  "company_name": "Telefonica Brasil SA",
+  "primary_activity": "Telecomunicações",
+  "sector": "Tecnologia",
+  "subsector": "Telecomunicações",
+  "industry": "Telecomunicações",
+  "activity_description": "A Telefonica Brasil SA atua no setor de tecnologia, mais especificamente no subsector de telecomunicações, oferecendo serviços de telefonia fixa e móvel, internet e televisão por assinatura.",
+  "main_products_services": [
+    "Telefonia Fixa",
+    "Telefonia Móvel",
+    "Internet",
+    "TV por Assinatura"
+  ],
+  "competitors": [
+    "Claro",
+    "TIM",
+    "Oi"
+  ],
+  "economic_classification_code": "TBC"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "KLABIN S/A UNT N2",
+  "primary_activity": "Produção de papel e celulose",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Papel e Celulose",
+  "industry": "Produção de Papel e Celulose",
+  "activity_description": "A Klabin S/A atua na produção de papel e celulose, sendo uma das principais empresas do setor no Brasil. Seus principais produtos incluem papéis para embalagens, papéis para imprimir e escrever, e celulose.",
+  "main_products_services": [
+    "Papéis para embalagens",
+    "Papéis para imprimir e escrever",
+    "Celulose"
+  ],
+  "competitors": [
+    "Suzano",
+    "Fibria",
+    "International Paper"
+  ],
+  "economic_classification_code": "17.21-6-00 - Fabricação de papel e celulose"
+}

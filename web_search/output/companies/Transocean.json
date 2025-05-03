@@ -1,0 +1,17 @@
+{
+  "company_name": "Transocean Inc",
+  "primary_activity": "Exploração e produção de petróleo e gás",
+  "sector": "Energia",
+  "subsector": "Exploração e Produção de Petróleo e Gás",
+  "industry": "Serviços de Perfuração Offshore",
+  "activity_description": "A Transocean Inc atua na prestação de serviços de perfuração offshore para exploração e produção de petróleo e gás. A empresa opera plataformas de perfuração em águas profundas e ultraprofundas em diversas regiões do mundo.",
+  "main_products_services": [
+    "Serviços de Perfuração Offshore"
+  ],
+  "competitors": [
+    "Schlumberger",
+    "Halliburton",
+    "Baker Hughes"
+  ],
+  "economic_classification_code": "0610-7/01"
+}

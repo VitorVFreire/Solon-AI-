@@ -1,0 +1,18 @@
+{
+  "company_name": "Intel Corp BDR",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Hardware de Computadores",
+  "industry": "Processadores e Chips",
+  "activity_description": "A Intel Corp BDR atua no desenvolvimento e fabricação de processadores e chips para computadores e dispositivos eletrônicos.",
+  "main_products_services": [
+    "Processadores",
+    "Chips de Computadores"
+  ],
+  "competitors": [
+    "AMD",
+    "NVIDIA",
+    "Qualcomm"
+  ],
+  "economic_classification_code": "6201"
+}

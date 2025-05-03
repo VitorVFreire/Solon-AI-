@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Indústria Química",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A Indústria Química é um setor fundamental na economia, responsável pela produção de uma ampla variedade de produtos químicos utilizados em diversos setores, como agricultura, saúde, construção, entre outros. Sua produção impacta diretamente a competitividade e inovação de outras indústrias.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Farmacêutica",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Indústria Química e a Indústria Farmacêutica possuem uma forte correlação devido ao fornecimento de ingredientes farmacêuticos ativos (IFAs) pela Indústria Química para a produção de medicamentos pela Indústria Farmacêutica.",
+      "economic_justification": "A Indústria Química fornece os insumos essenciais para a fabricação de medicamentos, sendo uma parceira fundamental para a Indústria Farmacêutica, garantindo a qualidade e segurança dos produtos finais."
+    },
+    {
+      "activity": "Indústria de Embalagens",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "A Indústria Química e a Indústria de Embalagens possuem uma correlação significativa, com a Indústria Química fornecendo materiais como plásticos e resinas utilizados na fabricação de embalagens pela Indústria de Embalagens.",
+      "economic_justification": "A demanda por embalagens está diretamente ligada à produção de produtos químicos para a fabricação de diferentes tipos de embalagens, demonstrando uma interdependência entre os setores."
+    },
+    {
+      "activity": "Indústria de Produtos de Limpeza",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Indústria Química e a Indústria de Produtos de Limpeza possuem uma forte correlação devido aos produtos químicos fornecidos pela Indústria Química que são essenciais para a fabricação de produtos de limpeza.",
+      "economic_justification": "A Indústria Química fornece os componentes químicos necessários para a produção de produtos de limpeza, sendo uma parceira estratégica para garantir a eficácia e qualidade desses produtos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a Indústria Química incluem os preços das commodities químicas, a demanda por produtos químicos em diferentes setores da economia, as regulamentações ambientais e de segurança, e a inovação tecnológica no desenvolvimento de novos materiais e processos químicos."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante ressaltar que as correlações identificadas são baseadas em padrões históricos e estruturais do mercado, podendo variar de acordo com mudanças bruscas no ambiente econômico ou regulatório."
+}

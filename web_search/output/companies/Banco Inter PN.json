@@ -1,0 +1,20 @@
+{
+  "company_name": "Banco Inter SA Pref",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos",
+  "industry": "Banco Múltiplo",
+  "activity_description": "O Banco Inter SA Pref é uma instituição financeira que atua como banco múltiplo, oferecendo serviços bancários e financeiros, incluindo conta corrente, investimentos, empréstimos e outros produtos financeiros.",
+  "main_products_services": [
+    "Conta corrente digital",
+    "Cartão de crédito",
+    "Investimentos",
+    "Empréstimos"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Itaú Unibanco",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6412-7/00"
+}

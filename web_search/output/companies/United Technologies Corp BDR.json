@@ -1,0 +1,19 @@
+{
+  "company_name": "United Technologies Corp BDR",
+  "primary_activity": "Indústria de Equipamentos de Segurança",
+  "sector": "Indústria",
+  "subsector": "Equipamentos de Segurança",
+  "industry": "Equipamentos de Segurança para Diversos Setores",
+  "activity_description": "A United Technologies Corp BDR atua na fabricação e comercialização de equipamentos de segurança para diversos setores, fornecendo soluções para proteção de trabalhadores e ambientes de trabalho.",
+  "main_products_services": [
+    "Equipamentos de proteção individual",
+    "Equipamentos de segurança para trabalho em altura",
+    "Equipamentos de segurança para trabalho em espaços confinados"
+  ],
+  "competitors": [
+    "Empresa de Equipamentos de Segurança A",
+    "Empresa de Equipamentos de Segurança B",
+    "Empresa de Equipamentos de Segurança C"
+  ],
+  "economic_classification_code": ""
+}

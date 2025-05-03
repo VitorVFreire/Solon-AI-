@@ -1,0 +1,19 @@
+{
+  "company_name": "Companhia Tecidos Santanense",
+  "primary_activity": "Fabricação de tecidos",
+  "sector": "Indústria Têxtil",
+  "subsector": "Fabricação de tecidos",
+  "industry": "Tecelagem de tecidos de algodão",
+  "activity_description": "A Companhia Tecidos Santanense atua na fabricação de tecidos, com foco na tecelagem de tecidos de algodão.",
+  "main_products_services": [
+    "Tecidos de algodão",
+    "Tecidos para vestuário",
+    "Tecidos para decoração"
+  ],
+  "competitors": [
+    "Santista Têxtil",
+    "Cedro Têxtil",
+    "Hering Têxtil"
+  ],
+  "economic_classification_code": null
+}

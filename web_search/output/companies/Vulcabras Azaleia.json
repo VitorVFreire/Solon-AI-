@@ -1,0 +1,19 @@
+{
+  "company_name": "Vulcabras Azaleia SA",
+  "primary_activity": "Fabricação e comercialização de calçados esportivos",
+  "sector": "Moda",
+  "subsector": "Calçados esportivos",
+  "industry": "Indústria de calçados esportivos",
+  "activity_description": "A Vulcabras Azaleia SA é uma empresa brasileira especializada na fabricação e comercialização de calçados esportivos. Seus principais produtos incluem tênis, chuteiras e acessórios esportivos.",
+  "main_products_services": [
+    "Tênis esportivos",
+    "Chuteiras",
+    "Acessórios esportivos"
+  ],
+  "competitors": [
+    "Nike",
+    "Adidas",
+    "Puma"
+  ],
+  "economic_classification_code": null
+}

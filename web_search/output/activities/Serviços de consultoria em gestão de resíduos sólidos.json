@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de resíduos sólidos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de resíduos sólidos desempenham um papel fundamental na promoção da sustentabilidade ambiental e no cumprimento de regulamentações relacionadas ao tratamento de resíduos. Essa atividade contribui para a redução de impactos negativos no meio ambiente e para a gestão eficiente de resíduos gerados por empresas e comunidades.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de reciclagem",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre os serviços de consultoria em gestão de resíduos sólidos e a indústria de reciclagem, pois a consultoria pode identificar oportunidades de reciclagem e implementar práticas sustentáveis de gestão de resíduos.",
+      "economic_justification": "Os serviços de consultoria em gestão de resíduos sólidos podem direcionar empresas e governos para a reciclagem como uma solução sustentável, aumentando a demanda por serviços e produtos da indústria de reciclagem."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada e dependência significativa entre os serviços de consultoria em gestão de resíduos sólidos e a indústria de embalagens sustentáveis, pois a consultoria pode incentivar a adoção de embalagens mais sustentáveis e recicláveis.",
+      "economic_justification": "A consultoria em gestão de resíduos sólidos pode promover a utilização de embalagens sustentáveis, impulsionando a demanda por esses produtos e serviços na indústria de embalagens sustentáveis."
+    },
+    {
+      "activity": "Indústria de reciclagem de produtos eletrônicos",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre os serviços de consultoria em gestão de resíduos sólidos e a indústria de reciclagem de produtos eletrônicos, pois a consultoria pode orientar sobre a reciclagem responsável de equipamentos eletrônicos.",
+      "economic_justification": "A consultoria em gestão de resíduos sólidos pode impulsionar a reciclagem de produtos eletrônicos, aumentando a demanda por serviços especializados nessa indústria."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas ambientais e regulatórias",
+    "Tendências de consumo sustentável",
+    "Inovações tecnológicas em reciclagem e tratamento de resíduos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo das políticas ambientais e do comportamento do mercado."
+}

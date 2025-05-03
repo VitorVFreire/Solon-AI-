@@ -1,0 +1,20 @@
+{
+  "company_name": "Bank of America Corp BDR",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Bancos comerciais",
+  "activity_description": "O Bank of America Corp BDR é uma instituição financeira que atua como banco comercial, oferecendo uma variedade de serviços bancários para clientes e empresas. Suas operações incluem empréstimos, investimentos, gestão de patrimônio e serviços bancários tradicionais.",
+  "main_products_services": [
+    "Empréstimos",
+    "Investimentos",
+    "Gestão de patrimônio",
+    "Serviços bancários"
+  ],
+  "competitors": [
+    "Itaú Unibanco",
+    "Banco do Brasil",
+    "Santander Brasil"
+  ],
+  "economic_classification_code": "6512-0/01"
+}

@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de produtos de higiene pessoal naturais",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de produtos de higiene pessoal naturais faz parte do setor de manufatura e está inserida em um mercado que valoriza cada vez mais a sustentabilidade, saúde e bem-estar dos consumidores. Com a crescente preocupação com ingredientes naturais e orgânicos, essa atividade tem ganhado destaque e atraído consumidores conscientes.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos orgânicos",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre a indústria de produtos de higiene pessoal naturais e a indústria de produtos orgânicos, pois ambas atendem a um público preocupado com ingredientes naturais e sustentabilidade.",
+      "economic_justification": "Os consumidores que buscam produtos de higiene pessoal naturais muitas vezes também preferem produtos orgânicos, criando uma sinergia entre esses setores e ampliando o mercado para ambos."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza ecológicos",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada e dependência razoável entre a indústria de produtos de higiene pessoal naturais e a indústria de produtos de limpeza ecológicos, devido à semelhança na preocupação com a sustentabilidade e ingredientes naturais.",
+      "economic_justification": "Ambos os setores compartilham valores semelhantes em relação à sustentabilidade e à preferência por ingredientes naturais, o que os torna complementares no mercado de produtos eco-friendly."
+    },
+    {
+      "activity": "Indústria de cosméticos naturais",
+      "correlation_level": "5",
+      "dependency_level": "0.85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação muito forte e alta dependência entre a indústria de produtos de higiene pessoal naturais e a indústria de cosméticos naturais, devido à similaridade de propósito e público-alvo.",
+      "economic_justification": "Ambos os setores compartilham a mesma filosofia de utilizar ingredientes naturais e orgânicos em seus produtos, atendendo a um público que valoriza a saúde, sustentabilidade e bem-estar."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos preços de matérias-primas naturais",
+    "Tendências de consumo sustentável",
+    "Regulamentações governamentais sobre produtos naturais",
+    "Condições econômicas que afetam o poder de compra de produtos premium"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto atual de valorização de produtos naturais e orgânicos, podendo haver variações conforme mudanças de tendências e preferências do consumidor."
+}

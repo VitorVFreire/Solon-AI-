@@ -1,0 +1,17 @@
+{
+  "company_name": "Eneva SA",
+  "primary_activity": "Geração de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Geração de Energia Elétrica",
+  "activity_description": "A Eneva SA atua na geração de energia elétrica, utilizando fontes diversificadas para produção de eletricidade. A empresa opera usinas termelétricas e busca contribuir para o suprimento energético do Brasil.",
+  "main_products_services": [
+    "Geração de energia elétrica"
+  ],
+  "competitors": [
+    "Engie Brasil Energia",
+    "AES Tietê Energia",
+    "Neoenergia"
+  ],
+  "economic_classification_code": "4911-3/01"
+}

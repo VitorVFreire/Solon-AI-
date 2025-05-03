@@ -1,0 +1,17 @@
+{
+  "company_name": "Centrais Eletricas Brasileiras SA",
+  "primary_activity": "Geração, transmissão e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica Integrada",
+  "activity_description": "A empresa atua na geração, transmissão e distribuição de energia elétrica no Brasil, sendo responsável por fornecer eletricidade para residências, indústrias e comércios.",
+  "main_products_services": [
+    "Energia elétrica"
+  ],
+  "competitors": [
+    "Engie Brasil Energia",
+    "CPFL Energia",
+    "Neoenergia"
+  ],
+  "economic_classification_code": "4911"
+}

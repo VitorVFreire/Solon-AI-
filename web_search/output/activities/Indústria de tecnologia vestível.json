@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de tecnologia vestível",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de tecnologia vestível está inserida no setor secundário da economia, sendo responsável pela produção de dispositivos tecnológicos vestíveis que integram tecnologia e moda.",
+  "correlated_activities": [
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Indústria de tecnologia vestível tem uma forte correlação com a Tecnologia da Informação devido à necessidade de desenvolvimento de softwares e integração de dados para os dispositivos vestíveis.",
+      "economic_justification": "Os dispositivos tecnológicos vestíveis dependem fortemente de softwares e sistemas de informação para funcionar corretamente, o que estabelece uma relação de complementaridade entre as duas atividades."
+    },
+    {
+      "activity": "Indústria de eletrônicos",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria de tecnologia vestível possui uma correlação significativa com a Indústria de eletrônicos, que fornece componentes essenciais para a fabricação dos dispositivos vestíveis.",
+      "economic_justification": "Os dispositivos tecnológicos vestíveis são compostos por diversos componentes eletrônicos, como sensores, processadores e baterias, tornando a Indústria de eletrônicos uma fornecedora fundamental para essa atividade."
+    },
+    {
+      "activity": "Saúde",
+      "correlation_level": "3",
+      "dependency_level": "0.50",
+      "correlation_type": "Cliente",
+      "correlation_description": "A Indústria de tecnologia vestível tem uma correlação moderada com o setor da Saúde, que utiliza dispositivos vestíveis para monitoramento de pacientes e práticas de telemedicina.",
+      "economic_justification": "Os dispositivos tecnológicos vestíveis são amplamente utilizados na área da Saúde para monitorar sinais vitais, atividade física e outros dados relevantes, o que estabelece uma relação cliente-fornecedor entre as duas atividades."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Inovação tecnológica",
+    "Investimentos em pesquisa e desenvolvimento",
+    "Tendências de mercado em tecnologia e moda"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da Indústria de tecnologia vestível, podendo haver variações regionais ou específicas de mercado que não foram abordadas."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "American Airlines Group Inc DRC",
+  "primary_activity": "Transporte aéreo de passageiros e carga",
+  "sector": "Transporte",
+  "subsector": "Transporte aéreo",
+  "industry": "Companhia aérea",
+  "activity_description": "A American Airlines Group Inc é uma companhia aérea especializada no transporte de passageiros e carga, operando voos domésticos e internacionais.",
+  "main_products_services": [
+    "Passagens aéreas",
+    "Transporte de carga",
+    "Serviços de bordo"
+  ],
+  "competitors": [
+    "Delta Air Lines",
+    "United Airlines",
+    "Southwest Airlines"
+  ],
+  "economic_classification_code": "4911"
+}

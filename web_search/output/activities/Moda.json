@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Moda",
+  "sector_classification": "Indústria",
+  "economic_context": "A indústria da moda engloba a produção e comercialização de roupas, acessórios e tendências de estilo, desempenhando um papel significativo na economia global, influenciando desde o varejo até a cultura e o comportamento do consumidor.",
+  "correlated_activities": [
+    {
+      "activity": "Comércio Varejista",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria da moda tem uma forte correlação com o comércio varejista, pois as lojas de varejo são os principais canais de distribuição para produtos de moda.",
+      "economic_justification": "O comércio varejista depende fortemente da indústria da moda para atrair clientes e impulsionar as vendas, enquanto a indústria da moda se beneficia da exposição e alcance proporcionados pelas lojas varejistas."
+    },
+    {
+      "activity": "Indústria Têxtil",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria da moda está altamente correlacionada com a indústria têxtil, que fornece os tecidos e materiais necessários para a produção de roupas e acessórios.",
+      "economic_justification": "Sem a indústria têxtil, a indústria da moda não teria os insumos essenciais para a fabricação de seus produtos, evidenciando uma dependência crítica entre esses setores."
+    },
+    {
+      "activity": "Marketing Digital",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Comportamento de Mercado",
+      "correlation_description": "A indústria da moda possui uma correlação moderada com o marketing digital, pois as estratégias de marketing online desempenham um papel cada vez mais importante na promoção e venda de produtos de moda.",
+      "economic_justification": "O marketing digital é essencial para alcançar o público-alvo da indústria da moda, influenciando as decisões de compra e a visibilidade das marcas no mercado online."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações cambiais que afetam os custos de produção e importação de materiais",
+    "Tendências de consumo e comportamento do cliente",
+    "Políticas comerciais e acordos internacionais que impactam o comércio de produtos de moda"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria da moda e pode variar dependendo de fatores regionais e tendências específicas de mercado."
+}

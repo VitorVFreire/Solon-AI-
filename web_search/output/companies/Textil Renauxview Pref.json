@@ -1,0 +1,19 @@
+{
+  "company_name": "Textil Renauxview SA Pref",
+  "primary_activity": "Produção e comercialização de produtos têxteis",
+  "sector": "Indústria Têxtil",
+  "subsector": "Têxteis",
+  "industry": "Têxteis Diversos",
+  "activity_description": "A Textil Renauxview SA Pref atua na produção e comercialização de uma variedade de produtos têxteis, como tecidos, roupas e acessórios.",
+  "main_products_services": [
+    "Tecidos",
+    "Roupas",
+    "Acessórios têxteis"
+  ],
+  "competitors": [
+    "Malwee",
+    "Hering",
+    "Santista Têxtil"
+  ],
+  "economic_classification_code": "C1730"
+}

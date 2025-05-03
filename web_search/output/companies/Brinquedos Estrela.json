@@ -1,0 +1,17 @@
+{
+  "company_name": "Manufatura de Brinquedos Estrela SA",
+  "primary_activity": "Fabricação e venda de brinquedos",
+  "sector": "Indústria de Brinquedos",
+  "subsector": "Manufatura de Brinquedos",
+  "industry": "Brinquedos Infantis",
+  "activity_description": "A Manufatura de Brinquedos Estrela SA é uma empresa especializada na fabricação e venda de brinquedos infantis, oferecendo uma variedade de produtos para crianças de diferentes faixas etárias.",
+  "main_products_services": [
+    "Brinquedos para crianças de todas as idades"
+  ],
+  "competitors": [
+    "Ri Happy",
+    "Mattel",
+    "Hasbro"
+  ],
+  "economic_classification_code": null
+}

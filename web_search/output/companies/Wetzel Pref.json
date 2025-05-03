@@ -1,0 +1,19 @@
+{
+  "company_name": "Wetzel SA Pref",
+  "primary_activity": "Fabricação de equipamentos de segurança",
+  "sector": "Indústria de Equipamentos de Segurança",
+  "subsector": "Equipamentos de Segurança para Diversos Setores",
+  "industry": "Equipamentos de Segurança Industrial",
+  "activity_description": "A Wetzel SA Pref atua na fabricação de equipamentos de segurança industrial, fornecendo soluções para proteção de trabalhadores em diferentes ambientes laborais.",
+  "main_products_services": [
+    "Equipamentos de Proteção Individual",
+    "Sistemas de Segurança para Trabalho em Altura",
+    "Equipamentos de Segurança para Espaços Confinados"
+  ],
+  "competitors": [
+    "Empresa de Equipamentos de Segurança A",
+    "Empresa de Equipamentos de Segurança B",
+    "Empresa de Equipamentos de Segurança C"
+  ],
+  "economic_classification_code": "26.51-9"
+}

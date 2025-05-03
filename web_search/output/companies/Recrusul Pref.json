@@ -1,0 +1,17 @@
+{
+  "company_name": "Recrusul SA Pref",
+  "primary_activity": "Fabricação de equipamentos de refrigeração comercial",
+  "sector": "Indústria",
+  "subsector": "Equipamentos de refrigeração",
+  "industry": "Refrigeração comercial",
+  "activity_description": "A Recrusul SA Pref atua na fabricação de equipamentos de refrigeração comercial, fornecendo soluções para estabelecimentos comerciais que necessitam de refrigeração para seus produtos.",
+  "main_products_services": [
+    "Equipamentos de refrigeração comercial"
+  ],
+  "competitors": [
+    "Empresa concorrente 1",
+    "Empresa concorrente 2",
+    "Empresa concorrente 3"
+  ],
+  "economic_classification_code": "CNAE 2825-3/00"
+}

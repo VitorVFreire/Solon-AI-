@@ -1,0 +1,19 @@
+{
+  "company_name": "Companhia de Tecidos Norte de Minas COTEMINAS",
+  "primary_activity": "Produção e comercialização de tecidos",
+  "sector": "Indústria Têxtil",
+  "subsector": "Indústria de tecidos",
+  "industry": "Indústria de tecidos diversos",
+  "activity_description": "A Companhia de Tecidos Norte de Minas (COTEMINAS) atua na produção e comercialização de uma variedade de tecidos para diferentes fins, incluindo vestuário, decoração e outros usos. A empresa possui uma ampla linha de produtos têxteis de alta qualidade.",
+  "main_products_services": [
+    "Tecidos para vestuário",
+    "Tecidos para decoração",
+    "Tecidos para usos diversos"
+  ],
+  "competitors": [
+    "Santista Têxtil",
+    "Hering Têxtil",
+    "Malwee Malhas"
+  ],
+  "economic_classification_code": null
+}

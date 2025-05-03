@@ -1,0 +1,17 @@
+{
+  "company_name": "Minerva SA",
+  "primary_activity": "Produção e comercialização de carne bovina",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Processamento de carne",
+  "industry": "Produção de carne bovina",
+  "activity_description": "A Minerva SA atua na produção e comercialização de carne bovina, sendo uma das principais empresas do setor de processamento de carne. Seu foco está na criação, abate e distribuição de carne bovina para diversos mercados.",
+  "main_products_services": [
+    "Carne bovina"
+  ],
+  "competitors": [
+    "JBS",
+    "Marfrig",
+    "Frigorífico Independência"
+  ],
+  "economic_classification_code": "1511-5/01"
+}

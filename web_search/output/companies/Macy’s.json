@@ -1,0 +1,20 @@
+{
+  "company_name": "Macy's Inc",
+  "primary_activity": "Varejo de moda e produtos para o lar",
+  "sector": "Comércio Varejista",
+  "subsector": "Varejo de Moda e Produtos para o Lar",
+  "industry": "Varejo de Departamentos",
+  "activity_description": "Macy's Inc é uma empresa de varejo que atua principalmente na venda de moda, acessórios, produtos para o lar e cosméticos em suas lojas físicas e online. Com uma ampla variedade de marcas e produtos, a empresa é conhecida por oferecer uma experiência de compra diferenciada aos seus clientes.",
+  "main_products_services": [
+    "Moda",
+    "Acessórios",
+    "Produtos para o lar",
+    "Cosméticos"
+  ],
+  "competitors": [
+    "Amazon",
+    "Walmart",
+    "Target"
+  ],
+  "economic_classification_code": null
+}

@@ -165,12 +165,12 @@ def main():
     )    
     
     # Criação de Correlação entre Atividades Econômicas
-    related_activities(
+    '''related_activities(
         llm_client=llm_client, 
         number_activities=args.number_activities_related if args.number_activities_related >= 0 else None,
         atividades_data=atividades_data,
         atividades_lista=atividades_lista
-    )
+    )'''
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,19 @@
+{
+  "company_name": "3M Co BDR",
+  "primary_activity": "Fabricação e comercialização de produtos de tecnologia e inovação",
+  "sector": "Tecnologia",
+  "subsector": "Indústria de produtos de tecnologia",
+  "industry": "Indústria de produtos de tecnologia diversificados",
+  "activity_description": "A 3M Co BDR é uma empresa especializada na fabricação e comercialização de uma ampla gama de produtos de tecnologia e inovação, atendendo a diversos setores da economia.",
+  "main_products_services": [
+    "Produtos de tecnologia",
+    "Materiais de escritório",
+    "Equipamentos de proteção individual"
+  ],
+  "competitors": [
+    "DuPont de Nemours Inc.",
+    "Honeywell International Inc.",
+    "Johnson & Johnson"
+  ],
+  "economic_classification_code": null
+}

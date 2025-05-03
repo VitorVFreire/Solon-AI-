@@ -1,0 +1,19 @@
+{
+  "company_name": "FII TRX LOG",
+  "primary_activity": "Investimento Imobiliário em Logística",
+  "sector": "Logística",
+  "subsector": "Investimento Imobiliário em Logística",
+  "industry": "Fundos de Investimento Imobiliário (FII)",
+  "activity_description": "A FII TRX LOG atua como um fundo de investimento imobiliário especializado em logística, adquirindo e gerindo propriedades voltadas para armazenagem e distribuição de mercadorias.",
+  "main_products_services": [
+    "Gestão de propriedades logísticas",
+    "Investimento em imóveis comerciais",
+    "Gestão de ativos imobiliários"
+  ],
+  "competitors": [
+    "HGLG11",
+    "VILG11",
+    "HLOG11"
+  ],
+  "economic_classification_code": "6791-4/00"
+}

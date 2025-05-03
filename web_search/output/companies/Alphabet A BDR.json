@@ -1,0 +1,20 @@
+{
+  "company_name": "Alphabet Inc A BDR",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Tecnologia da Informação",
+  "industry": "Desenvolvimento de Software e Serviços Relacionados",
+  "activity_description": "A Alphabet Inc é uma empresa global de tecnologia que se destaca no desenvolvimento de software e serviços relacionados, com foco em inovação e soluções digitais.",
+  "main_products_services": [
+    "Serviços de Busca Online",
+    "Sistemas Operacionais",
+    "Plataformas de Publicidade Online",
+    "Aplicativos Móveis"
+  ],
+  "competitors": [
+    "Microsoft",
+    "Apple",
+    "Amazon"
+  ],
+  "economic_classification_code": "6201-5/00 - Desenvolvimento de programas de computador sob encomenda"
+}

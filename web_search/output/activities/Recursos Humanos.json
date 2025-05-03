@@ -1,0 +1,46 @@
+{
+  "economic_activity": "Recursos Humanos",
+  "sector_classification": "Terciário",
+  "economic_context": "A atividade de Recursos Humanos desempenha um papel fundamental nas organizações, sendo responsável pela gestão de pessoas, recrutamento, seleção, treinamento e desenvolvimento de profissionais. É essencial para o funcionamento eficiente e produtivo das empresas, influenciando diretamente o desempenho e a cultura organizacional.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria em Recursos Humanos",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Consultoria em Recursos Humanos está fortemente correlacionada com a atividade de Recursos Humanos, atuando de forma complementar ao oferecer serviços especializados em gestão de pessoas para empresas que necessitam de expertise externa.",
+      "economic_justification": "Empresas que demandam serviços de Recursos Humanos muitas vezes recorrem a consultorias especializadas para obter suporte em processos seletivos, desenvolvimento de talentos e implementação de políticas de RH mais eficientes."
+    },
+    {
+      "activity": "Serviços de Consultoria em Gestão de Pessoas",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Os Serviços de Consultoria em Gestão de Pessoas apresentam uma correlação moderada com Recursos Humanos, atuando de forma complementar ao oferecer expertise externa em estratégias de gestão de pessoas e desenvolvimento organizacional.",
+      "economic_justification": "Empresas que buscam aprimorar suas práticas de gestão de pessoas podem contratar serviços de consultoria especializada para implementar soluções inovadoras e estratégias alinhadas com as melhores práticas do mercado."
+    },
+    {
+      "activity": "Recrutamento e Seleção",
+      "correlation_level": "4",
+      "dependency_level": "0.80",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A atividade de Recrutamento e Seleção possui uma correlação forte com Recursos Humanos, atuando como fornecedora de serviços essenciais para a contratação de novos profissionais e formação de equipes qualificadas.",
+      "economic_justification": "Recursos Humanos depende do Recrutamento e Seleção para identificar, atrair e selecionar os melhores talentos para as organizações, sendo uma parceria estratégica na composição de equipes de alto desempenho."
+    },
+    {
+      "activity": "Treinamento e Desenvolvimento",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Cliente",
+      "correlation_description": "A atividade de Treinamento e Desenvolvimento apresenta uma correlação forte com Recursos Humanos, atuando como cliente ao demandar programas de capacitação e desenvolvimento profissional para os colaboradores das empresas.",
+      "economic_justification": "Recursos Humanos é responsável por identificar as necessidades de treinamento e desenvolvimento dos colaboradores, sendo cliente dos serviços especializados nessa área para promover o crescimento e aprimoramento das equipes."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxa de desemprego",
+    "Legislação trabalhista",
+    "Investimento em educação e capacitação profissional"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral de Recursos Humanos, podendo haver variações significativas dependendo do setor de atuação e do porte das empresas."
+}

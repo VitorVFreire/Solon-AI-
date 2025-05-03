@@ -1,0 +1,18 @@
+{
+  "company_name": "TAESA UNT",
+  "primary_activity": "Transmissão de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Transmissão de energia elétrica",
+  "industry": "Transmissão de energia elétrica",
+  "activity_description": "A empresa atua no setor de energia, mais especificamente na transmissão de energia elétrica, sendo responsável por operar e manter linhas de transmissão de alta tensão.",
+  "main_products_services": [
+    "Operação de linhas de transmissão de energia elétrica",
+    "Manutenção de linhas de transmissão de energia elétrica"
+  ],
+  "competitors": [
+    "ISA CTEEP",
+    "Energisa",
+    "Neoenergia"
+  ],
+  "economic_classification_code": "4911-6/01"
+}

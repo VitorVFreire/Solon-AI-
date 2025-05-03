@@ -1,0 +1,19 @@
+{
+  "company_name": "NEOENERGIA SA",
+  "primary_activity": "Geração, transmissão e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica",
+  "activity_description": "A NEOENERGIA SA atua na geração, transmissão e distribuição de energia elétrica no Brasil. A empresa é responsável por fornecer eletricidade para residências, indústrias e comércios.",
+  "main_products_services": [
+    "Geração de energia elétrica",
+    "Transmissão de energia elétrica",
+    "Distribuição de energia elétrica"
+  ],
+  "competitors": [
+    "ENEL",
+    "CPFL Energia",
+    "Energisa"
+  ],
+  "economic_classification_code": "4911"
+}

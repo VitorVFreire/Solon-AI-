@@ -1,0 +1,20 @@
+{
+  "company_name": "BB Seguridade Participacoes SA",
+  "primary_activity": "Atua no setor de Seguros e Previdência",
+  "sector": "Financeiro",
+  "subsector": "Seguros e Previdência",
+  "industry": "Seguradora",
+  "activity_description": "A BB Seguridade Participacoes SA é uma empresa do setor financeiro que atua no ramo de seguros e previdência, oferecendo uma variedade de produtos e serviços para proteção financeira e planejamento de aposentadoria.",
+  "main_products_services": [
+    "Seguros de Vida",
+    "Seguros de Automóveis",
+    "Seguros de Residência",
+    "Planos de Previdência"
+  ],
+  "competitors": [
+    "Bradesco Seguros",
+    "Porto Seguro",
+    "SulAmérica Seguros"
+  ],
+  "economic_classification_code": "6511-8/01"
+}

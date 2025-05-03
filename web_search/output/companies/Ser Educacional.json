@@ -1,0 +1,19 @@
+{
+  "company_name": "Ser Educacional",
+  "primary_activity": "Educação",
+  "sector": "Educação",
+  "subsector": "Ensino Superior",
+  "industry": "Educação Superior Privada",
+  "activity_description": "A Ser Educacional atua no setor de Educação, mais especificamente no subsector de Ensino Superior, oferecendo serviços de Educação Superior Privada.",
+  "main_products_services": [
+    "Cursos de Graduação",
+    "Cursos de Pós-Graduação",
+    "Cursos de Extensão"
+  ],
+  "competitors": [
+    "Kroton Educacional",
+    "Estácio Participações",
+    "Anima Educação"
+  ],
+  "economic_classification_code": "8532-2"
+}

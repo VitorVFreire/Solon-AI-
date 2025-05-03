@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de equipamentos de proteção individual",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de equipamentos de proteção individual desempenha um papel fundamental na segurança dos trabalhadores em diversos setores, garantindo a integridade física e saúde ocupacional. É uma atividade essencial para prevenir acidentes de trabalho e garantir a conformidade com normas de segurança e saúde no trabalho.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos de segurança para construção civil",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação entre a Indústria de equipamentos de proteção individual e a Indústria de equipamentos de segurança para construção civil devido à necessidade de proteção dos trabalhadores em ambientes de construção.",
+      "economic_justification": "Ambas as indústrias estão interligadas, pois os equipamentos de proteção individual são essenciais para garantir a segurança dos trabalhadores da construção civil, contribuindo para a redução de acidentes e lesões no ambiente de trabalho."
+    },
+    {
+      "activity": "Indústria de equipamentos médicos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada entre a Indústria de equipamentos de proteção individual e a Indústria de equipamentos médicos devido à utilização de equipamentos de proteção em ambientes hospitalares e de saúde.",
+      "economic_justification": "Os equipamentos de proteção individual são essenciais para profissionais de saúde em ambientes hospitalares, contribuindo para a segurança e prevenção de contaminações. Portanto, há uma interdependência entre essas indústrias."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de saúde e bem-estar",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Existe uma correlação fraca entre a Indústria de equipamentos de proteção individual e a Indústria de embalagens de produtos de saúde e bem-estar devido à demanda por embalagens seguras para esses produtos.",
+      "economic_justification": "A Indústria de equipamentos de proteção individual pode demandar embalagens específicas para seus produtos, como kits de primeiros socorros, gerando uma relação cliente-fornecedor com a Indústria de embalagens de produtos de saúde e bem-estar."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Regulamentações de segurança no trabalho",
+    "Investimentos em saúde ocupacional",
+    "Demanda por equipamentos de proteção em setores específicos",
+    "Inovações tecnológicas em materiais de proteção"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar dependendo de regulamentações específicas de cada país ou região."
+}

@@ -1,0 +1,17 @@
+{
+  "company_name": "ELETROPAULO ON",
+  "primary_activity": "Distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Distribuição de Energia Elétrica",
+  "activity_description": "A ELETROPAULO ON atua na distribuição de energia elétrica, fornecendo eletricidade para consumidores em sua área de concessão. A empresa é responsável por garantir o fornecimento de energia de forma segura e eficiente.",
+  "main_products_services": [
+    "Distribuição de energia elétrica"
+  ],
+  "competitors": [
+    "ENEL",
+    "CPFL Energia",
+    "AES Brasil"
+  ],
+  "economic_classification_code": "4911-6/01"
+}

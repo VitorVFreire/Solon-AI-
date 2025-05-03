@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens biodegradáveis",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens biodegradáveis atua na produção de embalagens sustentáveis que se degradam naturalmente no meio ambiente, atendendo a uma demanda crescente por práticas mais sustentáveis e ecologicamente corretas.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos orgânicos",
+      "correlation_level": "4",
+      "dependency_level": "0,65",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Indústria de embalagens biodegradáveis tem uma forte correlação com a Indústria de produtos orgânicos devido à sinergia entre produtos sustentáveis e ecologicamente conscientes.",
+      "economic_justification": "Os produtos orgânicos frequentemente são associados a práticas sustentáveis e saudáveis, o que se alinha com a proposta das embalagens biodegradáveis, criando uma relação de complementaridade na cadeia produtiva."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "5",
+      "dependency_level": "0,80",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Indústria de embalagens biodegradáveis está altamente correlacionada com a Indústria de embalagens sustentáveis devido ao foco compartilhado na redução do impacto ambiental.",
+      "economic_justification": "Ambas as indústrias compartilham o compromisso com a sustentabilidade ambiental, buscando soluções inovadoras para reduzir resíduos e promover práticas mais ecológicas, o que as torna altamente complementares."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza ecológicos",
+      "correlation_level": "3",
+      "dependency_level": "0,45",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Indústria de embalagens biodegradáveis possui uma correlação moderada com a Indústria de produtos de limpeza ecológicos devido à preocupação compartilhada com a sustentabilidade ambiental.",
+      "economic_justification": "Os produtos de limpeza ecológicos geralmente são comercializados em embalagens sustentáveis e biodegradáveis, refletindo a sinergia entre ambas as indústrias na promoção de práticas mais amigáveis ao meio ambiente."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas ambientais e de sustentabilidade",
+    "Tendências de consumo consciente",
+    "Inovações tecnológicas em materiais biodegradáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto atual de valorização da sustentabilidade, mas variações significativas nas políticas ambientais podem impactar as correlações identificadas."
+}

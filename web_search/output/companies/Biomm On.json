@@ -1,0 +1,18 @@
+{
+  "company_name": "Biomm On",
+  "primary_activity": "Pesquisa e desenvolvimento de produtos farmacêuticos",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Indústria Farmacêutica",
+  "activity_description": "A Biomm On atua na pesquisa e desenvolvimento de produtos farmacêuticos, com foco em inovação e melhoria da saúde.",
+  "main_products_services": [
+    "Medicamentos inovadores",
+    "Produtos farmacêuticos de alta qualidade"
+  ],
+  "competitors": [
+    "Aché Laboratórios",
+    "Eurofarma",
+    "EMS"
+  ],
+  "economic_classification_code": "325411"
+}

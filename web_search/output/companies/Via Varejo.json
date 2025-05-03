@@ -1,0 +1,19 @@
+{
+  "company_name": "Via Varejo SA",
+  "primary_activity": "Varejista de produtos diversos",
+  "sector": "Comércio Varejista",
+  "subsector": "Varejo Diversificado",
+  "industry": "Varejo de Eletrônicos, Eletrodomésticos e Móveis",
+  "activity_description": "A Via Varejo SA atua como varejista de uma ampla variedade de produtos, incluindo eletrônicos, eletrodomésticos e móveis, oferecendo esses produtos aos consumidores em suas lojas físicas e online.",
+  "main_products_services": [
+    "Eletrônicos",
+    "Eletrodomésticos",
+    "Móveis"
+  ],
+  "competitors": [
+    "Magazine Luiza",
+    "Americanas",
+    "Casas Bahia"
+  ],
+  "economic_classification_code": ""
+}

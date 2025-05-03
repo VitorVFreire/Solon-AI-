@@ -1,0 +1,19 @@
+{
+  "company_name": "ConocoPhillips DRC",
+  "primary_activity": "Exploração e produção de petróleo e gás",
+  "sector": "Energia",
+  "subsector": "Petróleo e Gás",
+  "industry": "Exploração e Produção de Petróleo e Gás",
+  "activity_description": "A ConocoPhillips DRC atua na exploração e produção de petróleo e gás, envolvendo a busca, extração e processamento de recursos energéticos.",
+  "main_products_services": [
+    "Petróleo",
+    "Gás Natural",
+    "Energia"
+  ],
+  "competitors": [
+    "Petrobras",
+    "Shell",
+    "Chevron"
+  ],
+  "economic_classification_code": "0610-7/01"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Technos SA",
+  "primary_activity": "Fabricação e comercialização de relógios",
+  "sector": "Tecnologia",
+  "subsector": "Indústria de eletrônicos",
+  "industry": "Fabricação de relógios",
+  "activity_description": "A Technos SA atua na fabricação e comercialização de relógios, oferecendo uma variedade de modelos para diferentes segmentos de mercado. A empresa possui uma ampla rede de distribuição e presença internacional.",
+  "main_products_services": [
+    "Relógios de pulso",
+    "Relógios de parede",
+    "Relógios inteligentes"
+  ],
+  "competitors": [
+    "Mondaine",
+    "Bulova",
+    "Casio"
+  ],
+  "economic_classification_code": "C27.40-1"
+}

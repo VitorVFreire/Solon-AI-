@@ -1,0 +1,20 @@
+{
+  "company_name": "Itautec SA Grupo Itautec",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Hardware de Computadores e Equipamentos Periféricos",
+  "industry": "Fabricação de Equipamentos de Informática",
+  "activity_description": "A Itautec SA Grupo Itautec atua na fabricação de equipamentos de informática, com foco em hardware de computadores e equipamentos periféricos.",
+  "main_products_services": [
+    "Computadores",
+    "Notebooks",
+    "Impressoras",
+    "Caixas Eletrônicos"
+  ],
+  "competitors": [
+    "Dell",
+    "HP Inc.",
+    "Lenovo"
+  ],
+  "economic_classification_code": "2610-0/00 - Fabricação de Computadores e Equipamentos Periféricos para Uso Pessoal e Profissional"
+}

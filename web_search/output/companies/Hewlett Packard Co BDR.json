@@ -1,0 +1,20 @@
+{
+  "company_name": "Hewlett-Packard Co BDR",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Hardware de Computadores e Equipamentos Eletrônicos",
+  "industry": "Fabricação de Computadores e Equipamentos Periféricos",
+  "activity_description": "A Hewlett-Packard Co BDR atua na fabricação de computadores e equipamentos periféricos, oferecendo soluções de hardware para diversas necessidades tecnológicas.",
+  "main_products_services": [
+    "Computadores",
+    "Impressoras",
+    "Servidores",
+    "Dispositivos de Armazenamento"
+  ],
+  "competitors": [
+    "Dell Technologies Inc",
+    "Lenovo Group Limited",
+    "Apple Inc"
+  ],
+  "economic_classification_code": "2610000"
+}

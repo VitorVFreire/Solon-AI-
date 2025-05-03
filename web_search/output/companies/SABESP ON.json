@@ -1,0 +1,19 @@
+{
+  "company_name": "Cia de Saneamento Basico do Estado",
+  "primary_activity": "Saneamento básico",
+  "sector": "Recursos Naturais",
+  "subsector": "Saneamento e Tratamento de Resíduos",
+  "industry": "Saneamento Básico",
+  "activity_description": "A Cia de Saneamento Basico do Estado atua no setor de saneamento básico, fornecendo serviços de abastecimento de água e tratamento de esgoto. Sua principal atividade é garantir o acesso da população a serviços de saneamento de qualidade.",
+  "main_products_services": [
+    "Abastecimento de água",
+    "Tratamento de esgoto",
+    "Saneamento básico"
+  ],
+  "competitors": [
+    "Saneamento Ambiental",
+    "Iguá Saneamento",
+    "BRK Ambiental"
+  ],
+  "economic_classification_code": "E-36.00-6 - Captação, tratamento e distribuição de água"
+}

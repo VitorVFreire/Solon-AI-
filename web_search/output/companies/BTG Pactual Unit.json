@@ -1,0 +1,19 @@
+{
+  "company_name": "BTG Pactual Participations Ltd Unit",
+  "primary_activity": "Instituição Financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos de Investimento",
+  "industry": "Serviços Financeiros",
+  "activity_description": "A BTG Pactual Participations Ltd Unit atua como uma instituição financeira especializada em bancos de investimento, oferecendo uma variedade de serviços financeiros.",
+  "main_products_services": [
+    "Serviços de investimento",
+    "Gestão de ativos",
+    "Assessoria financeira"
+  ],
+  "competitors": [
+    "Itaú BBA",
+    "Santander Investment Banking",
+    "Bradesco BBI"
+  ],
+  "economic_classification_code": "6412-7/00"
+}

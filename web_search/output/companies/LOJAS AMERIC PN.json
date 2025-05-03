@@ -1,0 +1,18 @@
+{
+  "company_name": "Lojas Americanas SA",
+  "primary_activity": "Varejo",
+  "sector": "Comércio Varejista",
+  "subsector": "Lojas de Departamento e Lojas de Desconto",
+  "industry": "Varejista Multissetorial",
+  "activity_description": "A Lojas Americanas SA atua no varejo, operando lojas de departamento e lojas de desconto, oferecendo uma variedade de produtos em diferentes setores.",
+  "main_products_services": [
+    "Produtos de diversos segmentos"
+  ],
+  "competitors": [
+    "Magazine Luiza",
+    "Via Varejo",
+    "Carrefour",
+    "Pão de Açúcar"
+  ],
+  "economic_classification_code": null
+}

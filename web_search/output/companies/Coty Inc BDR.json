@@ -1,0 +1,20 @@
+{
+  "company_name": "Coty Inc BDR",
+  "primary_activity": "Fabricação e comercialização de produtos de beleza e cosméticos",
+  "sector": "Moda",
+  "subsector": "Beleza e Cosméticos",
+  "industry": "Indústria de Cosméticos",
+  "activity_description": "A Coty Inc BDR é uma empresa especializada na fabricação e comercialização de uma ampla variedade de produtos de beleza e cosméticos, atendendo a um mercado diversificado de consumidores em busca de produtos de qualidade e inovação.",
+  "main_products_services": [
+    "Perfumes",
+    "Maquiagem",
+    "Cuidados com a pele",
+    "Cuidados com os cabelos"
+  ],
+  "competitors": [
+    "L'Oréal",
+    "Estée Lauder",
+    "Revlon"
+  ],
+  "economic_classification_code": "CNAE 2040-6/01"
+}

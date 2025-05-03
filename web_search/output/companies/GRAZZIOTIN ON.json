@@ -1,0 +1,16 @@
+{
+  "company_name": "Grazziotin SA",
+  "primary_activity": "Varejo de produtos diversos",
+  "sector": "Comércio Varejista",
+  "subsector": "Varejo em geral",
+  "industry": "Varejo em geral",
+  "activity_description": "A Grazziotin SA atua no varejo de produtos diversos, oferecendo uma ampla gama de itens para os consumidores.",
+  "main_products_services": [
+    "Produtos diversos para o consumidor final"
+  ],
+  "competitors": [
+    "Lojas de departamento",
+    "Redes de supermercados"
+  ],
+  "economic_classification_code": "4712100"
+}

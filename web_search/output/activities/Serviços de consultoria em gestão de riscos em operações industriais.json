@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de riscos em operações industriais",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de riscos em operações industriais desempenham um papel fundamental na garantia da segurança e eficiência das operações industriais, auxiliando as empresas na identificação, avaliação e mitigação de potenciais riscos que possam impactar negativamente seus processos e resultados.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de embalagens",
+      "correlation_level": "4",
+      "dependency_level": "0,65",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação forte entre os serviços de consultoria em gestão de riscos em operações industriais e a indústria de embalagens, onde as empresas de embalagens dependem desses serviços para garantir a segurança e qualidade de seus processos fabris.",
+      "economic_justification": "A indústria de embalagens, ao lidar com materiais e processos industriais, está sujeita a diversos riscos operacionais. Os serviços de consultoria em gestão de riscos auxiliam na identificação e mitigação desses riscos, garantindo a conformidade e eficiência das operações."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de cadeia de suprimentos",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada e complementar entre os serviços de consultoria em gestão de riscos em operações industriais e os serviços de consultoria em gestão de cadeia de suprimentos, pois a eficiência e segurança nas operações industriais estão diretamente relacionadas à gestão adequada da cadeia de suprimentos.",
+      "economic_justification": "Uma gestão eficaz da cadeia de suprimentos é essencial para reduzir riscos e garantir a continuidade das operações industriais. Os serviços de consultoria em gestão de riscos em operações industriais e em cadeia de suprimentos trabalham em conjunto para otimizar processos e mitigar potenciais problemas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de matérias-primas",
+    "Regulamentações governamentais sobre segurança industrial",
+    "Tendências de automação e digitalização na indústria"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de operações industriais e pode variar de acordo com a especificidade de cada setor ou região."
+}

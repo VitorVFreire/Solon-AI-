@@ -1,0 +1,19 @@
+{
+  "company_name": "Banco BMG Unit",
+  "primary_activity": "Instituição financeira especializada em serviços bancários e financeiros",
+  "sector": "Finanças",
+  "subsector": "Bancos",
+  "industry": "Banco Comercial",
+  "activity_description": "O Banco BMG Unit é uma instituição financeira especializada em serviços bancários e financeiros, com foco em empréstimos consignados e cartões de crédito consignado. Atua como um banco comercial oferecendo soluções financeiras para seus clientes.",
+  "main_products_services": [
+    "Empréstimos consignados",
+    "Cartões de crédito consignado",
+    "Serviços bancários"
+  ],
+  "competitors": [
+    "Banco Pan",
+    "Banco Daycoval",
+    "Banco Inter"
+  ],
+  "economic_classification_code": "6412-3/00 - Bancos múltiplos, com carteira comercial"
+}

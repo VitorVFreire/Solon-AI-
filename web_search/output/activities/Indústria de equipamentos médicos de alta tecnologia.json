@@ -1,0 +1,28 @@
+{
+  "economic_activity": "Indústria de equipamentos médicos de alta tecnologia",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de equipamentos médicos de alta tecnologia desempenha um papel crucial no setor de saúde, fornecendo equipamentos avançados para diagnóstico e tratamento de doenças em hospitais e clínicas. Sua inovação e qualidade impactam diretamente a eficácia dos serviços de saúde e o bem-estar dos pacientes.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Farmacêutica",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A indústria de equipamentos médicos de alta tecnologia e a indústria farmacêutica são complementares, pois os equipamentos avançados são essenciais para o desenvolvimento, produção e teste de novos medicamentos e tratamentos médicos.",
+      "economic_justification": "A interdependência entre a indústria de equipamentos médicos e a indústria farmacêutica é fundamental para a pesquisa, desenvolvimento e entrega de soluções médicas inovadoras, onde os equipamentos são necessários para garantir a eficácia e segurança dos medicamentos."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança para trabalho em espaços confinados",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de equipamentos médicos de alta tecnologia depende da indústria de equipamentos de segurança para trabalho em espaços confinados para garantir a segurança dos profissionais de saúde que operam os equipamentos em ambientes controlados.",
+      "economic_justification": "Os equipamentos médicos avançados são frequentemente utilizados em ambientes hospitalares com requisitos específicos de segurança, tornando essencial a colaboração com a indústria de equipamentos de segurança para garantir a proteção dos profissionais de saúde."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de equipamentos médicos de alta tecnologia incluem investimentos em pesquisa e desenvolvimento, políticas de saúde pública, regulamentações governamentais, taxas de câmbio e demanda por serviços de saúde."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral da indústria e pode variar dependendo de fatores regionais e específicos de cada mercado."
+}

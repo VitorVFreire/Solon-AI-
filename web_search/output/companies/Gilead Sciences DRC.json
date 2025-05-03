@@ -1,0 +1,19 @@
+{
+  "company_name": "Gilead Sciences Inc",
+  "primary_activity": "Pesquisa e desenvolvimento de medicamentos",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Indústria Farmacêutica",
+  "activity_description": "A Gilead Sciences Inc é uma empresa focada em pesquisa e desenvolvimento de medicamentos, especialmente na área de saúde, com destaque para a indústria farmacêutica. Seus principais produtos são voltados para tratamentos de doenças virais, como HIV, hepatite B e hepatite C.",
+  "main_products_services": [
+    "Antirretrovirais",
+    "Antivirais",
+    "Medicamentos para hepatite"
+  ],
+  "competitors": [
+    "Pfizer Inc",
+    "Merck & Co.",
+    "Johnson & Johnson"
+  ],
+  "economic_classification_code": "325412"
+}

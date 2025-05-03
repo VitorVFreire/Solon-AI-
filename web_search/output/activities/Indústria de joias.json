@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de joias",
+  "sector_classification": "Terciário",
+  "economic_context": "A indústria de joias é um setor da manufatura que produz e comercializa joias e acessórios de luxo, frequentemente feitos com metais preciosos e gemas. Este setor está intimamente ligado ao mercado de luxo e moda, sendo influenciado por tendências, preferências dos consumidores e fatores econômicos que afetam o poder de compra.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de moda",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A indústria de joias tem uma forte correlação com a indústria de moda, pois as joias são frequentemente usadas como acessórios para complementar roupas e refletir estilos e tendências.",
+      "economic_justification": "Ambas as indústrias estão inseridas no mercado de luxo e são influenciadas por fatores semelhantes, como preferências dos consumidores, tendências de moda e poder de compra de clientes em potencial."
+    },
+    {
+      "activity": "Indústria de produtos de luxo",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementar",
+      "correlation_description": "A indústria de joias está fortemente correlacionada com a indústria de produtos de luxo, pois ambas atendem a um mercado de consumidores sofisticados em busca de produtos exclusivos e de alta qualidade.",
+      "economic_justification": "Os produtos de luxo, incluindo joias e acessórios, compartilham um público-alvo semelhante que valoriza a exclusividade, o design e a qualidade, tornando essas indústrias interdependentes em termos de oferta e demanda."
+    },
+    {
+      "activity": "Indústria de eventos de luxo",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria de joias possui uma correlação moderada com a indústria de eventos de luxo, uma vez que eventos sofisticados e cerimônias especiais impulsionam a demanda por joias e acessórios elegantes.",
+      "economic_justification": "Os eventos de luxo, como casamentos, galas e festas exclusivas, criam oportunidades para o uso de joias e acessórios de alta qualidade, impulsionando a demanda por produtos da indústria de joias."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos índices de confiança do consumidor",
+    "Tendências de mercado de luxo",
+    "Taxas de câmbio de moedas fortes",
+    "Desempenho econômico de mercados-chave (por exemplo, China, EUA, Europa)"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de joias, no entanto, variações regionais e eventos inesperados podem impactar as correlações identificadas."
+}

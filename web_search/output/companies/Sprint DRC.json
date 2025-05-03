@@ -1,0 +1,19 @@
+{
+  "company_name": "Sprint Corp DRC",
+  "primary_activity": "Telecomunicações",
+  "sector": "Tecnologia",
+  "subsector": "Telecomunicações",
+  "industry": "Telecomunicações Móveis",
+  "activity_description": "A Sprint Corp DRC atua no setor de tecnologia, mais especificamente no subsector de telecomunicações, oferecendo serviços de telecomunicações móveis para seus clientes.",
+  "main_products_services": [
+    "Planos de telefonia móvel",
+    "Serviços de internet móvel",
+    "Venda de aparelhos celulares"
+  ],
+  "competitors": [
+    "Claro",
+    "Vivo",
+    "TIM"
+  ],
+  "economic_classification_code": "TBC"
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "Metalgrafica Iguacu SA",
+  "primary_activity": "Indústria Metalúrgica",
+  "sector": "Indústria",
+  "subsector": "Metalurgia",
+  "industry": "Gráfica em Metal",
+  "activity_description": "Metalgrafica Iguacu SA atua na indústria metalúrgica, mais especificamente na metalurgia voltada para gráfica em metal. A empresa provavelmente se dedica à produção de materiais gráficos em metal, como embalagens, etiquetas, entre outros.",
+  "main_products_services": [
+    "Embalagens em metal",
+    "Etiquetas metálicas",
+    "Materiais gráficos em metal"
+  ],
+  "competitors": [
+    "Metalúrgica ABC",
+    "Gráfica de Metais XYZ"
+  ],
+  "economic_classification_code": null
+}

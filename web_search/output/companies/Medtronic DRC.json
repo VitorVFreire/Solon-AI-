@@ -1,0 +1,17 @@
+{
+  "company_name": "Medtronic PLC DRC",
+  "primary_activity": "Fabricação de equipamentos médicos de alta tecnologia",
+  "sector": "Saúde",
+  "subsector": "Equipamentos Médicos",
+  "industry": "Equipamentos Médicos de Alta Tecnologia",
+  "activity_description": "A Medtronic PLC DRC é uma empresa especializada na fabricação de equipamentos médicos de alta tecnologia, utilizados em procedimentos médicos avançados e inovadores. Seus produtos são desenvolvidos para melhorar a qualidade de vida dos pacientes e auxiliar profissionais de saúde em diagnósticos e tratamentos precisos.",
+  "main_products_services": [
+    "Equipamentos médicos de alta tecnologia"
+  ],
+  "competitors": [
+    "Johnson & Johnson",
+    "Abbott Laboratories",
+    "Boston Scientific Corporation"
+  ],
+  "economic_classification_code": "325412"
+}

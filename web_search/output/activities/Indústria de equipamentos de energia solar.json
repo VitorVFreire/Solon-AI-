@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Indústria de equipamentos de energia solar",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de equipamentos de energia solar está inserida no setor secundário da economia, sendo responsável pela fabricação de equipamentos essenciais para a geração de energia limpa e renovável a partir da luz solar. Com o crescente interesse em fontes de energia sustentáveis, essa indústria desempenha um papel fundamental na transição para uma matriz energética mais verde e na redução da dependência de combustíveis fósseis.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de energia renovável",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Indústria de equipamentos de energia solar e a Indústria de energia renovável possuem uma correlação muito forte, sendo altamente complementares. Ambas atuam no setor de energias limpas e renováveis, contribuindo para a redução da emissão de gases de efeito estufa e para a sustentabilidade do sistema energético.",
+      "economic_justification": "A Indústria de energia renovável engloba diversas fontes de energia limpa, das quais a solar é uma das mais proeminentes. A fabricação de equipamentos de energia solar é essencial para a geração de eletricidade a partir do sol, sendo parte integrante do setor de energia renovável."
+    },
+    {
+      "activity": "Indústria de equipamentos médicos",
+      "correlation_level": "2",
+      "dependency_level": "0,25",
+      "correlation_type": "Indireta",
+      "correlation_description": "Existe uma correlação fraca entre a Indústria de equipamentos de energia solar e a Indústria de equipamentos médicos. Embora não diretamente relacionadas, ambas as indústrias podem compartilhar tecnologias de fabricação e processos de inovação em comum.",
+      "economic_justification": "A relação indireta entre essas indústrias pode surgir da necessidade de inovação em materiais e processos de fabricação, que podem ser compartilhados entre diferentes setores. A busca por eficiência energética e sustentabilidade também pode ser um ponto em comum."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas governamentais de incentivo à energia renovável",
+    "Preços de commodities utilizadas na fabricação de equipamentos solares (silício, cobre, alumínio)",
+    "Tendências de mercado em energia limpa e sustentável"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da economia e pode variar dependendo de políticas específicas de cada país ou região."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Banco do Estado de Sergipe SA Pref",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Bancos múltiplos com carteira comercial",
+  "activity_description": "O Banco do Estado de Sergipe SA Pref atua como uma instituição financeira no setor de finanças, mais especificamente no subsector de bancos comerciais. Ele é classificado como bancos múltiplos com carteira comercial, oferecendo uma variedade de serviços bancários.",
+  "main_products_services": [
+    "Serviços bancários",
+    "Empréstimos",
+    "Investimentos"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Caixa Econômica Federal",
+    "Banco Bradesco"
+  ],
+  "economic_classification_code": "6411-7/00"
+}

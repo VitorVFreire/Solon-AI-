@@ -1,0 +1,19 @@
+{
+  "company_name": "Banco do Estado de Sergipe",
+  "primary_activity": "Instituição financeira especializada em serviços bancários",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Bancos estaduais",
+  "activity_description": "O Banco do Estado de Sergipe atua como uma instituição financeira especializada em serviços bancários, com foco em operações comerciais dentro do estado de Sergipe.",
+  "main_products_services": [
+    "Serviços bancários",
+    "Empréstimos",
+    "Investimentos financeiros"
+  ],
+  "competitors": [
+    "Banco do Estado do Pará",
+    "Banco do Estado do Rio Grande do Sul",
+    "Banco do Estado de Santa Catarina"
+  ],
+  "economic_classification_code": "6412-3/00"
+}

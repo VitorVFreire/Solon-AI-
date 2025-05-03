@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de equipamentos de segurança para indústria química",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de equipamentos de segurança para indústria química desempenha um papel fundamental na proteção dos trabalhadores e do meio ambiente em ambientes químicos industriais, garantindo a conformidade com normas de segurança e regulamentações específicas do setor.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Química",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria de equipamentos de segurança para indústria química tem uma correlação forte com a indústria química, pois fornece os equipamentos necessários para garantir a segurança dos trabalhadores e do ambiente em ambientes químicos industriais.",
+      "economic_justification": "A indústria de equipamentos de segurança depende fortemente da demanda da indústria química por seus produtos, uma vez que os equipamentos são essenciais para garantir a segurança dos trabalhadores que lidam com substâncias químicas perigosas."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de riscos ambientais",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada com os serviços de consultoria em gestão de riscos ambientais, pois esses serviços auxiliam na identificação e mitigação de riscos ambientais relacionados às operações da indústria química e à utilização dos equipamentos de segurança.",
+      "economic_justification": "Os serviços de consultoria em gestão de riscos ambientais complementam a atuação da indústria de equipamentos de segurança, pois ajudam a garantir que os equipamentos sejam utilizados de forma eficaz na prevenção de acidentes e danos ambientais."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza industrial",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação fraca com a indústria de produtos de limpeza industrial, uma vez que esses produtos são utilizados na manutenção e limpeza dos equipamentos de segurança para indústria química.",
+      "economic_justification": "A indústria de equipamentos de segurança depende, em certa medida, dos produtos de limpeza industrial para manter seus equipamentos em condições adequadas de funcionamento e garantir a segurança contínua dos trabalhadores."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de matérias-primas utilizadas na fabricação de equipamentos de segurança",
+    "Regulamentações governamentais sobre segurança no trabalho e proteção ambiental",
+    "Investimentos em pesquisa e desenvolvimento de novas tecnologias de segurança para a indústria química"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria, mas variações regionais podem impactar as correlações identificadas."
+}

@@ -1,0 +1,31 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de cadeia de suprimentos de saúde pública",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de cadeia de suprimentos de saúde pública desempenham um papel fundamental na melhoria da eficiência e eficácia da distribuição de produtos de saúde essenciais para a população, contribuindo para a promoção da saúde pública e o acesso equitativo a medicamentos e vacinas.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão de cadeia de suprimentos de produtos sustentáveis",
+      "correlation_level": "4",
+      "dependency_level": "0.65",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de cadeia de suprimentos de saúde pública e os serviços de consultoria em gestão de cadeia de suprimentos de produtos sustentáveis devido à necessidade crescente de práticas sustentáveis na cadeia de suprimentos em diversos setores.",
+      "economic_justification": "Ambas as atividades compartilham a necessidade de otimizar processos, reduzir desperdícios e garantir a qualidade dos produtos ao longo da cadeia de suprimentos, sendo a sustentabilidade um aspecto cada vez mais relevante em ambas as áreas."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de cadeia de suprimentos de tecnologia da informação",
+      "correlation_level": "3",
+      "dependency_level": "0.50",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de cadeia de suprimentos de saúde pública e os serviços de consultoria em gestão de cadeia de suprimentos de tecnologia da informação devido à crescente integração de sistemas tecnológicos na gestão eficiente das cadeias de suprimentos.",
+      "economic_justification": "A tecnologia da informação desempenha um papel crucial na rastreabilidade, monitoramento e gestão de estoques na cadeia de suprimentos de saúde pública, tornando essas atividades complementares na busca por maior eficiência e transparência."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas de saúde pública",
+    "Investimentos em tecnologia",
+    "Regulamentações governamentais na cadeia de suprimentos",
+    "Demandas por sustentabilidade na cadeia de suprimentos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar de acordo com a região e especificidades locais da cadeia de suprimentos de saúde pública."
+}

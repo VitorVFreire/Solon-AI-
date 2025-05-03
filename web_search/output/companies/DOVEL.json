@@ -1,0 +1,17 @@
+{
+  "company_name": "DOVEL",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Serviços de TI em nuvem",
+  "industry": "Serviços de TI em nuvem",
+  "activity_description": "A empresa DOVEL atua no fornecimento de serviços de tecnologia da informação em nuvem, oferecendo soluções de armazenamento e processamento de dados online.",
+  "main_products_services": [
+    "Serviços de TI em nuvem"
+  ],
+  "competitors": [
+    "Amazon Web Services",
+    "Microsoft Azure",
+    "Google Cloud"
+  ],
+  "economic_classification_code": ""
+}

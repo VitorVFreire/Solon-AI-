@@ -1,0 +1,19 @@
+{
+  "company_name": "Danaher Corp",
+  "primary_activity": "Desenvolvimento e fabricação de equipamentos e instrumentos de medição e controle",
+  "sector": "Tecnologia",
+  "subsector": "Equipamentos e Instrumentos Eletrônicos",
+  "industry": "Equipamentos de Medição e Controle",
+  "activity_description": "A Danaher Corp é especializada no desenvolvimento e fabricação de uma ampla variedade de equipamentos e instrumentos de medição e controle, utilizados em diversos setores industriais e científicos. Seus produtos incluem dispositivos de análise química, equipamentos de teste de qualidade, instrumentos de medição de precisão, entre outros.",
+  "main_products_services": [
+    "Equipamentos de análise química",
+    "Instrumentos de medição de precisão",
+    "Equipamentos de teste de qualidade"
+  ],
+  "competitors": [
+    "Thermo Fisher Scientific",
+    "Agilent Technologies",
+    "Waters Corporation"
+  ],
+  "economic_classification_code": null
+}

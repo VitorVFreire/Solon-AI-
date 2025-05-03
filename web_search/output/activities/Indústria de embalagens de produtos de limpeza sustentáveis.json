@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens de produtos de limpeza sustentáveis",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens de produtos de limpeza sustentáveis está inserida no setor secundário da economia, atuando na manufatura de embalagens ecologicamente corretas para produtos de limpeza, com ênfase na sustentabilidade ambiental. Sua importância está relacionada à oferta de soluções inovadoras e sustentáveis para acondicionamento de produtos de limpeza, atendendo à crescente demanda por práticas mais responsáveis e ambientalmente conscientes.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza sustentáveis",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação e dependência entre a Indústria de embalagens de produtos de limpeza sustentáveis e a Indústria de produtos de limpeza sustentáveis, pois ambas atuam no segmento de produtos de limpeza com foco na sustentabilidade ambiental.",
+      "economic_justification": "A produção de embalagens sustentáveis está diretamente ligada à demanda por produtos de limpeza sustentáveis, uma vez que a preocupação com a redução do impacto ambiental e a preferência por produtos eco-friendly têm impulsionado o mercado para ambas as indústrias."
+    },
+    {
+      "activity": "Indústria de embalagens biodegradáveis",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada e dependência significativa entre a Indústria de embalagens de produtos de limpeza sustentáveis e a Indústria de embalagens biodegradáveis devido à semelhança no foco ambiental e na inovação em materiais sustentáveis.",
+      "economic_justification": "Ambas as indústrias compartilham a preocupação com a sustentabilidade e a busca por materiais biodegradáveis, o que as torna parceiras naturais na oferta de soluções ecologicamente corretas para o mercado."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza orgânicos",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação fraca e dependência limitada entre a Indústria de embalagens de produtos de limpeza sustentáveis e a Indústria de produtos de limpeza orgânicos devido à sobreposição de valores sustentáveis.",
+      "economic_justification": "Apesar de atuarem em segmentos próximos, a demanda por embalagens sustentáveis pode não ser tão diretamente impactada pela produção de produtos de limpeza orgânicos, resultando em uma correlação mais fraca."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas ambientais e de sustentabilidade",
+    "Tendências de consumo consciente",
+    "Inovações em materiais biodegradáveis",
+    "Regulamentações sobre embalagens sustentáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o cenário atual de conscientização ambiental e sustentabilidade, podendo variar com mudanças abruptas no mercado ou nas políticas governamentais."
+}

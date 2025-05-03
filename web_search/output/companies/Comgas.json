@@ -1,0 +1,16 @@
+{
+  "company_name": "Companhia de Gas de Sao Paulo Comgas",
+  "primary_activity": "Distribuição de gás natural",
+  "sector": "Energia",
+  "subsector": "Distribuição de gás natural",
+  "industry": "Energia",
+  "activity_description": "A Companhia de Gas de Sao Paulo (Comgas) atua na distribuição de gás natural em São Paulo, fornecendo esse combustível para residências, comércios e indústrias.",
+  "main_products_services": [
+    "Distribuição de gás natural"
+  ],
+  "competitors": [
+    "Ultragaz",
+    "GasBrasiliano"
+  ],
+  "economic_classification_code": "49.30-2-02"
+}

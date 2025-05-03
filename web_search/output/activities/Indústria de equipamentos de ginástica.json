@@ -1,0 +1,28 @@
+{
+  "economic_activity": "Indústria de equipamentos de ginástica",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de equipamentos de ginástica está inserida no setor secundário da economia, sendo responsável pela fabricação de equipamentos utilizados em academias, centros de fitness e espaços de ginástica em geral. Sua produção contribui para o mercado de fitness e bem-estar, atendendo à demanda por aparelhos e acessórios para atividades físicas.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos de segurança",
+      "correlation_level": "4",
+      "dependency_level": "0,65",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A indústria de equipamentos de ginástica e a indústria de equipamentos de segurança possuem uma correlação forte de complementaridade. Os equipamentos de segurança, como luvas, joelheiras e capacetes, são frequentemente utilizados em conjunto com os equipamentos de ginástica para garantir a segurança dos usuários durante os exercícios.",
+      "economic_justification": "Ambas as indústrias atendem ao mercado de fitness e bem-estar, sendo que os equipamentos de segurança são essenciais para a prática segura de atividades físicas, complementando os equipamentos de ginástica."
+    },
+    {
+      "activity": "Indústria de equipamentos esportivos",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada de complementaridade entre a indústria de equipamentos de ginástica e a indústria de equipamentos esportivos. Ambas fornecem produtos utilizados em atividades físicas, sendo que os equipamentos de ginástica são específicos para treinos em academias, enquanto os equipamentos esportivos englobam uma gama mais ampla de produtos para diversas modalidades esportivas.",
+      "economic_justification": "Os produtos dessas indústrias são frequentemente utilizados em conjunto por praticantes de atividades físicas, atendendo a diferentes necessidades e preferências dos consumidores."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de equipamentos de ginástica incluem o crescimento do mercado de fitness, as tendências de saúde e bem-estar da população, as políticas de incentivo à prática de atividades físicas e o poder de compra dos consumidores."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de equipamentos de ginástica, no entanto, variações regionais e tendências específicas do mercado podem influenciar as correlações identificadas."
+}

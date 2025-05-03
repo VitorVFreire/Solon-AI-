@@ -1,0 +1,17 @@
+{
+  "company_name": "AES Tiete Energia SA",
+  "primary_activity": "Geração de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica Convencional",
+  "activity_description": "A AES Tiete Energia SA atua na geração de energia elétrica convencional, produzindo eletricidade a partir de fontes tradicionais como hidrelétricas, termelétricas e outras formas de geração convencional.",
+  "main_products_services": [
+    "Energia elétrica"
+  ],
+  "competitors": [
+    "CPFL Energia",
+    "Engie Brasil Energia",
+    "Energisa"
+  ],
+  "economic_classification_code": "4911"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Multi Shoppings",
+  "primary_activity": "Comércio Varejista de Shopping Centers",
+  "sector": "Comércio Varejista",
+  "subsector": "Shopping Centers",
+  "industry": "Shopping Centers",
+  "activity_description": "A empresa Multi Shoppings atua no comércio varejista de shopping centers, oferecendo espaços para lojas, serviços e entretenimento.",
+  "main_products_services": [
+    "Locação de espaços comerciais em shopping centers",
+    "Gestão de shopping centers",
+    "Serviços de entretenimento em shopping centers"
+  ],
+  "competitors": [
+    "Iguatemi Empresa de Shopping Centers",
+    "BR Malls Participações S.A.",
+    "Aliansce Sonae Shopping Centers"
+  ],
+  "economic_classification_code": null
+}

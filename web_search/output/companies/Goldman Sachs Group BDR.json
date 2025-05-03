@@ -1,0 +1,19 @@
+{
+  "company_name": "Goldman Sachs Group BDR",
+  "primary_activity": "Instituição financeira especializada em serviços de investimento e gestão de ativos",
+  "sector": "Finanças",
+  "subsector": "Serviços financeiros",
+  "industry": "Bancos de investimento e gestão de ativos",
+  "activity_description": "O Goldman Sachs Group BDR é uma instituição financeira especializada em serviços de investimento e gestão de ativos, atuando principalmente como banco de investimento e oferecendo uma variedade de serviços financeiros para clientes no Brasil.",
+  "main_products_services": [
+    "Serviços de investimento",
+    "Gestão de ativos",
+    "Consultoria financeira"
+  ],
+  "competitors": [
+    "JPMorgan Chase & Co.",
+    "Morgan Stanley",
+    "Bank of America Corporation"
+  ],
+  "economic_classification_code": "NAICS 523110 - Investment Banking and Securities Dealing"
+}

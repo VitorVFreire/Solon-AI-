@@ -1,0 +1,19 @@
+{
+  "company_name": "U.S. Bancorp DRC",
+  "primary_activity": "Serviços Financeiros",
+  "sector": "Finanças",
+  "subsector": "Bancos Comerciais",
+  "industry": "Bancos Comerciais",
+  "activity_description": "A U.S. Bancorp DRC atua como um banco comercial, oferecendo uma variedade de serviços financeiros, incluindo empréstimos, contas correntes e investimentos.",
+  "main_products_services": [
+    "Empréstimos",
+    "Contas Correntes",
+    "Investimentos"
+  ],
+  "competitors": [
+    "Itaú Unibanco",
+    "Banco do Brasil",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6512"
+}

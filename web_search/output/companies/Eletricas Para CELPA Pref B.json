@@ -1,0 +1,19 @@
+{
+  "company_name": "Centrais Eletricas do Para SA CELPA Pref Series B",
+  "primary_activity": "Geração, transmissão e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica",
+  "activity_description": "A empresa atua na geração, transmissão e distribuição de energia elétrica, fornecendo eletricidade para consumidores residenciais, comerciais e industriais.",
+  "main_products_services": [
+    "Geração de energia elétrica",
+    "Transmissão de energia elétrica",
+    "Distribuição de energia elétrica"
+  ],
+  "competitors": [
+    "Energisa",
+    "CPFL Energia",
+    "Neoenergia"
+  ],
+  "economic_classification_code": "4911"
+}

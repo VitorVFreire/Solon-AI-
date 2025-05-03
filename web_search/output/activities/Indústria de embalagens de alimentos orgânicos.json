@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens de alimentos orgânicos",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens de alimentos orgânicos desempenha um papel fundamental na cadeia de produção de alimentos saudáveis e sustentáveis, fornecendo embalagens que atendem aos padrões ambientais e de saúde exigidos pelo mercado de alimentos orgânicos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de alimentos orgânicos",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma forte correlação entre a indústria de embalagens de alimentos orgânicos e a indústria de alimentos orgânicos, pois as embalagens são essenciais para a preservação, proteção e comercialização dos produtos alimentícios.",
+      "economic_justification": "A indústria de embalagens de alimentos orgânicos depende diretamente da demanda da indústria de alimentos orgânicos, uma vez que suas embalagens são projetadas especificamente para atender às necessidades desse mercado especializado."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com a indústria de embalagens sustentáveis, pois ambas compartilham o foco na sustentabilidade e na redução do impacto ambiental.",
+      "economic_justification": "A indústria de embalagens de alimentos orgânicos se beneficia da inovação e desenvolvimento da indústria de embalagens sustentáveis, que fornece tecnologias e materiais ecologicamente corretos para suas embalagens."
+    },
+    {
+      "activity": "Indústria de alimentos saudáveis",
+      "correlation_level": "2",
+      "dependency_level": "0.40",
+      "correlation_type": "Mercado Similar",
+      "correlation_description": "Existe uma correlação fraca com a indústria de alimentos saudáveis, devido à sobreposição de público-alvo interessado em produtos saudáveis e sustentáveis.",
+      "economic_justification": "A indústria de embalagens de alimentos orgânicos pode encontrar oportunidades de colaboração e promoção conjunta com a indústria de alimentos saudáveis, ampliando seu alcance de mercado."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de matérias-primas sustentáveis",
+    "Regulamentações ambientais sobre embalagens biodegradáveis",
+    "Tendências de consumo de alimentos orgânicos e saudáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considera variações regionais específicas que podem impactar as correlações identificadas."
+}

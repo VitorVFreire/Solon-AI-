@@ -1,0 +1,19 @@
+{
+  "company_name": "Joao Fortes Engenharia SA",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Construção Residencial e Comercial",
+  "industry": "Construção de Edifícios Residenciais e Comerciais",
+  "activity_description": "A Joao Fortes Engenharia SA atua na construção de edifícios residenciais e comerciais, realizando projetos de construção e incorporação imobiliária.",
+  "main_products_services": [
+    "Construção de Edifícios Residenciais",
+    "Construção de Edifícios Comerciais",
+    "Incorporação Imobiliária"
+  ],
+  "competitors": [
+    "Cyrela",
+    "MRV Engenharia",
+    "Even Construtora e Incorporadora"
+  ],
+  "economic_classification_code": "2361-8/00"
+}

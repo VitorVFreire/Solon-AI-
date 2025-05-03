@@ -1,0 +1,21 @@
+{
+  "company_name": "Verizon Communications Inc BDR",
+  "primary_activity": "Telecomunicações e Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Telecomunicações",
+  "industry": "Telecomunicações Fixas e Móveis",
+  "activity_description": "A Verizon Communications Inc é uma empresa de telecomunicações que fornece serviços de comunicação fixa e móvel para clientes residenciais e empresariais. Além disso, a empresa atua no desenvolvimento e implementação de tecnologias da informação.",
+  "main_products_services": [
+    "Serviços de telefonia fixa",
+    "Serviços de telefonia móvel",
+    "Serviços de internet",
+    "Serviços de comunicação empresarial"
+  ],
+  "competitors": [
+    "AT&T",
+    "T-Mobile",
+    "Claro",
+    "TIM"
+  ],
+  "economic_classification_code": "5133-7/00 - Telecomunicações"
+}

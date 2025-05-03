@@ -1,0 +1,18 @@
+{
+  "company_name": "FedEx Corp BDR",
+  "primary_activity": "Serviços de Logística e Transporte",
+  "sector": "Transporte",
+  "subsector": "Logística e Transporte de Cargas",
+  "industry": "Logística e Transporte de Cargas",
+  "activity_description": "A FedEx Corp BDR atua na prestação de serviços de logística e transporte de cargas, oferecendo soluções de entrega expressa e serviços de transporte internacional.",
+  "main_products_services": [
+    "Entrega expressa",
+    "Transporte internacional de cargas"
+  ],
+  "competitors": [
+    "DHL",
+    "UPS",
+    "Correios"
+  ],
+  "economic_classification_code": null
+}

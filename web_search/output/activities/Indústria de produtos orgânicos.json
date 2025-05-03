@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de produtos orgânicos",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de produtos orgânicos está inserida no setor secundário da economia, sendo responsável pela produção e comercialização de alimentos e produtos cultivados de forma orgânica, atendendo a uma demanda crescente por produtos mais saudáveis e sustentáveis.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de alimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre a indústria de produtos orgânicos e a indústria de alimentos, pois os produtos orgânicos são utilizados como matéria-prima na produção de alimentos saudáveis e naturais.",
+      "economic_justification": "A indústria de produtos orgânicos fornece insumos essenciais para a indústria de alimentos, atendendo a uma demanda crescente por produtos saudáveis e sustentáveis, o que impulsiona a produção de alimentos naturais."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada entre a indústria de produtos orgânicos e a indústria de embalagens sustentáveis, devido à preocupação compartilhada com a sustentabilidade e o meio ambiente.",
+      "economic_justification": "Ambas as indústrias buscam práticas sustentáveis em seus processos, sendo a utilização de embalagens sustentáveis uma extensão natural da produção de produtos orgânicos, alinhando-se com os valores e demandas do mercado."
+    },
+    {
+      "activity": "Indústria de alimentos para pets",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação fraca entre a indústria de produtos orgânicos e a indústria de alimentos para pets, devido à expansão do mercado de alimentos naturais para animais de estimação.",
+      "economic_justification": "Com o aumento da demanda por produtos orgânicos e naturais, a indústria de alimentos para pets tem desenvolvido opções mais saudáveis e sustentáveis, acompanhando a tendência do mercado."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos preços de commodities agrícolas",
+    "Legislação ambiental e de segurança alimentar",
+    "Tendências de consumo saudável e sustentável"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de produtos orgânicos, podendo haver variações regionais e específicas de mercado que não foram abordadas."
+}

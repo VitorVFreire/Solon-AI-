@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de eventos esportivos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de eventos esportivos desempenham um papel fundamental na organização e execução de eventos esportivos de diversos portes, contribuindo para o sucesso e eficiência dessas atividades no setor esportivo.",
+  "correlated_activities": [
+    {
+      "activity": "Turismo",
+      "correlation_level": "4",
+      "dependency_level": "0.65",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de eventos esportivos estão correlacionados com o setor de turismo devido à organização de eventos que atraem turistas e promovem destinos.",
+      "economic_justification": "Eventos esportivos de grande porte são frequentemente associados ao turismo, atraindo visitantes nacionais e internacionais, o que impulsiona a demanda por serviços turísticos e beneficia a economia local."
+    },
+    {
+      "activity": "Marketing Digital",
+      "correlation_level": "3",
+      "dependency_level": "0.50",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de eventos esportivos têm correlação com o marketing digital devido à necessidade de promover os eventos de forma eficaz nas plataformas online.",
+      "economic_justification": "O marketing digital desempenha um papel crucial na divulgação de eventos esportivos, alcançando um público mais amplo e aumentando o engajamento, o que impacta diretamente no sucesso e na visibilidade dos eventos."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "3",
+      "dependency_level": "0.55",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de eventos esportivos estão correlacionados com a gestão de projetos devido à natureza organizacional e estruturada dos eventos esportivos.",
+      "economic_justification": "A gestão de projetos é essencial para garantir que os eventos esportivos sejam planejados, executados e concluídos com sucesso, cumprindo prazos e orçamentos estabelecidos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações na demanda por entretenimento esportivo",
+    "Investimentos em infraestrutura esportiva",
+    "Tendências de marketing e publicidade no setor esportivo"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo da região e do mercado específico de eventos esportivos."
+}

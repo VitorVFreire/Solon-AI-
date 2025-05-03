@@ -1,0 +1,19 @@
+{
+  "company_name": "Elektro Eletricidade e Servicos SA",
+  "primary_activity": "Fornecimento de eletricidade e serviços relacionados",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Distribuição de Energia Elétrica",
+  "activity_description": "A Elektro Eletricidade e Servicos SA atua no fornecimento de eletricidade e serviços relacionados, sendo especializada na distribuição de energia elétrica.",
+  "main_products_services": [
+    "Fornecimento de eletricidade",
+    "Manutenção de redes elétricas",
+    "Serviços de atendimento ao cliente"
+  ],
+  "competitors": [
+    "CPFL Energia",
+    "Energisa",
+    "Neoenergia"
+  ],
+  "economic_classification_code": "4910-9/01"
+}

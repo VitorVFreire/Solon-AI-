@@ -1,0 +1,18 @@
+{
+  "company_name": "Financeira Alfa",
+  "primary_activity": "Instituição financeira especializada em serviços de crédito e financiamento",
+  "sector": "Finanças",
+  "subsector": "Serviços financeiros diversos",
+  "industry": "Instituição financeira de crédito e financiamento",
+  "activity_description": "A Financeira Alfa atua como uma instituição financeira especializada em oferecer serviços de crédito e financiamento para seus clientes, atendendo suas necessidades de capital de giro, investimentos e outras operações financeiras. Além disso, a empresa pode oferecer consultoria financeira e serviços de investimento.",
+  "main_products_services": [
+    "Crédito",
+    "Financiamento",
+    "Consultoria Financeira",
+    "Serviços de Investimento"
+  ],
+  "competitors": [
+    "Instituições financeiras similares no mercado brasileiro"
+  ],
+  "economic_classification_code": "6492-1/00"
+}

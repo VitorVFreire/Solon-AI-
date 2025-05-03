@@ -1,0 +1,18 @@
+{
+  "company_name": "Rodobens Negocios Imobiliarios SA",
+  "primary_activity": "Atividade principal no setor imobiliário",
+  "sector": "Construção Civil",
+  "subsector": "Incorporação de empreendimentos imobiliários",
+  "industry": "Desenvolvimento de projetos imobiliários",
+  "activity_description": "A Rodobens Negocios Imobiliarios SA atua no desenvolvimento e incorporação de empreendimentos imobiliários, incluindo a construção e venda de imóveis residenciais e comerciais.",
+  "main_products_services": [
+    "Construção e venda de imóveis residenciais",
+    "Construção e venda de imóveis comerciais"
+  ],
+  "competitors": [
+    "Cyrela Brazil Realty",
+    "MRV Engenharia",
+    "Even Construtora e Incorporadora"
+  ],
+  "economic_classification_code": "Real Estate Development and Operations"
+}

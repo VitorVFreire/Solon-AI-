@@ -1,0 +1,20 @@
+{
+  "company_name": "Starbucks Corp BDR",
+  "primary_activity": "Cafeteria e varejo de café",
+  "sector": "Alimentação",
+  "subsector": "Cafeterias e casas de chá",
+  "industry": "Cafeterias",
+  "activity_description": "A Starbucks Corp BDR atua no ramo de cafeteria e varejo de café, oferecendo uma variedade de bebidas e produtos relacionados ao café. A empresa é conhecida por seus cafés especiais e ambiente acolhedor.",
+  "main_products_services": [
+    "Cafés especiais",
+    "Bebidas à base de café",
+    "Lanches",
+    "Produtos de café"
+  ],
+  "competitors": [
+    "McDonald's McCafé",
+    "Dunkin' Donuts",
+    "Costa Coffee"
+  ],
+  "economic_classification_code": null
+}

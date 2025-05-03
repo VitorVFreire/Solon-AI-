@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens de alimentos para animais de estimação",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A indústria de embalagens de alimentos para animais de estimação desempenha um papel crucial na garantia da qualidade, segurança e conservação dos alimentos destinados a animais de estimação. Como parte da cadeia de produção de alimentos para pets, essa atividade está diretamente ligada ao setor de alimentos para animais e ao mercado de produtos para pets.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de alimentos para animais de estimação",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre a indústria de embalagens de alimentos para animais de estimação e a indústria de alimentos para animais de estimação. Ambas as atividades são complementares, pois a qualidade e segurança das embalagens impactam diretamente na conservação e integridade dos alimentos destinados aos pets.",
+      "economic_justification": "A qualidade das embalagens influencia diretamente a qualidade e durabilidade dos alimentos para animais de estimação. Embalagens inadequadas podem comprometer a segurança e a aceitação dos produtos pelos consumidores, impactando negativamente a indústria de alimentos para pets."
+    },
+    {
+      "activity": "Indústria de produtos de higiene pessoal para animais de estimação",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada e dependência entre a indústria de embalagens de alimentos para animais de estimação e a indústria de produtos de higiene pessoal para animais de estimação. Ambas as atividades são complementares, pois as embalagens podem incluir produtos de higiene e cuidados para pets.",
+      "economic_justification": "As embalagens de alimentos para animais de estimação podem conter amostras de produtos de higiene pessoal, como shampoos ou condicionadores. A colaboração entre as indústrias pode impulsionar vendas cruzadas e estratégias de marketing conjuntas."
+    },
+    {
+      "activity": "Indústria de alimentos orgânicos",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Substituto",
+      "correlation_description": "Existe uma correlação fraca e dependência baixa entre a indústria de embalagens de alimentos para animais de estimação e a indústria de alimentos orgânicos. Em alguns casos, embalagens convencionais podem ser substituídas por embalagens orgânicas, impactando indiretamente a demanda por embalagens tradicionais.",
+      "economic_justification": "A crescente preferência por alimentos orgânicos pode influenciar a escolha de embalagens mais sustentáveis e ecológicas, o que pode afetar a demanda por embalagens convencionais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de matérias-primas plásticas",
+    "Tendências de consumo de produtos para animais de estimação",
+    "Regulamentações governamentais sobre embalagens e alimentos para pets"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considera variações regionais específicas que podem influenciar as correlações identificadas."
+}

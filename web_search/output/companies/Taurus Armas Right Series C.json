@@ -1,0 +1,19 @@
+{
+  "company_name": "Taurus Armas Right Series C",
+  "primary_activity": "Fabricação e venda de armas de fogo",
+  "sector": "Indústria de Defesa e Segurança",
+  "subsector": "Fabricação de armas de fogo",
+  "industry": "Indústria de armamentos",
+  "activity_description": "A Taurus Armas Right Series C atua na fabricação e venda de armas de fogo, fornecendo uma variedade de armamentos para diferentes segmentos de mercado.",
+  "main_products_services": [
+    "Armas de fogo",
+    "Munições",
+    "Acessórios para armas"
+  ],
+  "competitors": [
+    "Smith & Wesson",
+    "Glock",
+    "Beretta"
+  ],
+  "economic_classification_code": "2540-1/01"
+}

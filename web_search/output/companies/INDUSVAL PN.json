@@ -1,0 +1,19 @@
+{
+  "company_name": "Banco Indusval SA",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Serviços bancários",
+  "industry": "Banco comercial",
+  "activity_description": "O Banco Indusval SA atua como um banco comercial, oferecendo uma variedade de serviços financeiros, como empréstimos, investimentos e gestão de recursos.",
+  "main_products_services": [
+    "Empréstimos",
+    "Investimentos",
+    "Gestão de recursos"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Itaú Unibanco",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6412-3/00 - Bancos comerciais"
+}

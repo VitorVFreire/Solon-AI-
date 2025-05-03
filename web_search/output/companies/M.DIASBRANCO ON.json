@@ -1,0 +1,20 @@
+{
+  "company_name": "M Dias Branco SA",
+  "primary_activity": "Fabricação e comercialização de produtos alimentícios",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Alimentos processados",
+  "industry": "Fabricação de massas alimentícias",
+  "activity_description": "A empresa M Dias Branco SA atua na fabricação e comercialização de produtos alimentícios, com foco na produção de massas alimentícias.",
+  "main_products_services": [
+    "Massas alimentícias",
+    "Biscoitos",
+    "Farinhas",
+    "Margarinas"
+  ],
+  "competitors": [
+    "Marilan",
+    "Piraquê",
+    "Adria"
+  ],
+  "economic_classification_code": "10.71-1-01 - Fabricação de massas alimentícias"
+}

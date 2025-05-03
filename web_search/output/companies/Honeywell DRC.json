@@ -1,0 +1,20 @@
+{
+  "company_name": "Honeywell International Inc DRC",
+  "primary_activity": "Fabricação de equipamentos de segurança e automação",
+  "sector": "Tecnologia",
+  "subsector": "Equipamentos de segurança e automação",
+  "industry": "Equipamentos de segurança industrial e automação residencial",
+  "activity_description": "A Honeywell International Inc DRC atua na fabricação de equipamentos de segurança industrial, como detectores de gases, e automação residencial, oferecendo soluções para controle de temperatura, iluminação e segurança.",
+  "main_products_services": [
+    "Detectores de gases",
+    "Sistemas de automação residencial",
+    "Controles de temperatura",
+    "Sistemas de iluminação"
+  ],
+  "competitors": [
+    "Siemens AG",
+    "Johnson Controls International PLC",
+    "Schneider Electric SE"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,28 @@
+{
+  "economic_activity": "Indústria de embalagens de cosméticos naturais",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens de cosméticos naturais está inserida no setor secundário da economia, atuando na manufatura de embalagens sustentáveis e biodegradáveis para produtos de beleza naturais. Com o aumento da preocupação com a sustentabilidade e o crescimento do mercado de cosméticos naturais, essa atividade desempenha um papel fundamental na oferta de soluções ecologicamente corretas para a indústria de beleza.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de beleza sustentáveis",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre a indústria de embalagens de cosméticos naturais e a indústria de produtos de beleza sustentáveis, pois ambas atendem à demanda por produtos ecologicamente corretos. A qualidade e sustentabilidade das embalagens influenciam diretamente a percepção dos consumidores sobre os produtos de beleza.",
+      "economic_justification": "A demanda crescente por produtos de beleza sustentáveis impulsiona a necessidade de embalagens igualmente sustentáveis. A sinergia entre esses setores resulta em estratégias de marketing mais eficazes e na criação de uma imagem de marca positiva ligada à sustentabilidade."
+    },
+    {
+      "activity": "Indústria de produtos de higiene pessoal naturais",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada entre a indústria de embalagens de cosméticos naturais e a indústria de produtos de higiene pessoal naturais, devido à semelhança na proposta de valor e no público-alvo. Ambos os setores buscam oferecer alternativas naturais e sustentáveis para os consumidores preocupados com a saúde e o meio ambiente.",
+      "economic_justification": "A preferência crescente por produtos de higiene pessoal naturais está diretamente relacionada à busca por embalagens que transmitam os mesmos valores de sustentabilidade e cuidado com o corpo. A colaboração entre esses setores pode resultar em estratégias de marketing conjuntas e em soluções inovadoras para embalagens e produtos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de embalagens de cosméticos naturais incluem a demanda do mercado por produtos sustentáveis, as políticas ambientais e regulatórias, a disponibilidade de materiais biodegradáveis, a conscientização dos consumidores sobre sustentabilidade e a concorrência no setor de embalagens."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante ressaltar que a análise considera um cenário geral e pode variar de acordo com a região geográfica e as condições específicas de mercado. Além disso, a disponibilidade de dados detalhados sobre a indústria de embalagens de cosméticos naturais pode impactar a precisão das correlações identificadas."
+}

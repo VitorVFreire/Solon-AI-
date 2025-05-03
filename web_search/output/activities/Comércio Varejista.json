@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Comércio Varejista",
+  "sector_classification": "Terciário",
+  "economic_context": "O comércio varejista desempenha um papel fundamental na economia, conectando produtos diretamente aos consumidores finais e refletindo a demanda e o comportamento do mercado.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Alimentícia",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "O comércio varejista de alimentos está fortemente correlacionado com a indústria alimentícia devido à necessidade de abastecimento constante de produtos alimentícios para venda.",
+      "economic_justification": "A indústria alimentícia fornece os produtos que são vendidos no comércio varejista, sendo essencial para a oferta de alimentos aos consumidores finais."
+    },
+    {
+      "activity": "Logística",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Serviço",
+      "correlation_description": "O comércio varejista depende da logística para garantir a entrega eficiente dos produtos aos pontos de venda e aos consumidores finais.",
+      "economic_justification": "A logística desempenha um papel crucial no abastecimento e distribuição de mercadorias no comércio varejista, impactando diretamente a disponibilidade de produtos."
+    },
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Serviço",
+      "correlation_description": "A tecnologia da informação é fundamental para operações de vendas, gestão de estoque, e-commerce e análise de dados no comércio varejista.",
+      "economic_justification": "A TI desempenha um papel essencial na modernização e eficiência do comércio varejista, impactando desde a gestão de estoque até a experiência do cliente."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações no consumo das famílias",
+    "Taxas de juros que afetam o crédito ao consumidor",
+    "Crescimento do PIB como indicador de demanda",
+    "Variações no poder de compra da população"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral do comércio varejista, podendo haver variações significativas entre subsegmentos e regiões específicas."
+}

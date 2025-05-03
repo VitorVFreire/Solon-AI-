@@ -1,0 +1,19 @@
+{
+  "company_name": "L Brands Inc DRC",
+  "primary_activity": "Varejo de moda e produtos de beleza",
+  "sector": "Moda",
+  "subsector": "Varejo de moda e beleza",
+  "industry": "Varejo de moda e beleza",
+  "activity_description": "A L Brands Inc DRC atua no varejo de moda e produtos de beleza, oferecendo uma variedade de marcas e produtos para seus clientes.",
+  "main_products_services": [
+    "Roupas",
+    "acessórios",
+    "produtos de beleza"
+  ],
+  "competitors": [
+    "GAP Inc",
+    "H&M",
+    "Sephora"
+  ],
+  "economic_classification_code": ""
+}

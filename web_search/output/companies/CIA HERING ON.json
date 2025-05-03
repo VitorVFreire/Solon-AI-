@@ -1,0 +1,18 @@
+{
+  "company_name": "Cia Hering",
+  "primary_activity": "Varejo de moda",
+  "sector": "Moda",
+  "subsector": "Varejo de vestuário",
+  "industry": "Varejo de roupas e acessórios",
+  "activity_description": "A Cia Hering atua no varejo de moda, especializada na venda de roupas e acessórios.",
+  "main_products_services": [
+    "Roupas",
+    "Acessórios de moda"
+  ],
+  "competitors": [
+    "Lojas Renner",
+    "Lojas Riachuelo",
+    "Marisa Lojas"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,21 @@
+{
+  "company_name": "McDonalds Corp BDR",
+  "primary_activity": "Rede de restaurantes de fast food",
+  "sector": "Alimentação",
+  "subsector": "Restaurantes de Fast Food",
+  "industry": "Fast Food",
+  "activity_description": "A McDonald's Corp é uma empresa multinacional de fast food conhecida por seus hambúrgueres, batatas fritas e refrigerantes. Opera uma extensa rede de restaurantes em todo o mundo, oferecendo refeições rápidas e convenientes.",
+  "main_products_services": [
+    "Hambúrgueres",
+    "Batatas Fritas",
+    "Refrigerantes",
+    "Sobremesas"
+  ],
+  "competitors": [
+    "Burger King",
+    "Subway",
+    "KFC",
+    "Starbucks"
+  ],
+  "economic_classification_code": null
+}

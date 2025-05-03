@@ -1,0 +1,17 @@
+{
+  "company_name": "Industrias JB Duarte SA Right 2",
+  "primary_activity": "Indústria Metalúrgica",
+  "sector": "Indústria",
+  "subsector": "Metalurgia",
+  "industry": "Metalurgia em geral",
+  "activity_description": "A Indústrias JB Duarte SA Right 2 atua na produção e comercialização de produtos metalúrgicos diversos, atendendo a diferentes segmentos de mercado. Sua especialização está na fabricação de peças e componentes metálicos.",
+  "main_products_services": [
+    "Peças metálicas",
+    "Componentes para indústria",
+    "Produtos metalúrgicos"
+  ],
+  "competitors": [
+    "Empresas metalúrgicas concorrentes"
+  ],
+  "economic_classification_code": "Código de classificação econômica padrão, se aplicável"
+}

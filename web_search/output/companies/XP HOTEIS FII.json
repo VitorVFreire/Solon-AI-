@@ -1,0 +1,17 @@
+{
+  "company_name": "XP HOTEIS FII",
+  "primary_activity": "Investimento imobiliário em hotéis",
+  "sector": "Turismo",
+  "subsector": "Investimento imobiliário em hotéis",
+  "industry": "Fundos de Investimento Imobiliário (FII)",
+  "activity_description": "A XP HOTEIS FII atua no segmento de investimento imobiliário em hotéis, por meio de um fundo de investimento imobiliário especializado nesse setor. O objetivo é adquirir e gerir ativos hoteleiros visando retorno financeiro para os investidores.",
+  "main_products_services": [
+    "Gestão de ativos hoteleiros",
+    "Investimento em hotéis"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário",
+    "Empresas de gestão de ativos hoteleiros"
+  ],
+  "economic_classification_code": "Real Estate Investment Trusts (REITs)"
+}

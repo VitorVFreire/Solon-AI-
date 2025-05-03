@@ -1,0 +1,18 @@
+{
+  "company_name": "Tesla Motors Inc DRC",
+  "primary_activity": "Fabricação de veículos elétricos",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de veículos elétricos",
+  "industry": "Fabricação de automóveis elétricos",
+  "activity_description": "A Tesla Motors Inc DRC é uma empresa especializada na fabricação de veículos elétricos, com foco em inovação e sustentabilidade. Seus principais produtos incluem carros elétricos de alta performance e tecnologia avançada.",
+  "main_products_services": [
+    "Carros elétricos de alta performance",
+    "Tecnologia avançada para veículos elétricos"
+  ],
+  "competitors": [
+    "Rivian",
+    "Lucid Motors",
+    "NIO"
+  ],
+  "economic_classification_code": "C27.1 - Fabricação de automóveis e veículos automotores para transporte de mercadorias"
+}

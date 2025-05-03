@@ -1,0 +1,18 @@
+{
+  "company_name": "Gerdau SA Pref",
+  "primary_activity": "Produção de aço e materiais de construção",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Produção de aço",
+  "industry": "Siderurgia",
+  "activity_description": "A Gerdau SA Pref é uma empresa do setor de Indústria Metalúrgica, especializada na produção de aço. Sua principal atividade econômica é a siderurgia, fornecendo materiais para construção e outros setores.",
+  "main_products_services": [
+    "Aço",
+    "Materiais de construção"
+  ],
+  "competitors": [
+    "Usiminas",
+    "CSN",
+    "ArcelorMittal"
+  ],
+  "economic_classification_code": "27.11-0-00 - Fabricação de produtos de siderurgia"
+}

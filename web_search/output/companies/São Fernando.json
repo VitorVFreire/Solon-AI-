@@ -1,0 +1,20 @@
+{
+  "company_name": "São Fernando",
+  "primary_activity": "Produção agrícola",
+  "sector": "Agricultura",
+  "subsector": "Agricultura diversificada",
+  "industry": "Produção agrícola em geral",
+  "activity_description": "A São Fernando atua na produção agrícola, com foco em diversas culturas e atividades relacionadas ao setor agrícola.",
+  "main_products_services": [
+    "Grãos",
+    "Carnes",
+    "Leite",
+    "Açúcar"
+  ],
+  "competitors": [
+    "Agropecuária Santa Bárbara",
+    "Agropecuária Xingu",
+    "Agropecuária Santa Cruz"
+  ],
+  "economic_classification_code": "0111-3/01"
+}

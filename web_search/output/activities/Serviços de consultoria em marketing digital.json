@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em marketing digital",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em marketing digital desempenham um papel fundamental na era digital, auxiliando empresas de diversos setores a melhorar sua presença online, alcançar seu público-alvo e aumentar suas vendas por meio de estratégias digitais eficazes.",
+  "correlated_activities": [
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em marketing digital dependem fortemente da tecnologia da informação para implementar estratégias digitais eficazes, integrando sistemas, desenvolvendo plataformas online e utilizando ferramentas tecnológicas avançadas.",
+      "economic_justification": "A tecnologia da informação é essencial para a execução de campanhas de marketing digital, desde a análise de dados até a implementação de soluções tecnológicas inovadoras para otimizar o desempenho online das empresas."
+    },
+    {
+      "activity": "Publicidade",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em marketing digital e a publicidade estão interligados, pois ambos visam promover a marca, produtos ou serviços de uma empresa, sendo complementares na criação de campanhas integradas.",
+      "economic_justification": "A publicidade tradicional e a digital muitas vezes se complementam, permitindo uma abordagem abrangente para alcançar e engajar o público-alvo, aumentando a visibilidade e a eficácia das estratégias de marketing."
+    },
+    {
+      "activity": "Marketing de Conteúdo",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em marketing digital e o marketing de conteúdo estão fortemente correlacionados, pois o conteúdo de qualidade é essencial para atrair, envolver e converter clientes online.",
+      "economic_justification": "O marketing de conteúdo é uma parte essencial das estratégias de marketing digital, fornecendo informações relevantes e valiosas para o público-alvo, aumentando a autoridade da marca e impulsionando o engajamento."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas despesas de marketing das empresas",
+    "Tendências de consumo online",
+    "Inovações tecnológicas no setor de marketing digital"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considera especificidades regionais que podem influenciar as correlações identificadas."
+}

@@ -1,0 +1,40 @@
+{
+  "economic_activity": "Tecnologia da Informação",
+  "sector_classification": "Terciário",
+  "economic_context": "A Tecnologia da Informação engloba um conjunto de atividades essenciais para o desenvolvimento, implementação e manutenção de sistemas de informação, softwares e tecnologias relacionadas. É um setor fundamental para a inovação e a competitividade de diversas indústrias e serviços.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de TI em nuvem",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os Serviços de TI em nuvem estão fortemente correlacionados com a Tecnologia da Informação, pois fornecem infraestrutura e plataformas para o desenvolvimento e implementação de sistemas e softwares.",
+      "economic_justification": "A Tecnologia da Informação depende cada vez mais de soluções em nuvem para armazenamento, processamento e distribuição de dados, tornando esses serviços essenciais para a operação eficiente do setor."
+    },
+    {
+      "activity": "Serviços de consultoria em segurança da informação",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os Serviços de consultoria em segurança da informação são correlacionados com a Tecnologia da Informação, pois auxiliam na proteção de sistemas e dados contra ameaças cibernéticas.",
+      "economic_justification": "A segurança da informação é uma preocupação crescente para empresas de TI, tornando os serviços especializados em segurança essenciais para garantir a integridade e confidencialidade das operações."
+    },
+    {
+      "activity": "Serviços de consultoria em marketing digital",
+      "correlation_level": "2",
+      "dependency_level": "0.40",
+      "correlation_type": "Relacionado",
+      "correlation_description": "Os Serviços de consultoria em marketing digital possuem uma correlação fraca com a Tecnologia da Informação, uma vez que estratégias de marketing digital frequentemente dependem de soluções tecnológicas.",
+      "economic_justification": "Embora haja uma relação, a dependência direta não é tão forte, pois o marketing digital abrange diversas áreas além da tecnológica, como estratégias de conteúdo e publicidade."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Inovação tecnológica",
+    "Investimentos em pesquisa e desenvolvimento",
+    "Regulamentações de proteção de dados",
+    "Tendências de digitalização de processos",
+    "Crescimento do comércio eletrônico"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da Tecnologia da Informação, podendo haver variações regionais e setoriais que não foram abordadas."
+}

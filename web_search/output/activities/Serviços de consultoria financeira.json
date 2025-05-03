@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria financeira",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria financeira desempenham um papel crucial no auxílio a empresas e indivíduos na gestão eficiente de seus recursos financeiros, investimentos e estratégias de planejamento. Essa atividade contribui para a tomada de decisões financeiras mais informadas e para a maximização do retorno sobre investimentos.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria em gestão de investimentos",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre os serviços de consultoria financeira e a consultoria em gestão de investimentos, pois ambas atividades visam otimizar a alocação de recursos financeiros e maximizar retornos para empresas e indivíduos.",
+      "economic_justification": "Os serviços de consultoria financeira frequentemente se complementam com a consultoria em gestão de investimentos, uma vez que a orientação financeira estratégica oferecida pode influenciar diretamente as decisões de investimento, buscando atingir os objetivos financeiros estabelecidos."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de riscos",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada e dependência significativa entre os serviços de consultoria financeira e os serviços de consultoria em gestão de riscos, uma vez que a gestão financeira eficaz envolve a avaliação e mitigação de riscos financeiros.",
+      "economic_justification": "Os serviços de consultoria financeira e os serviços de consultoria em gestão de riscos estão interligados, pois a análise financeira estratégica inclui a consideração dos riscos associados às decisões financeiras, tornando essas atividades complementares na busca por uma gestão financeira sólida e segura."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de patrimônio",
+      "correlation_level": "4",
+      "dependency_level": "0.80",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e alta dependência entre os serviços de consultoria financeira e os serviços de consultoria em gestão de patrimônio, uma vez que ambas atividades estão relacionadas à otimização e proteção do patrimônio financeiro.",
+      "economic_justification": "Os serviços de consultoria financeira e os serviços de consultoria em gestão de patrimônio estão intrinsecamente ligados, pois a consultoria financeira visa a maximização dos recursos financeiros, enquanto a gestão de patrimônio foca na preservação e crescimento do patrimônio ao longo do tempo, complementando-se para atingir objetivos financeiros abrangentes."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxas de juros",
+    "Câmbio",
+    "Política fiscal"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar dependendo de condições específicas do mercado ou região."
+}

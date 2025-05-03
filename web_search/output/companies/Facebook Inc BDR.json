@@ -1,0 +1,19 @@
+{
+  "company_name": "Facebook Inc BDR",
+  "primary_activity": "Rede social e tecnologia da informação",
+  "sector": "Tecnologia",
+  "subsector": "Tecnologia da Informação",
+  "industry": "Redes Sociais",
+  "activity_description": "A Facebook Inc é uma empresa de tecnologia que opera uma das maiores redes sociais do mundo, conectando bilhões de usuários. Seu principal serviço é a plataforma de rede social Facebook, além de possuir outras subsidiárias como Instagram e WhatsApp.",
+  "main_products_services": [
+    "Plataforma de rede social",
+    "Publicidade online",
+    "Serviços de mensagens"
+  ],
+  "competitors": [
+    "Google LLC",
+    "Twitter Inc",
+    "Snap Inc"
+  ],
+  "economic_classification_code": "7319-0/03"
+}

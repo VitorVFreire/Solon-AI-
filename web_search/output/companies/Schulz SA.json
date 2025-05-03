@@ -1,0 +1,19 @@
+{
+  "company_name": "Schulz SA",
+  "primary_activity": "Fabricação de compressores e equipamentos de ar comprimido",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Fabricação de máquinas e equipamentos para uso industrial",
+  "industry": "Fabricação de compressores e equipamentos de ar comprimido",
+  "activity_description": "A Schulz SA atua na fabricação de compressores e equipamentos de ar comprimido para uso industrial, oferecendo soluções para diversas aplicações.",
+  "main_products_services": [
+    "Compressores de ar",
+    "Equipamentos de ar comprimido",
+    "Sistemas de tratamento de ar"
+  ],
+  "competitors": [
+    "Ingersoll Rand",
+    "Atlas Copco",
+    "Gardner Denver"
+  ],
+  "economic_classification_code": "CNAE 2811-8/00"
+}

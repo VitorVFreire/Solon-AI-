@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em sustentabilidade",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em sustentabilidade desempenham um papel fundamental na orientação e implementação de práticas sustentáveis em empresas e organizações, visando reduzir impactos ambientais, promover a responsabilidade social e alcançar a sustentabilidade a longo prazo.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria em sustentabilidade",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação muito forte e dependência crítica entre os serviços de consultoria em sustentabilidade e a consultoria em sustentabilidade. Ambas as atividades se complementam, atuando em conjunto para promover práticas sustentáveis nas empresas e organizações.",
+      "economic_justification": "A consultoria em sustentabilidade e os serviços de consultoria em sustentabilidade estão intrinsecamente ligados, uma vez que a consultoria em sustentabilidade fornece expertise técnica e estratégica, enquanto os serviços de consultoria em sustentabilidade auxiliam na implementação prática das recomendações, formando uma parceria essencial para o avanço da sustentabilidade empresarial."
+    },
+    {
+      "activity": "Consultoria em marketing",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada e dependência alta entre os serviços de consultoria em sustentabilidade e a consultoria em marketing. Ambas as atividades podem se complementar, integrando estratégias de sustentabilidade nas campanhas de marketing das empresas.",
+      "economic_justification": "A consultoria em marketing pode se beneficiar dos insights e diretrizes fornecidos pelos serviços de consultoria em sustentabilidade para desenvolver campanhas de marketing mais eficazes, destacando os aspectos sustentáveis dos produtos e serviços, o que pode gerar valor agregado e atrair consumidores conscientes."
+    },
+    {
+      "activity": "Consultoria em gestão de riscos ambientais",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação forte e dependência alta entre os serviços de consultoria em sustentabilidade e a consultoria em gestão de riscos ambientais. Ambas as atividades estão interligadas na identificação, avaliação e mitigação de riscos ambientais nas operações das empresas.",
+      "economic_justification": "Os serviços de consultoria em sustentabilidade podem colaborar estreitamente com a consultoria em gestão de riscos ambientais para desenvolver estratégias integradas que abordem tanto os aspectos sustentáveis quanto os riscos ambientais, garantindo uma abordagem holística na gestão de questões ambientais e de sustentabilidade."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas governamentais de incentivo à sustentabilidade",
+    "Tendências de consumo responsável",
+    "Regulamentações ambientais e normas de certificação",
+    "Investimentos em inovação sustentável"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar de acordo com a região e setor específicos."
+}

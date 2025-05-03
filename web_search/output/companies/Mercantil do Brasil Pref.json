@@ -1,0 +1,20 @@
+{
+  "company_name": "Banco Mercantil do Brasil SA Pref",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Banco comercial",
+  "activity_description": "O Banco Mercantil do Brasil SA Pref é uma instituição financeira que atua como banco comercial, oferecendo serviços bancários e financeiros para clientes no Brasil.",
+  "main_products_services": [
+    "Serviços bancários",
+    "Empréstimos",
+    "Investimentos",
+    "Cartões de crédito"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Itaú Unibanco",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6412-3/00 - Bancos comerciais"
+}

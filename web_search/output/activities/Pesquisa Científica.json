@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Pesquisa Científica",
+  "sector_classification": "Terciário",
+  "economic_context": "A Pesquisa Científica desempenha um papel fundamental no avanço do conhecimento em diversas áreas, contribuindo para o desenvolvimento tecnológico, inovação e progresso científico.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Farmacêutica",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Pesquisa Científica está fortemente correlacionada com a Indústria Farmacêutica devido à necessidade de desenvolvimento de novos medicamentos, testes clínicos e inovações terapêuticas.",
+      "economic_justification": "A Pesquisa Científica fornece a base para a descoberta e desenvolvimento de novos medicamentos e tratamentos na Indústria Farmacêutica, sendo essencial para a evolução e competitividade do setor."
+    },
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Pesquisa Científica e a Tecnologia da Informação possuem uma correlação moderada devido à necessidade de desenvolvimento de soluções tecnológicas inovadoras para análise de dados e simulações.",
+      "economic_justification": "A Tecnologia da Informação desempenha um papel crucial na análise e processamento de grandes volumes de dados gerados pela Pesquisa Científica, contribuindo para avanços científicos e descobertas."
+    },
+    {
+      "activity": "Indústria de Tecnologia Espacial",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Pesquisa Científica e a Indústria de Tecnologia Espacial estão fortemente correlacionadas devido à necessidade de pesquisa e desenvolvimento de tecnologias avançadas para exploração espacial.",
+      "economic_justification": "A Pesquisa Científica é essencial para impulsionar a inovação na Indústria de Tecnologia Espacial, permitindo o desenvolvimento de novas tecnologias e missões espaciais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Investimento em pesquisa e desenvolvimento",
+    "Políticas de incentivo à inovação",
+    "Colaboração entre instituições de pesquisa e setor privado"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera correlações gerais e pode variar dependendo do contexto regional e das especificidades de cada setor."
+}

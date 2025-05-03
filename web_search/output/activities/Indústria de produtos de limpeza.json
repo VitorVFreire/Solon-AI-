@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de produtos de limpeza",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de produtos de limpeza desempenha um papel fundamental tanto no mercado doméstico quanto no industrial, fornecendo produtos essenciais para a higienização e limpeza de ambientes.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza hospitalar",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A indústria de produtos de limpeza hospitalar está fortemente correlacionada com a indústria de produtos de limpeza, pois ambos os setores compartilham tecnologias e conhecimentos para desenvolver produtos eficazes e seguros para ambientes específicos.",
+      "economic_justification": "A demanda por produtos de limpeza hospitalar está diretamente ligada à necessidade de manter ambientes hospitalares limpos e livres de agentes patogênicos, o que impulsiona a produção e inovação nesse segmento."
+    },
+    {
+      "activity": "Indústria de embalagens",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de produtos de limpeza depende da indústria de embalagens para acondicionar e distribuir seus produtos de forma segura e eficiente.",
+      "economic_justification": "As embalagens desempenham um papel crucial na preservação e apresentação dos produtos de limpeza, sendo essenciais para garantir a qualidade e segurança durante o armazenamento e transporte."
+    },
+    {
+      "activity": "Indústria de produtos de higiene pessoal",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Complementar",
+      "correlation_description": "A indústria de produtos de limpeza e a indústria de produtos de higiene pessoal possuem uma correlação significativa devido à semelhança de canais de distribuição e público-alvo.",
+      "economic_justification": "Ambos os setores atendem às necessidades de higiene e cuidados pessoais, compartilhando canais de venda e estratégias de marketing para atingir os consumidores finais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços das matérias-primas (químicos, fragrâncias, etc.)",
+    "Regulamentações ambientais e de segurança de produtos químicos",
+    "Demanda do mercado por produtos sustentáveis e biodegradáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considera variações regionais específicas que podem impactar as correlações identificadas."
+}

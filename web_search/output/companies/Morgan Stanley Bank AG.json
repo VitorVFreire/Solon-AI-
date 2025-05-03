@@ -1,0 +1,19 @@
+{
+  "company_name": "Morgan Stanley Bank AG",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos de investimento",
+  "industry": "Serviços financeiros",
+  "activity_description": "O Morgan Stanley Bank AG atua como uma instituição financeira especializada em serviços de investimento e gestão de ativos.",
+  "main_products_services": [
+    "Serviços de investimento",
+    "Gestão de ativos",
+    "Consultoria financeira"
+  ],
+  "competitors": [
+    "Goldman Sachs",
+    "JPMorgan Chase",
+    "Bank of America Merrill Lynch"
+  ],
+  "economic_classification_code": "6512-0/00 - Bancos múltiplos, com carteira comercial"
+}

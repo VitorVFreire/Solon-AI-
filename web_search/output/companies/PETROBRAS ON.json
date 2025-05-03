@@ -1,0 +1,20 @@
+{
+  "company_name": "Petroleo Brasileiro SA",
+  "primary_activity": "Exploração, produção e distribuição de petróleo e gás",
+  "sector": "Energia",
+  "subsector": "Petróleo e Gás",
+  "industry": "Exploração e Produção de Petróleo",
+  "activity_description": "A Petroleo Brasileiro SA atua na exploração, produção e distribuição de petróleo e gás, sendo uma das principais empresas do setor no Brasil.",
+  "main_products_services": [
+    "Petróleo",
+    "Gás Natural",
+    "Combustíveis",
+    "Petroquímicos"
+  ],
+  "competitors": [
+    "Shell",
+    "Chevron",
+    "ExxonMobil"
+  ],
+  "economic_classification_code": "0610-7/01"
+}

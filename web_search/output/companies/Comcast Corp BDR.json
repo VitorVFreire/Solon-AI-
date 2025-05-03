@@ -1,0 +1,21 @@
+{
+  "company_name": "Comcast Corp BDR",
+  "primary_activity": "Telecomunicações e Entretenimento",
+  "sector": "Tecnologia",
+  "subsector": "Telecomunicações",
+  "industry": "Provedor de Serviços de Comunicação e Entretenimento",
+  "activity_description": "A Comcast Corp BDR atua como provedor de serviços de comunicação e entretenimento, oferecendo serviços de TV a cabo, internet e telefone, além de produção e distribuição de conteúdo audiovisual.",
+  "main_products_services": [
+    "TV a cabo",
+    "Internet",
+    "Telefone",
+    "Produção de conteúdo audiovisual",
+    "Distribuição de conteúdo"
+  ],
+  "competitors": [
+    "AT&T",
+    "Verizon",
+    "DISH Network"
+  ],
+  "economic_classification_code": "5133"
+}

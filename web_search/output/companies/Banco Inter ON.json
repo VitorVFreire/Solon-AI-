@@ -1,0 +1,20 @@
+{
+  "company_name": "Banco Inter ON",
+  "primary_activity": "Instituição financeira digital",
+  "sector": "Finanças",
+  "subsector": "Bancos digitais",
+  "industry": "Serviços financeiros online",
+  "activity_description": "O Banco Inter ON é uma instituição financeira digital que oferece serviços bancários online, como conta corrente, cartão de crédito, investimentos e empréstimos, sem agências físicas.",
+  "main_products_services": [
+    "Conta corrente digital",
+    "Cartão de crédito",
+    "Investimentos",
+    "Empréstimos"
+  ],
+  "competitors": [
+    "Nubank",
+    "Neon",
+    "C6 Bank"
+  ],
+  "economic_classification_code": "6419-6/01"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Personale I",
+  "primary_activity": "Serviços de consultoria em recursos humanos",
+  "sector": "Recursos Humanos",
+  "subsector": "Consultoria em Recursos Humanos",
+  "industry": "Serviços de Recrutamento e Seleção",
+  "activity_description": "A Personale I atua na prestação de serviços de consultoria em recursos humanos, com foco em recrutamento e seleção de profissionais para diversas empresas.",
+  "main_products_services": [
+    "Recrutamento de profissionais",
+    "Seleção de candidatos",
+    "Avaliação de competências"
+  ],
+  "competitors": [
+    "Empresa de Recrutamento X",
+    "Consultoria de RH Y",
+    "Serviços de Seleção Z"
+  ],
+  "economic_classification_code": "N/A"
+}

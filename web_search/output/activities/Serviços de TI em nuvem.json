@@ -1,0 +1,47 @@
+{
+  "economic_activity": "Serviços de TI em nuvem",
+  "sector_classification": "Terciário",
+  "economic_context": "Os Serviços de TI em nuvem desempenham um papel fundamental na transformação digital de empresas e na facilitação do acesso a tecnologias avançadas de forma escalável e flexível.",
+  "correlated_activities": [
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os Serviços de TI em nuvem estão fortemente correlacionados com a Tecnologia da Informação, pois dependem de infraestrutura, desenvolvimento e suporte técnico para operar de forma eficiente.",
+      "economic_justification": "A Tecnologia da Informação é essencial para a prestação de serviços em nuvem, fornecendo a base tecnológica necessária para a operação e inovação contínua nesse setor."
+    },
+    {
+      "activity": "Serviços de consultoria em tecnologia da informação",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Os Serviços de TI em nuvem têm uma correlação significativa com os Serviços de consultoria em tecnologia da informação, atuando como fornecedores de soluções tecnológicas para implementação e suporte de sistemas em nuvem.",
+      "economic_justification": "Os Serviços de consultoria em tecnologia da informação dependem da expertise em nuvem para oferecer soluções inovadoras e eficientes aos seus clientes."
+    },
+    {
+      "activity": "Serviços de TI em nuvem para pequenas empresas",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Os Serviços de TI em nuvem para pequenas empresas estão altamente correlacionados com os Serviços de TI em nuvem, pois representam um segmento específico de clientes que demandam soluções personalizadas e acessíveis.",
+      "economic_justification": "As pequenas empresas dependem fortemente de serviços em nuvem para otimizar suas operações e reduzir custos, criando uma relação de dependência com os provedores desses serviços."
+    },
+    {
+      "activity": "Serviços de consultoria em segurança da informação",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os Serviços de TI em nuvem têm uma correlação moderada com os Serviços de consultoria em segurança da informação, pois a segurança cibernética é uma preocupação central na oferta de serviços em nuvem.",
+      "economic_justification": "A segurança da informação é essencial para a confiança dos clientes nos serviços em nuvem, criando uma relação complementar entre as duas atividades."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas taxas de câmbio que impactam custos de infraestrutura em nuvem",
+    "Investimentos em pesquisa e desenvolvimento de novas tecnologias",
+    "Regulamentações governamentais sobre proteção de dados e privacidade",
+    "Tendências de digitalização e adoção de tecnologias em diversos setores da economia"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar em detalhes específicos de acordo com a região ou segmento de mercado."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "KLABIN S/A ON N2",
+  "primary_activity": "Produção de papel e celulose",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Fabricação de papel e celulose",
+  "industry": "Papel e Celulose",
+  "activity_description": "A Klabin SA é uma empresa brasileira especializada na produção de papel e celulose, atuando na fabricação de diversos tipos de papel e produtos relacionados.",
+  "main_products_services": [
+    "Papel",
+    "Celulose",
+    "Embalagens de papel"
+  ],
+  "competitors": [
+    "Suzano",
+    "Fibria",
+    "International Paper"
+  ],
+  "economic_classification_code": "17.12-0-00 - Fabricação de papel e celulose"
+}

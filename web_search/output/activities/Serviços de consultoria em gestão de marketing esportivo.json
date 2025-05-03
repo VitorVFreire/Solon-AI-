@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de marketing esportivo",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de marketing esportivo desempenham um papel crucial no desenvolvimento e promoção de marcas no setor esportivo, auxiliando na maximização do alcance e impacto das estratégias de marketing específicas para esse mercado.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos esportivos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de marketing esportivo e a indústria de equipamentos esportivos, pois estratégias de marketing eficazes podem impulsionar as vendas de equipamentos esportivos e vice-versa.",
+      "economic_justification": "A consultoria em marketing esportivo pode ajudar a identificar tendências de mercado, preferências dos consumidores e oportunidades de parcerias estratégicas que beneficiam tanto os serviços de consultoria quanto a indústria de equipamentos esportivos."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de eventos esportivos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de marketing esportivo e os serviços de consultoria em gestão de eventos esportivos, pois ambas as atividades estão relacionadas à promoção e organização de eventos esportivos.",
+      "economic_justification": "A colaboração entre consultorias de marketing esportivo e consultorias de eventos esportivos pode resultar em estratégias integradas que potencializam a visibilidade e o impacto dos eventos, beneficiando ambas as áreas de atuação."
+    },
+    {
+      "activity": "Indústria de calçados esportivos",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada entre os serviços de consultoria em gestão de marketing esportivo e a indústria de calçados esportivos, uma vez que estratégias de marketing eficazes podem impulsionar as vendas de calçados esportivos e vice-versa.",
+      "economic_justification": "A consultoria em marketing esportivo pode contribuir para o desenvolvimento de campanhas promocionais e parcerias que aumentem a visibilidade e a atratividade dos calçados esportivos, gerando benefícios mútuos para ambas as atividades."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas preferências dos consumidores por produtos esportivos",
+    "Investimentos em eventos esportivos de grande porte",
+    "Desempenho econômico do setor esportivo em geral"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto genérico de mercado, podendo haver variações significativas dependendo da região e do segmento específico dentro do marketing esportivo."
+}

@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens recicláveis",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens recicláveis desempenha um papel fundamental na redução do impacto ambiental, promovendo a sustentabilidade e a economia circular. Sua produção está diretamente ligada à demanda por embalagens mais ecológicas e à conscientização ambiental crescente na sociedade.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de reciclagem",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria de embalagens recicláveis depende fortemente da Indústria de reciclagem para o processamento e reintegração dos materiais reciclados no ciclo produtivo.",
+      "economic_justification": "A reciclagem é essencial para a sustentabilidade da Indústria de embalagens recicláveis, pois fornece matéria-prima reciclada para a produção de novas embalagens, reduzindo a dependência de recursos naturais e minimizando os resíduos."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza ecológicos",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Complementar",
+      "correlation_description": "A demanda por embalagens recicláveis está correlacionada com a produção de produtos de limpeza ecológicos, pois ambos visam reduzir o impacto ambiental e promover práticas sustentáveis.",
+      "economic_justification": "A Indústria de embalagens recicláveis e a Indústria de produtos de limpeza ecológicos compartilham valores ambientais semelhantes, impulsionando a colaboração na oferta de soluções sustentáveis aos consumidores conscientes."
+    },
+    {
+      "activity": "Indústria de embalagens de alimentos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "A Indústria de embalagens recicláveis fornece embalagens sustentáveis para a Indústria de embalagens de alimentos, atendendo à demanda por soluções eco-friendly no setor alimentício.",
+      "economic_justification": "A preferência crescente por embalagens sustentáveis na Indústria de alimentos impulsiona a demanda por embalagens recicláveis, criando uma relação cliente-fornecedor entre os setores."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas governamentais de incentivo à reciclagem e sustentabilidade",
+    "Tendências de consumo consciente e preferência por produtos sustentáveis",
+    "Preços de matéria-prima virgem e reciclada no mercado",
+    "Inovações tecnológicas em reciclagem e produção de embalagens sustentáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da economia e pode variar em níveis regionais ou específicos de cada mercado."
+}

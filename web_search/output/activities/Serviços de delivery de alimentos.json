@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de delivery de alimentos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de delivery de alimentos desempenham um papel fundamental no setor de alimentação, facilitando o acesso dos consumidores a uma variedade de refeições e alimentos sem a necessidade de deslocamento físico para restaurantes ou supermercados. Com a crescente demanda por conveniência e praticidade, esse setor tem se expandido significativamente com o uso de tecnologia e aplicativos especializados.",
+  "correlated_activities": [
+    {
+      "activity": "Comércio Varejista",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Os serviços de delivery de alimentos têm uma forte correlação com o comércio varejista, uma vez que muitos estabelecimentos de alimentos e restaurantes utilizam esses serviços para alcançar mais clientes e expandir suas operações.",
+      "economic_justification": "O comércio varejista de alimentos e produtos relacionados se beneficia dos serviços de delivery para ampliar seu alcance e atender à demanda por conveniência dos consumidores, resultando em uma interdependência significativa entre esses setores."
+    },
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Tecnologia da Informação é essencial para o funcionamento dos serviços de delivery de alimentos, fornecendo plataformas, aplicativos e sistemas de gerenciamento necessários para operações eficientes.",
+      "economic_justification": "A TI desempenha um papel crítico na viabilização e melhoria dos serviços de delivery de alimentos, sendo um fornecedor fundamental de soluções tecnológicas que impulsionam a operação e a experiência do cliente nesse setor."
+    },
+    {
+      "activity": "Serviços de consultoria em marketing digital",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em marketing digital complementam os serviços de delivery de alimentos ao auxiliar na promoção, branding e estratégias de marketing online para atrair mais clientes e aumentar a visibilidade.",
+      "economic_justification": "A consultoria em marketing digital desempenha um papel de apoio importante para os serviços de delivery de alimentos, contribuindo para a divulgação eficaz dos serviços e a aquisição de clientes por meio de estratégias digitais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de delivery de alimentos incluem o poder de compra dos consumidores, as tendências de consumo, a concorrência no setor de alimentação, as políticas de regulamentação de alimentos e a tecnologia disponível para operações de entrega."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo da região e das condições específicas de mercado. Outras correlações podem existir, mas as identificadas são as mais significativas com base nas informações disponíveis."
+}

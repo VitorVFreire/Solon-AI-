@@ -1,0 +1,19 @@
+{
+  "company_name": "First Solar Inc",
+  "primary_activity": "Produção e comercialização de equipamentos de energia solar",
+  "sector": "Energia",
+  "subsector": "Energia Solar",
+  "industry": "Equipamentos de Energia Solar",
+  "activity_description": "A First Solar Inc é uma empresa especializada na produção e comercialização de equipamentos de energia solar, atuando no desenvolvimento de soluções sustentáveis para geração de energia limpa.",
+  "main_products_services": [
+    "Painéis Solares",
+    "Sistemas Fotovoltaicos",
+    "Soluções de Energia Solar"
+  ],
+  "competitors": [
+    "SunPower Corporation",
+    "Canadian Solar Inc",
+    "JinkoSolar Holding Co., Ltd."
+  ],
+  "economic_classification_code": "Energia - 4671"
+}

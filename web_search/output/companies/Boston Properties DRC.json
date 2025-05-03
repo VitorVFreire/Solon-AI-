@@ -1,0 +1,19 @@
+{
+  "company_name": "Boston Properties Inc DRC",
+  "primary_activity": "Investimento e desenvolvimento de propriedades imobiliárias comerciais",
+  "sector": "Construção Civil",
+  "subsector": "Desenvolvimento e Gestão Imobiliária",
+  "industry": "Propriedades Comerciais",
+  "activity_description": "A Boston Properties Inc DRC atua no investimento, desenvolvimento e gestão de propriedades imobiliárias comerciais, incluindo escritórios, centros comerciais e espaços de armazenamento.",
+  "main_products_services": [
+    "Investimento Imobiliário",
+    "Desenvolvimento de Propriedades Comerciais",
+    "Gestão de Propriedades"
+  ],
+  "competitors": [
+    "Vornado Realty Trust",
+    "Simon Property Group",
+    "Brookfield Property Partners"
+  ],
+  "economic_classification_code": "Real Estate Investment Trust (REIT)"
+}

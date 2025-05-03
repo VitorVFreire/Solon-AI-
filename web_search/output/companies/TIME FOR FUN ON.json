@@ -1,0 +1,19 @@
+{
+  "company_name": "T4F Entretenimento SA",
+  "primary_activity": "Entretenimento ao vivo e promoção de eventos",
+  "sector": "Entretenimento",
+  "subsector": "Entretenimento ao vivo",
+  "industry": "Promoção de eventos e espetáculos",
+  "activity_description": "A T4F Entretenimento SA atua na promoção e produção de eventos ao vivo, como shows, espetáculos teatrais e eventos esportivos. A empresa é responsável por trazer entretenimento de qualidade para o público, gerenciando desde a logística até a divulgação dos eventos.",
+  "main_products_services": [
+    "Produção de shows",
+    "Organização de eventos esportivos",
+    "Promoção de espetáculos"
+  ],
+  "competitors": [
+    "Live Nation Entertainment",
+    "C3 Presents",
+    "AEG Presents"
+  ],
+  "economic_classification_code": null
+}

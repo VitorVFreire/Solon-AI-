@@ -1,0 +1,17 @@
+{
+  "company_name": "eBay Inc BDR",
+  "primary_activity": "Comércio Varejista de Produtos Online",
+  "sector": "Tecnologia",
+  "subsector": "Comércio Eletrônico",
+  "industry": "Marketplace Online",
+  "activity_description": "A eBay Inc BDR atua no comércio varejista de produtos online, operando como um marketplace online que conecta vendedores e compradores.",
+  "main_products_services": [
+    "Plataforma de comércio eletrônico"
+  ],
+  "competitors": [
+    "Amazon",
+    "Alibaba",
+    "Mercado Livre"
+  ],
+  "economic_classification_code": "4731"
+}

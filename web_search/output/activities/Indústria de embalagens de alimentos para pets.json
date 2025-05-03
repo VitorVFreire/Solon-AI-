@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Indústria de embalagens de alimentos para pets",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A indústria de embalagens de alimentos para pets está inserida no setor secundário da economia, sendo responsável pela produção de embalagens especializadas para alimentos destinados a animais de estimação. Essa atividade desempenha um papel fundamental na garantia da qualidade, segurança e conservação dos produtos, atendendo a uma demanda crescente no mercado de produtos para pets.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de alimentos para pets",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A indústria de embalagens de alimentos para pets possui uma correlação forte e dependência alta com a indústria de alimentos para pets. Ambas as atividades são complementares, uma vez que as embalagens são essenciais para acondicionar e preservar os alimentos destinados aos animais de estimação.",
+      "economic_justification": "A indústria de embalagens de alimentos para pets depende diretamente da indústria de alimentos para pets, pois as embalagens são projetadas e produzidas de acordo com as características e necessidades específicas dos alimentos. Qualquer mudança na indústria de alimentos impacta diretamente na demanda e nos requisitos das embalagens."
+    },
+    {
+      "activity": "Indústria de produtos de higiene pessoal para pets",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada e dependência moderada entre a indústria de embalagens de alimentos para pets e a indústria de produtos de higiene pessoal para pets. Ambas as atividades são complementares, uma vez que as embalagens podem ser utilizadas para acondicionar produtos de higiene para animais de estimação.",
+      "economic_justification": "As embalagens desenvolvidas para alimentos para pets podem ser adaptadas para produtos de higiene pessoal, criando sinergias entre as indústrias. A demanda por embalagens específicas para produtos de higiene pode impulsionar a inovação e o desenvolvimento de novas soluções no mercado."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços das matérias-primas utilizadas na fabricação de embalagens",
+    "Crescimento do mercado de produtos para pets",
+    "Regulamentações sanitárias e de segurança alimentar"
+  ],
+  "confidence_level": "Médio",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de embalagens de alimentos para pets, mas variações regionais e eventos inesperados podem impactar as correlações identificadas."
+}

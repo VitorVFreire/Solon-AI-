@@ -1,0 +1,17 @@
+{
+  "company_name": "Aes Tiete Energia SA",
+  "primary_activity": "Geração de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica Convencional",
+  "activity_description": "A Aes Tiete Energia SA atua na geração de energia elétrica por meio de fontes convencionais, como hidrelétricas e termelétricas. A empresa é responsável por produzir e disponibilizar energia para consumo residencial, comercial e industrial.",
+  "main_products_services": [
+    "Energia elétrica"
+  ],
+  "competitors": [
+    "Engie Brasil Energia",
+    "Neoenergia",
+    "CPFL Energia"
+  ],
+  "economic_classification_code": "4911-3/00"
+}

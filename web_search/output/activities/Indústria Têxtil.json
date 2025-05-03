@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria Têxtil",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A Indústria Têxtil engloba a produção de tecidos, fios, vestuário e produtos relacionados, desempenhando um papel fundamental na economia ao fornecer materiais para a indústria da moda, decoração, entre outros setores.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de Moda",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria Têxtil e a Indústria de Moda possuem uma forte correlação, sendo complementares na produção de roupas e acessórios.",
+      "economic_justification": "A Indústria Têxtil fornece os materiais necessários para a Indústria de Moda, sendo essencial para a criação de peças de vestuário e acessórios."
+    },
+    {
+      "activity": "Indústria de Calçados",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria Têxtil e a Indústria de Calçados, pois ambas dependem de materiais têxteis na produção de calçados.",
+      "economic_justification": "A Indústria Têxtil fornece tecidos e materiais para a fabricação de calçados, sendo um elo importante na cadeia produtiva."
+    },
+    {
+      "activity": "Indústria de Móveis",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Indireta",
+      "correlation_description": "Existe uma correlação fraca entre a Indústria Têxtil e a Indústria de Móveis, pois alguns móveis podem conter tecidos ou estofados.",
+      "economic_justification": "Embora não diretamente ligadas, a Indústria Têxtil pode fornecer materiais para estofamento de móveis, gerando uma relação indireta."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações no preço das matérias-primas têxteis",
+    "Demanda por produtos de moda e vestuário",
+    "Tendências de consumo e design"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considera especificidades regionais que podem influenciar as correlações identificadas."
+}

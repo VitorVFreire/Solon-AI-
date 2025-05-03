@@ -1,0 +1,18 @@
+{
+  "company_name": "Usinas Siderurgicas de Minas Gerais",
+  "primary_activity": "Produção de aço e siderurgia",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Siderurgia",
+  "industry": "Produção de aço",
+  "activity_description": "A Usinas Siderúrgicas de Minas Gerais atua na produção de aço, sendo uma das principais empresas do setor siderúrgico no Brasil. Suas atividades incluem a fabricação de produtos siderúrgicos para diversos fins, como construção civil, indústria automobilística e outros setores.",
+  "main_products_services": [
+    "Aço",
+    "Produtos siderúrgicos"
+  ],
+  "competitors": [
+    "CSN",
+    "Gerdau",
+    "ArcelorMittal"
+  ],
+  "economic_classification_code": "27.11-0-01"
+}

@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de recursos hídricos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de recursos hídricos desempenham um papel fundamental na preservação e uso sustentável dos recursos hídricos, sendo essenciais para a gestão eficiente de águas superficiais e subterrâneas em diversos setores da economia.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza ecológicos",
+      "correlation_level": "4",
+      "dependency_level": "0,65",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de recursos hídricos e a indústria de produtos de limpeza ecológicos, pois ambas estão ligadas à sustentabilidade ambiental e ao uso responsável dos recursos naturais.",
+      "economic_justification": "A gestão adequada dos recursos hídricos é essencial para a produção sustentável de produtos de limpeza ecológicos, que dependem de matérias-primas e processos de fabricação que respeitam o meio ambiente."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de recursos hídricos e a indústria de embalagens sustentáveis, pois ambas estão relacionadas à preocupação com a sustentabilidade e a redução do impacto ambiental.",
+      "economic_justification": "A gestão eficiente dos recursos hídricos contribui para a produção responsável de embalagens sustentáveis, que buscam minimizar o uso de recursos naturais e reduzir resíduos no meio ambiente."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de recursos humanos",
+      "correlation_level": "2",
+      "dependency_level": "0,35",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação fraca entre os serviços de consultoria em gestão de recursos hídricos e os serviços de consultoria em gestão de recursos humanos, pois ambas envolvem aspectos de gestão e planejamento organizacional.",
+      "economic_justification": "Ambos os serviços requerem expertise em gestão e planejamento, embora atuem em áreas distintas, demonstrando uma relação indireta de complementaridade em termos de conhecimentos e habilidades gerenciais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de consultoria em gestão de recursos hídricos incluem políticas ambientais, investimentos em infraestrutura hídrica, mudanças climáticas e regulamentações governamentais relacionadas à gestão dos recursos hídricos."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considerou principalmente a perspectiva da sustentabilidade e gestão ambiental, podendo haver outras correlações relevantes a serem exploradas."
+}

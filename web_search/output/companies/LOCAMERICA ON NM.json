@@ -1,0 +1,17 @@
+{
+  "company_name": "Cia de Locacao das Americas",
+  "primary_activity": "Locação de veículos",
+  "sector": "Transporte",
+  "subsector": "Locação de veículos",
+  "industry": "Locação de veículos leves e pesados",
+  "activity_description": "A Cia de Locacao das Americas atua no segmento de locação de veículos, oferecendo serviços de aluguel de veículos leves e pesados para clientes no Brasil.",
+  "main_products_services": [
+    "Locação de veículos leves",
+    "Locação de veículos pesados"
+  ],
+  "competitors": [
+    "Localiza Rent a Car",
+    "Movida Rent a Car"
+  ],
+  "economic_classification_code": "7711-0/00"
+}

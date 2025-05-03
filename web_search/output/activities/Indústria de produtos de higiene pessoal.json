@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de produtos de higiene pessoal",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A Indústria de produtos de higiene pessoal faz parte do setor secundário da economia, sendo responsável pela fabricação e comercialização de uma variedade de produtos essenciais para cuidados pessoais, tais como sabonetes, shampoos, cremes, entre outros. Esta indústria desempenha um papel fundamental no mercado de bens de consumo e está diretamente ligada aos hábitos de higiene e cuidados pessoais da população.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação entre a Indústria de produtos de higiene pessoal e a Indústria de produtos de limpeza, devido à natureza complementar de seus produtos. Ambas as indústrias atendem à demanda por produtos essenciais de limpeza e higiene, compartilhando canais de distribuição e consumidores em comum.",
+      "economic_justification": "Os produtos de higiene pessoal e de limpeza são frequentemente adquiridos em conjunto pelos consumidores, refletindo a interdependência dessas indústrias. Mudanças nos padrões de consumo e preferências dos clientes em relação a produtos de higiene e limpeza impactam diretamente ambas as indústrias."
+    },
+    {
+      "activity": "Indústria de cosméticos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de produtos de higiene pessoal e a Indústria de cosméticos, devido à complementaridade de seus produtos. Ambas as indústrias estão relacionadas aos cuidados pessoais e estética, compartilhando segmentos de mercado semelhantes.",
+      "economic_justification": "Os produtos de higiene pessoal e cosméticos muitas vezes são utilizados em conjunto, refletindo a sinergia entre essas indústrias. Inovações em ingredientes, embalagens e tendências de beleza podem impactar positivamente ambas as indústrias."
+    },
+    {
+      "activity": "Indústria de embalagens",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação fraca entre a Indústria de produtos de higiene pessoal e a Indústria de embalagens, devido à necessidade de embalagens específicas para acondicionar os produtos de higiene pessoal.",
+      "economic_justification": "A Indústria de embalagens desempenha um papel crucial na apresentação e proteção dos produtos de higiene pessoal. Variações nas embalagens, materiais e design podem influenciar a atratividade e competitividade dos produtos no mercado."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos custos de matérias-primas (ex: óleos essenciais, ingredientes ativos)",
+    "Tendências de consumo e preferências dos clientes em relação a produtos de cuidados pessoais",
+    "Regulamentações governamentais sobre ingredientes e rotulagem de produtos",
+    "Inovações tecnológicas na formulação e produção de produtos de higiene pessoal"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da Indústria de produtos de higiene pessoal, podendo haver variações regionais e setoriais que não foram abordadas."
+}

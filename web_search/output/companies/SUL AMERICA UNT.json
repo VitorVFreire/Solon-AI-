@@ -1,0 +1,20 @@
+{
+  "company_name": "Sul America SA",
+  "primary_activity": "Seguros e Previdência Complementar",
+  "sector": "Finanças",
+  "subsector": "Seguros",
+  "industry": "Seguros Diversos",
+  "activity_description": "A Sul America SA atua no setor de seguros e previdência complementar, oferecendo uma variedade de seguros diversos para seus clientes.",
+  "main_products_services": [
+    "Seguros de Vida",
+    "Seguros de Saúde",
+    "Seguros de Automóveis",
+    "Seguros de Residência"
+  ],
+  "competitors": [
+    "Bradesco Seguros",
+    "Porto Seguro",
+    "Itaú Seguros"
+  ],
+  "economic_classification_code": "6512-0/00 - Sociedades de Seguros"
+}

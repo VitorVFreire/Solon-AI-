@@ -1,0 +1,48 @@
+{
+  "economic_activity": "Indústria de Energia Renovável",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de Energia Renovável engloba a produção de energia a partir de fontes renováveis, como solar, eólica, hidrelétrica, entre outras. É um setor em crescimento devido à busca por fontes mais limpas e sustentáveis de energia.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de Equipamentos de Energia Solar",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma forte correlação entre a Indústria de Energia Renovável e a Indústria de Equipamentos de Energia Solar, pois os equipamentos de energia solar são essenciais para a geração de energia renovável a partir do sol.",
+      "economic_justification": "A Indústria de Energia Renovável depende fortemente de equipamentos de energia solar para a captação e conversão da energia solar em eletricidade, tornando esses setores altamente interdependentes."
+    },
+    {
+      "activity": "Indústria de Equipamentos Eólicos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de Energia Renovável e a Indústria de Equipamentos Eólicos, devido à utilização de turbinas eólicas na geração de energia eólica, uma fonte importante de energia renovável.",
+      "economic_justification": "A Indústria de Energia Renovável conta com a Indústria de Equipamentos Eólicos para fornecer as turbinas necessárias na geração de energia a partir do vento, estabelecendo uma relação de dependência moderada entre esses setores."
+    },
+    {
+      "activity": "Indústria de Equipamentos Hidrelétricos",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação moderada entre a Indústria de Energia Renovável e a Indústria de Equipamentos Hidrelétricos, devido à importância das turbinas hidrelétricas na geração de energia a partir da água.",
+      "economic_justification": "A Indústria de Energia Renovável necessita de equipamentos hidrelétricos, como turbinas, para aproveitar a energia da água em usinas hidrelétricas, estabelecendo uma relação de dependência moderada entre esses setores."
+    },
+    {
+      "activity": "Indústria de Tecnologia de Armazenamento de Energia",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre a Indústria de Energia Renovável e a Indústria de Tecnologia de Armazenamento de Energia, pois o armazenamento eficiente de energia é essencial para lidar com a intermitência das fontes renováveis.",
+      "economic_justification": "A Indústria de Energia Renovável depende da Indústria de Tecnologia de Armazenamento de Energia para desenvolver soluções eficientes de armazenamento, garantindo a estabilidade e confiabilidade do fornecimento de energia renovável."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas governamentais de incentivo às energias renováveis",
+    "Preços de commodities energéticas",
+    "Investimentos em pesquisa e desenvolvimento de novas tecnologias",
+    "Flutuações nos preços de energia no mercado",
+    "Regulamentações ambientais e de sustentabilidade"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da Indústria de Energia Renovável e pode variar dependendo das condições específicas de cada mercado regional."
+}

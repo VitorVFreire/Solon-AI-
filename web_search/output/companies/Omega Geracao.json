@@ -1,0 +1,18 @@
+{
+  "company_name": "Omega Geracao SA",
+  "primary_activity": "Geração de energia renovável",
+  "sector": "Energia",
+  "subsector": "Energia renovável",
+  "industry": "Geração de energia solar e eólica",
+  "activity_description": "A Omega Geracao SA atua na geração de energia renovável, com foco na produção de energia solar e eólica. A empresa contribui para a sustentabilidade do setor energético.",
+  "main_products_services": [
+    "Energia solar",
+    "Energia eólica"
+  ],
+  "competitors": [
+    "Renova Energia",
+    "CPFL Renováveis",
+    "AES Tietê"
+  ],
+  "economic_classification_code": "4911"
+}

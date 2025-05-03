@@ -1,0 +1,18 @@
+{
+  "company_name": "Polo Shopping Indaiatuba",
+  "primary_activity": "Comércio Varejista de Shopping Center",
+  "sector": "Comércio Varejista",
+  "subsector": "Shopping Center",
+  "industry": "Shopping Center",
+  "activity_description": "A empresa Polo Shopping Indaiatuba atua no segmento de comércio varejista, sendo um shopping center localizado em Indaiatuba, Brazil. Seu foco principal é oferecer um ambiente de compras, lazer e entretenimento para os consumidores da região.",
+  "main_products_services": [
+    "Locação de espaços comerciais",
+    "Gestão de lojas",
+    "Promoção de eventos"
+  ],
+  "competitors": [
+    "Shopping Jaraguá Indaiatuba",
+    "Shopping Parque das Bandeiras"
+  ],
+  "economic_classification_code": "4711300"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Taurus Armas PN",
+  "primary_activity": "Fabricação e venda de armas de fogo",
+  "sector": "Indústria de Defesa",
+  "subsector": "Fabricação de armas de fogo",
+  "industry": "Indústria de armas de fogo",
+  "activity_description": "A Taurus Armas PN é uma empresa especializada na fabricação e venda de armas de fogo, atuando no setor de Indústria de Defesa. Seus principais produtos incluem revólveres, pistolas e armas de fogo em geral.",
+  "main_products_services": [
+    "Revólveres",
+    "Pistolas",
+    "Armas de fogo"
+  ],
+  "competitors": [
+    "Smith & Wesson",
+    "Glock",
+    "Beretta"
+  ],
+  "economic_classification_code": "332994"
+}

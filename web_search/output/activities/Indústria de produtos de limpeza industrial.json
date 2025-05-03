@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Indústria de produtos de limpeza industrial",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de produtos de limpeza industrial desempenha um papel fundamental na manutenção da limpeza e higiene em ambientes industriais, contribuindo para a segurança dos trabalhadores e a eficiência operacional das empresas.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos de segurança para trabalho em espaços confinados",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação entre a indústria de produtos de limpeza industrial e a indústria de equipamentos de segurança para trabalho em espaços confinados, pois ambas visam garantir condições seguras e saudáveis nos ambientes industriais.",
+      "economic_justification": "A limpeza industrial muitas vezes envolve a manipulação de substâncias químicas e resíduos perigosos, tornando essencial o uso de equipamentos de segurança adequados para proteger os trabalhadores."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de limpeza industrial",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação moderada entre a indústria de produtos de limpeza industrial e a indústria de embalagens de produtos específicos para esse setor, devido à necessidade de embalagens adequadas e seguras para esses produtos.",
+      "economic_justification": "A indústria de produtos de limpeza industrial depende de embalagens específicas que garantam a integridade dos produtos e facilitem seu uso nos ambientes industriais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de matérias-primas (químicos, plásticos, etc.)",
+    "Regulamentações ambientais e de segurança do trabalho",
+    "Demanda por serviços de limpeza industrial em diferentes setores da economia"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de produtos de limpeza industrial, podendo haver variações específicas em diferentes regiões ou subsegmentos do setor."
+}

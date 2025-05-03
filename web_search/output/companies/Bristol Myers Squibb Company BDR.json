@@ -1,0 +1,17 @@
+{
+  "company_name": "Bristol-Myers Squibb Company BDR",
+  "primary_activity": "Indústria Farmacêutica",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Farmacêutica",
+  "activity_description": "A Bristol-Myers Squibb Company é uma empresa do setor de saúde, atuando no subsector farmacêutico, com foco na indústria farmacêutica. Seus principais produtos incluem medicamentos para diversas condições médicas.",
+  "main_products_services": [
+    "Medicamentos para diversas condições médicas"
+  ],
+  "competitors": [
+    "Pfizer Inc.",
+    "Merck & Co., Inc.",
+    "Novartis AG"
+  ],
+  "economic_classification_code": "325412"
+}

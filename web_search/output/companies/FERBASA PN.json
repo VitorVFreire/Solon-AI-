@@ -1,0 +1,17 @@
+{
+  "company_name": "Cia de Ferro Ligas da Bahia Ferbasa",
+  "primary_activity": "Produção de ferro ligas",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Metalurgia do Ferro e Aço",
+  "industry": "Produção de Ferro Ligas",
+  "activity_description": "A Cia de Ferro Ligas da Bahia Ferbasa atua na produção de ferro ligas, que são ligas metálicas utilizadas na fabricação de aços especiais e outros produtos siderúrgicos.",
+  "main_products_services": [
+    "Ferro Ligas"
+  ],
+  "competitors": [
+    "Companhia Siderúrgica Nacional (CSN)",
+    "Vale S.A.",
+    "Gerdau S.A."
+  ],
+  "economic_classification_code": "27.51-0-01"
+}

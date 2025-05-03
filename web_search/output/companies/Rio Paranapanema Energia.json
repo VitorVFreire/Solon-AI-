@@ -1,0 +1,17 @@
+{
+  "company_name": "Rio Paranapanema Energia SA",
+  "primary_activity": "Geração de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Geração de Energia Elétrica",
+  "activity_description": "A Rio Paranapanema Energia SA atua na geração de energia elétrica, produzindo eletricidade a partir da fonte hidrelétrica. A empresa opera usinas hidrelétricas para gerar energia renovável.",
+  "main_products_services": [
+    "Energia Elétrica"
+  ],
+  "competitors": [
+    "Engie Brasil Energia",
+    "CPFL Energia",
+    "Neoenergia"
+  ],
+  "economic_classification_code": "4911-6/01"
+}

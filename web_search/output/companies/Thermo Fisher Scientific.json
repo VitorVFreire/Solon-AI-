@@ -1,0 +1,19 @@
+{
+  "company_name": "Thermo Fisher Scientific Inc",
+  "primary_activity": "Fabricação e comercialização de equipamentos e reagentes para laboratórios e pesquisa científica",
+  "sector": "Pesquisa Científica",
+  "subsector": "Equipamentos e Reagentes para Laboratórios",
+  "industry": "Equipamentos e Reagentes para Biologia Molecular",
+  "activity_description": "A Thermo Fisher Scientific Inc é uma empresa especializada na fabricação e comercialização de equipamentos e reagentes utilizados em laboratórios e pesquisa científica, com foco em biologia molecular. Seus produtos são amplamente utilizados em análises genéticas, diagnósticos e pesquisas científicas.",
+  "main_products_services": [
+    "Equipamentos para PCR",
+    "Reagentes para extração de DNA",
+    "Equipamentos de sequenciamento genético"
+  ],
+  "competitors": [
+    "Agilent Technologies",
+    "Illumina Inc",
+    "QIAGEN"
+  ],
+  "economic_classification_code": "3251800"
+}

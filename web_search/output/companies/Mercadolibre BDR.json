@@ -1,0 +1,19 @@
+{
+  "company_name": "Mercadolibre Inc BDR",
+  "primary_activity": "Comércio Varejista de Produtos Online",
+  "sector": "Tecnologia",
+  "subsector": "E-commerce",
+  "industry": "Marketplace Online",
+  "activity_description": "A Mercadolibre Inc BDR atua no comércio varejista de produtos online, operando como um marketplace online que conecta vendedores e compradores em uma plataforma digital.",
+  "main_products_services": [
+    "Plataforma de E-commerce",
+    "Marketplace Online",
+    "Serviços de Pagamento Online"
+  ],
+  "competitors": [
+    "Amazon",
+    "Alibaba",
+    "eBay"
+  ],
+  "economic_classification_code": "4711300"
+}

@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens de produtos de beleza sustentáveis",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens de produtos de beleza sustentáveis está inserida no setor secundário da economia, atuando na produção de embalagens ecológicas para produtos de beleza com foco na sustentabilidade ambiental. Sua importância está relacionada à oferta de soluções inovadoras e sustentáveis para a indústria de beleza, atendendo à crescente demanda por produtos ecologicamente corretos e contribuindo para a redução do impacto ambiental.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de beleza sustentáveis",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação forte entre a Indústria de embalagens de produtos de beleza sustentáveis e a Indústria de produtos de beleza sustentáveis, devido à sinergia na oferta de produtos ecologicamente corretos e sustentáveis.",
+      "economic_justification": "Ambas as indústrias compartilham valores semelhantes de sustentabilidade e responsabilidade ambiental, atendendo a uma demanda crescente por produtos que respeitem o meio ambiente. A colaboração entre esses setores pode resultar em soluções integradas e inovadoras para o mercado de beleza sustentável."
+    },
+    {
+      "activity": "Indústria de embalagens biodegradáveis",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de embalagens de produtos de beleza sustentáveis e a Indústria de embalagens biodegradáveis, devido à semelhança no foco ambiental e na busca por soluções sustentáveis.",
+      "economic_justification": "Ambas as indústrias compartilham o objetivo de reduzir o impacto ambiental por meio de embalagens ecologicamente corretas. A colaboração e troca de conhecimentos entre esses setores podem impulsionar a inovação e o desenvolvimento de novas tecnologias sustentáveis."
+    },
+    {
+      "activity": "Indústria de produtos de beleza naturais",
+      "correlation_level": "3",
+      "dependency_level": "0.55",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de embalagens de produtos de beleza sustentáveis e a Indústria de produtos de beleza naturais, devido à demanda por produtos sustentáveis e naturais.",
+      "economic_justification": "A preferência dos consumidores por produtos de beleza naturais e sustentáveis impulsiona a colaboração entre esses setores, que buscam atender a essa demanda com embalagens e produtos alinhados aos princípios da sustentabilidade e da natureza."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas ambientais e de sustentabilidade",
+    "Tendências de consumo consciente",
+    "Inovações tecnológicas em materiais sustentáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto atual de valorização da sustentabilidade, mas variações significativas nas políticas ambientais ou mudanças bruscas no comportamento do consumidor podem impactar as correlações identificadas."
+}

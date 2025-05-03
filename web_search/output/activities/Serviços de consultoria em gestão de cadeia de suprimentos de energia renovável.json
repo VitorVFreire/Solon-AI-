@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de cadeia de suprimentos de energia renovável",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de cadeia de suprimentos de energia renovável desempenham um papel fundamental na transição para fontes de energia mais sustentáveis, auxiliando na otimização dos processos desde a produção de equipamentos até a distribuição de energia limpa.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de energia renovável",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Existe uma correlação muito forte entre os serviços de consultoria em gestão de cadeia de suprimentos de energia renovável e a indústria de energia renovável, atuando como fornecedor de soluções especializadas para otimização e eficiência da cadeia de suprimentos.",
+      "economic_justification": "Os serviços de consultoria em gestão de cadeia de suprimentos de energia renovável são essenciais para a indústria de energia renovável, pois contribuem para a melhoria dos processos logísticos, redução de custos e aumento da eficiência na produção e distribuição de energia limpa."
+    },
+    {
+      "activity": "Indústria de equipamentos de energia solar",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Há uma correlação forte entre os serviços de consultoria em gestão de cadeia de suprimentos de energia renovável e a indústria de equipamentos de energia solar, fornecendo expertise em logística e gestão para a cadeia de suprimentos desses equipamentos.",
+      "economic_justification": "A otimização da cadeia de suprimentos de equipamentos de energia solar é essencial para garantir a disponibilidade e eficiência desses produtos, sendo os serviços de consultoria em gestão de cadeia de suprimentos de energia renovável um parceiro estratégico nesse processo."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada entre os serviços de consultoria em gestão de cadeia de suprimentos de energia renovável e a indústria de embalagens sustentáveis, atuando de forma complementar na promoção da sustentabilidade em diferentes áreas.",
+      "economic_justification": "A preocupação com a sustentabilidade permeia tanto a gestão de cadeia de suprimentos de energia renovável quanto a produção de embalagens sustentáveis, havendo oportunidades de colaboração e sinergias entre esses setores."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de energia convencional",
+    "Incentivos governamentais para energias renováveis",
+    "Tendências de mercado em sustentabilidade",
+    "Desenvolvimento tecnológico em energia limpa"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de mercado e pode variar dependendo das condições específicas de cada região ou empresa."
+}

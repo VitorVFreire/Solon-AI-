@@ -1,0 +1,19 @@
+{
+  "company_name": "CVC BRASIL ON NM",
+  "primary_activity": "Agência de Viagens",
+  "sector": "Turismo",
+  "subsector": "Agências de Viagens e Operadores Turísticos",
+  "industry": "Turismo",
+  "activity_description": "A CVC BRASIL ON NM atua como uma agência de viagens, oferecendo pacotes turísticos, reservas de hotéis, passagens aéreas e outros serviços relacionados a viagens.",
+  "main_products_services": [
+    "Pacotes turísticos",
+    "Reservas de hotéis",
+    "Passagens aéreas"
+  ],
+  "competitors": [
+    "Decolar.com",
+    "Booking.com",
+    "Submarino Viagens"
+  ],
+  "economic_classification_code": "4721-1/00"
+}

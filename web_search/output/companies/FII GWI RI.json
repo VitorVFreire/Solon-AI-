@@ -1,0 +1,17 @@
+{
+  "company_name": "FII GWI RI",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Financeiro",
+  "subsector": "Fundos de Investimento Imobiliário",
+  "industry": "Gestão de Carteira de Investimentos Imobiliários",
+  "activity_description": "A FII GWI RI atua como um Fundo de Investimento Imobiliário, gerenciando uma carteira de investimentos em ativos imobiliários. Seu objetivo principal é obter rendimentos através da locação, arrendamento ou venda desses ativos.",
+  "main_products_services": [
+    "Gestão de Ativos Imobiliários",
+    "Investimentos em Imóveis",
+    "Renda de Aluguéis"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário"
+  ],
+  "economic_classification_code": "6593-9/00 - Gestão de Fundos de Investimentos"
+}

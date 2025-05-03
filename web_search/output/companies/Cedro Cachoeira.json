@@ -1,0 +1,18 @@
+{
+  "company_name": "Companhia de Fiacao e Tecidos Cedro Cachoeira",
+  "primary_activity": "Produção de tecidos e fiação",
+  "sector": "Indústria Têxtil",
+  "subsector": "Tecidos e Fiação",
+  "industry": "Indústria Têxtil",
+  "activity_description": "A Companhia de Fiacao e Tecidos Cedro Cachoeira atua na produção de tecidos e fiação, fornecendo materiais têxteis para diversos fins.",
+  "main_products_services": [
+    "Tecidos",
+    "Fios têxteis"
+  ],
+  "competitors": [
+    "Santista Têxtil",
+    "Hering",
+    "Malwee"
+  ],
+  "economic_classification_code": null
+}

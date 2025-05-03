@@ -1,0 +1,18 @@
+{
+  "company_name": "Iochpe-Maxion SA",
+  "primary_activity": "Fabricação de equipamentos automotivos",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de componentes automotivos",
+  "industry": "Fabricação de rodas e chassis para veículos automotores",
+  "activity_description": "A Iochpe-Maxion SA atua na fabricação de rodas e chassis para veículos automotores, sendo uma empresa especializada na produção de componentes automotivos.",
+  "main_products_services": [
+    "Rodas para veículos automotores",
+    "Chassis para veículos automotores"
+  ],
+  "competitors": [
+    "Ronal Group",
+    "Accuride Corporation",
+    "Superior Industries International"
+  ],
+  "economic_classification_code": "CNAE 2930-1/02"
+}

@@ -1,0 +1,17 @@
+{
+  "company_name": "The Western Union Company BDR",
+  "primary_activity": "Transferência de dinheiro e serviços financeiros",
+  "sector": "Finanças",
+  "subsector": "Serviços Financeiros Diversos",
+  "industry": "Transferência de dinheiro e remessas",
+  "activity_description": "A empresa atua no setor financeiro, oferecendo serviços de transferência de dinheiro e remessas para clientes em todo o mundo.",
+  "main_products_services": [
+    "Transferência de dinheiro",
+    "Serviços de remessas"
+  ],
+  "competitors": [
+    "MoneyGram International Inc.",
+    "Ria Financial Services"
+  ],
+  "economic_classification_code": "6492-0/00 - Outras atividades de serviços financeiros não especificadas anteriormente"
+}

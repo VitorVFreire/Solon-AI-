@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Consultoria Empresarial",
+  "sector_classification": "Terciário",
+  "economic_context": "A Consultoria Empresarial é uma atividade essencial no setor de serviços, atuando como suporte para empresas de diversos segmentos na melhoria de processos, estratégias e resultados financeiros.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria em Marketing",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Consultoria Empresarial e a Consultoria em Marketing possuem uma forte correlação, atuando de forma complementar para otimizar a gestão e a promoção de empresas.",
+      "economic_justification": "A Consultoria Empresarial foca na eficiência operacional e estratégica das empresas, enquanto a Consultoria em Marketing visa melhorar a visibilidade e a comunicação, sendo essencial para o crescimento e sucesso dos negócios."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Consultoria Empresarial e a Gestão de Projetos apresentam uma correlação moderada, trabalhando juntas para garantir a implementação eficaz de estratégias e processos nas empresas.",
+      "economic_justification": "Ambas as atividades estão focadas na melhoria da eficiência e na execução bem-sucedida de iniciativas, sendo complementares para assegurar a implementação de mudanças e projetos de forma eficiente."
+    },
+    {
+      "activity": "Consultoria em Gestão de Recursos Humanos",
+      "correlation_level": "4",
+      "dependency_level": "0.80",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Consultoria Empresarial e a Consultoria em Gestão de Recursos Humanos possuem uma correlação forte, atuando de forma complementar para otimizar a gestão de pessoas e processos nas empresas.",
+      "economic_justification": "A Consultoria Empresarial visa melhorar a eficiência e a estratégia empresarial, enquanto a Consultoria em Gestão de Recursos Humanos foca no desenvolvimento e na gestão do capital humano, sendo essencial para o sucesso organizacional."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações na atividade econômica global",
+    "Taxas de juros e financiamento empresarial",
+    "Tendências de mercado e inovação tecnológica"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da Consultoria Empresarial, podendo variar em detalhes conforme o mercado e a região específica."
+}

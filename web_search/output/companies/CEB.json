@@ -1,0 +1,17 @@
+{
+  "company_name": "Companhia Energetica de Brasilia CEB",
+  "primary_activity": "Geração, transmissão e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica",
+  "activity_description": "A Companhia Energetica de Brasilia (CEB) atua na geração, transmissão e distribuição de energia elétrica, fornecendo eletricidade para a região de Brasília, no Brasil.",
+  "main_products_services": [
+    "Energia Elétrica"
+  ],
+  "competitors": [
+    "ENEL",
+    "CPFL Energia",
+    "Energisa"
+  ],
+  "economic_classification_code": "Energia - 4010"
+}

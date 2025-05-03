@@ -1,0 +1,22 @@
+{
+  "company_name": "Amazon.com Inc BDR",
+  "primary_activity": "Comércio Varejista de Produtos Diversos",
+  "sector": "Comércio Varejista",
+  "subsector": "Comércio Varejista Online",
+  "industry": "E-commerce",
+  "activity_description": "A Amazon.com Inc BDR atua no comércio varejista online de uma ampla variedade de produtos, oferecendo uma plataforma de e-commerce para compras online.",
+  "main_products_services": [
+    "Livros",
+    "Eletrônicos",
+    "Roupas",
+    "Móveis",
+    "Alimentos",
+    "Produtos de Beleza"
+  ],
+  "competitors": [
+    "Mercado Livre",
+    "Americanas",
+    "Magazine Luiza"
+  ],
+  "economic_classification_code": null
+}

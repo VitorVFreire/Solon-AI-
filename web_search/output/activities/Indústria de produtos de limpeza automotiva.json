@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Indústria de produtos de limpeza automotiva",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de produtos de limpeza automotiva está inserida no setor secundário da economia, sendo responsável pela fabricação de produtos específicos para a limpeza e manutenção de veículos automotivos. Essa atividade é essencial para a manutenção e conservação dos automóveis, atendendo a uma demanda constante dos proprietários e empresas do setor automotivo.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos de segurança para trabalho em altura",
+      "correlation_level": "3",
+      "dependency_level": "0,45",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre a indústria de produtos de limpeza automotiva e a indústria de equipamentos de segurança para trabalho em altura devido à necessidade de produtos de limpeza especializados para manutenção de equipamentos de segurança utilizados em alturas elevadas.",
+      "economic_justification": "Ambas as indústrias atendem a demandas específicas de segurança e manutenção, sendo complementares na oferta de produtos especializados para diferentes necessidades de limpeza e segurança."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de limpeza automotiva",
+      "correlation_level": "4",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação forte entre a indústria de produtos de limpeza automotiva e a indústria de embalagens de produtos de limpeza automotiva devido à necessidade de embalagens específicas para acondicionar e comercializar os produtos de limpeza para veículos automotivos.",
+      "economic_justification": "A indústria de embalagens de produtos de limpeza automotiva fornece as embalagens necessárias para acondicionar e distribuir os produtos fabricados pela indústria de limpeza automotiva, sendo essencial para a comercialização desses produtos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações no mercado automotivo que impactam a demanda por produtos de limpeza automotiva",
+    "Tendências de sustentabilidade que influenciam a formulação de produtos eco-friendly na indústria de limpeza automotiva",
+    "Flutuações nos preços de matérias-primas utilizadas na fabricação de produtos de limpeza automotiva"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o cenário geral da indústria, mas variações regionais podem impactar as correlações identificadas."
+}

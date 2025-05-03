@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Indústria de embalagens de luxo para joias",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A Indústria de embalagens de luxo para joias está inserida no setor secundário da economia, atuando na manufatura de embalagens de alta qualidade e design exclusivo para o segmento de joias de alto padrão. Sua importância está relacionada à valorização e proteção dos produtos de joalheria, agregando sofisticação e exclusividade às peças comercializadas.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de joias",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre a Indústria de embalagens de luxo para joias e a Indústria de joias, pois as embalagens são projetadas para valorizar e destacar as peças de joalheria, contribuindo para a apresentação e comercialização adequada dos produtos de alto padrão.",
+      "economic_justification": "As embalagens de luxo são essenciais para transmitir a exclusividade e sofisticação das joias, agregando valor percebido aos produtos. A qualidade e design das embalagens influenciam diretamente a percepção de valor das joias, tornando a colaboração entre os setores fundamental para a experiência do cliente."
+    },
+    {
+      "activity": "Indústria de produtos de luxo",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada entre a Indústria de embalagens de luxo para joias e a Indústria de produtos de luxo, uma vez que as embalagens desempenham um papel crucial na apresentação e valorização de produtos de alto padrão em diversos segmentos.",
+      "economic_justification": "As embalagens de luxo são um componente essencial na estratégia de marketing e branding de produtos de luxo, incluindo joias. A qualidade e exclusividade das embalagens refletem a imagem da marca e influenciam a percepção de luxo e sofisticação pelos consumidores."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações no mercado de joias de alto padrão",
+    "Tendências de consumo de produtos de luxo",
+    "Inovações em design e materiais para embalagens de luxo"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral do mercado de produtos de luxo e joias, podendo variar de acordo com tendências específicas e sazonalidades."
+}

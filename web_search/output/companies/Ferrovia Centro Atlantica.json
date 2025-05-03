@@ -1,0 +1,18 @@
+{
+  "company_name": "Ferrovia Centro Atlantica SA",
+  "primary_activity": "Operação de ferrovias",
+  "sector": "Transporte",
+  "subsector": "Transporte Ferroviário",
+  "industry": "Operação de Ferrovias",
+  "activity_description": "A Ferrovia Centro Atlantica SA atua na operação e gestão de ferrovias, garantindo o transporte eficiente de cargas e passageiros ao longo de sua malha ferroviária. A empresa oferece serviços logísticos especializados e contribui para a integração do sistema de transporte no Brasil.",
+  "main_products_services": [
+    "Operação de ferrovias",
+    "Serviços logísticos especializados"
+  ],
+  "competitors": [
+    "Rumo Logística",
+    "MRS Logística",
+    "VLI Multimodal"
+  ],
+  "economic_classification_code": "4911-6/01"
+}

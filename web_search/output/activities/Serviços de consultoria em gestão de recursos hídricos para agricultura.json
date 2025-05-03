@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de recursos hídricos para agricultura",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de recursos hídricos para agricultura desempenham um papel fundamental na promoção da eficiência no uso da água no setor agrícola, contribuindo para a sustentabilidade ambiental e econômica das atividades agrícolas.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos de irrigação",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de recursos hídricos para agricultura e a indústria de equipamentos de irrigação, pois a eficiência no uso da água é essencial para ambas as atividades.",
+      "economic_justification": "A consultoria em gestão de recursos hídricos para agricultura depende da tecnologia e dos equipamentos de irrigação para implementar práticas eficientes de uso da água, enquanto a indústria de equipamentos de irrigação se beneficia do conhecimento especializado desses consultores para melhorar seus produtos."
+    },
+    {
+      "activity": "Indústria de produtos agroquímicos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "Há uma correlação moderada com a indústria de produtos agroquímicos, uma vez que a gestão adequada dos recursos hídricos impacta diretamente a eficácia e segurança no uso desses produtos na agricultura.",
+      "economic_justification": "A consultoria em gestão de recursos hídricos para agricultura influencia a demanda e o uso de produtos agroquímicos, pois a disponibilidade e qualidade da água afetam diretamente a eficácia desses insumos na produção agrícola."
+    },
+    {
+      "activity": "Indústria de maquinário agrícola",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação moderada com a indústria de maquinário agrícola, uma vez que a gestão eficiente dos recursos hídricos impacta diretamente a demanda e uso desses equipamentos no setor agrícola.",
+      "economic_justification": "A consultoria em gestão de recursos hídricos para agricultura influencia a necessidade e utilização de maquinário agrícola, pois a disponibilidade de água e sua gestão adequada afetam diretamente as práticas agrícolas que requerem esses equipamentos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de consultoria em gestão de recursos hídricos para agricultura incluem políticas governamentais relacionadas à água, mudanças climáticas, investimentos em infraestrutura hídrica e demanda por produtos agrícolas."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo das condições específicas de cada região ou país."
+}

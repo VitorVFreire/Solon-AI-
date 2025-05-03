@@ -1,0 +1,20 @@
+{
+  "company_name": "Santos Brasil Participacoes SA",
+  "primary_activity": "Operadora de terminais portuários",
+  "sector": "Transporte",
+  "subsector": "Logística Portuária",
+  "industry": "Operação de Terminais Portuários",
+  "activity_description": "A Santos Brasil Participacoes SA atua como operadora de terminais portuários, sendo responsável pela gestão e operação de terminais de contêineres e movimentação de cargas nos portos brasileiros. A empresa oferece serviços de armazenagem, movimentação de cargas, logística portuária e outros serviços relacionados.",
+  "main_products_services": [
+    "Operação de terminais portuários",
+    "Armazenagem de cargas",
+    "Movimentação de contêineres",
+    "Logística portuária"
+  ],
+  "competitors": [
+    "Wilson Sons",
+    "DP World",
+    "TCP - Terminal de Contêineres de Paranaguá"
+  ],
+  "economic_classification_code": null
+}

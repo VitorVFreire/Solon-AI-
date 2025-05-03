@@ -1,0 +1,20 @@
+{
+  "company_name": "Wilson Sons Ltd",
+  "primary_activity": "Operação portuária e logística marítima",
+  "sector": "Logística",
+  "subsector": "Operação portuária e logística marítima",
+  "industry": "Operação portuária",
+  "activity_description": "A Wilson Sons Ltd atua principalmente na operação de portos e logística marítima, oferecendo serviços de movimentação de cargas, armazenagem e gestão portuária. A empresa é especializada em facilitar o comércio exterior e o transporte de mercadorias via marítima.",
+  "main_products_services": [
+    "Operação portuária",
+    "Logística marítima",
+    "Armazenagem de cargas",
+    "Gestão portuária"
+  ],
+  "competitors": [
+    "Grupo Libra",
+    "DP World",
+    "TCP - Terminal de Contêineres de Paranaguá"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Twitter Inc",
+  "primary_activity": "Rede social online",
+  "sector": "Tecnologia",
+  "subsector": "Tecnologia da Informação",
+  "industry": "Redes Sociais",
+  "activity_description": "A Twitter Inc é uma empresa de tecnologia que opera uma plataforma de rede social online, permitindo aos usuários publicar e interagir com mensagens curtas, conhecidas como tweets. A empresa também oferece serviços de publicidade e análise de dados.",
+  "main_products_services": [
+    "Plataforma de rede social online",
+    "Serviços de publicidade",
+    "Análise de dados"
+  ],
+  "competitors": [
+    "Facebook Inc",
+    "Snap Inc",
+    "TikTok Inc"
+  ],
+  "economic_classification_code": "TIC - 6201-5/00"
+}

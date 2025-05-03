@@ -1,0 +1,17 @@
+{
+  "company_name": "São Domingos",
+  "primary_activity": "Produção de bebidas alcoólicas",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Bebidas Alcoólicas",
+  "industry": "Cachaça",
+  "activity_description": "A empresa São Domingos atua na produção de cachaça, uma bebida alcoólica tradicionalmente brasileira, destilada a partir da cana-de-açúcar.",
+  "main_products_services": [
+    "Cachaça"
+  ],
+  "competitors": [
+    "Ypióca",
+    "51",
+    "Velho Barreiro"
+  ],
+  "economic_classification_code": "1101-2/01"
+}

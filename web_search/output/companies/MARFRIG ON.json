@@ -1,0 +1,20 @@
+{
+  "company_name": "Marfrig Alimentos SA",
+  "primary_activity": "Produção e distribuição de alimentos",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Processamento de carne",
+  "industry": "Indústria de processamento de carne bovina",
+  "activity_description": "A Marfrig Alimentos SA atua na produção e distribuição de alimentos, com foco no processamento de carne bovina. A empresa é especializada na produção de carne bovina e seus derivados, atendendo tanto ao mercado interno quanto ao mercado internacional.",
+  "main_products_services": [
+    "Carne bovina in natura",
+    "Hamburgueres",
+    "Embutidos",
+    "Carne enlatada"
+  ],
+  "competitors": [
+    "JBS",
+    "Minerva Foods",
+    "BRF"
+  ],
+  "economic_classification_code": "1511-0/01"
+}

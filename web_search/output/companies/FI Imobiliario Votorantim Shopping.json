@@ -1,0 +1,18 @@
+{
+  "company_name": "FI Imobiliario Votorantim Shopping",
+  "primary_activity": "Investimento imobiliário em shopping centers",
+  "sector": "Construção Civil",
+  "subsector": "Investimento Imobiliário",
+  "industry": "Shopping Centers",
+  "activity_description": "A empresa atua no investimento e administração de shopping centers, buscando retorno financeiro por meio da locação de espaços comerciais e prestação de serviços aos lojistas.",
+  "main_products_services": [
+    "Investimento em shopping centers",
+    "Administração de shopping centers"
+  ],
+  "competitors": [
+    "BR Malls Participações S.A.",
+    "Aliansce Sonae Shopping Centers",
+    "Iguatemi Empresa de Shopping Centers S.A."
+  ],
+  "economic_classification_code": "Real Estate Investment Trust (REIT)"
+}

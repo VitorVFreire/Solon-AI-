@@ -1,0 +1,18 @@
+{
+  "company_name": "Companhia de Ferro Ligas da Bahia Ferbasa",
+  "primary_activity": "Produção de ferro ligas",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Metalurgia de Metais Não Ferrosos",
+  "industry": "Produção de Ferro Ligas",
+  "activity_description": "A Companhia de Ferro Ligas da Bahia Ferbasa atua na produção de ferro ligas, materiais utilizados na indústria siderúrgica para adicionar ligas metálicas a diferentes tipos de aço, melhorando suas propriedades físicas.",
+  "main_products_services": [
+    "Ferro Cromo",
+    "Ferro Silício",
+    "Ferro Manganês"
+  ],
+  "competitors": [
+    "Companhia Brasileira de Metalurgia e Mineração (CBMM)",
+    "Metalurgica Gerdau S.A."
+  ],
+  "economic_classification_code": "27.51-0"
+}

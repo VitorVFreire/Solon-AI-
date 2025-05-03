@@ -1,0 +1,16 @@
+{
+  "company_name": "Metalurgica Riosulense SA",
+  "primary_activity": "Metalurgia e Siderurgia",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Metalurgia e Siderurgia",
+  "industry": "Metalurgia",
+  "activity_description": "A Metalurgica Riosulense SA atua na produção e comercialização de produtos metalúrgicos, incluindo peças fundidas e produtos siderúrgicos. Seu foco principal está na fabricação de componentes metálicos para diversos setores industriais.",
+  "main_products_services": [
+    "Peças fundidas",
+    "Produtos siderúrgicos"
+  ],
+  "competitors": [
+    "Companhias de metalurgia e siderurgia"
+  ],
+  "economic_classification_code": "CNAE 24.4"
+}

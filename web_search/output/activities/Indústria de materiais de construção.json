@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de materiais de construção",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A Indústria de materiais de construção desempenha um papel fundamental no suporte ao setor da construção civil, fornecendo os materiais essenciais para a construção de edifícios, infraestrutura e outras estruturas. É um setor diretamente ligado ao desenvolvimento e crescimento econômico, sendo impactado por investimentos em construção e obras públicas.",
+  "correlated_activities": [
+    {
+      "activity": "Construção Civil",
+      "correlation_level": "5",
+      "dependency_level": "0.90",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação muito forte entre a Indústria de materiais de construção e a Construção Civil, pois a demanda por materiais de construção é diretamente impulsionada pela atividade de construção de edifícios e infraestruturas.",
+      "economic_justification": "A Construção Civil é a principal cliente da Indústria de materiais de construção, sendo responsável por absorver grande parte da produção de materiais como cimento, tijolos, tintas, entre outros. O desempenho da Construção Civil impacta diretamente a demanda por materiais de construção, estabelecendo uma relação de dependência significativa."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza",
+      "correlation_level": "2",
+      "dependency_level": "0.30",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação fraca entre a Indústria de materiais de construção e a Indústria de produtos de limpeza, pois esta última pode demandar materiais específicos para a produção de seus produtos de limpeza.",
+      "economic_justification": "A Indústria de produtos de limpeza pode utilizar alguns materiais de construção em seus produtos, como agentes de limpeza, embalagens, entre outros. No entanto, a dependência não é tão significativa, resultando em uma correlação fraca e de natureza complementar."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança",
+      "correlation_level": "3",
+      "dependency_level": "0.50",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de materiais de construção e a Indústria de equipamentos de segurança, pois esta última fornece equipamentos de proteção individual utilizados na construção civil.",
+      "economic_justification": "A Indústria de equipamentos de segurança fornece equipamentos essenciais para garantir a segurança dos trabalhadores na construção civil, como capacetes, luvas, botas, entre outros. A demanda por esses equipamentos está relacionada à atividade da Indústria de materiais de construção, estabelecendo uma correlação moderada."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos investimentos em infraestrutura",
+    "Taxas de juros que impactam financiamentos para construção",
+    "Crescimento populacional e demanda por novas construções"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante considerar que fatores externos, como políticas governamentais e eventos econômicos inesperados, podem influenciar as correlações identificadas."
+}

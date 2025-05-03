@@ -1,0 +1,18 @@
+{
+  "company_name": "Ford Motor Co BDR",
+  "primary_activity": "Fabricação e venda de veículos automotores",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de automóveis e veículos comerciais leves",
+  "industry": "Fabricação de automóveis",
+  "activity_description": "A Ford Motor Co BDR atua na fabricação e venda de veículos automotores, com foco na produção de automóveis.",
+  "main_products_services": [
+    "Automóveis",
+    "Veículos comerciais leves"
+  ],
+  "competitors": [
+    "General Motors",
+    "Toyota Motor Corporation",
+    "Volkswagen AG"
+  ],
+  "economic_classification_code": "336111"
+}

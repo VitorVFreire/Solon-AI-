@@ -1,0 +1,22 @@
+{
+  "company_name": "Target Corp",
+  "primary_activity": "Varejista de produtos diversos",
+  "sector": "Comércio Varejista",
+  "subsector": "Varejo em Geral",
+  "industry": "Varejo de Produtos Diversos",
+  "activity_description": "A Target Corp é uma empresa varejista que atua no comércio de diversos produtos para consumidores finais, oferecendo uma ampla variedade de itens em suas lojas físicas e online.",
+  "main_products_services": [
+    "Roupas",
+    "Calçados",
+    "Acessórios",
+    "Eletrônicos",
+    "Móveis",
+    "Artigos para Casa"
+  ],
+  "competitors": [
+    "Walmart Inc",
+    "Amazon.com Inc",
+    "Carrefour SA"
+  ],
+  "economic_classification_code": ""
+}

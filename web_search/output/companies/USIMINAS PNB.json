@@ -1,0 +1,18 @@
+{
+  "company_name": "Usinas Siderurgicas de Minas Gerais SA Usiminas Pref",
+  "primary_activity": "Produção de aço e siderurgia",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Siderurgia",
+  "industry": "Produção de aço",
+  "activity_description": "A Usinas Siderúrgicas de Minas Gerais SA (Usiminas) atua na produção de aço, sendo uma das principais empresas do setor siderúrgico no Brasil. A empresa opera usinas siderúrgicas e está envolvida na fabricação e comercialização de produtos siderúrgicos.",
+  "main_products_services": [
+    "Aço",
+    "Produtos siderúrgicos"
+  ],
+  "competitors": [
+    "CSN",
+    "Gerdau",
+    "ArcelorMittal"
+  ],
+  "economic_classification_code": "27.11-0-00 - Fabricação de produtos siderúrgicos"
+}

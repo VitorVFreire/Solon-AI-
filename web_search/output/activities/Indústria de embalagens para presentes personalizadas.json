@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Indústria de embalagens para presentes personalizadas",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A Indústria de embalagens para presentes personalizadas atua no segmento de manufatura, fornecendo embalagens exclusivas e personalizadas para presentes, agregando valor estético e emocional aos produtos. Este setor desempenha um papel crucial na diferenciação e na experiência do cliente, especialmente em datas comemorativas e eventos especiais.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de higiene pessoal",
+      "correlation_level": "4",
+      "dependency_level": "0,65",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Indústria de embalagens para presentes personalizadas tem uma forte correlação com a Indústria de produtos de higiene pessoal devido à necessidade de embalagens personalizadas e atrativas para produtos de cuidados pessoais.",
+      "economic_justification": "Ambos os setores dependem da diferenciação e do apelo visual de suas embalagens para atrair e fidelizar os consumidores. A personalização e a estética das embalagens são essenciais para transmitir a mensagem de exclusividade e qualidade dos produtos."
+    },
+    {
+      "activity": "Indústria de brinquedos",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de embalagens para presentes personalizadas e a Indústria de brinquedos devido à necessidade de embalagens atraentes e temáticas para produtos infantis.",
+      "economic_justification": "Ambos os setores buscam embalagens que cativem o público infantil, com designs criativos e personalizados que complementem a experiência de presentear e receber brinquedos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações no poder de compra dos consumidores",
+    "Tendências de consumo e preferências por produtos personalizados",
+    "Impacto de datas sazonais e eventos comemorativos no mercado de presentes"
+  ],
+  "confidence_level": "Médio",
+  "analysis_limitations": "A análise considera o contexto geral do mercado e pode variar dependendo de fatores regionais e tendências específicas de consumo."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Banco BTG Pactual SA Pref",
+  "primary_activity": "Instituição Financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos de Investimento",
+  "industry": "Serviços Financeiros",
+  "activity_description": "O Banco BTG Pactual SA Pref atua como uma instituição financeira especializada em bancos de investimento, oferecendo serviços financeiros diversos.",
+  "main_products_services": [
+    "Serviços de investimento",
+    "Assessoria financeira",
+    "Gestão de ativos"
+  ],
+  "competitors": [
+    "Itaú Unibanco",
+    "Banco Bradesco",
+    "Banco Santander"
+  ],
+  "economic_classification_code": "6411-7/00 - Bancos de Investimento"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Lupatech SA",
+  "primary_activity": "Fabricação de equipamentos para a indústria de petróleo e gás",
+  "sector": "Indústria de Petróleo e Gás",
+  "subsector": "Equipamentos para a Indústria de Petróleo e Gás",
+  "industry": "Fabricação de Equipamentos para Perfuração de Poços de Petróleo",
+  "activity_description": "A Lupatech SA atua na fabricação de equipamentos especializados para a indústria de petróleo e gás, com foco em equipamentos para perfuração de poços de petróleo.",
+  "main_products_services": [
+    "Equipamentos para perfuração de poços de petróleo",
+    "Equipamentos de produção de petróleo e gás",
+    "Serviços de manutenção de equipamentos"
+  ],
+  "competitors": [
+    "Schlumberger",
+    "Halliburton",
+    "Baker Hughes"
+  ],
+  "economic_classification_code": "CNAE 2812-6/00"
+}

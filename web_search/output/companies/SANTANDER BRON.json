@@ -1,0 +1,20 @@
+{
+  "company_name": "Banco Santander SA B3",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Bancos múltiplos com carteira comercial",
+  "activity_description": "O Banco Santander SA B3 atua como uma instituição financeira, especificamente como um banco comercial que oferece uma variedade de serviços bancários e financeiros.",
+  "main_products_services": [
+    "Serviços bancários",
+    "Empréstimos",
+    "Investimentos",
+    "Cartões de crédito"
+  ],
+  "competitors": [
+    "Itaú Unibanco",
+    "Banco do Brasil",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6412-3/00"
+}

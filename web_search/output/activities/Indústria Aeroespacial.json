@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria Aeroespacial",
+  "sector_classification": "Secundário",
+  "economic_context": "A Indústria Aeroespacial engloba a fabricação de aeronaves, foguetes, satélites e componentes relacionados, sendo uma atividade de alta tecnologia e grande relevância estratégica e econômica.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de Eletrônicos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria Aeroespacial demanda componentes eletrônicos avançados para sistemas de comunicação, controle e navegação em aeronaves e satélites.",
+      "economic_justification": "A demanda por componentes eletrônicos de alta tecnologia na Indústria Aeroespacial impulsiona o desenvolvimento e inovação na Indústria de Eletrônicos, criando uma relação de complementaridade significativa."
+    },
+    {
+      "activity": "Indústria de Materiais de Construção",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria Aeroespacial necessita de materiais de construção leves e resistentes para a fabricação de estruturas aeronáuticas e espaciais.",
+      "economic_justification": "A Indústria de Materiais de Construção fornece materiais especializados, como ligas metálicas avançadas e compósitos, essenciais para a construção de aeronaves e foguetes, estabelecendo uma relação de fornecedor-importador."
+    },
+    {
+      "activity": "Indústria de Energia Renovável",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria Aeroespacial utiliza tecnologias de energia renovável em satélites e espaçonaves para geração de energia elétrica.",
+      "economic_justification": "A busca por soluções sustentáveis na Indústria Aeroespacial impulsiona a colaboração com a Indústria de Energia Renovável, que fornece tecnologias de energia limpa para aplicações espaciais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos investimentos em pesquisa e desenvolvimento tecnológico",
+    "Variações nos gastos governamentais com defesa e exploração espacial",
+    "Impacto de acordos internacionais e parcerias estratégicas na indústria aeroespacial"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da Indústria Aeroespacial, podendo haver variações em correlações específicas dependendo de subsegmentos ou regiões."
+}

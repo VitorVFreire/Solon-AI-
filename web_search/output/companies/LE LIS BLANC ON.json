@@ -1,0 +1,19 @@
+{
+  "company_name": "LE LIS BLANC ON",
+  "primary_activity": "Varejo de moda feminina",
+  "sector": "Moda",
+  "subsector": "Varejo de moda",
+  "industry": "Moda feminina",
+  "activity_description": "A empresa atua no varejo de moda feminina, oferecendo roupas, acessórios e calçados para mulheres.",
+  "main_products_services": [
+    "Roupas femininas",
+    "Acessórios",
+    "Calçados"
+  ],
+  "competitors": [
+    "Renner",
+    "C&A",
+    "Zara"
+  ],
+  "economic_classification_code": null
+}

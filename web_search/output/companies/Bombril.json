@@ -1,0 +1,20 @@
+{
+  "company_name": "Bombril SA",
+  "primary_activity": "Fabricação e comercialização de produtos de limpeza",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Produtos de Limpeza",
+  "industry": "Produtos de Limpeza Doméstica",
+  "activity_description": "A Bombril SA atua na fabricação e comercialização de uma variedade de produtos de limpeza, incluindo esponjas, detergentes, desinfetantes e outros itens para limpeza doméstica.",
+  "main_products_services": [
+    "Esponjas",
+    "Detergentes",
+    "Desinfetantes",
+    "Produtos de Limpeza Doméstica"
+  ],
+  "competitors": [
+    "Ypê",
+    "Veja",
+    "Omo"
+  ],
+  "economic_classification_code": "20.41-5-00 - Fabricação de sabões e detergentes sintéticos, produtos de limpeza e polimento, perfumes e produtos de higiene pessoal"
+}

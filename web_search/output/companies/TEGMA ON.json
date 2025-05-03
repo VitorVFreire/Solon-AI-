@@ -1,0 +1,19 @@
+{
+  "company_name": "Tegma Gestao Logistica",
+  "primary_activity": "Gestão logística de transporte e armazenagem",
+  "sector": "Logística",
+  "subsector": "Gestão logística",
+  "industry": "Logística integrada",
+  "activity_description": "A Tegma Gestao Logistica atua na gestão logística de transporte e armazenagem, oferecendo soluções integradas para otimização de operações logísticas.",
+  "main_products_services": [
+    "Transporte de carga",
+    "Armazenagem",
+    "Logística integrada"
+  ],
+  "competitors": [
+    "JSL",
+    "Rodoil",
+    "Translovato"
+  ],
+  "economic_classification_code": null
+}

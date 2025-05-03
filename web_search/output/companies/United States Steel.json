@@ -1,0 +1,19 @@
+{
+  "company_name": "United States Steel Corp",
+  "primary_activity": "Produção e comercialização de aço",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Siderurgia",
+  "industry": "Produção de aço",
+  "activity_description": "A United States Steel Corp é uma empresa especializada na produção e comercialização de aço, atuando no setor da Indústria Metalúrgica, mais especificamente no subsector da Siderurgia. Seu foco principal é a produção de aço para diversos fins industriais e comerciais.",
+  "main_products_services": [
+    "Aço para construção civil",
+    "Aço para indústria automotiva",
+    "Aço para maquinário pesado"
+  ],
+  "competitors": [
+    "ArcelorMittal",
+    "Nippon Steel Corporation",
+    "POSCO"
+  ],
+  "economic_classification_code": "331110"
+}

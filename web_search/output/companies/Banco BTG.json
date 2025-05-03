@@ -1,0 +1,20 @@
+{
+  "company_name": "Banco BTG Pactual SA",
+  "primary_activity": "Instituição financeira especializada em serviços bancários e de investimento",
+  "sector": "Finanças",
+  "subsector": "Bancos de Investimento",
+  "industry": "Banco de Investimento",
+  "activity_description": "O Banco BTG Pactual SA é uma instituição financeira especializada em serviços bancários e de investimento, atuando principalmente como banco de investimento. Oferece uma ampla gama de serviços financeiros, incluindo assessoria em fusões e aquisições, gestão de ativos, mercado de capitais e operações de crédito.",
+  "main_products_services": [
+    "Assessoria em fusões e aquisições",
+    "Gestão de ativos",
+    "Mercado de capitais",
+    "Operações de crédito"
+  ],
+  "competitors": [
+    "Itaú BBA",
+    "Santander Investment Banking",
+    "Bradesco BBI"
+  ],
+  "economic_classification_code": "6411-7/00"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Shopping Parque Dom Pedro",
+  "primary_activity": "Comércio Varejista de Shopping Center",
+  "sector": "Comércio Varejista",
+  "subsector": "Shopping Centers",
+  "industry": "Shopping Center",
+  "activity_description": "O Shopping Parque Dom Pedro atua no ramo de comércio varejista, sendo um shopping center que oferece uma variedade de lojas, serviços e entretenimento em um único local.",
+  "main_products_services": [
+    "Locação de espaços para lojas",
+    "Prestação de serviços de entretenimento",
+    "Oferta de opções de alimentação"
+  ],
+  "competitors": [
+    "Shopping Iguatemi",
+    "Shopping Eldorado",
+    "Shopping Morumbi"
+  ],
+  "economic_classification_code": null
+}

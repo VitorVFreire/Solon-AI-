@@ -1,0 +1,19 @@
+{
+  "company_name": "Microsoft Corp BDR",
+  "primary_activity": "Desenvolvimento e comercialização de software e serviços de tecnologia",
+  "sector": "Tecnologia",
+  "subsector": "Tecnologia da Informação",
+  "industry": "Desenvolvimento de software e serviços de tecnologia",
+  "activity_description": "A Microsoft Corp BDR atua no desenvolvimento e comercialização de software e serviços de tecnologia, incluindo sistemas operacionais, aplicativos de produtividade e soluções de computação em nuvem.",
+  "main_products_services": [
+    "Sistemas operacionais",
+    "Aplicativos de produtividade",
+    "Serviços de computação em nuvem"
+  ],
+  "competitors": [
+    "Apple Inc.",
+    "Google LLC",
+    "Amazon.com Inc."
+  ],
+  "economic_classification_code": "6201-5/00"
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "Texas Instruments Inc BDR",
+  "primary_activity": "Fabricação de semicondutores e componentes eletrônicos",
+  "sector": "Tecnologia",
+  "subsector": "Equipamentos Eletrônicos",
+  "industry": "Semicondutores",
+  "activity_description": "A Texas Instruments Inc BDR atua na fabricação de semicondutores e componentes eletrônicos, sendo especializada na produção de chips e dispositivos eletrônicos.",
+  "main_products_services": [
+    "Chips semicondutores",
+    "Componentes eletrônicos"
+  ],
+  "competitors": [
+    "Intel Corporation",
+    "Samsung Electronics Co., Ltd.",
+    "Qualcomm Incorporated"
+  ],
+  "economic_classification_code": "2611-3/00 - Fabricação de componentes eletrônicos"
+}

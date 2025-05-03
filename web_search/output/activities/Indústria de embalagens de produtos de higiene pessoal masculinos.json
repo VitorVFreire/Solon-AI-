@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens de produtos de higiene pessoal masculinos",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A indústria de embalagens de produtos de higiene pessoal masculinos desempenha um papel crucial na cadeia de valor dos produtos de higiene pessoal voltados para o público masculino. Sua produção está diretamente relacionada à demanda por embalagens específicas que atendam às necessidades e preferências desse segmento de mercado.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de higiene pessoal masculinos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre a indústria de embalagens de produtos de higiene pessoal masculinos e a indústria de produtos de higiene pessoal masculinos. As embalagens são essenciais para acondicionar e promover os produtos de higiene pessoal, sendo adaptadas às características e necessidades do público masculino.",
+      "economic_justification": "A indústria de embalagens de produtos de higiene pessoal masculinos depende diretamente da demanda por produtos de higiene pessoal voltados para homens. A inovação e diferenciação nas embalagens podem impactar diretamente a atratividade e competitividade dos produtos finais no mercado masculino."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de higiene pessoal femininos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada e dependência moderada entre a indústria de embalagens de produtos de higiene pessoal masculinos e a indústria de embalagens de produtos de higiene pessoal femininos. Ambas as indústrias compartilham conhecimentos e tecnologias de embalagens, adaptando-se às preferências de gênero.",
+      "economic_justification": "Embora atendam a públicos-alvo diferentes, as indústrias de embalagens de produtos de higiene pessoal masculinos e femininos podem compartilhar inovações em design, materiais e funcionalidades, beneficiando-se mutuamente do desenvolvimento conjunto."
+    },
+    {
+      "activity": "Indústria de produtos de higiene pessoal femininos",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Substituto",
+      "correlation_description": "Existe uma correlação fraca e dependência baixa entre a indústria de embalagens de produtos de higiene pessoal masculinos e a indústria de produtos de higiene pessoal femininos. Embora atendam a diferentes segmentos de mercado, as embalagens podem ter elementos de design ou funcionalidades que se sobrepõem.",
+      "economic_justification": "Em alguns casos, embalagens de produtos de higiene pessoal femininos e masculinos podem compartilhar características semelhantes, como tamanhos específicos, cores ou materiais, o que permite certa substituição entre elas dependendo da disponibilidade ou preferência do consumidor."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Tendências de consumo de produtos de higiene pessoal masculinos e femininos",
+    "Inovações em materiais e tecnologias de embalagens",
+    "Políticas de marketing e posicionamento de produtos no mercado de higiene pessoal",
+    "Impacto de eventos culturais e sociais na percepção de gênero e consumo"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral do mercado de produtos de higiene pessoal, mas variações regionais e tendências específicas podem influenciar as correlações identificadas."
+}

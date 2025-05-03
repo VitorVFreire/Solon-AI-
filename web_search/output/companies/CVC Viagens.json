@@ -1,0 +1,19 @@
+{
+  "company_name": "CVC Brasil Operadora e Agencia de Viagens SA",
+  "primary_activity": "Operadora e Agência de Viagens",
+  "sector": "Turismo",
+  "subsector": "Turismo e Viagens",
+  "industry": "Operadora de Turismo",
+  "activity_description": "A CVC Brasil Operadora e Agencia de Viagens SA atua como uma operadora e agência de viagens, oferecendo pacotes turísticos, reservas de hotéis, passagens aéreas e outros serviços relacionados a viagens.",
+  "main_products_services": [
+    "Pacotes turísticos",
+    "Reservas de hotéis",
+    "Passagens aéreas"
+  ],
+  "competitors": [
+    "Decolar.com",
+    "Booking.com",
+    "Agaxtur"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "Hoteis Othon SA",
+  "primary_activity": "Hotelaria e Turismo",
+  "sector": "Turismo",
+  "subsector": "Hotelaria",
+  "industry": "Hotéis e Resorts",
+  "activity_description": "A empresa Hoteis Othon SA atua no setor de turismo, mais especificamente no subsector de hotelaria, oferecendo serviços de hospedagem em hotéis e resorts.",
+  "main_products_services": [
+    "Serviços de hospedagem em hotéis",
+    "Serviços de lazer e entretenimento para hóspedes"
+  ],
+  "competitors": [
+    "Rede Accor",
+    "Rede Hilton",
+    "Rede Marriott"
+  ],
+  "economic_classification_code": "5610-2/01"
+}

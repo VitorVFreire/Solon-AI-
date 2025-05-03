@@ -1,0 +1,17 @@
+{
+  "company_name": "Consorcio Alfa de Administracao SA Pref",
+  "primary_activity": "Administração de consórcios",
+  "sector": "Financeiro",
+  "subsector": "Serviços Financeiros Diversos",
+  "industry": "Administração de Consórcios",
+  "activity_description": "A empresa Consorcio Alfa de Administracao SA Pref atua na administração de consórcios, oferecendo serviços de gestão e organização de grupos de consorciados para a aquisição de bens ou serviços.",
+  "main_products_services": [
+    "Administração de consórcios"
+  ],
+  "competitors": [
+    "Consórcio Beta",
+    "Consórcio Gama",
+    "Consórcio Delta"
+  ],
+  "economic_classification_code": "6492-5/00"
+}

@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de eventos corporativos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de eventos corporativos desempenham um papel crucial no suporte e organização de eventos empresariais, contribuindo para a promoção de marcas, networking e alcance de objetivos estratégicos das empresas.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão de marketing",
+      "correlation_level": "4",
+      "dependency_level": "0.65",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de eventos corporativos e em gestão de marketing, pois ambos visam promover a imagem e os produtos/serviços das empresas, complementando-se na estratégia de comunicação e promoção.",
+      "economic_justification": "A gestão eficaz de eventos corporativos está intimamente ligada à estratégia de marketing das empresas, uma vez que eventos bem planejados e executados podem fortalecer a marca, gerar leads e aumentar a visibilidade no mercado."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de marketing digital",
+      "correlation_level": "4",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma forte correlação entre os serviços de consultoria em gestão de eventos corporativos e em gestão de marketing digital, pois ambos buscam promover a presença online e offline das empresas, integrando estratégias de marketing e eventos.",
+      "economic_justification": "A gestão de eventos corporativos bem alinhada com o marketing digital pode potencializar a divulgação e o engajamento do público-alvo, ampliando o alcance e impacto das ações de marketing."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de recursos humanos",
+      "correlation_level": "3",
+      "dependency_level": "0.45",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada entre os serviços de consultoria em gestão de eventos corporativos e em gestão de recursos humanos, pois ambos estão relacionados à experiência do colaborador e à cultura organizacional, podendo ser integrados em eventos corporativos internos.",
+      "economic_justification": "Eventos corporativos bem planejados podem contribuir para o engajamento e motivação dos colaboradores, aspectos essenciais para a gestão de recursos humanos e o fortalecimento do ambiente de trabalho."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações na atividade econômica que impactam os investimentos em eventos corporativos",
+    "Tendências de marketing e digitalização que influenciam as estratégias de eventos",
+    "Políticas de recursos humanos que podem refletir na organização de eventos internos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar de acordo com as características específicas de cada empresa e mercado."
+}

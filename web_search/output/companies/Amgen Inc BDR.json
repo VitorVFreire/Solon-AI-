@@ -1,0 +1,19 @@
+{
+  "company_name": "Amgen Inc BDR",
+  "primary_activity": "Desenvolvimento e comercialização de produtos farmacêuticos",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Indústria Farmacêutica",
+  "activity_description": "A Amgen Inc BDR atua no desenvolvimento e comercialização de produtos farmacêuticos, focando em pesquisa e inovação para tratamentos de diversas condições médicas.",
+  "main_products_services": [
+    "Medicamentos biotecnológicos",
+    "Terapias para câncer",
+    "Tratamentos para doenças autoimunes"
+  ],
+  "competitors": [
+    "Roche",
+    "Novartis",
+    "Pfizer"
+  ],
+  "economic_classification_code": "3254-0/01"
+}

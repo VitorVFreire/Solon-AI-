@@ -1,0 +1,19 @@
+{
+  "company_name": "Itau Unibanco Banco Holding SA",
+  "primary_activity": "Serviços Financeiros",
+  "sector": "Finanças",
+  "subsector": "Bancos Comerciais",
+  "industry": "Bancos Diversos",
+  "activity_description": "A Itau Unibanco Banco Holding SA atua como uma holding de instituições financeiras, com foco em serviços bancários comerciais e diversos.",
+  "main_products_services": [
+    "Serviços Bancários",
+    "Investimentos Financeiros",
+    "Seguros"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Bradesco",
+    "Santander"
+  ],
+  "economic_classification_code": "6419-6/00 - Holdings de instituições financeiras"
+}

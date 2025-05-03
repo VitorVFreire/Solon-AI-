@@ -1,0 +1,20 @@
+{
+  "company_name": "Xerox Corp BDR",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Hardware de Tecnologia",
+  "industry": "Equipamentos de Impressão e Digitalização",
+  "activity_description": "A Xerox Corp BDR atua no desenvolvimento e fabricação de equipamentos de impressão e digitalização, oferecendo soluções para escritórios e empresas.",
+  "main_products_services": [
+    "Impressoras",
+    "Copiadoras",
+    "Scanners",
+    "Soluções de Gerenciamento de Documentos"
+  ],
+  "competitors": [
+    "HP Inc.",
+    "Canon Inc.",
+    "Epson"
+  ],
+  "economic_classification_code": "6201-5/00"
+}

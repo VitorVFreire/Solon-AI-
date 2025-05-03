@@ -1,0 +1,17 @@
+{
+  "company_name": "Light S/A ON",
+  "primary_activity": "Fornecimento de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Distribuição de Energia Elétrica",
+  "activity_description": "A Light S/A ON atua no fornecimento de energia elétrica, distribuindo eletricidade para consumidores residenciais, comerciais e industriais. A empresa opera no setor de Energia, mais especificamente no subsector de Energia Elétrica, sendo responsável pela distribuição de energia na região em que atua.",
+  "main_products_services": [
+    "Fornecimento de energia elétrica"
+  ],
+  "competitors": [
+    "Enel",
+    "CPFL Energia",
+    "Eletropaulo"
+  ],
+  "economic_classification_code": "4911-6/01"
+}

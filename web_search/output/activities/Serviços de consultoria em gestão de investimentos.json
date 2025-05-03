@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de investimentos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de investimentos desempenham um papel fundamental no mercado financeiro, auxiliando indivíduos e empresas na tomada de decisões estratégicas de investimento para alcançar seus objetivos financeiros.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria Financeira",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre os serviços de consultoria em gestão de investimentos e a consultoria financeira, pois ambas as atividades estão intimamente relacionadas na gestão e otimização de recursos financeiros.",
+      "economic_justification": "A consultoria financeira fornece orientação ampla sobre questões financeiras, enquanto a consultoria em gestão de investimentos se concentra especificamente na alocação estratégica de recursos em diferentes classes de ativos para maximizar retornos. Ambas as atividades se complementam para oferecer soluções abrangentes aos clientes."
+    },
+    {
+      "activity": "Gestão de Patrimônio",
+      "correlation_level": "4",
+      "dependency_level": "0.70",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação forte e dependência significativa entre os serviços de consultoria em gestão de investimentos e a gestão de patrimônio, pois ambas visam otimizar a alocação de ativos financeiros para atender às metas financeiras dos clientes.",
+      "economic_justification": "A gestão de patrimônio envolve a administração holística dos ativos financeiros de um indivíduo ou família, enquanto a consultoria em gestão de investimentos se concentra em estratégias específicas de investimento. A integração dessas atividades oferece uma abordagem completa para a gestão financeira."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão financeira",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada e dependência razoável entre os serviços de consultoria em gestão de investimentos e os serviços de consultoria em gestão financeira, pois ambas lidam com aspectos financeiros estratégicos.",
+      "economic_justification": "Os serviços de consultoria em gestão financeira abrangem uma variedade de áreas financeiras, incluindo planejamento, análise e estratégias financeiras gerais, enquanto a consultoria em gestão de investimentos se concentra especificamente na alocação de recursos em investimentos. A combinação dessas atividades pode fornecer uma visão abrangente e estratégica para os clientes."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxas de juros",
+    "Desempenho do mercado de ações",
+    "Regulamentações financeiras"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto genérico da atividade, podendo variar dependendo do mercado específico e das condições econômicas regionais."
+}

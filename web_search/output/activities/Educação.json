@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Educação",
+  "sector_classification": "Terciário",
+  "economic_context": "A atividade de Educação desempenha um papel fundamental na formação de indivíduos, preparando-os para o mercado de trabalho e contribuindo para o desenvolvimento social e econômico de um país. É um serviço essencial que impacta diretamente a qualificação da força de trabalho e o progresso da sociedade como um todo.",
+  "correlated_activities": [
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Educação e a Tecnologia da Informação possuem uma forte correlação devido à crescente integração da tecnologia no ensino, como plataformas educacionais online, softwares educativos e ferramentas de aprendizagem digital. A Tecnologia da Informação complementa a Educação ao fornecer recursos e soluções inovadoras para melhorar os processos de ensino e aprendizagem.",
+      "economic_justification": "A Tecnologia da Informação desempenha um papel crucial na modernização e eficiência dos métodos educacionais, permitindo a criação de ambientes de aprendizagem mais dinâmicos, acessíveis e personalizados. A integração de tecnologia na Educação é essencial para acompanhar as demandas da sociedade digital e preparar os alunos para o mercado de trabalho cada vez mais tecnológico."
+    },
+    {
+      "activity": "Saúde",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Interdependência",
+      "correlation_description": "A Educação e a Saúde possuem uma correlação significativa devido à importância da educação para a promoção da saúde e prevenção de doenças. Indivíduos educados tendem a ter melhores hábitos de saúde, maior acesso a informações sobre cuidados preventivos e capacidade de tomar decisões mais conscientes em relação à saúde.",
+      "economic_justification": "A Educação desempenha um papel fundamental na formação de hábitos saudáveis, disseminação de informações sobre prevenção de doenças e promoção de estilos de vida saudáveis. A interdependência entre Educação e Saúde contribui para a melhoria da qualidade de vida, redução de custos com tratamentos médicos e aumento da produtividade da população."
+    },
+    {
+      "activity": "Tecnologia Espacial",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Educação e a Tecnologia Espacial possuem uma correlação fraca devido à necessidade de formação educacional especializada em áreas relacionadas à exploração espacial, como engenharia aeroespacial, física e ciências espaciais. A Educação contribui para o desenvolvimento de profissionais qualificados para atuarem no setor de Tecnologia Espacial.",
+      "economic_justification": "A Tecnologia Espacial requer profissionais altamente capacitados e especializados, sendo a Educação um pilar essencial para formar especialistas nesse campo. A correlação entre Educação e Tecnologia Espacial está relacionada à formação de recursos humanos qualificados para impulsionar a inovação e o avanço tecnológico no setor aeroespacial."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a atividade de Educação incluem investimentos em educação pública e privada, políticas governamentais de incentivo à educação, taxas de emprego e renda da população, demanda por qualificação profissional, avanços tecnológicos no setor educacional e acesso à educação de qualidade."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante ressaltar que as correlações identificadas são baseadas em tendências observadas e podem variar dependendo do contexto regional e das políticas educacionais e de saúde específicas de cada país."
+}

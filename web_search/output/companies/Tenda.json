@@ -1,0 +1,18 @@
+{
+  "company_name": "Construtora Tenda SA",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Construção Residencial",
+  "industry": "Construção de Habitações Populares",
+  "activity_description": "A Construtora Tenda SA atua na construção de habitações populares, focando em empreendimentos residenciais de baixo custo.",
+  "main_products_services": [
+    "Construção de Habitações Populares",
+    "Empreendimentos Residenciais de Baixo Custo"
+  ],
+  "competitors": [
+    "MRV Engenharia",
+    "Cyrela",
+    "Even Construtora"
+  ],
+  "economic_classification_code": "2361-8/00 - Construção de edifícios"
+}

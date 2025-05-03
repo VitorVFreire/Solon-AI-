@@ -1,0 +1,18 @@
+{
+  "company_name": "Companhia Brasileira de Distribuicao",
+  "primary_activity": "Varejista de alimentos e produtos de consumo",
+  "sector": "Comércio Varejista",
+  "subsector": "Supermercados e Hipermercados",
+  "industry": "Varejista de alimentos e produtos de consumo em geral",
+  "activity_description": "A Companhia Brasileira de Distribuicao atua como varejista de alimentos e produtos de consumo em geral, operando supermercados e hipermercados. Sua principal atividade econômica é a venda de produtos alimentícios e de consumo para o público em geral.",
+  "main_products_services": [
+    "Alimentos",
+    "Produtos de consumo"
+  ],
+  "competitors": [
+    "Carrefour",
+    "Walmart",
+    "Grupo Pão de Açúcar"
+  ],
+  "economic_classification_code": ""
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "Renova Energia SA Pref",
+  "primary_activity": "Geração de energia renovável",
+  "sector": "Energia",
+  "subsector": "Energia renovável",
+  "industry": "Energia eólica e solar",
+  "activity_description": "A Renova Energia SA Pref atua na geração de energia renovável, com foco em energia eólica e solar. A empresa desenvolve, opera e mantém parques eólicos e solares, contribuindo para a matriz energética sustentável.",
+  "main_products_services": [
+    "Geração de energia eólica",
+    "Geração de energia solar"
+  ],
+  "competitors": [
+    "CPFL Renováveis",
+    "AES Tietê Energia",
+    "Enel Green Power"
+  ],
+  "economic_classification_code": "4911-3/01"
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "Marcopolo SA",
+  "primary_activity": "Fabricação de ônibus e carrocerias",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de Ônibus e Carrocerias",
+  "industry": "Fabricação de Ônibus e Carrocerias para Transporte Coletivo",
+  "activity_description": "A Marcopolo SA atua na fabricação de ônibus e carrocerias para transporte coletivo, sendo uma das principais empresas do setor automobilístico no Brasil.",
+  "main_products_services": [
+    "Ônibus",
+    "Carrocerias para Ônibus"
+  ],
+  "competitors": [
+    "Comil",
+    "Caio Induscar",
+    "Neobus"
+  ],
+  "economic_classification_code": "2910-7/00"
+}

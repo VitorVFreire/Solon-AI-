@@ -1,0 +1,19 @@
+{
+  "company_name": "Mendes Junior Engenharia",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Construção Pesada",
+  "industry": "Construção de Infraestrutura",
+  "activity_description": "A Mendes Junior Engenharia atua principalmente na construção de infraestrutura, como estradas, pontes e obras de grande porte.",
+  "main_products_services": [
+    "Construção de estradas",
+    "Construção de pontes",
+    "Obras de infraestrutura"
+  ],
+  "competitors": [
+    "Odebrecht Engenharia",
+    "Andrade Gutierrez",
+    "Camargo Corrêa"
+  ],
+  "economic_classification_code": "2361-4/00"
+}

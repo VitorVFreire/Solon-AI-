@@ -1,0 +1,20 @@
+{
+  "company_name": "Hypermarcas SA",
+  "primary_activity": "Indústria Farmacêutica",
+  "sector": "Saúde",
+  "subsector": "Farmacêutica",
+  "industry": "Fabricação de medicamentos e produtos farmacêuticos",
+  "activity_description": "A Hypermarcas SA atua na fabricação e comercialização de medicamentos e produtos farmacêuticos, oferecendo uma ampla gama de produtos para diversas necessidades de saúde.",
+  "main_products_services": [
+    "Medicamentos",
+    "Produtos farmacêuticos"
+  ],
+  "competitors": [
+    "Aché Laboratórios",
+    "EMS",
+    "Eurofarma",
+    "Glenmark",
+    "Novartis"
+  ],
+  "economic_classification_code": "2121-1/01"
+}

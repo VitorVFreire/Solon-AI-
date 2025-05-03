@@ -1,0 +1,20 @@
+{
+  "company_name": "Financeira Alfa SA CFI ORD",
+  "primary_activity": "Instituição financeira especializada em crédito e investimentos",
+  "sector": "Finanças",
+  "subsector": "Instituições Financeiras Diversas",
+  "industry": "Instituição Financeira de Crédito",
+  "activity_description": "A Financeira Alfa SA CFI ORD é uma instituição financeira especializada em oferecer serviços de crédito e investimentos para seus clientes, atuando no mercado financeiro brasileiro.",
+  "main_products_services": [
+    "Empréstimos",
+    "Financiamentos",
+    "Investimentos",
+    "Consultoria Financeira"
+  ],
+  "competitors": [
+    "Banco Beta",
+    "Instituição Financeira Gama",
+    "Cooperativa de Crédito Delta"
+  ],
+  "economic_classification_code": "6419-6/00"
+}

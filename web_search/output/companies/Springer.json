@@ -1,0 +1,18 @@
+{
+  "company_name": "Springer SA",
+  "primary_activity": "Editora de livros e publicações acadêmicas",
+  "sector": "Educação",
+  "subsector": "Editoras",
+  "industry": "Editora de livros acadêmicos",
+  "activity_description": "A Springer SA atua como uma editora especializada na publicação de livros e materiais acadêmicos, fornecendo conteúdo de alta qualidade para instituições de ensino e pesquisa.",
+  "main_products_services": [
+    "Livros acadêmicos",
+    "Publicações científicas"
+  ],
+  "competitors": [
+    "Elsevier",
+    "Wiley",
+    "Taylor & Francis"
+  ],
+  "economic_classification_code": ""
+}

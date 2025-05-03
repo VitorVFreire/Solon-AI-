@@ -1,0 +1,18 @@
+{
+  "company_name": "PDG Realty SA",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Incorporação e Construção Civil",
+  "industry": "Incorporação Imobiliária",
+  "activity_description": "A PDG Realty SA atua no setor da Construção Civil, especificamente na incorporação imobiliária, desenvolvendo e construindo empreendimentos residenciais e comerciais.",
+  "main_products_services": [
+    "Desenvolvimento de empreendimentos imobiliários",
+    "Construção de imóveis residenciais e comerciais"
+  ],
+  "competitors": [
+    "Cyrela Brazil Realty",
+    "MRV Engenharia",
+    "Even Construtora e Incorporadora"
+  ],
+  "economic_classification_code": "Real Estate Development and Construction"
+}

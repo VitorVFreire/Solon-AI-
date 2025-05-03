@@ -1,0 +1,19 @@
+{
+  "company_name": "CVS Health Corp",
+  "primary_activity": "Varejista de produtos de saúde e bem-estar",
+  "sector": "Saúde",
+  "subsector": "Varejo Farmacêutico",
+  "industry": "Farmácias e Drogarias",
+  "activity_description": "A CVS Health Corp é uma empresa do setor de saúde especializada no varejo de produtos de saúde e bem-estar, atuando principalmente no segmento de farmácias e drogarias. Oferece uma ampla variedade de medicamentos, produtos de cuidados pessoais e serviços de saúde.",
+  "main_products_services": [
+    "Medicamentos",
+    "Produtos de cuidados pessoais",
+    "Serviços de saúde"
+  ],
+  "competitors": [
+    "Walgreens Boots Alliance",
+    "Rite Aid Corporation",
+    "Walmart Inc."
+  ],
+  "economic_classification_code": null
+}

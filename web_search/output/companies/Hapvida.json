@@ -1,0 +1,19 @@
+{
+  "company_name": "Hapvida Participacoes e Investimentos",
+  "primary_activity": "Operadora de planos de saúde",
+  "sector": "Saúde",
+  "subsector": "Planos de saúde",
+  "industry": "Saúde suplementar",
+  "activity_description": "A Hapvida Participacoes e Investimentos atua como operadora de planos de saúde, oferecendo serviços de assistência médica e hospitalar para seus beneficiários. A empresa foca em proporcionar acesso a cuidados de saúde de qualidade por meio de sua rede de atendimento.",
+  "main_products_services": [
+    "Planos de saúde",
+    "Assistência médica",
+    "Hospitalar"
+  ],
+  "competitors": [
+    "SulAmérica",
+    "Bradesco Saúde",
+    "Amil"
+  ],
+  "economic_classification_code": "8610-1/01"
+}

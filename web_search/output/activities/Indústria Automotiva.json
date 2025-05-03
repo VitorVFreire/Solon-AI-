@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria Automotiva",
+  "sector_classification": "Secundário",
+  "economic_context": "A Indústria Automotiva engloba a produção de veículos, motores, peças e acessórios para o setor automotivo, desempenhando um papel crucial na economia global devido à sua relevância para o transporte e mobilidade.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de Equipamentos Médicos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria Automotiva e a Indústria de Equipamentos Médicos possuem uma correlação forte devido à demanda por tecnologias avançadas de produção e materiais inovadores em ambos os setores.",
+      "economic_justification": "Ambas as indústrias compartilham a necessidade de materiais leves, resistentes e de alta tecnologia, bem como processos de fabricação avançados. Além disso, a inovação em materiais e processos em um setor muitas vezes impulsiona avanços no outro."
+    },
+    {
+      "activity": "Indústria de Tecnologia da Informação",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria Automotiva e a Indústria de Tecnologia da Informação possuem uma correlação moderada devido à crescente integração de sistemas de informação e tecnologias digitais nos veículos modernos.",
+      "economic_justification": "Os avanços em veículos autônomos, conectividade e segurança cibernética estão impulsionando a colaboração entre esses setores. A demanda por software embarcado, sensores e sistemas de comunicação é um ponto de interseção entre as indústrias."
+    },
+    {
+      "activity": "Indústria de Energia Renovável",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria Automotiva e a Indústria de Energia Renovável possuem uma correlação moderada devido à busca por soluções sustentáveis e eficientes em termos energéticos.",
+      "economic_justification": "Ambas as indústrias estão focadas na redução da pegada de carbono e na adoção de tecnologias mais limpas. A transição para veículos elétricos e híbridos impulsiona a demanda por fontes de energia renovável e soluções de recarga sustentáveis."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços das commodities (aço, alumínio, etc.)",
+    "Políticas governamentais de incentivo à indústria automotiva",
+    "Tendências de consumo e preferências dos consumidores por veículos mais sustentáveis",
+    "Inovações tecnológicas no setor automotivo e em áreas relacionadas"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto atual e tendências conhecidas, mas mudanças inesperadas nos mercados ou avanços tecnológicos podem impactar as correlações identificadas."
+}

@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em marketing",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em marketing desempenham um papel fundamental na estratégia de negócios das empresas, auxiliando na identificação de oportunidades de mercado, no desenvolvimento de campanhas publicitárias e na construção de marcas fortes.",
+  "correlated_activities": [
+    {
+      "activity": "Publicidade",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em marketing e a publicidade possuem uma forte correlação, atuando de forma complementar para a criação e implementação de estratégias de comunicação eficazes.",
+      "economic_justification": "A publicidade é uma parte essencial das estratégias de marketing, sendo fundamental para a promoção de produtos e serviços. A consultoria em marketing pode contribuir significativamente para a definição de mensagens publicitárias adequadas e canais de divulgação eficazes."
+    },
+    {
+      "activity": "Gestão de redes sociais",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em marketing e a gestão de redes sociais apresentam uma correlação moderada, pois ambas estão relacionadas à promoção e interação das empresas com seu público-alvo.",
+      "economic_justification": "A gestão de redes sociais é uma ferramenta importante no mix de marketing digital, e a consultoria em marketing pode contribuir para a integração eficaz das redes sociais nas estratégias de comunicação das empresas."
+    },
+    {
+      "activity": "Pesquisa de mercado",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em marketing e a pesquisa de mercado possuem uma forte correlação, sendo complementares na obtenção de insights sobre o mercado e o público-alvo.",
+      "economic_justification": "A pesquisa de mercado fornece dados essenciais para a elaboração de estratégias de marketing eficazes. A consultoria em marketing pode utilizar esses insights para desenvolver planos mais direcionados e assertivos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxa de crescimento do PIB",
+    "Investimentos em publicidade",
+    "Tendências de consumo",
+    "Inovações tecnológicas em marketing digital"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de mercado e pode variar de acordo com as especificidades de cada empresa e setor."
+}

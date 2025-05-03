@@ -1,0 +1,19 @@
+{
+  "company_name": "Smiles Fidelidade",
+  "primary_activity": "Programa de fidelidade e recompensas",
+  "sector": "Tecnologia da Informação",
+  "subsector": "Serviços de fidelidade e recompensas",
+  "industry": "Programas de fidelidade",
+  "activity_description": "A Smiles Fidelidade atua no desenvolvimento e operação de programas de fidelidade e recompensas, oferecendo benefícios e vantagens para clientes de diversas empresas parceiras.",
+  "main_products_services": [
+    "Programa de fidelidade",
+    "Acúmulo e resgate de milhas",
+    "Benefícios exclusivos para clientes"
+  ],
+  "competitors": [
+    "Multiplus",
+    "Livelo",
+    "Dotz"
+  ],
+  "economic_classification_code": null
+}

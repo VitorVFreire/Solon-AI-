@@ -1,0 +1,20 @@
+{
+  "company_name": "Unipar Carbocloro SA Pref",
+  "primary_activity": "Produção de produtos químicos",
+  "sector": "Indústria Química",
+  "subsector": "Produtos Químicos Diversos",
+  "industry": "Cloro e Derivados",
+  "activity_description": "A Unipar Carbocloro SA Pref atua na produção de produtos químicos, com foco em cloro e seus derivados. Sua principal atividade é a fabricação e comercialização de produtos químicos diversos para diferentes segmentos industriais.",
+  "main_products_services": [
+    "Cloro",
+    "Ácido Clorídrico",
+    "Hipoclorito de Sódio",
+    "Dióxido de Cloro"
+  ],
+  "competitors": [
+    "Braskem",
+    "Dow",
+    "Oxiteno"
+  ],
+  "economic_classification_code": "20.59-3-00 - Fabricação de cloro e álcalis"
+}

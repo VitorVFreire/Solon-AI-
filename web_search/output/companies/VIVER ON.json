@@ -1,0 +1,19 @@
+{
+  "company_name": "Viver Incorporadora e Construtora",
+  "primary_activity": "Incorporação e Construção de Imóveis",
+  "sector": "Construção Civil",
+  "subsector": "Incorporação Imobiliária",
+  "industry": "Construção Residencial e Comercial",
+  "activity_description": "A empresa atua na incorporação e construção de imóveis residenciais e comerciais, desenvolvendo empreendimentos imobiliários.",
+  "main_products_services": [
+    "Construção de Edifícios Residenciais",
+    "Construção de Edifícios Comerciais",
+    "Incorporação de Imóveis"
+  ],
+  "competitors": [
+    "Cyrela",
+    "MRV Engenharia",
+    "Even Construtora"
+  ],
+  "economic_classification_code": "Real Estate Development and Construction"
+}

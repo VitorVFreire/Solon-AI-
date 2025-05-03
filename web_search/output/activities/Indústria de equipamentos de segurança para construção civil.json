@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de equipamentos de segurança para construção civil",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de equipamentos de segurança para construção civil desempenha um papel fundamental na garantia da segurança dos trabalhadores no setor da construção, fornecendo equipamentos de proteção individual e coletiva essenciais para prevenir acidentes e garantir condições de trabalho adequadas.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de construção civil",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma forte correlação entre a indústria de equipamentos de segurança para construção civil e a indústria de construção civil, uma vez que os equipamentos de segurança são essenciais para garantir a segurança dos trabalhadores durante a realização de obras.",
+      "economic_justification": "A indústria de equipamentos de segurança depende diretamente da demanda da indústria de construção civil, uma vez que os equipamentos são necessários para cumprir normas de segurança e proteger os trabalhadores, refletindo uma relação de dependência significativa."
+    },
+    {
+      "activity": "Indústria de equipamentos de proteção individual",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com a indústria de equipamentos de proteção individual, uma vez que ambos os setores estão envolvidos na fabricação de equipamentos de segurança, sendo os equipamentos de proteção individual parte integrante dos equipamentos de segurança para construção civil.",
+      "economic_justification": "A indústria de equipamentos de segurança para construção civil e a indústria de equipamentos de proteção individual possuem produtos complementares que são utilizados em conjunto para garantir a segurança dos trabalhadores, o que reflete uma interdependência significativa."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança para trabalho em altura",
+      "correlation_level": "3",
+      "dependency_level": "0.55",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada com a indústria de equipamentos de segurança para trabalho em altura, uma vez que ambos os setores fornecem equipamentos específicos para garantir a segurança dos trabalhadores em diferentes contextos de trabalho.",
+      "economic_justification": "A indústria de equipamentos de segurança para construção civil e a indústria de equipamentos de segurança para trabalho em altura possuem produtos complementares que atendem a necessidades específicas de segurança no ambiente de trabalho, demonstrando uma relação de interdependência relevante."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos investimentos em infraestrutura",
+    "Regulamentações de segurança no trabalho",
+    "Taxas de acidentes de trabalho na construção civil"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria, mas variações regionais podem impactar as correlações identificadas."
+}

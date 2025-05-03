@@ -1,0 +1,20 @@
+{
+  "company_name": "Camil Alimentos",
+  "primary_activity": "Produção e comercialização de alimentos",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Alimentos e Bebidas",
+  "industry": "Alimentos Diversos",
+  "activity_description": "A Camil Alimentos atua na produção e comercialização de uma variedade de alimentos, incluindo arroz, feijão, açúcar, entre outros produtos alimentícios.",
+  "main_products_services": [
+    "Arroz",
+    "Feijão",
+    "Açúcar",
+    "Outros alimentos diversos"
+  ],
+  "competitors": [
+    "Bunge",
+    "Cargill",
+    "JBS"
+  ],
+  "economic_classification_code": "10.51-1-01 - Fabricação de produtos de arroz"
+}

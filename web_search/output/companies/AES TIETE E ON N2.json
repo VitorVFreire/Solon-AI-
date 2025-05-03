@@ -1,0 +1,18 @@
+{
+  "company_name": "Aes Tiete Energia SA",
+  "primary_activity": "Geração de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Renovável",
+  "activity_description": "A Aes Tiete Energia SA atua na geração de energia elétrica, com foco em fontes renováveis. A empresa opera usinas hidrelétricas e busca contribuir para a matriz energética sustentável do Brasil.",
+  "main_products_services": [
+    "Geração de energia elétrica",
+    "Operação de usinas hidrelétricas"
+  ],
+  "competitors": [
+    "Engie Brasil Energia",
+    "Neoenergia",
+    "CPFL Energia"
+  ],
+  "economic_classification_code": "Energia - 4010"
+}

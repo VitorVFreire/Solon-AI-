@@ -1,0 +1,19 @@
+{
+  "company_name": "Inepar SA Industria e Construcoes",
+  "primary_activity": "Indústria e Construção",
+  "sector": "Construção Civil",
+  "subsector": "Construção Pesada",
+  "industry": "Construção de Infraestrutura",
+  "activity_description": "A empresa atua na indústria e construção, especializada em construção pesada, com foco na construção de infraestrutura.",
+  "main_products_services": [
+    "Construção de rodovias",
+    "Construção de pontes",
+    "Construção de barragens"
+  ],
+  "competitors": [
+    "Construtora Queiroz Galvão",
+    "Odebrecht Engenharia",
+    "Andrade Gutierrez"
+  ],
+  "economic_classification_code": ""
+}

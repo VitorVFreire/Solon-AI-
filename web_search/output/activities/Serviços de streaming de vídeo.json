@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de streaming de vídeo",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de streaming de vídeo fazem parte do setor terciário da economia, oferecendo plataformas de entretenimento e educação sob demanda para os consumidores.",
+  "correlated_activities": [
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de streaming de vídeo dependem fortemente da tecnologia da informação para a transmissão, armazenamento e processamento de conteúdo digital.",
+      "economic_justification": "A tecnologia da informação é essencial para a operação eficiente e aprimoramento constante dos serviços de streaming de vídeo, sendo uma correlação forte e altamente dependente."
+    },
+    {
+      "activity": "Telecomunicações",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "As telecomunicações fornecem a infraestrutura de rede necessária para a transmissão de dados de vídeo em alta qualidade.",
+      "economic_justification": "A qualidade e a velocidade da rede de telecomunicações impactam diretamente a experiência do usuário nos serviços de streaming de vídeo, estabelecendo uma correlação significativa."
+    },
+    {
+      "activity": "Marketing Digital",
+      "correlation_level": "3",
+      "dependency_level": "0.50",
+      "correlation_type": "Comportamento de mercado similar",
+      "correlation_description": "O marketing digital é essencial para a promoção e aquisição de usuários para as plataformas de streaming de vídeo.",
+      "economic_justification": "Ambos os setores dependem de estratégias de marketing digital eficazes para alcançar e engajar o público-alvo, gerando uma correlação moderada."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas taxas de internet e banda larga",
+    "Tendências de consumo de entretenimento digital",
+    "Investimentos em inovação tecnológica"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar dependendo de fatores regionais e específicos de cada empresa dentro do setor."
+}

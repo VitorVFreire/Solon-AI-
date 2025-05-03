@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de consultoria em design de interiores",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em design de interiores são essenciais para a criação de ambientes esteticamente agradáveis e funcionais em residências, escritórios e espaços comerciais. Essa atividade desempenha um papel importante na melhoria do ambiente de vida e trabalho das pessoas, contribuindo para a valorização dos imóveis e para a satisfação dos clientes.",
+  "correlated_activities": [
+    {
+      "activity": "Arquitetura",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em design de interiores frequentemente complementam os serviços de arquitetura, uma vez que ambos estão envolvidos na criação e melhoria de espaços habitáveis. A colaboração entre arquitetos e designers de interiores é fundamental para garantir a integração harmoniosa entre a estrutura arquitetônica e o design de interiores.",
+      "economic_justification": "A arquitetura e o design de interiores estão intrinsecamente ligados na concepção de espaços habitáveis. Enquanto a arquitetura trata da estrutura e do layout dos ambientes, o design de interiores foca na estética, funcionalidade e conforto dos espaços. A colaboração entre essas duas áreas resulta em projetos mais completos e satisfatórios para os clientes."
+    },
+    {
+      "activity": "Serviços de consultoria em marketing",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em design de interiores podem se beneficiar da colaboração com serviços de consultoria em marketing para promover seus projetos, atrair clientes e fortalecer sua presença no mercado. A estratégia de marketing adequada pode ampliar a visibilidade e a demanda pelos serviços de design de interiores.",
+      "economic_justification": "A colaboração com serviços de consultoria em marketing permite que os profissionais de design de interiores alcancem um público mais amplo, destaquem sua expertise e diferenciem seus serviços no mercado competitivo. A promoção eficaz dos projetos de design de interiores pode impulsionar o crescimento do negócio e a fidelização de clientes."
+    },
+    {
+      "activity": "Indústria de móveis",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "A indústria de móveis e os serviços de consultoria em design de interiores possuem uma relação de cliente-fornecedor, onde os designers de interiores frequentemente especificam e adquirem móveis sob medida ou prontos para os projetos de design de interiores. Por outro lado, a indústria de móveis se beneficia da demanda gerada pelos projetos de design de interiores.",
+      "economic_justification": "Os designers de interiores desempenham um papel fundamental na seleção e especificação de móveis para os projetos de design de interiores, o que impulsiona a demanda por produtos da indústria de móveis. A colaboração próxima entre esses setores resulta em oportunidades de negócio e no desenvolvimento de produtos personalizados para atender às necessidades dos clientes."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de consultoria em design de interiores incluem o crescimento do setor imobiliário, as tendências de design e estilo, as taxas de juros (impacto no financiamento de projetos), a renda disponível das famílias (afeta a demanda por serviços de design) e a situação econômica geral que influencia os investimentos em melhorias residenciais e comerciais."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar dependendo da região e das condições específicas do mercado. Variações sazonais e mudanças inesperadas nos fatores econômicos podem impactar as correlações identificadas."
+}

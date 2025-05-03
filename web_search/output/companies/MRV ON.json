@@ -1,0 +1,20 @@
+{
+  "company_name": "MRV Engenharia e Participacoes SA",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Construção Residencial",
+  "industry": "Construção de Edifícios Residenciais",
+  "activity_description": "A MRV Engenharia e Participacoes SA atua na construção de edifícios residenciais, focando principalmente em empreendimentos de médio e alto padrão. A empresa é conhecida por sua atuação no mercado imobiliário brasileiro.",
+  "main_products_services": [
+    "Construção de edifícios residenciais",
+    "Venda de imóveis",
+    "Financiamento imobiliário"
+  ],
+  "competitors": [
+    "Cyrela",
+    "Even Construtora e Incorporadora",
+    "Tenda",
+    "Gafisa"
+  ],
+  "economic_classification_code": "2361-8/00"
+}

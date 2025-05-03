@@ -1,0 +1,19 @@
+{
+  "company_name": "Senior Solution SA",
+  "primary_activity": "Desenvolvimento de soluções em tecnologia da informação",
+  "sector": "Tecnologia da Informação",
+  "subsector": "Desenvolvimento de Software e Serviços Relacionados",
+  "industry": "Desenvolvimento de Software",
+  "activity_description": "A Senior Solution SA atua no desenvolvimento de soluções em tecnologia da informação, com foco no desenvolvimento de software e serviços relacionados para diversos setores da economia.",
+  "main_products_services": [
+    "Desenvolvimento de software personalizado",
+    "Soluções de gestão empresarial",
+    "Consultoria em tecnologia da informação"
+  ],
+  "competitors": [
+    "TOTVS",
+    "SAP",
+    "Oracle"
+  ],
+  "economic_classification_code": "6201-5/00"
+}

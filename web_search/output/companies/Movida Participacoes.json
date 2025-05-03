@@ -1,0 +1,18 @@
+{
+  "company_name": "Movida Participacoes",
+  "primary_activity": "Locação de veículos e serviços relacionados",
+  "sector": "Transporte",
+  "subsector": "Locação de veículos",
+  "industry": "Locação de automóveis e veículos comerciais leves",
+  "activity_description": "A Movida Participacoes atua no setor de transporte, oferecendo serviços de locação de veículos para clientes individuais e corporativos. Seu foco está na locação de automóveis e veículos comerciais leves.",
+  "main_products_services": [
+    "Locação de automóveis",
+    "Locação de veículos comerciais leves",
+    "Seguros para locação de veículos"
+  ],
+  "competitors": [
+    "Localiza Rent a Car",
+    "Unidas Rent a Car"
+  ],
+  "economic_classification_code": "A locação de veículos se enquadra na Classificação Nacional de Atividades Econômicas (CNAE) 7711-0/00"
+}

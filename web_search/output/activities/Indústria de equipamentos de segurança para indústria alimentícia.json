@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Indústria de equipamentos de segurança para indústria alimentícia",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de equipamentos de segurança para indústria alimentícia desempenha um papel crucial na garantia da segurança dos trabalhadores que atuam na produção de alimentos, bem como na manutenção dos padrões de qualidade e higiene exigidos pelo setor alimentício.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Alimentícia",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação forte com a Indústria Alimentícia, pois os equipamentos de segurança são essenciais para garantir a segurança dos trabalhadores envolvidos na produção de alimentos.",
+      "economic_justification": "A Indústria Alimentícia depende dos equipamentos de segurança para manter um ambiente de trabalho seguro e em conformidade com as regulamentações de segurança alimentar, impactando diretamente na qualidade e segurança dos produtos finais."
+    },
+    {
+      "activity": "Serviços de consultoria em segurança da informação",
+      "correlation_level": "2",
+      "dependency_level": "0,30",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação fraca com os Serviços de consultoria em segurança da informação, uma vez que ambos os setores lidam com aspectos de segurança, embora em áreas distintas.",
+      "economic_justification": "Ambos os setores compartilham a preocupação com a segurança, porém em contextos diferentes. Enquanto a indústria de equipamentos de segurança para indústria alimentícia foca na segurança física dos trabalhadores, os serviços de consultoria em segurança da informação lidam com a proteção de dados e sistemas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos padrões de segurança alimentar",
+    "Investimentos em inovação tecnológica na indústria alimentícia",
+    "Regulamentações governamentais sobre segurança no trabalho"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria e pode variar dependendo das regulamentações específicas de cada país ou região."
+}

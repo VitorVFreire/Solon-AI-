@@ -1,0 +1,20 @@
+{
+  "company_name": "JBS SA",
+  "primary_activity": "Produção e processamento de alimentos",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Processamento de Carnes",
+  "industry": "Produção e Processamento de Carnes",
+  "activity_description": "A JBS SA atua na produção e processamento de carnes, sendo uma das maiores empresas do setor a nível global. Seu foco principal está na produção de carne bovina, suína e de frango.",
+  "main_products_services": [
+    "Carne bovina",
+    "Carne suína",
+    "Carne de frango",
+    "Produtos processados de carne"
+  ],
+  "competitors": [
+    "Tyson Foods",
+    "Cargill",
+    "Smithfield Foods"
+  ],
+  "economic_classification_code": "1511"
+}

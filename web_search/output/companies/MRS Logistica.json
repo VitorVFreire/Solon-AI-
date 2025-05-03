@@ -1,0 +1,17 @@
+{
+  "company_name": "MRS Logistica SA",
+  "primary_activity": "Transporte ferroviário de cargas",
+  "sector": "Transporte",
+  "subsector": "Logística",
+  "industry": "Transporte Ferroviário de Cargas",
+  "activity_description": "A MRS Logística SA atua no transporte ferroviário de cargas, operando trens de carga em ferrovias para transporte de mercadorias.",
+  "main_products_services": [
+    "Transporte ferroviário de cargas"
+  ],
+  "competitors": [
+    "Rumo Logística",
+    "VLI Logística",
+    "Ferrovia Centro-Atlântica"
+  ],
+  "economic_classification_code": null
+}

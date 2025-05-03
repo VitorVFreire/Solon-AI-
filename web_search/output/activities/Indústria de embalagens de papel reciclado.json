@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens de papel reciclado",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens de papel reciclado atua na produção de embalagens sustentáveis, contribuindo para a redução do impacto ambiental ao utilizar papel reciclado como matéria-prima. Esta atividade está inserida no setor secundário da economia, sendo parte da cadeia de produção de embalagens e atendendo a uma demanda crescente por produtos ecologicamente corretos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre a Indústria de embalagens de papel reciclado e a Indústria de embalagens sustentáveis, pois ambas compartilham o foco na sustentabilidade e na redução do impacto ambiental.",
+      "economic_justification": "Ambas as indústrias estão alinhadas com a crescente demanda por produtos ecologicamente corretos, atendendo a um mercado consumidor cada vez mais consciente e preocupado com questões ambientais."
+    },
+    {
+      "activity": "Indústria de embalagens de alimentos orgânicos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada e dependência razoável entre a Indústria de embalagens de papel reciclado e a Indústria de embalagens de alimentos orgânicos, devido à sinergia na oferta de produtos sustentáveis e saudáveis.",
+      "economic_justification": "Ambas as indústrias atendem a um público-alvo semelhante que valoriza a sustentabilidade e a saúde, criando oportunidades para parcerias e ações conjuntas de marketing."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza ecológicos",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação fraca e dependência limitada entre a Indústria de embalagens de papel reciclado e a Indústria de produtos de limpeza ecológicos, devido à preocupação compartilhada com a sustentabilidade.",
+      "economic_justification": "Ambas as indústrias podem se beneficiar de uma colaboração para promover produtos ambientalmente amigáveis, embora seus mercados-alvo possam ter alguma sobreposição."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas ambientais e de reciclagem",
+    "Tendências de consumo sustentável",
+    "Preços de matéria-prima reciclada",
+    "Regulamentações sobre embalagens sustentáveis"
+  ],
+  "confidence_level": "Médio",
+  "analysis_limitations": "A análise considera principalmente o contexto geral das indústrias mencionadas, sendo importante avaliar dados específicos de mercado para uma análise mais precisa."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "International Business Machines BDR",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Hardware e Equipamentos de TI",
+  "industry": "Computadores e Equipamentos Periféricos",
+  "activity_description": "A International Business Machines BDR atua no desenvolvimento e comercialização de computadores e equipamentos periféricos, oferecendo soluções de hardware para diversas aplicações.",
+  "main_products_services": [
+    "Computadores",
+    "Servidores",
+    "Equipamentos de Armazenamento de Dados"
+  ],
+  "competitors": [
+    "Dell Technologies",
+    "HP Inc.",
+    "Lenovo Group Limited"
+  ],
+  "economic_classification_code": "6201-5/00 - Desenvolvimento e licenciamento de programas de computador customizáveis"
+}

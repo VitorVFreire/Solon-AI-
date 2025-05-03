@@ -1,0 +1,20 @@
+{
+  "company_name": "Dohler SA Pref",
+  "primary_activity": "Indústria de produtos têxteis",
+  "sector": "Moda",
+  "subsector": "Indústria Têxtil",
+  "industry": "Produção de tecidos e produtos têxteis",
+  "activity_description": "A Dohler SA Pref atua na indústria têxtil, especializada na produção de tecidos e produtos têxteis.",
+  "main_products_services": [
+    "Tecidos",
+    "toalhas",
+    "lençóis",
+    "produtos de cama e banho"
+  ],
+  "competitors": [
+    "Santista Têxtil",
+    "Karsten",
+    "Sulamericana"
+  ],
+  "economic_classification_code": "C1711-3/01"
+}

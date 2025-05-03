@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de qualidade",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de qualidade desempenham um papel fundamental na melhoria da eficiência operacional e na garantia da qualidade de processos e produtos em diversas indústrias.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza",
+      "correlation_level": "4",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação forte entre os serviços de consultoria em gestão de qualidade e a indústria de produtos de limpeza, pois a qualidade dos produtos de limpeza é essencial para atender aos padrões de qualidade e regulamentações do setor.",
+      "economic_justification": "A consultoria em gestão de qualidade pode ajudar a indústria de produtos de limpeza a aprimorar seus processos de produção, garantindo a conformidade com normas de qualidade e regulamentações governamentais, o que é essencial para a reputação e competitividade no mercado."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de riscos",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de qualidade e os serviços de consultoria em gestão de riscos, pois a qualidade dos processos impacta diretamente na mitigação de riscos operacionais e de conformidade.",
+      "economic_justification": "A gestão eficaz da qualidade pode reduzir a ocorrência de falhas e não conformidades, contribuindo para a minimização de riscos nas operações das empresas. Assim, a consultoria em gestão de qualidade e em gestão de riscos podem trabalhar em conjunto para fortalecer a governança corporativa."
+    },
+    {
+      "activity": "Indústria de embalagens",
+      "correlation_level": "3",
+      "dependency_level": "0,45",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Existe uma correlação moderada entre os serviços de consultoria em gestão de qualidade e a indústria de embalagens, onde os serviços de consultoria demandam embalagens de qualidade para seus produtos e processos.",
+      "economic_justification": "A indústria de embalagens desempenha um papel crucial na proteção e apresentação dos produtos e serviços oferecidos pela consultoria em gestão de qualidade. A qualidade das embalagens pode refletir diretamente na percepção de qualidade dos serviços prestados."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas regulamentações de qualidade",
+    "Investimentos em inovação de processos e produtos",
+    "Tendências de mercado em relação à qualidade e segurança do consumidor"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo das especificidades regionais e setoriais."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "GoPro Inc",
+  "primary_activity": "Fabricação e venda de câmeras de ação e acessórios",
+  "sector": "Tecnologia",
+  "subsector": "Equipamentos Eletrônicos",
+  "industry": "Câmeras de Ação e Acessórios",
+  "activity_description": "A GoPro Inc é uma empresa especializada na fabricação e venda de câmeras de ação e acessórios, utilizados principalmente em esportes radicais, aventuras ao ar livre e produção de conteúdo audiovisual de alta qualidade.",
+  "main_products_services": [
+    "Câmeras de Ação",
+    "Acessórios para Câmeras",
+    "Equipamentos Eletrônicos"
+  ],
+  "competitors": [
+    "DJI",
+    "Sony",
+    "Insta360"
+  ],
+  "economic_classification_code": null
+}

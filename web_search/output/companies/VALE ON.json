@@ -1,0 +1,18 @@
+{
+  "company_name": "Vale SA",
+  "primary_activity": "Extração de minério de ferro e outros minerais",
+  "sector": "Recursos Naturais",
+  "subsector": "Mineração",
+  "industry": "Mineração de Ferro",
+  "activity_description": "A Vale SA atua na extração de minério de ferro e outros minerais, sendo uma das principais empresas do setor de mineração no Brasil e no mundo.",
+  "main_products_services": [
+    "Minério de ferro",
+    "Outros minerais"
+  ],
+  "competitors": [
+    "BHP",
+    "Rio Tinto",
+    "Anglo American"
+  ],
+  "economic_classification_code": "NA"
+}

@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão financeira",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão financeira desempenham um papel fundamental no apoio a empresas e indivíduos na gestão eficiente de suas finanças, investimentos e planejamento tributário. Essa atividade contribui para a tomada de decisões estratégicas e para a otimização dos recursos financeiros disponíveis.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria Empresarial",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão financeira e consultoria empresarial são altamente complementares, uma vez que a gestão financeira eficaz é essencial para o sucesso e crescimento sustentável de qualquer negócio.",
+      "economic_justification": "A consultoria empresarial muitas vezes requer análises financeiras aprofundadas, planejamento tributário e estratégias de investimento, áreas em que os serviços de consultoria em gestão financeira são especializados. A integração dessas duas atividades pode potencializar os resultados e a eficiência das empresas."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de investimentos",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão financeira e em gestão de investimentos são altamente complementares, pois a gestão financeira adequada é essencial para a tomada de decisões de investimento informadas e estratégicas.",
+      "economic_justification": "A gestão de investimentos está intrinsecamente ligada à gestão financeira, uma vez que as decisões de investimento são baseadas em análises financeiras, avaliação de riscos e objetivos financeiros. A integração desses serviços pode proporcionar uma abordagem abrangente para a gestão patrimonial e financeira dos clientes."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de riscos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Relacionada",
+      "correlation_description": "Os serviços de consultoria em gestão financeira e em gestão de riscos estão relacionados, pois a gestão financeira eficaz envolve a avaliação e mitigação de riscos financeiros.",
+      "economic_justification": "A gestão de riscos financeiros é uma parte essencial da gestão financeira, uma vez que visa proteger os ativos financeiros e garantir a sustentabilidade financeira a longo prazo. A colaboração entre essas áreas pode fortalecer a capacidade das empresas de enfrentar desafios financeiros e de mercado."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxas de juros",
+    "Regulamentações financeiras",
+    "Cenário econômico global"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar de acordo com a região e especificidades de cada mercado."
+}

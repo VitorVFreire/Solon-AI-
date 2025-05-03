@@ -1,0 +1,19 @@
+{
+  "company_name": "Telecomunicacoes Brasileiras SA Telebras",
+  "primary_activity": "Provedora de serviços de telecomunicações",
+  "sector": "Telecomunicações",
+  "subsector": "Telecomunicações",
+  "industry": "Telecomunicações",
+  "activity_description": "A Telecomunicacoes Brasileiras SA Telebras é uma empresa provedora de serviços de telecomunicações no Brasil, oferecendo soluções de conectividade para comunicação de voz, dados e internet.",
+  "main_products_services": [
+    "Serviços de telefonia fixa",
+    "Serviços de internet",
+    "Serviços de comunicação de dados"
+  ],
+  "competitors": [
+    "Claro",
+    "Vivo",
+    "TIM"
+  ],
+  "economic_classification_code": "4822-9/00 - Serviços de telecomunicações por fio"
+}

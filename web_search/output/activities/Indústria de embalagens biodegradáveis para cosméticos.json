@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Indústria de embalagens biodegradáveis para cosméticos",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens biodegradáveis para cosméticos desempenha um papel fundamental na redução do impacto ambiental causado pelo descarte de embalagens plásticas convencionais. Sua produção está alinhada com a crescente preocupação com a sustentabilidade e a busca por alternativas ecologicamente corretas no setor de cosméticos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de cosméticos",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma forte correlação entre a indústria de embalagens biodegradáveis para cosméticos e a indústria de cosméticos, uma vez que as embalagens são destinadas a acondicionar produtos desse setor. A demanda por embalagens sustentáveis está diretamente relacionada à produção e lançamento de novos produtos cosméticos.",
+      "economic_justification": "A indústria de embalagens biodegradáveis para cosméticos depende fortemente da indústria de cosméticos como principal cliente. A demanda por embalagens sustentáveis é impulsionada pela busca por produtos ecologicamente corretos, refletindo as tendências de consumo e a preocupação com a sustentabilidade."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de beleza sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com a indústria de embalagens de produtos de beleza sustentáveis, uma vez que ambas compartilham o foco na sustentabilidade e na redução do impacto ambiental. Embora não sejam idênticas, essas indústrias possuem interesses e objetivos semelhantes.",
+      "economic_justification": "A indústria de embalagens biodegradáveis para cosméticos e a indústria de embalagens de produtos de beleza sustentáveis têm interesses complementares na promoção de práticas sustentáveis. A colaboração entre esses setores pode impulsionar inovações e soluções ambientalmente amigáveis."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos preços de matérias-primas biodegradáveis",
+    "Regulamentações ambientais sobre embalagens sustentáveis",
+    "Tendências de consumo de produtos ecologicamente corretos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e tendências de mercado, mas variações regionais podem impactar as correlações identificadas."
+}

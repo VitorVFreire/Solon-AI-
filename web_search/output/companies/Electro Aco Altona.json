@@ -1,0 +1,16 @@
+{
+  "company_name": "Electro Aco Altona",
+  "primary_activity": "Fabricação de equipamentos elétricos e de aço",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Metalurgia",
+  "industry": "Fabricação de equipamentos elétricos e de aço",
+  "activity_description": "A Electro Aco Altona atua na fabricação de equipamentos elétricos e de aço, fornecendo produtos para diversos setores industriais.",
+  "main_products_services": [
+    "Equipamentos elétricos",
+    "Equipamentos de aço"
+  ],
+  "competitors": [
+    "Empresas de metalurgia e fabricação de equipamentos elétricos"
+  ],
+  "economic_classification_code": "CNAE 27.12-8-00"
+}

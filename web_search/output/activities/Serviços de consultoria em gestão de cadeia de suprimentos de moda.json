@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de cadeia de suprimentos de moda",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de cadeia de suprimentos de moda desempenham um papel fundamental na otimização e eficiência das operações no setor de moda, abrangendo desde o design até a distribuição dos produtos. Essa atividade contribui para a melhoria dos processos, redução de custos e aumento da competitividade das empresas de moda.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Têxtil",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação forte entre os serviços de consultoria em gestão de cadeia de suprimentos de moda e a Indústria Têxtil, pois a eficiência na gestão da cadeia de suprimentos afeta diretamente a produção de tecidos e materiais têxteis.",
+      "economic_justification": "Uma gestão eficiente da cadeia de suprimentos de moda depende do fornecimento constante e qualificado de tecidos e materiais têxteis, tornando a Indústria Têxtil um parceiro estratégico e essencial nesse processo."
+    },
+    {
+      "activity": "Comércio Varejista",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "Há uma correlação moderada com o Comércio Varejista, uma vez que a eficiência na gestão da cadeia de suprimentos de moda influencia diretamente a disponibilidade e variedade de produtos nas lojas varejistas.",
+      "economic_justification": "O Comércio Varejista depende da constante inovação e disponibilidade de produtos de moda para atender às demandas dos consumidores, sendo impactado pela eficiência na gestão da cadeia de suprimentos."
+    },
+    {
+      "activity": "Indústria de Cosméticos",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação fraca com a Indústria de Cosméticos, pois ambas as indústrias podem se beneficiar de estratégias de cadeia de suprimentos eficientes para lançamento de produtos conjuntos.",
+      "economic_justification": "A colaboração entre a Indústria de Cosméticos e a gestão de cadeia de suprimentos de moda pode resultar em lançamentos de produtos combinados, aproveitando sinergias e maximizando oportunidades de mercado."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações cambiais",
+    "Tendências de consumo",
+    "Políticas comerciais internacionais"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da atividade, mas variações regionais podem impactar as correlações identificadas."
+}

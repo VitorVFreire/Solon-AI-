@@ -1,0 +1,19 @@
+{
+  "company_name": "Avon Products Inc BDR",
+  "primary_activity": "Venda direta de produtos de beleza e cuidados pessoais",
+  "sector": "Comércio Varejista",
+  "subsector": "Venda Direta",
+  "industry": "Produtos de Beleza e Cuidados Pessoais",
+  "activity_description": "A Avon Products Inc BDR atua na venda direta de produtos de beleza e cuidados pessoais, oferecendo uma variedade de cosméticos, perfumes e produtos de cuidados com a pele.",
+  "main_products_services": [
+    "Cosméticos",
+    "Perfumes",
+    "Produtos de cuidados com a pele"
+  ],
+  "competitors": [
+    "Natura & Co",
+    "Mary Kay",
+    "Amway"
+  ],
+  "economic_classification_code": "4722-9/00 - Comércio varejista de cosméticos, produtos de perfumaria e de higiene pessoal"
+}

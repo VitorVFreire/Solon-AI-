@@ -1,0 +1,18 @@
+{
+  "company_name": "Karsten SA Pref",
+  "primary_activity": "Produção de têxteis e produtos para o lar",
+  "sector": "Moda",
+  "subsector": "Indústria Têxtil",
+  "industry": "Fabricação de tecidos e produtos têxteis",
+  "activity_description": "A Karsten SA Pref atua na produção de tecidos e produtos têxteis para o lar, oferecendo uma variedade de itens como roupas de cama, toalhas e produtos de decoração.",
+  "main_products_services": [
+    "Roupas de cama",
+    "Toalhas",
+    "Produtos de decoração"
+  ],
+  "competitors": [
+    "Santista Têxtil",
+    "Dohler"
+  ],
+  "economic_classification_code": ""
+}

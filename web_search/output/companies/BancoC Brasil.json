@@ -1,0 +1,20 @@
+{
+  "company_name": "Banco ABC Brasil SA Pref",
+  "primary_activity": "Instituição financeira especializada em serviços bancários",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Bancos comerciais de médio porte",
+  "activity_description": "O Banco ABC Brasil SA Pref é uma instituição financeira especializada em serviços bancários, atuando como um banco comercial de médio porte no setor financeiro brasileiro.",
+  "main_products_services": [
+    "Serviços bancários",
+    "Empréstimos",
+    "Investimentos",
+    "Financiamentos"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Itaú Unibanco",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6412-3/00"
+}

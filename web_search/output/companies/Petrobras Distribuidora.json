@@ -1,0 +1,21 @@
+{
+  "company_name": "Petrobras Distribuidora SA",
+  "primary_activity": "Distribuição de combustíveis e derivados de petróleo",
+  "sector": "Energia",
+  "subsector": "Petróleo e Gás",
+  "industry": "Distribuição de Combustíveis",
+  "activity_description": "A Petrobras Distribuidora atua na distribuição de combustíveis e derivados de petróleo, sendo uma subsidiária da Petrobras, uma das maiores empresas de energia do Brasil.",
+  "main_products_services": [
+    "Combustíveis",
+    "Óleos Lubrificantes",
+    "Asfaltos",
+    "Querosene",
+    "Gás Liquefeito de Petróleo (GLP)"
+  ],
+  "competitors": [
+    "Ipiranga",
+    "Raízen",
+    "Shell"
+  ],
+  "economic_classification_code": "4671-5/00"
+}

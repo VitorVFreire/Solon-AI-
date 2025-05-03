@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens plásticas",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens plásticas desempenha um papel fundamental na cadeia de produção de diversos setores, fornecendo embalagens essenciais para acondicionar e proteger produtos em diferentes segmentos de mercado.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de embalagens plásticas tem uma correlação forte com a indústria de produtos de limpeza, pois esta última depende de embalagens adequadas para acondicionar seus produtos.",
+      "economic_justification": "A produção de embalagens plásticas é essencial para a indústria de produtos de limpeza, pois as embalagens são parte integrante do produto final e influenciam diretamente a escolha do consumidor."
+    },
+    {
+      "activity": "Indústria de alimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria de embalagens plásticas tem uma correlação forte com a indústria de alimentos, pois esta última demanda embalagens seguras e práticas para acondicionar seus produtos.",
+      "economic_justification": "A indústria de embalagens plásticas é uma fornecedora essencial para a indústria de alimentos, garantindo embalagens que atendam aos requisitos de segurança, conservação e praticidade exigidos pelo setor alimentício."
+    },
+    {
+      "activity": "Indústria de produtos de higiene pessoal",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria de embalagens plásticas tem uma correlação moderada com a indústria de produtos de higiene pessoal, devido à necessidade de embalagens específicas para esses produtos.",
+      "economic_justification": "A indústria de embalagens plásticas fornece embalagens personalizadas e adequadas para a indústria de produtos de higiene pessoal, contribuindo para a atratividade e funcionalidade dos produtos no mercado."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços das resinas plásticas",
+    "Tendências de sustentabilidade e demanda por embalagens eco-friendly",
+    "Regulamentações ambientais sobre reciclagem de plásticos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considerou o contexto regional específico que pode influenciar as correlações identificadas."
+}

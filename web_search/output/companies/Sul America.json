@@ -1,0 +1,20 @@
+{
+  "company_name": "Sul America",
+  "primary_activity": "Seguros e serviços financeiros",
+  "sector": "Finanças",
+  "subsector": "Seguros",
+  "industry": "Seguros em geral",
+  "activity_description": "A Sul America atua no setor de seguros e serviços financeiros, oferecendo uma variedade de produtos de seguro, planos de saúde, previdência privada e outros serviços financeiros.",
+  "main_products_services": [
+    "Seguros de vida",
+    "Seguro saúde",
+    "Seguro de automóveis",
+    "Previdência privada"
+  ],
+  "competitors": [
+    "Bradesco Seguros",
+    "Porto Seguro",
+    "Itaú Seguros"
+  ],
+  "economic_classification_code": "6512-0/00 - Seguros, resseguros, previdência complementar e planos de saúde"
+}

@@ -1,0 +1,17 @@
+{
+  "company_name": "Metalfrio Solutions SA",
+  "primary_activity": "Fabricação de equipamentos de refrigeração comercial",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Equipamentos de Refrigeração Comercial",
+  "industry": "Fabricação de Freezers e Geladeiras Comerciais",
+  "activity_description": "A Metalfrio Solutions SA atua na fabricação de equipamentos de refrigeração comercial, especializando-se em freezers e geladeiras comerciais para diversos segmentos.",
+  "main_products_services": [
+    "Freezers Comerciais",
+    "Geladeiras Comerciais"
+  ],
+  "competitors": [
+    "Empresa de Refrigeração Comercial X",
+    "Fabricante de Freezers Y"
+  ],
+  "economic_classification_code": "CNAE 2825-6/00"
+}

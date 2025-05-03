@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de recursos humanos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de recursos humanos desempenham um papel fundamental nas organizações, auxiliando na contratação, desenvolvimento e retenção de talentos. Essa atividade é essencial para o bom funcionamento de empresas de diversos setores, impactando diretamente a produtividade e eficiência organizacional.",
+  "correlated_activities": [
+    {
+      "activity": "Recursos Humanos",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação muito forte e uma alta dependência entre os serviços de consultoria em gestão de recursos humanos e a área de Recursos Humanos. Ambas as atividades estão intrinsecamente ligadas, sendo essenciais para a gestão eficaz de pessoas nas organizações.",
+      "economic_justification": "Os serviços de consultoria em gestão de recursos humanos complementam as atividades internas de RH, fornecendo expertise especializada e estratégias inovadoras para lidar com questões complexas de gestão de pessoas."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de marketing",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Interdependência",
+      "correlation_description": "Existe uma correlação moderada e uma dependência moderada entre os serviços de consultoria em gestão de recursos humanos e os serviços de consultoria em gestão de marketing. Ambas as atividades buscam otimizar processos e estratégias para atingir metas organizacionais.",
+      "economic_justification": "A gestão eficaz de recursos humanos está diretamente relacionada ao sucesso das estratégias de marketing, pois colaboradores engajados e bem treinados contribuem para a construção de uma marca forte e para a satisfação dos clientes."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de cadeia de suprimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Interdependência",
+      "correlation_description": "Existe uma correlação forte e uma dependência alta entre os serviços de consultoria em gestão de recursos humanos e os serviços de consultoria em gestão de cadeia de suprimentos. Ambas as atividades visam a eficiência operacional e o alinhamento estratégico nas organizações.",
+      "economic_justification": "A gestão de recursos humanos desempenha um papel crucial na formação de equipes capacitadas para atuar na cadeia de suprimentos, garantindo a integração entre os processos logísticos e as necessidades de pessoal."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxa de desemprego",
+    "Crescimento econômico",
+    "Legislação trabalhista",
+    "Tecnologias de gestão de pessoas"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar de acordo com a região e o setor de atuação das empresas."
+}

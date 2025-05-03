@@ -1,0 +1,19 @@
+{
+  "company_name": "Raia Drogasil SA",
+  "primary_activity": "Varejo farmacêutico",
+  "sector": "Saúde",
+  "subsector": "Farmácias e Drogarias",
+  "industry": "Varejo Farmacêutico",
+  "activity_description": "A Raia Drogasil SA atua no varejo farmacêutico, oferecendo uma ampla variedade de medicamentos e produtos de saúde para seus clientes.",
+  "main_products_services": [
+    "Medicamentos",
+    "Produtos de saúde",
+    "Produtos de higiene pessoal"
+  ],
+  "competitors": [
+    "Drogaria São Paulo",
+    "Pague Menos",
+    "Droga Raia"
+  ],
+  "economic_classification_code": "4711-3/02"
+}

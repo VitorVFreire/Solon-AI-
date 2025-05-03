@@ -1,0 +1,18 @@
+{
+  "company_name": "Plascar Participacoes Industriais",
+  "primary_activity": "Indústria Automobilística",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de Peças e Acessórios para Veículos Automotores",
+  "industry": "Fabricação de Peças e Acessórios para Veículos Automotores",
+  "activity_description": "A Plascar Participacoes Industriais atua na fabricação de peças e acessórios para veículos automotores, fornecendo componentes para a indústria automobilística.",
+  "main_products_services": [
+    "Peças automotivas",
+    "Acessórios para veículos"
+  ],
+  "competitors": [
+    "Magna International",
+    "Faurecia",
+    "Valeo"
+  ],
+  "economic_classification_code": "CNAE 2930-1/02"
+}

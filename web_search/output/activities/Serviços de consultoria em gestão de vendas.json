@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de vendas",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de vendas desempenham um papel fundamental no auxílio às empresas na otimização de suas estratégias comerciais, aumentando suas receitas e melhorando sua eficiência operacional. Essa atividade está inserida no setor terciário da economia, contribuindo para a melhoria do desempenho das empresas em diversos setores.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão de marketing",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de vendas e de marketing são altamente complementares, pois estratégias eficazes de vendas dependem de uma sólida estratégia de marketing para alcançar e converter clientes potenciais.",
+      "economic_justification": "A integração entre as estratégias de vendas e marketing é essencial para o sucesso de uma empresa, pois a geração de leads qualificados pelo marketing impacta diretamente nas vendas realizadas. Empresas que buscam melhorar suas vendas muitas vezes necessitam de uma abordagem integrada entre essas duas áreas."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de recursos humanos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Interdependente",
+      "correlation_description": "Os serviços de consultoria em gestão de vendas e de recursos humanos possuem uma relação interdependente, uma vez que a eficácia das equipes de vendas está diretamente ligada à gestão adequada dos recursos humanos, recrutamento e treinamento.",
+      "economic_justification": "Equipes de vendas bem treinadas e motivadas impactam diretamente nos resultados de vendas de uma empresa. A consultoria em gestão de recursos humanos pode contribuir para a seleção dos profissionais adequados, treinamento eficaz e desenvolvimento de estratégias de incentivo que potencializem as vendas."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de marketing digital",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de vendas e de marketing digital são altamente complementares, pois a era digital transformou a forma como as vendas são realizadas, exigindo estratégias integradas entre vendas tradicionais e digitais.",
+      "economic_justification": "Com o crescimento do marketing digital, as estratégias de vendas precisam se adaptar a esse novo cenário. A consultoria em gestão de vendas aliada à consultoria em marketing digital pode proporcionar uma abordagem abrangente para alcançar e converter clientes em um ambiente digital em constante evolução."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações na demanda do mercado",
+    "Tendências de consumo",
+    "Inovações tecnológicas no setor de vendas e marketing"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar de acordo com as especificidades de cada empresa e mercado. Recomenda-se uma análise mais aprofundada para situações específicas."
+}

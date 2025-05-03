@@ -1,0 +1,20 @@
+{
+  "company_name": "Metalurgica Gerdau SA",
+  "primary_activity": "Produção de aço e produtos metalúrgicos",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Siderurgia",
+  "industry": "Produção de aço",
+  "activity_description": "A Metalúrgica Gerdau SA atua na produção de aço e produtos metalúrgicos, sendo especializada na fabricação de aço.",
+  "main_products_services": [
+    "Aço",
+    "Barras de aço",
+    "Fios de aço",
+    "Chapas de aço"
+  ],
+  "competitors": [
+    "Usiminas",
+    "CSN - Companhia Siderúrgica Nacional",
+    "ArcelorMittal"
+  ],
+  "economic_classification_code": "27.11-0-01 - Fabricação de produtos siderúrgicos semiacabados"
+}

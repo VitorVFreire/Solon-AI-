@@ -1,0 +1,21 @@
+{
+  "company_name": "Best Buy Co Inc",
+  "primary_activity": "Varejista de eletrônicos e produtos de tecnologia",
+  "sector": "Comércio Varejista",
+  "subsector": "Varejo de eletrônicos e tecnologia",
+  "industry": "Varejo de eletrônicos e produtos de tecnologia",
+  "activity_description": "A Best Buy Co Inc é uma empresa varejista especializada na venda de uma ampla variedade de eletrônicos, incluindo smartphones, computadores, TVs, eletrodomésticos e produtos de tecnologia.",
+  "main_products_services": [
+    "Smartphones",
+    "Computadores",
+    "TVs",
+    "Eletrodomésticos",
+    "Produtos de tecnologia"
+  ],
+  "competitors": [
+    "Amazon",
+    "Walmart",
+    "Magazine Luiza"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Cogna Educacao",
+  "primary_activity": "Educação",
+  "sector": "Educação",
+  "subsector": "Educação Básica e Ensino Superior",
+  "industry": "Educação",
+  "activity_description": "A Cogna Educacao atua no setor de Educação, oferecendo serviços educacionais que englobam desde a educação básica até o ensino superior. Seu foco principal é proporcionar soluções educacionais de qualidade para seus alunos.",
+  "main_products_services": [
+    "Ensino Básico",
+    "Ensino Superior",
+    "Cursos de Graduação e Pós-Graduação"
+  ],
+  "competitors": [
+    "Kroton Educacional",
+    "Ser Educacional",
+    "Estácio Participações"
+  ],
+  "economic_classification_code": "8512-2/00 - Educação Superior - Graduação e Pós-graduação"
+}

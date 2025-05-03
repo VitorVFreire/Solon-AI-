@@ -1,0 +1,19 @@
+{
+  "company_name": "Boeing Co BDR",
+  "primary_activity": "Fabricação de aeronaves e equipamentos aeroespaciais",
+  "sector": "Indústria Aeroespacial",
+  "subsector": "Fabricação de Aeronaves",
+  "industry": "Aeronaves Comerciais e Militares",
+  "activity_description": "A Boeing Co BDR atua na fabricação de aeronaves comerciais e militares, desenvolvendo tecnologias aeroespaciais avançadas para diversos fins.",
+  "main_products_services": [
+    "Aeronaves Comerciais",
+    "Aeronaves Militares",
+    "Sistemas de Defesa Aérea"
+  ],
+  "competitors": [
+    "Airbus SE",
+    "Lockheed Martin Corporation",
+    "Northrop Grumman Corporation"
+  ],
+  "economic_classification_code": "Aeroespacial"
+}

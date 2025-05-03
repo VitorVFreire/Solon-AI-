@@ -1,0 +1,18 @@
+{
+  "company_name": "Cia Energetica de Sao Paulo",
+  "primary_activity": "Geração e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica Convencional",
+  "activity_description": "A Cia Energetica de Sao Paulo atua na geração e distribuição de energia elétrica convencional no Brasil, fornecendo eletricidade para residências, indústrias e comércios.",
+  "main_products_services": [
+    "Geração de energia elétrica",
+    "Distribuição de energia elétrica"
+  ],
+  "competitors": [
+    "Eletropaulo",
+    "CPFL Energia",
+    "AES Brasil"
+  ],
+  "economic_classification_code": "4911-3/01"
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "Taurus Armas ON",
+  "primary_activity": "Fabricação e venda de armas de fogo",
+  "sector": "Indústria de Defesa",
+  "subsector": "Fabricação de armas de fogo e munições",
+  "industry": "Indústria de armas de fogo",
+  "activity_description": "A Taurus Armas ON é uma empresa brasileira especializada na fabricação e venda de armas de fogo. Seu foco principal está na produção de diversos tipos de armas e munições para diferentes segmentos, incluindo militar, policial e civil.",
+  "main_products_services": [
+    "Armas de fogo",
+    "Munições"
+  ],
+  "competitors": [
+    "Smith & Wesson",
+    "Glock",
+    "Beretta"
+  ],
+  "economic_classification_code": "332993"
+}

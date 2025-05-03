@@ -1,0 +1,20 @@
+{
+  "company_name": "Telecomunicacoes Brasileiras SA Pref",
+  "primary_activity": "Provedora de serviços de telecomunicações",
+  "sector": "Tecnologia",
+  "subsector": "Telecomunicações",
+  "industry": "Telecomunicações",
+  "activity_description": "A Telecomunicacoes Brasileiras SA Pref é uma empresa que atua como provedora de serviços de telecomunicações, oferecendo soluções de comunicação para clientes no Brasil. Seus principais serviços incluem telefonia fixa, telefonia móvel, internet e transmissão de dados.",
+  "main_products_services": [
+    "Telefonia fixa",
+    "Telefonia móvel",
+    "Internet",
+    "Transmissão de dados"
+  ],
+  "competitors": [
+    "Vivo",
+    "Claro",
+    "TIM"
+  ],
+  "economic_classification_code": "6399-2/00 - Outras atividades de telecomunicações não especificadas anteriormente"
+}

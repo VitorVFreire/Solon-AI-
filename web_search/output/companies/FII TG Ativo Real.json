@@ -1,0 +1,19 @@
+{
+  "company_name": "FII TG Ativo Real",
+  "primary_activity": "Investimento Imobiliário em Fundo de Investimento Imobiliário",
+  "sector": "Finanças",
+  "subsector": "Investimentos Imobiliários",
+  "industry": "Fundos de Investimento Imobiliário",
+  "activity_description": "A empresa FII TG Ativo Real atua no mercado de investimentos imobiliários por meio de um fundo de investimento imobiliário, focado na aquisição e gestão de ativos imobiliários.",
+  "main_products_services": [
+    "Gestão de Ativos Imobiliários",
+    "Aquisição de Imóveis",
+    "Distribuição de Rendimentos aos Cotistas"
+  ],
+  "competitors": [
+    "FII XP Log",
+    "FII HGLG11",
+    "FII BCFF11"
+  ],
+  "economic_classification_code": "6492-9/00"
+}

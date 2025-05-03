@@ -1,0 +1,21 @@
+{
+  "company_name": "Colgate-Palmolive Co BDR",
+  "primary_activity": "Fabricação e comercialização de produtos de higiene pessoal",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Produtos de Higiene Pessoal",
+  "industry": "Higiene Bucal e Cuidados Pessoais",
+  "activity_description": "A Colgate-Palmolive Co BDR é uma empresa especializada na fabricação e comercialização de produtos de higiene pessoal, com foco em higiene bucal e cuidados pessoais. Seus produtos incluem pastas de dente, escovas de dente, enxaguantes bucais, sabonetes e produtos para cuidados com a pele.",
+  "main_products_services": [
+    "Pastas de dente",
+    "Escovas de dente",
+    "Enxaguantes bucais",
+    "Sabonetes",
+    "Produtos para cuidados com a pele"
+  ],
+  "competitors": [
+    "Procter & Gamble",
+    "Unilever",
+    "Johnson & Johnson"
+  ],
+  "economic_classification_code": ""
+}

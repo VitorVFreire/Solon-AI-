@@ -1,0 +1,19 @@
+{
+  "company_name": "Unipar Carbocloro SA",
+  "primary_activity": "Produção de produtos químicos",
+  "sector": "Indústria Química",
+  "subsector": "Produtos Químicos Diversos",
+  "industry": "Produtos Químicos Clorados",
+  "activity_description": "A Unipar Carbocloro SA atua na produção de produtos químicos, com foco em produtos químicos clorados, como cloro e soda cáustica. Suas operações envolvem processos industriais complexos para a fabricação desses produtos essenciais para diversas indústrias.",
+  "main_products_services": [
+    "Cloro",
+    "Soda Cáustica",
+    "Produtos Químicos Clorados"
+  ],
+  "competitors": [
+    "Braskem",
+    "Dow",
+    "Oxiteno"
+  ],
+  "economic_classification_code": "20.13-5-00 - Fabricação de cloro e álcalis"
+}

@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria Automobilística",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria Automobilística engloba a fabricação de veículos automotores, peças e acessórios relacionados, desempenhando um papel crucial na economia global, empregando uma vasta cadeia de produção e impactando diversos setores.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de Materiais de Construção",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria Automobilística depende fortemente da Indústria de Materiais de Construção para fornecimento de materiais como aço, plástico, vidro, entre outros, essenciais na fabricação de veículos.",
+      "economic_justification": "A Indústria Automobilística requer uma ampla variedade de materiais de construção para a produção de veículos, sendo aço e plástico os mais utilizados. Qualquer mudança na disponibilidade ou preço desses materiais pode impactar significativamente a produção de veículos."
+    },
+    {
+      "activity": "Indústria de Tecnologia da Informação",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Comportamento de Mercado",
+      "correlation_description": "A Indústria Automobilística e a Indústria de Tecnologia da Informação possuem comportamentos de mercado semelhantes, com foco em inovação, automação e integração de sistemas.",
+      "economic_justification": "Ambas as indústrias estão cada vez mais integradas, com veículos automotivos incorporando tecnologias digitais avançadas. A colaboração entre esses setores é essencial para o desenvolvimento de veículos autônomos, conectados e inteligentes."
+    },
+    {
+      "activity": "Indústria de Energia Renovável",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Substituto",
+      "correlation_description": "A Indústria de Energia Renovável pode ser vista como um substituto em potencial para a Indústria Automobilística, à medida que a demanda por veículos elétricos aumenta.",
+      "economic_justification": "Com a transição para veículos elétricos e a busca por sustentabilidade, a Indústria de Energia Renovável se torna um setor complementar e, em certa medida, substituto da Indústria Automobilística, especialmente no desenvolvimento de infraestrutura de recarga e baterias."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de commodities (aço, plástico, alumínio)",
+    "Tendências de inovação tecnológica na fabricação de veículos",
+    "Regulamentações ambientais e de segurança veicular",
+    "Ciclos econômicos globais e demanda por veículos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto global da Indústria Automobilística, podendo haver variações significativas em níveis regionais ou de mercado."
+}

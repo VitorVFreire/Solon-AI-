@@ -1,0 +1,18 @@
+{
+  "company_name": "Helbor Empreendimentos SA",
+  "primary_activity": "Construção Civil de Empreendimentos Imobiliários",
+  "sector": "Construção Civil",
+  "subsector": "Desenvolvimento Imobiliário",
+  "industry": "Construção de Edifícios Residenciais e Comerciais",
+  "activity_description": "A Helbor Empreendimentos SA atua no desenvolvimento e construção de edifícios residenciais e comerciais, oferecendo empreendimentos imobiliários de qualidade.",
+  "main_products_services": [
+    "Construção de Edifícios Residenciais",
+    "Construção de Edifícios Comerciais"
+  ],
+  "competitors": [
+    "Cyrela Brazil Realty",
+    "Even Construtora e Incorporadora",
+    "MRV Engenharia"
+  ],
+  "economic_classification_code": "Real Estate Development and Construction"
+}

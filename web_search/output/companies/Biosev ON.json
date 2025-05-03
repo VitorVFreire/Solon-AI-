@@ -1,0 +1,19 @@
+{
+  "company_name": "Biosev ON",
+  "primary_activity": "Produção de açúcar e etanol",
+  "sector": "Agricultura",
+  "subsector": "Agricultura - Cultivo de Cana-de-Açúcar",
+  "industry": "Produção de Açúcar e Etanol",
+  "activity_description": "A Biosev ON atua na produção de açúcar e etanol, sendo especializada no cultivo de cana-de-açúcar para esses fins. A empresa está envolvida na produção e comercialização de produtos derivados da cana-de-açúcar.",
+  "main_products_services": [
+    "Açúcar",
+    "Etanol",
+    "Cana-de-Açúcar"
+  ],
+  "competitors": [
+    "Raízen",
+    "São Martinho",
+    "Usina São João"
+  ],
+  "economic_classification_code": "0116-3/01"
+}

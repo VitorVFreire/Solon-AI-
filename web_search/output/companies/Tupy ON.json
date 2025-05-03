@@ -1,0 +1,16 @@
+{
+  "company_name": "Tupy ON",
+  "primary_activity": "Indústria Metalúrgica",
+  "sector": "Indústria",
+  "subsector": "Metalurgia",
+  "industry": "Fundição de Metais",
+  "activity_description": "A Tupy ON atua na indústria metalúrgica, mais especificamente na fundição de metais, produzindo peças fundidas de alta qualidade para diversos setores.",
+  "main_products_services": [
+    "Peças fundidas de metais"
+  ],
+  "competitors": [
+    "WEG",
+    "Metalúrgica Gerdau"
+  ],
+  "economic_classification_code": "27.40-3"
+}

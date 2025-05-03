@@ -1,0 +1,19 @@
+{
+  "company_name": "Gradiente Electronica SA",
+  "primary_activity": "Fabricação de equipamentos eletrônicos",
+  "sector": "Tecnologia",
+  "subsector": "Eletrônicos",
+  "industry": "Equipamentos Eletrônicos",
+  "activity_description": "A empresa Gradiente Electronica SA atua na fabricação de equipamentos eletrônicos, com foco em produtos como televisores, aparelhos de som, e outros dispositivos eletrônicos.",
+  "main_products_services": [
+    "Televisores",
+    "Aparelhos de som",
+    "Dispositivos eletrônicos"
+  ],
+  "competitors": [
+    "Samsung Electronics",
+    "LG Electronics",
+    "Sony Corporation"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,20 @@
+{
+  "company_name": "Kraft Heinz Co DRC",
+  "primary_activity": "Produção de alimentos e bebidas",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Alimentos e Bebidas",
+  "industry": "Alimentos processados",
+  "activity_description": "A Kraft Heinz Co DRC atua na produção de alimentos e bebidas, com foco em alimentos processados.",
+  "main_products_services": [
+    "Alimentos processados",
+    "Molhos",
+    "Condimentos",
+    "Bebidas não alcoólicas"
+  ],
+  "competitors": [
+    "Nestlé",
+    "Unilever",
+    "PepsiCo"
+  ],
+  "economic_classification_code": "CNAE 10.71-2-00"
+}

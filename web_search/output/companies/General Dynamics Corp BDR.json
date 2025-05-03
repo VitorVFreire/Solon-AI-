@@ -1,0 +1,19 @@
+{
+  "company_name": "General Dynamics Corp BDR",
+  "primary_activity": "Indústria Aeroespacial e de Defesa",
+  "sector": "Tecnologia",
+  "subsector": "Aeroespacial e Defesa",
+  "industry": "Fabricação de Equipamentos Aeroespaciais e de Defesa",
+  "activity_description": "A General Dynamics Corp BDR atua na fabricação de equipamentos aeroespaciais e de defesa, fornecendo soluções para o setor militar e civil. Seus principais produtos incluem aeronaves militares, sistemas de defesa e equipamentos de comunicação.",
+  "main_products_services": [
+    "Aeronaves militares",
+    "Sistemas de defesa",
+    "Equipamentos de comunicação"
+  ],
+  "competitors": [
+    "Lockheed Martin Corporation",
+    "Boeing Company",
+    "Northrop Grumman Corporation"
+  ],
+  "economic_classification_code": "336414"
+}

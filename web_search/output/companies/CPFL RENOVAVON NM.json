@@ -1,0 +1,17 @@
+{
+  "company_name": "CPFL RENOVAVON NM",
+  "primary_activity": "Geração de energia renovável",
+  "sector": "Energia",
+  "subsector": "Energia renovável",
+  "industry": "Geração de energia renovável",
+  "activity_description": "A CPFL Renováveis atua na geração de energia elétrica a partir de fontes renováveis, como eólica, solar e pequenas centrais hidrelétricas. A empresa contribui para a matriz energética sustentável do Brasil.",
+  "main_products_services": [
+    "Geração de energia elétrica renovável"
+  ],
+  "competitors": [
+    "Renova Energia",
+    "AES Tietê",
+    "EDP Renováveis"
+  ],
+  "economic_classification_code": "Energia - 4010"
+}

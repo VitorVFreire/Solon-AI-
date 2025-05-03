@@ -1,0 +1,19 @@
+{
+  "company_name": "Notre Dame Intermedica Participacoes",
+  "primary_activity": "Operadora de planos de saúde",
+  "sector": "Saúde",
+  "subsector": "Planos de Saúde",
+  "industry": "Operadora de Planos de Saúde",
+  "activity_description": "A Notre Dame Intermedica Participacoes atua como operadora de planos de saúde, oferecendo serviços de assistência médica e hospitalar para seus beneficiários.",
+  "main_products_services": [
+    "Planos de Saúde",
+    "Assistência Médica",
+    "Assistência Hospitalar"
+  ],
+  "competitors": [
+    "Amil",
+    "SulAmérica",
+    "Hapvida"
+  ],
+  "economic_classification_code": null
+}

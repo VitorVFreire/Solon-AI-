@@ -1,0 +1,19 @@
+{
+  "company_name": "Chevron Corp BDR",
+  "primary_activity": "Exploração e produção de petróleo e gás",
+  "sector": "Energia",
+  "subsector": "Petróleo e Gás",
+  "industry": "Exploração e Produção de Petróleo",
+  "activity_description": "A Chevron Corp BDR atua na exploração e produção de petróleo e gás, buscando reservas de hidrocarbonetos e desenvolvendo projetos de extração.",
+  "main_products_services": [
+    "Petróleo",
+    "Gás Natural",
+    "Energia"
+  ],
+  "competitors": [
+    "ExxonMobil",
+    "Shell",
+    "BP"
+  ],
+  "economic_classification_code": "0610-7/00"
+}

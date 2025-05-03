@@ -1,0 +1,19 @@
+{
+  "company_name": "Panatlantica SA",
+  "primary_activity": "Indústria de Energia Renovável",
+  "sector": "Energia",
+  "subsector": "Energia Renovável",
+  "industry": "Energia Solar",
+  "activity_description": "Panatlantica SA atua na indústria de energia renovável, com foco em energia solar. A empresa desenvolve e implementa projetos de geração de energia limpa por meio da captação da luz solar.",
+  "main_products_services": [
+    "Painéis solares",
+    "Sistemas de energia solar",
+    "Consultoria em energia renovável"
+  ],
+  "competitors": [
+    "SolarCity",
+    "SunPower",
+    "Canadian Solar"
+  ],
+  "economic_classification_code": "CNAE 3511-5/01"
+}

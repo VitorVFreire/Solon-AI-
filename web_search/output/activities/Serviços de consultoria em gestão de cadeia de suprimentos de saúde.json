@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de cadeia de suprimentos de saúde",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de cadeia de suprimentos de saúde desempenham um papel fundamental na otimização e eficiência operacional de hospitais, clínicas e farmácias, garantindo o abastecimento adequado de medicamentos, equipamentos e materiais essenciais para o setor de saúde.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Farmacêutica",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Existe uma correlação forte entre os serviços de consultoria em gestão de cadeia de suprimentos de saúde e a Indústria Farmacêutica, devido à interdependência na logística de medicamentos e insumos médicos.",
+      "economic_justification": "A Indústria Farmacêutica depende de uma cadeia de suprimentos eficiente para fornecer seus produtos aos hospitais e farmácias, tornando a consultoria em gestão de cadeia de suprimentos de saúde um parceiro estratégico na garantia da disponibilidade e qualidade dos produtos farmacêuticos."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de logística",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada com os Serviços de consultoria em gestão de logística, pois ambas as atividades visam a eficiência e otimização de processos logísticos em diferentes setores.",
+      "economic_justification": "A gestão eficaz da cadeia de suprimentos de saúde requer expertise em logística, tornando a consultoria em gestão de cadeia de suprimentos de saúde e em logística atividades complementares na busca por processos mais eficientes e integrados."
+    },
+    {
+      "activity": "Indústria de equipamentos médicos",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Existe uma correlação forte com a Indústria de equipamentos médicos, devido à necessidade de uma cadeia de suprimentos eficiente para a distribuição de equipamentos e dispositivos médicos.",
+      "economic_justification": "A Indústria de equipamentos médicos depende de uma gestão logística eficaz para fornecer seus produtos aos hospitais e clínicas, sendo a consultoria em gestão de cadeia de suprimentos de saúde um parceiro estratégico na garantia da disponibilidade e qualidade desses equipamentos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de insumos médicos",
+    "Regulamentações governamentais sobre logística e distribuição de produtos de saúde",
+    "Investimentos em tecnologias de rastreamento e gestão de estoques"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da cadeia de suprimentos de saúde, podendo haver variações regionais ou setoriais que não foram abordadas."
+}

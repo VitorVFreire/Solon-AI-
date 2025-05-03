@@ -1,0 +1,19 @@
+{
+  "company_name": "AT&T Inc BDR",
+  "primary_activity": "Telecomunicações",
+  "sector": "Tecnologia",
+  "subsector": "Telecomunicações",
+  "industry": "Provedor de serviços de telecomunicações",
+  "activity_description": "A AT&T Inc é uma empresa de telecomunicações que fornece serviços de comunicação, internet e televisão para consumidores e empresas. Atua no mercado brasileiro através de BDRs (Brazilian Depositary Receipts).",
+  "main_products_services": [
+    "Serviços de telefonia fixa e móvel",
+    "Serviços de internet",
+    "Serviços de televisão por assinatura"
+  ],
+  "competitors": [
+    "Vivo",
+    "Claro",
+    "TIM"
+  ],
+  "economic_classification_code": "5131-7/00 - Operadoras de telefonia fixa comutada"
+}

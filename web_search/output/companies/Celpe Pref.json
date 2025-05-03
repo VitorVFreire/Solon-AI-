@@ -1,0 +1,17 @@
+{
+  "company_name": "Companhia Energetica de Pernambuco Celpe Pref",
+  "primary_activity": "Fornecimento de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Distribuição de Energia Elétrica",
+  "activity_description": "A Companhia Energetica de Pernambuco (Celpe) atua na distribuição de energia elétrica no estado de Pernambuco, garantindo o fornecimento de eletricidade para residências, empresas e indústrias.",
+  "main_products_services": [
+    "Distribuição de energia elétrica"
+  ],
+  "competitors": [
+    "Eletrobras",
+    "Neoenergia",
+    "Enel"
+  ],
+  "economic_classification_code": "4910-9/01"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Cristal Pigmentos do Brasil SA Pref A",
+  "primary_activity": "Produção e comercialização de pigmentos",
+  "sector": "Indústria Química",
+  "subsector": "Fabricação de pigmentos e corantes",
+  "industry": "Indústria de Pigmentos",
+  "activity_description": "A Cristal Pigmentos do Brasil SA Pref A atua na produção e comercialização de pigmentos utilizados em diferentes indústrias, como a indústria de tintas, plásticos e cosméticos. Seus produtos são essenciais para adicionar cor e efeitos visuais a uma variedade de produtos finais.",
+  "main_products_services": [
+    "Pigmentos para tintas",
+    "Pigmentos para plásticos",
+    "Pigmentos para cosméticos"
+  ],
+  "competitors": [
+    "Empresa de Pigmentos A",
+    "Empresa de Pigmentos B",
+    "Empresa de Pigmentos C"
+  ],
+  "economic_classification_code": "20.13-1/00"
+}

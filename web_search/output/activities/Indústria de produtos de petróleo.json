@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de produtos de petróleo",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de produtos de petróleo desempenha um papel fundamental na economia, fornecendo combustíveis essenciais para diversos setores, como transporte, indústria e agricultura. Além disso, produtos derivados de petróleo são amplamente utilizados na vida cotidiana, impactando diretamente o consumo e os custos de energia da população e das empresas.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Química",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A indústria de produtos de petróleo fornece matérias-primas essenciais para a indústria química na produção de plásticos, fertilizantes, produtos farmacêuticos, entre outros.",
+      "economic_justification": "Existe uma forte interdependência entre a indústria de produtos de petróleo e a indústria química devido ao fornecimento de insumos básicos para a fabricação de uma ampla gama de produtos químicos e materiais."
+    },
+    {
+      "activity": "Indústria Automobilística",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria automobilística é uma grande consumidora de combustíveis derivados de petróleo, como gasolina e diesel, para abastecer veículos.",
+      "economic_justification": "A indústria de produtos de petróleo depende significativamente da indústria automobilística como cliente principal para seus produtos, refletindo a demanda por combustíveis para o funcionamento de veículos."
+    },
+    {
+      "activity": "Indústria de Plásticos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de produtos de petróleo fornece matéria-prima fundamental para a produção de plásticos, como polietileno e polipropileno.",
+      "economic_justification": "Existe uma correlação moderada entre a indústria de produtos de petróleo e a indústria de plásticos devido à dependência dos plásticos de derivados de petróleo em sua fabricação."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos preços do petróleo no mercado internacional",
+    "Regulamentações ambientais e de segurança na indústria de petróleo",
+    "Demanda por energia e combustíveis em diferentes setores da economia"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da economia e pode variar em diferentes regiões ou mercados específicos."
+}

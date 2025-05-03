@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de marketing digital",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de marketing digital desempenham um papel fundamental na era digital, auxiliando empresas de diversos setores a alcançar e engajar seu público-alvo por meio de estratégias online.",
+  "correlated_activities": [
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de marketing digital dependem fortemente da Tecnologia da Informação para implementar estratégias eficazes online, como análise de dados, desenvolvimento de plataformas digitais e automação de processos.",
+      "economic_justification": "A Tecnologia da Informação fornece as ferramentas e infraestrutura necessárias para a execução de campanhas de marketing digital, sendo essencial para a eficácia e inovação nesse setor."
+    },
+    {
+      "activity": "Marketing Digital",
+      "correlation_level": "5",
+      "dependency_level": "0.85",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação muito forte entre os serviços de consultoria em gestão de marketing digital e o próprio setor de Marketing Digital, pois ambos estão intrinsecamente ligados na criação e execução de estratégias digitais.",
+      "economic_justification": "Os serviços de consultoria em gestão de marketing digital e o setor de Marketing Digital compartilham objetivos comuns de alcançar e envolver o público-alvo online, colaborando de forma complementar para o sucesso das campanhas."
+    },
+    {
+      "activity": "Consultoria em marketing",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com a Consultoria em marketing, uma vez que ambas as atividades estão envolvidas na criação e implementação de estratégias de marketing, com a consultoria em marketing digital focando especificamente no ambiente online.",
+      "economic_justification": "A Consultoria em marketing tradicional e a consultoria em gestão de marketing digital podem colaborar para oferecer soluções abrangentes aos clientes, combinando estratégias offline e online de forma integrada."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas tendências de consumo online",
+    "Inovações tecnológicas no setor digital",
+    "Regulamentações governamentais sobre publicidade online"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o cenário atual do mercado e pode variar de acordo com mudanças tecnológicas e regulatórias."
+}

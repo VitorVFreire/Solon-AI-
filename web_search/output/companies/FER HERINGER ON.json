@@ -1,0 +1,17 @@
+{
+  "company_name": "Fertilizantes Heringer SA",
+  "primary_activity": "Produção e comercialização de fertilizantes",
+  "sector": "Agricultura",
+  "subsector": "Fertilizantes",
+  "industry": "Indústria de Fertilizantes",
+  "activity_description": "A Fertilizantes Heringer SA atua na produção e comercialização de fertilizantes para o setor agrícola, fornecendo produtos que auxiliam no crescimento e desenvolvimento das plantas. A empresa oferece uma variedade de fertilizantes para atender às necessidades dos agricultores.",
+  "main_products_services": [
+    "Fertilizantes"
+  ],
+  "competitors": [
+    "Yara International",
+    "Mosaic Company",
+    "Nutrien"
+  ],
+  "economic_classification_code": "01.61-0-00 - Atividades de apoio à agricultura não especificadas anteriormente"
+}

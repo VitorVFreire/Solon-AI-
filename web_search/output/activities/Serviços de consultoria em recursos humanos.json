@@ -1,0 +1,40 @@
+{
+  "economic_activity": "Serviços de consultoria em recursos humanos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em recursos humanos desempenham um papel fundamental no apoio às empresas na gestão eficaz de seu capital humano, incluindo recrutamento, seleção, treinamento e desenvolvimento de pessoal. Essa atividade é essencial para a manutenção de equipes qualificadas e motivadas, impactando diretamente o desempenho organizacional e a competitividade no mercado de trabalho.",
+  "correlated_activities": [
+    {
+      "activity": "Recursos Humanos",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Os serviços de consultoria em recursos humanos estão altamente correlacionados com a área de Recursos Humanos, pois ambos lidam com a gestão e desenvolvimento de pessoal nas organizações. Existe uma complementaridade significativa entre essas atividades, onde a consultoria em RH oferece expertise especializada para melhorar as práticas internas de RH das empresas.",
+      "economic_justification": "A consultoria em recursos humanos complementa as atividades internas de RH das empresas, fornecendo conhecimentos especializados, melhores práticas e soluções personalizadas para otimizar a gestão de pessoas, aumentar a eficiência organizacional e promover um ambiente de trabalho saudável e produtivo."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre os serviços de consultoria em recursos humanos e a Gestão de Projetos, pois ambas as áreas podem colaborar em projetos que envolvem mudanças organizacionais, desenvolvimento de equipes e implementação de estratégias de RH.",
+      "economic_justification": "A Gestão de Projetos e a consultoria em recursos humanos podem trabalhar em conjunto para implementar iniciativas de desenvolvimento de pessoal, treinamentos específicos, programas de capacitação e reestruturações organizacionais, maximizando a eficácia e o impacto positivo dessas ações."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de recursos humanos",
+      "correlation_level": "5",
+      "dependency_level": "0,90",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Os serviços de consultoria em recursos humanos estão altamente correlacionados com os serviços de consultoria em gestão de recursos humanos, pois ambos atuam na melhoria dos processos e práticas relacionados à gestão de pessoas nas organizações.",
+      "economic_justification": "A consultoria em recursos humanos e a consultoria em gestão de RH compartilham objetivos semelhantes de aprimorar a gestão de pessoal, recrutamento, seleção, desenvolvimento de talentos e estratégias de retenção. Trabalhando em conjunto, podem oferecer soluções abrangentes e personalizadas para as necessidades das empresas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxa de desemprego",
+    "Crescimento econômico",
+    "Legislação trabalhista",
+    "Tendências de terceirização de serviços",
+    "Investimentos em capacitação profissional"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar de acordo com a região e o setor específico de atuação das empresas de consultoria em recursos humanos."
+}

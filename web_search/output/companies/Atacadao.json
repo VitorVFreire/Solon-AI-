@@ -1,0 +1,22 @@
+{
+  "company_name": "Atacadao SA",
+  "primary_activity": "Comércio Varejista de Produtos Alimentícios e Não Alimentícios em Grande Escala",
+  "sector": "Comércio Varejista",
+  "subsector": "Supermercados e Hipermercados",
+  "industry": "Varejista de Produtos Alimentícios e Não Alimentícios",
+  "activity_description": "O Atacadao SA atua no comércio varejista de produtos alimentícios e não alimentícios em grande escala, sendo especializado em supermercados e hipermercados.",
+  "main_products_services": [
+    "Alimentos",
+    "Bebidas",
+    "Produtos de Limpeza",
+    "Produtos de Higiene",
+    "Eletrônicos",
+    "Eletrodomésticos"
+  ],
+  "competitors": [
+    "Carrefour",
+    "Walmart",
+    "Extra"
+  ],
+  "economic_classification_code": null
+}

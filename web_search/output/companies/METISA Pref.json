@@ -1,0 +1,16 @@
+{
+  "company_name": "METISA Metalurgica Timboense SA Pref",
+  "primary_activity": "Metalurgia",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Metalurgia",
+  "industry": "Metalurgia em Geral",
+  "activity_description": "A METISA Metalurgica Timboense SA Pref atua na produção e comercialização de produtos metalúrgicos em geral, como peças fundidas e usinadas.",
+  "main_products_services": [
+    "Peças fundidas",
+    "Peças usinadas"
+  ],
+  "competitors": [
+    "Empresas de metalurgia concorrentes"
+  ],
+  "economic_classification_code": "CNAE 24.61-0-00"
+}

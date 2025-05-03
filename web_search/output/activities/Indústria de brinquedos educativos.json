@@ -1,0 +1,28 @@
+{
+  "economic_activity": "Indústria de brinquedos educativos",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de brinquedos educativos está inserida no setor secundário da economia, sendo responsável pela fabricação de brinquedos que têm como objetivo principal estimular o aprendizado e o desenvolvimento das crianças por meio de atividades lúdicas e educativas.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza hospitalar",
+      "correlation_level": "2",
+      "dependency_level": "0.30",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação fraca entre a Indústria de brinquedos educativos e a Indústria de produtos de limpeza hospitalar, devido à demanda por produtos de limpeza seguros e eficazes para manter os brinquedos limpos e higienizados em ambientes infantis.",
+      "economic_justification": "Os brinquedos educativos são utilizados em ambientes onde a higiene é essencial, como creches, escolas e hospitais infantis, criando uma demanda indireta por produtos de limpeza hospitalar específicos para garantir a segurança e saúde das crianças."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de higiene pessoal infantil",
+      "correlation_level": "3",
+      "dependency_level": "0.50",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação moderada entre a Indústria de brinquedos educativos e a Indústria de embalagens de produtos de higiene pessoal infantil, devido à necessidade de embalagens seguras e atrativas para produtos destinados ao público infantil.",
+      "economic_justification": "Os brinquedos educativos muitas vezes são comercializados em conjunto com produtos de higiene pessoal infantil, criando uma interdependência na oferta de embalagens que sejam adequadas para ambos os produtos e atraiam o público infantil."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a Indústria de brinquedos educativos incluem o poder de compra das famílias, políticas públicas de incentivo à educação infantil, e a taxa de natalidade que influencia diretamente o mercado consumidor."
+  ],
+  "confidence_level": "Médio",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo de especificidades regionais ou de mercado."
+}

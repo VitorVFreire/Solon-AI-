@@ -1,0 +1,15 @@
+{
+  "company_name": "Hercules SA Fabrica De Talheres",
+  "primary_activity": "Fabricação de talheres",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Fabricação de utensílios de mesa e cozinha",
+  "industry": "Fabricação de talheres",
+  "activity_description": "A empresa Hercules SA Fabrica De Talheres atua na fabricação de talheres, produzindo utensílios de mesa e cozinha para uso doméstico e comercial.",
+  "main_products_services": [
+    "Talheres de diversos tipos e materiais"
+  ],
+  "competitors": [
+    "Empresas fabricantes de talheres"
+  ],
+  "economic_classification_code": "CNAE 2592-1/00"
+}

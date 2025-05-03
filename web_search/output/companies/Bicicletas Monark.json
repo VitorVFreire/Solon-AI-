@@ -1,0 +1,18 @@
+{
+  "company_name": "Bicicletas Monark SA",
+  "primary_activity": "Fabricação e venda de bicicletas",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de bicicletas",
+  "industry": "Bicicletas e acessórios",
+  "activity_description": "A Bicicletas Monark SA atua na fabricação e venda de bicicletas e acessórios, sendo uma empresa especializada no setor de Indústria Automobilística, mais especificamente na fabricação de bicicletas.",
+  "main_products_services": [
+    "Bicicletas",
+    "Acessórios para bicicletas"
+  ],
+  "competitors": [
+    "Caloi",
+    "Houston Bikes",
+    "Oggi Bikes"
+  ],
+  "economic_classification_code": ""
+}

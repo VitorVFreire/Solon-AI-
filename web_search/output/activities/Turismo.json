@@ -1,0 +1,49 @@
+{
+  "economic_activity": "Turismo",
+  "sector_classification": "Terciário",
+  "economic_context": "O turismo é uma atividade de serviços essencial para muitas economias, contribuindo significativamente para o PIB, emprego e desenvolvimento regional. Envolve viagens, hospedagem, alimentação, entretenimento e atividades culturais.",
+  "correlated_activities": [
+    {
+      "activity": "Transporte",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "O setor de transporte está fortemente correlacionado com o turismo, uma vez que é essencial para o deslocamento de turistas entre destinos. Alterações nos serviços de transporte afetam diretamente o fluxo de turistas.",
+      "economic_justification": "O transporte é fundamental para viabilizar deslocamentos de turistas, seja por via aérea, terrestre ou marítima. Variações na disponibilidade, qualidade e preço dos serviços de transporte impactam diretamente a demanda turística."
+    },
+    {
+      "activity": "Hotelaria",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "A hotelaria e o turismo possuem uma relação muito forte, sendo a hotelaria fornecedora de serviços de hospedagem para os turistas. A demanda turística impulsiona a ocupação hoteleira e vice-versa.",
+      "economic_justification": "Os hotéis são essenciais para acomodar os turistas durante suas viagens. A qualidade, localização e preço dos hotéis influenciam diretamente a experiência do turista e, consequentemente, a atratividade do destino."
+    },
+    {
+      "activity": "Comércio Varejista",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "O comércio varejista e o turismo possuem uma correlação moderada, uma vez que os turistas frequentemente realizam compras durante suas viagens. O turismo pode impulsionar as vendas no varejo local.",
+      "economic_justification": "Os turistas costumam gastar em compras durante suas viagens, seja em souvenirs, produtos locais ou itens de necessidade. Destinos turísticos atrativos podem beneficiar o comércio varejista local."
+    },
+    {
+      "activity": "Cultura e Entretenimento",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Complementar",
+      "correlation_description": "As atividades culturais e de entretenimento estão correlacionadas com o turismo, uma vez que são um atrativo importante para os turistas. O turismo impulsiona o setor cultural e de entretenimento local.",
+      "economic_justification": "A oferta de atividades culturais e de entretenimento é essencial para enriquecer a experiência do turista em um destino. Eventos, museus, teatros e atrações turísticas são motivos de viagem para muitas pessoas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxa de câmbio",
+    "Clima",
+    "Segurança",
+    "Políticas de visto",
+    "Eventos internacionais",
+    "Infraestrutura de transporte"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral do turismo, podendo haver variações significativas de correlações dependendo da região e do tipo específico de turismo (ex: turismo de negócios, turismo de aventura, turismo cultural, etc)."
+}

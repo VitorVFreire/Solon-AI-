@@ -1,0 +1,20 @@
+{
+  "company_name": "Wells Fargo & Co BDR",
+  "primary_activity": "Serviços Financeiros",
+  "sector": "Finanças",
+  "subsector": "Bancos Comerciais",
+  "industry": "Bancos Comerciais Multinacionais",
+  "activity_description": "A Wells Fargo & Co BDR atua no setor financeiro, mais especificamente no subsector de bancos comerciais, oferecendo uma variedade de serviços bancários para clientes no Brasil e em outros países. Como um banco comercial multinacional, a empresa fornece serviços como empréstimos, investimentos, gestão de patrimônio e serviços bancários tradicionais.",
+  "main_products_services": [
+    "Empréstimos",
+    "Investimentos",
+    "Gestão de Patrimônio",
+    "Serviços Bancários"
+  ],
+  "competitors": [
+    "Itaú Unibanco",
+    "Banco do Brasil",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6511-8/01"
+}

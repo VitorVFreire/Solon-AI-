@@ -1,0 +1,19 @@
+{
+  "company_name": "FII KINEA",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Financeiro",
+  "subsector": "Fundos de Investimento Imobiliário",
+  "industry": "Gestão de Ativos Imobiliários",
+  "activity_description": "A FII KINEA atua como um Fundo de Investimento Imobiliário, focado na aquisição e gestão de ativos imobiliários, visando retorno financeiro aos seus cotistas.",
+  "main_products_services": [
+    "Gestão de Ativos Imobiliários",
+    "Investimento em Propriedades",
+    "Distribuição de Rendimentos aos Cotistas"
+  ],
+  "competitors": [
+    "FII XPML11",
+    "FII HGLG11",
+    "FII BCFF11"
+  ],
+  "economic_classification_code": "6593-9/00 - Fundos de Investimento Imobiliário"
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "General Severiano",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Desenvolvimento Imobiliário",
+  "industry": "Construção de Edifícios Residenciais e Comerciais",
+  "activity_description": "A empresa General Severiano atua no desenvolvimento imobiliário, focando na construção de edifícios residenciais e comerciais.",
+  "main_products_services": [
+    "Construção de Edifícios Residenciais",
+    "Construção de Edifícios Comerciais"
+  ],
+  "competitors": [
+    "Cyrela",
+    "MRV Engenharia",
+    "Even Construtora"
+  ],
+  "economic_classification_code": "2361"
+}

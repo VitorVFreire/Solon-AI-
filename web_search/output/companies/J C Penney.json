@@ -1,0 +1,20 @@
+{
+  "company_name": "J C Penney Company Inc",
+  "primary_activity": "Varejista de moda e produtos para o lar",
+  "sector": "Comércio Varejista",
+  "subsector": "Vestuário e Produtos para o Lar",
+  "industry": "Varejista de Moda e Artigos para Casa",
+  "activity_description": "A J C Penney Company Inc é uma empresa varejista que oferece moda, acessórios e produtos para o lar em suas lojas físicas e online. Seu foco está em proporcionar uma ampla variedade de opções para seus clientes, desde roupas até artigos de decoração.",
+  "main_products_services": [
+    "Roupas",
+    "Calçados",
+    "Acessórios",
+    "Artigos para Casa"
+  ],
+  "competitors": [
+    "Renner",
+    "C&A",
+    "Marisa"
+  ],
+  "economic_classification_code": ""
+}

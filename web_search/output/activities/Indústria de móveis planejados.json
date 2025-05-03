@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de móveis planejados",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de móveis planejados faz parte do setor secundário da economia, sendo responsável pela fabricação de móveis personalizados de acordo com as especificações dos clientes. É um setor que atende a demandas específicas e muitas vezes oferece produtos de maior valor agregado em comparação com móveis produzidos em larga escala.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de materiais de construção",
+      "correlation_level": "4",
+      "dependency_level": "0,65",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de móveis planejados depende fortemente da indústria de materiais de construção para obter insumos como madeira, metais, vidro, entre outros, utilizados na fabricação dos móveis.",
+      "economic_justification": "A indústria de móveis planejados necessita de uma variedade de materiais de construção para produzir os móveis personalizados, tornando a relação com a indústria de materiais de construção crucial para seu funcionamento."
+    },
+    {
+      "activity": "Arquitetura",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Complementar",
+      "correlation_description": "A indústria de móveis planejados tem uma correlação moderada com a arquitetura, pois frequentemente trabalham em conjunto para projetos de design de interiores e espaços personalizados.",
+      "economic_justification": "Arquitetos e designers de interiores muitas vezes especificam móveis planejados em seus projetos, o que cria uma relação complementar entre a indústria de móveis planejados e a arquitetura."
+    },
+    {
+      "activity": "Serviços de consultoria em design de interiores",
+      "correlation_level": "3",
+      "dependency_level": "0,45",
+      "correlation_type": "Cliente",
+      "correlation_description": "Os serviços de consultoria em design de interiores são clientes frequentes da indústria de móveis planejados, que fornecem móveis personalizados para os projetos de design de interiores.",
+      "economic_justification": "Os profissionais de design de interiores muitas vezes buscam móveis planejados para atender às necessidades específicas de seus clientes, estabelecendo uma relação cliente-fornecedor entre essas atividades."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nas taxas de juros, que podem impactar a demanda por móveis planejados em momentos de crédito mais restrito ou acessível.",
+    "Tendências de design e estilo de interiores, que influenciam as preferências dos consumidores e a demanda por móveis personalizados.",
+    "Crescimento do setor imobiliário, que pode impulsionar a demanda por móveis planejados em novas residências e em projetos de renovação."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de móveis planejados, podendo haver variações regionais e específicas de mercado que não foram abordadas."
+}

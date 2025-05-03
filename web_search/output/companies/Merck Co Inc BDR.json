@@ -1,0 +1,18 @@
+{
+  "company_name": "Merck & Co Inc BDR",
+  "primary_activity": "Indústria Farmacêutica",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Desenvolvimento e comercialização de medicamentos e produtos farmacêuticos",
+  "activity_description": "A Merck & Co Inc é uma empresa do setor de saúde, atuando na indústria farmacêutica. Seu foco está no desenvolvimento e comercialização de medicamentos e produtos farmacêuticos.",
+  "main_products_services": [
+    "Medicamentos",
+    "Produtos farmacêuticos"
+  ],
+  "competitors": [
+    "Pfizer Inc",
+    "Johnson & Johnson",
+    "Novartis AG"
+  ],
+  "economic_classification_code": "325412"
+}

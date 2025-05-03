@@ -1,0 +1,19 @@
+{
+  "company_name": "Companhia de Saneamento do Paraná Sanepar",
+  "primary_activity": "Fornecimento de serviços de saneamento básico",
+  "sector": "Serviços de Utilidade Pública",
+  "subsector": "Saneamento Básico",
+  "industry": "Saneamento",
+  "activity_description": "A Companhia de Saneamento do Paraná Sanepar atua no fornecimento de serviços de saneamento básico, incluindo abastecimento de água, coleta e tratamento de esgoto, e gestão de resíduos sólidos.",
+  "main_products_services": [
+    "Abastecimento de água",
+    "Coleta e tratamento de esgoto",
+    "Gestão de resíduos sólidos"
+  ],
+  "competitors": [
+    "Sabesp",
+    "Cedae",
+    "Copasa"
+  ],
+  "economic_classification_code": "49.00-6-01"
+}

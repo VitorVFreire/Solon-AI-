@@ -1,0 +1,19 @@
+{
+  "company_name": "Banco Alfa",
+  "primary_activity": "Instituição financeira especializada em investimentos",
+  "sector": "Finanças",
+  "subsector": "Serviços financeiros",
+  "industry": "Banco de investimento",
+  "activity_description": "O Banco Alfa é uma instituição financeira especializada em investimentos, oferecendo serviços de assessoria financeira, gestão de ativos e investimentos em diversos mercados financeiros.",
+  "main_products_services": [
+    "Assessoria financeira",
+    "Gestão de ativos",
+    "Investimentos financeiros"
+  ],
+  "competitors": [
+    "Banco Beta",
+    "Banco Gama",
+    "Banco Delta"
+  ],
+  "economic_classification_code": "6512-0/00 - Bancos de investimento"
+}

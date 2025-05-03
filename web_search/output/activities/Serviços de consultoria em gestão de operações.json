@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de operações",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de operações desempenham um papel fundamental na melhoria da eficiência e produtividade das empresas, auxiliando na identificação e implementação de práticas operacionais mais eficazes e na redução de custos.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão de cadeia de suprimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de operações e em gestão de cadeia de suprimentos, pois ambas visam otimizar processos empresariais. A eficiência operacional está diretamente ligada à eficiência da cadeia de suprimentos.",
+      "economic_justification": "A gestão eficaz das operações de uma empresa depende da integração e sincronização de suas atividades com a cadeia de suprimentos. A otimização de processos operacionais muitas vezes requer ajustes e melhorias na gestão da cadeia de suprimentos para garantir um fluxo contínuo e eficiente de materiais e informações."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de qualidade",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de operações e em gestão de qualidade, pois ambos buscam aprimorar os processos internos das empresas para garantir a excelência operacional e a satisfação do cliente.",
+      "economic_justification": "A gestão eficiente das operações requer não apenas processos otimizados, mas também altos padrões de qualidade. A integração de práticas de gestão de qualidade com a gestão de operações pode resultar em processos mais eficazes e produtos/serviços de maior qualidade."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de logística",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de operações e em gestão de logística, uma vez que ambas áreas estão relacionadas à eficiência e organização dos processos empresariais.",
+      "economic_justification": "A gestão eficaz das operações envolve não apenas a otimização dos processos internos, mas também a gestão eficiente da logística para garantir a entrega adequada de produtos/serviços. A integração dessas áreas pode resultar em uma cadeia operacional mais eficiente e eficaz."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos custos de matéria-prima e insumos",
+    "Tendências de automação e digitalização de processos",
+    "Políticas governamentais relacionadas a normas de qualidade e segurança",
+    "Variações na demanda do mercado e sazonalidade"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar de acordo com a especificidade de cada empresa e setor."
+}

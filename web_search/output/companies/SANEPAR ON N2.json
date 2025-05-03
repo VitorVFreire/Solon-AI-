@@ -1,0 +1,18 @@
+{
+  "company_name": "Companhia de Saneamento do Parana Sanepar",
+  "primary_activity": "Saneamento básico",
+  "sector": "Recursos Naturais",
+  "subsector": "Saneamento e Tratamento de Resíduos",
+  "industry": "Saneamento Básico",
+  "activity_description": "A Companhia de Saneamento do Paraná (Sanepar) atua no fornecimento de água potável, coleta e tratamento de esgoto, contribuindo para a melhoria da qualidade de vida e saúde da população.",
+  "main_products_services": [
+    "Fornecimento de água potável",
+    "Coleta e tratamento de esgoto"
+  ],
+  "competitors": [
+    "Sabesp",
+    "Copasa",
+    "Cedae"
+  ],
+  "economic_classification_code": "49.30-2-02"
+}

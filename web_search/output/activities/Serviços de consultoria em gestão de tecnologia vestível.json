@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de tecnologia vestível",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de tecnologia vestível desempenham um papel crucial na orientação estratégica e inovação no desenvolvimento de tecnologias vestíveis, como smartwatches e dispositivos de saúde. Essa atividade está inserida no setor terciário da economia, contribuindo para a melhoria da competitividade e eficiência das empresas que atuam nesse segmento de mercado.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de tecnologia vestível",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação muito forte e dependência crítica entre os serviços de consultoria em gestão de tecnologia vestível e a indústria de tecnologia vestível. Ambas as atividades estão intrinsecamente ligadas, onde a consultoria em gestão impulsiona a inovação e o desenvolvimento de produtos na indústria.",
+      "economic_justification": "Os serviços de consultoria em gestão de tecnologia vestível desempenham um papel fundamental na orientação estratégica e no aprimoramento da competitividade das empresas que atuam na indústria de tecnologia vestível. A consultoria auxilia na identificação de tendências de mercado, na otimização de processos e na implementação de inovações, sendo essencial para o sucesso e crescimento do setor."
+    },
+    {
+      "activity": "Indústria de eletrônicos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação forte e dependência alta entre os serviços de consultoria em gestão de tecnologia vestível e a indústria de eletrônicos. A consultoria especializada contribui significativamente para a integração de tecnologias vestíveis em dispositivos eletrônicos, impulsionando a inovação e a qualidade dos produtos.",
+      "economic_justification": "A interseção entre tecnologia vestível e eletrônicos é evidente, e os serviços de consultoria em gestão desempenham um papel crucial na integração dessas tecnologias. A expertise em gestão de tecnologia vestível pode melhorar a eficiência operacional e a competitividade das empresas de eletrônicos, resultando em produtos mais avançados e adaptados às demandas do mercado."
+    },
+    {
+      "activity": "Indústria de saúde",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação forte e dependência alta entre os serviços de consultoria em gestão de tecnologia vestível e a indústria de saúde. A consultoria em gestão contribui para a implementação eficaz de tecnologias vestíveis na área da saúde, melhorando a prestação de serviços e a qualidade do atendimento.",
+      "economic_justification": "A tecnologia vestível tem um impacto significativo na indústria de saúde, permitindo monitoramento remoto, diagnósticos mais precisos e cuidados personalizados. Os serviços de consultoria em gestão desempenham um papel fundamental na integração dessas tecnologias, garantindo sua eficácia e conformidade com os padrões regulatórios da área da saúde."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Inovação tecnológica",
+    "Investimentos em pesquisa e desenvolvimento",
+    "Regulamentações governamentais sobre tecnologia e saúde"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o cenário atual do mercado e pode variar conforme mudanças tecnológicas e regulatórias. Variações significativas nos investimentos em P&D ou alterações nas políticas governamentais podem impactar as correlações identificadas."
+}

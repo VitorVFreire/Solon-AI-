@@ -1,0 +1,18 @@
+{
+  "company_name": "Sanchez Energy Corp",
+  "primary_activity": "Exploração e produção de petróleo e gás",
+  "sector": "Energia",
+  "subsector": "Exploração e Produção de Petróleo e Gás",
+  "industry": "Exploração e Produção de Petróleo e Gás",
+  "activity_description": "A Sanchez Energy Corp atua na exploração e produção de petróleo e gás, com foco em operações no Brasil.",
+  "main_products_services": [
+    "Exploração de campos de petróleo",
+    "Produção de petróleo e gás"
+  ],
+  "competitors": [
+    "Petrobras",
+    "Shell",
+    "Chevron"
+  ],
+  "economic_classification_code": "NAICS 211111 - Exploração de Petróleo e Gás"
+}

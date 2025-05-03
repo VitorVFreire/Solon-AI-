@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de resíduos sólidos urbanos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de resíduos sólidos urbanos desempenham um papel fundamental na promoção da sustentabilidade ambiental e na conformidade com regulamentações ambientais. Essa atividade contribui para a redução de impactos negativos no meio ambiente, promovendo práticas de reciclagem e gestão adequada de resíduos urbanos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de reciclagem",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de resíduos sólidos urbanos e a indústria de reciclagem, pois a consultoria pode fornecer orientações estratégicas para a reciclagem eficiente dos resíduos coletados.",
+      "economic_justification": "Os serviços de consultoria em gestão de resíduos sólidos urbanos podem identificar oportunidades de reciclagem, otimizando processos e aumentando a eficiência da indústria de reciclagem, o que resulta em benefícios ambientais e econômicos."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de resíduos sólidos urbanos e a indústria de embalagens sustentáveis, uma vez que a gestão eficaz de resíduos pode incentivar o uso de embalagens mais sustentáveis.",
+      "economic_justification": "A consultoria em gestão de resíduos sólidos urbanos pode influenciar a demanda por embalagens sustentáveis, impulsionando a indústria a desenvolver soluções inovadoras e ecologicamente corretas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Regulamentações ambientais",
+    "Consciência ambiental da população",
+    "Investimentos em tecnologias de reciclagem"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo da região e das especificidades locais de cada mercado."
+}

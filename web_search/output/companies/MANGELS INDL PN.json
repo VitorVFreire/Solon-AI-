@@ -1,0 +1,17 @@
+{
+  "company_name": "Mangels Industrial SA",
+  "primary_activity": "Fabricação de produtos metálicos",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Fabricação de produtos metálicos",
+  "industry": "Fabricação de produtos metálicos",
+  "activity_description": "A Mangels Industrial SA atua na fabricação de produtos metálicos, como rodas automotivas e produtos para indústria em geral.",
+  "main_products_services": [
+    "Rodas automotivas",
+    "Produtos metálicos para indústria"
+  ],
+  "competitors": [
+    "Empresa concorrente 1",
+    "Empresa concorrente 2"
+  ],
+  "economic_classification_code": "CNAE 2599-1/99 - Fabricação de produtos metálicos não especificados anteriormente"
+}

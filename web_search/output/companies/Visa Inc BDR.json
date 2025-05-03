@@ -1,0 +1,17 @@
+{
+  "company_name": "Visa Inc BDR",
+  "primary_activity": "Serviços de Pagamentos Eletrônicos",
+  "sector": "Tecnologia",
+  "subsector": "Serviços de Pagamentos",
+  "industry": "Processamento de Transações Financeiras",
+  "activity_description": "A Visa Inc BDR atua no processamento de transações financeiras, oferecendo serviços de pagamentos eletrônicos para facilitar transações seguras e eficientes.",
+  "main_products_services": [
+    "Serviços de Pagamentos Eletrônicos"
+  ],
+  "competitors": [
+    "Mastercard",
+    "American Express",
+    "PayPal"
+  ],
+  "economic_classification_code": "6492-9/01"
+}

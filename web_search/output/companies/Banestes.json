@@ -1,0 +1,19 @@
+{
+  "company_name": "Banestes SA Banco do Estado do Espirito Santo",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos comerciais",
+  "industry": "Banco Estadual",
+  "activity_description": "O Banestes SA Banco do Estado do Espirito Santo é uma instituição financeira que atua como banco comercial, oferecendo uma variedade de serviços bancários e financeiros no estado do Espírito Santo, Brasil.",
+  "main_products_services": [
+    "Serviços bancários",
+    "Empréstimos",
+    "Investimentos financeiros"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Bradesco",
+    "Itaú Unibanco"
+  ],
+  "economic_classification_code": "6412-3/00 - Bancos comerciais"
+}

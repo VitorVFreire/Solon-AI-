@@ -1,0 +1,15 @@
+{
+  "company_name": "FII Castello Branco Office",
+  "primary_activity": "Investimento imobiliário em escritórios",
+  "sector": "Imobiliário",
+  "subsector": "Fundos de Investimento Imobiliário (FII)",
+  "industry": "Escritórios comerciais",
+  "activity_description": "A FII Castello Branco Office atua no mercado de investimento imobiliário, focando em escritórios comerciais. Seu objetivo é adquirir e gerir imóveis para obter rendimentos através da locação desses espaços.",
+  "main_products_services": [
+    "Investimento em escritórios comerciais"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário"
+  ],
+  "economic_classification_code": "Real Estate Investment Trust (REIT)"
+}

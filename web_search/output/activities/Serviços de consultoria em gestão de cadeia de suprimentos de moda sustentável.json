@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de cadeia de suprimentos de moda sustentável",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de cadeia de suprimentos de moda sustentável desempenham um papel fundamental na promoção de práticas éticas e sustentáveis na indústria da moda. Essa atividade busca otimizar a cadeia de suprimentos, desde a produção até o varejo, visando reduzir impactos ambientais e sociais negativos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de moda sustentável",
+      "correlation_level": "5",
+      "dependency_level": "0.85",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação muito forte e dependência crítica entre os serviços de consultoria em gestão de cadeia de suprimentos de moda sustentável e a indústria de moda sustentável. Ambas as atividades estão intrinsecamente ligadas na promoção de práticas sustentáveis na indústria da moda, sendo complementares em seus objetivos e ações.",
+      "economic_justification": "Os serviços de consultoria em gestão de cadeia de suprimentos de moda sustentável atuam em sinergia com a indústria de moda sustentável, fornecendo expertise e orientação especializada para melhorar a sustentabilidade e responsabilidade social ao longo de toda a cadeia produtiva. A colaboração entre essas atividades é essencial para impulsionar a adoção de práticas sustentáveis no setor."
+    },
+    {
+      "activity": "Indústria de tecidos orgânicos",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação forte e dependência alta entre os serviços de consultoria em gestão de cadeia de suprimentos de moda sustentável e a indústria de tecidos orgânicos. A disponibilidade de tecidos orgânicos de alta qualidade e sustentáveis é essencial para a produção de moda sustentável, tornando essa relação crucial para ambas as atividades.",
+      "economic_justification": "Os serviços de consultoria em gestão de cadeia de suprimentos de moda sustentável dependem diretamente da indústria de tecidos orgânicos para garantir a matéria-prima adequada e alinhada com os princípios de sustentabilidade. A colaboração com fornecedores de tecidos orgânicos é fundamental para manter a integridade e os padrões éticos da moda sustentável."
+    },
+    {
+      "activity": "Comércio Varejista de Moda Sustentável",
+      "correlation_level": "4",
+      "dependency_level": "0.80",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação forte e dependência alta entre os serviços de consultoria em gestão de cadeia de suprimentos de moda sustentável e o comércio varejista de moda sustentável. Os varejistas dependem desses serviços para garantir a qualidade e sustentabilidade dos produtos oferecidos aos consumidores conscientes.",
+      "economic_justification": "Os serviços de consultoria em gestão de cadeia de suprimentos de moda sustentável desempenham um papel crucial na garantia da transparência e sustentabilidade dos produtos de moda. O comércio varejista de moda sustentável se beneficia diretamente desses serviços para atender à demanda crescente por produtos éticos e sustentáveis."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de consultoria em gestão de cadeia de suprimentos de moda sustentável incluem as políticas ambientais, as tendências de consumo sustentável, as regulamentações trabalhistas e ambientais, e as taxas de câmbio que impactam o comércio internacional de produtos sustentáveis."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de mercado e pode variar dependendo das condições específicas de cada região ou empresa. Variações nas políticas governamentais, mudanças abruptas no comportamento do consumidor ou eventos inesperados podem afetar as correlações identificadas."
+}

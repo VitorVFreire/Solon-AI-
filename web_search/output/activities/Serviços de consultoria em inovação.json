@@ -1,0 +1,44 @@
+{
+  "economic_activity": "Serviços de consultoria em inovação",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em inovação desempenham um papel fundamental na melhoria da competitividade e no desenvolvimento de novas estratégias de negócios para as empresas, incentivando a criatividade e a diferenciação no mercado.",
+  "correlated_activities": [
+    {
+      "activity": "Pesquisa Científica",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em inovação frequentemente se relacionam de forma complementar com a pesquisa científica, pois a pesquisa fornece a base para o desenvolvimento de novas ideias e tecnologias que podem ser implementadas nas empresas.",
+      "economic_justification": "A pesquisa científica gera conhecimento e descobertas que podem ser aplicadas pelas empresas por meio dos serviços de consultoria em inovação, impulsionando a criação de produtos e processos inovadores."
+    },
+    {
+      "activity": "Consultoria Empresarial",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em inovação e a consultoria empresarial frequentemente atuam de forma complementar, uma vez que a inovação é essencial para a evolução e competitividade das empresas.",
+      "economic_justification": "A consultoria empresarial pode fornecer insights estratégicos e de gestão que potencializam a implementação bem-sucedida de processos inovadores propostos pelos serviços de consultoria em inovação."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em inovação e a gestão de projetos estão correlacionados de forma complementar, pois a inovação muitas vezes requer a execução eficiente de projetos complexos.",
+      "economic_justification": "Uma gestão de projetos eficaz é essencial para garantir a implementação bem-sucedida de iniciativas inovadoras, maximizando os recursos e reduzindo os riscos associados."
+    },
+    {
+      "activity": "Marketing Digital",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em inovação e o marketing digital podem atuar de forma complementar, uma vez que a inovação frequentemente requer estratégias de marketing inovadoras para sua promoção.",
+      "economic_justification": "O marketing digital pode ser essencial para comunicar e posicionar adequadamente as inovações desenvolvidas pelos serviços de consultoria em inovação, alcançando o público-alvo de forma eficaz."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de consultoria em inovação incluem o investimento em pesquisa e desenvolvimento, as políticas de incentivo à inovação, a demanda por soluções inovadoras no mercado e a estabilidade econômica que favorece a experimentação e adoção de novas ideias."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante ressaltar que as correlações identificadas são baseadas em padrões observados e podem variar dependendo do contexto específico de cada empresa e mercado."
+}

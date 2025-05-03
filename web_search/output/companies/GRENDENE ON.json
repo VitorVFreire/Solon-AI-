@@ -1,0 +1,20 @@
+{
+  "company_name": "Grendene SA",
+  "primary_activity": "Fabricação de calçados",
+  "sector": "Moda",
+  "subsector": "Calçados",
+  "industry": "Calçados de moda",
+  "activity_description": "A Grendene SA atua na fabricação de calçados de moda, oferecendo uma variedade de produtos para diferentes segmentos de mercado.",
+  "main_products_services": [
+    "Sandálias",
+    "Chinelos",
+    "Sapatos",
+    "Botas"
+  ],
+  "competitors": [
+    "Alpargatas",
+    "Vulcabras Azaleia",
+    "Arezzo&Co"
+  ],
+  "economic_classification_code": "C1520"
+}

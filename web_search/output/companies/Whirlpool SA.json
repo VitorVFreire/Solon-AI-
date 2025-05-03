@@ -1,0 +1,20 @@
+{
+  "company_name": "Whirlpool SA",
+  "primary_activity": "Fabricação de eletrodomésticos",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de eletrodomésticos",
+  "industry": "Eletrodomésticos",
+  "activity_description": "A Whirlpool SA atua na fabricação de eletrodomésticos, incluindo geladeiras, fogões, máquinas de lavar e secar roupa.",
+  "main_products_services": [
+    "Geladeiras",
+    "Fogões",
+    "Máquinas de lavar",
+    "Máquinas de secar roupa"
+  ],
+  "competitors": [
+    "Electrolux",
+    "Brastemp",
+    "Consul"
+  ],
+  "economic_classification_code": "CNAE 2751-1/00"
+}

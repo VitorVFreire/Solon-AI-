@@ -1,0 +1,31 @@
+{
+  "economic_activity": "Indústria de embalagens de produtos de higiene pessoal infantil",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens de produtos de higiene pessoal infantil desempenha um papel crucial na proteção e apresentação de produtos destinados ao público infantil, garantindo segurança, atratividade e adequação às normas regulatórias específicas para esse segmento de mercado. Sua atividade está diretamente ligada à demanda por produtos de higiene pessoal infantil, refletindo as tendências e necessidades desse setor.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de higiene pessoal infantil",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação forte entre a indústria de embalagens de produtos de higiene pessoal infantil e a indústria de produtos de higiene pessoal infantil. Ambas as atividades são complementares, uma vez que a qualidade, segurança e atratividade das embalagens impactam diretamente a percepção e aceitação dos produtos pelos consumidores, especialmente no segmento infantil.",
+      "economic_justification": "A qualidade das embalagens de produtos de higiene pessoal infantil é essencial para garantir a integridade e segurança dos produtos, além de transmitir confiança aos consumidores. A embalagem é parte fundamental da experiência de consumo, influenciando a decisão de compra e a fidelização dos clientes. Portanto, a indústria de embalagens e a indústria de produtos de higiene pessoal infantil possuem uma relação de complementaridade que impacta diretamente a competitividade e o sucesso desses setores."
+    },
+    {
+      "activity": "Indústria de produtos de higiene pessoal masculinos",
+      "correlation_level": "2",
+      "dependency_level": "0,35",
+      "correlation_type": "Substituição",
+      "correlation_description": "Existe uma correlação fraca entre a indústria de embalagens de produtos de higiene pessoal infantil e a indústria de produtos de higiene pessoal masculinos. Embora atendam a públicos diferentes, em alguns casos as embalagens podem ser adaptadas para produtos de higiene pessoal masculinos, o que gera uma relação de substituição em certos aspectos.",
+      "economic_justification": "Embora os produtos de higiene pessoal infantil e masculinos tenham públicos-alvo distintos, em algumas situações as embalagens podem ser adaptadas para atender a ambas as demandas. No entanto, as especificidades de cada segmento muitas vezes requerem embalagens personalizadas, o que limita a substituição direta. A relação de substituição é mais evidente em produtos que possuem características similares e podem compartilhar certos tipos de embalagens."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas vendas de produtos de higiene pessoal infantil",
+    "Regulamentações governamentais sobre embalagens e produtos infantis",
+    "Tendências de consumo e inovações em embalagens sustentáveis",
+    "Investimentos em pesquisa e desenvolvimento de embalagens seguras para crianças"
+  ],
+  "confidence_level": "Médio",
+  "analysis_limitations": "A análise considera principalmente o mercado nacional, podendo haver variações significativas em contextos regionais específicos."
+}

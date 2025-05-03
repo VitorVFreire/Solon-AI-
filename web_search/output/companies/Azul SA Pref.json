@@ -1,0 +1,19 @@
+{
+  "company_name": "Azul SA Pref",
+  "primary_activity": "Transporte aéreo de passageiros",
+  "sector": "Transporte",
+  "subsector": "Transporte aéreo",
+  "industry": "Companhia aérea",
+  "activity_description": "A Azul SA Pref atua no transporte aéreo de passageiros, sendo uma companhia aérea que opera voos nacionais e internacionais. Oferece serviços de transporte de passageiros, bagagens e carga.",
+  "main_products_services": [
+    "Passagens aéreas",
+    "Transporte de bagagens",
+    "Transporte de carga"
+  ],
+  "competitors": [
+    "Gol Linhas Aéreas",
+    "LATAM Airlines",
+    "Avianca Brasil"
+  ],
+  "economic_classification_code": "4911-6/01"
+}

@@ -1,0 +1,17 @@
+{
+  "company_name": "Companhia Energetica do Rio Grande do Norte Cosern",
+  "primary_activity": "Geração, transmissão e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Distribuição de Energia Elétrica",
+  "activity_description": "A Companhia Energetica do Rio Grande do Norte (Cosern) atua na geração, transmissão e distribuição de energia elétrica no estado do Rio Grande do Norte, no Brasil.",
+  "main_products_services": [
+    "Energia Elétrica"
+  ],
+  "competitors": [
+    "Neoenergia",
+    "Equatorial Energia",
+    "CPFL Energia"
+  ],
+  "economic_classification_code": "4911-3/01"
+}

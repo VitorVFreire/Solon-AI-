@@ -1,0 +1,19 @@
+{
+  "company_name": "International Meal Company",
+  "primary_activity": "Serviços de alimentação e refeições",
+  "sector": "Turismo",
+  "subsector": "Alimentação e Hospedagem",
+  "industry": "Restaurantes e Serviços de Alimentação",
+  "activity_description": "A International Meal Company atua no setor de turismo, oferecendo serviços de alimentação e refeições. Especializada em restaurantes e serviços de alimentação, a empresa busca proporcionar experiências gastronômicas de qualidade aos seus clientes.",
+  "main_products_services": [
+    "Refeições em restaurantes",
+    "Serviços de alimentação",
+    "Catering para eventos"
+  ],
+  "competitors": [
+    "Grupo Sapore",
+    "Giraffas",
+    "Outback Steakhouse"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de recursos humanos para startups",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de recursos humanos para startups desempenham um papel fundamental no apoio às empresas em fase inicial, auxiliando na construção de equipes eficazes, na retenção de talentos e no desenvolvimento de estratégias de gestão de pessoas personalizadas para o ambiente empreendedor.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão de marketing para startups",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de recursos humanos e em gestão de marketing para startups, pois ambas as áreas são essenciais para o crescimento e sucesso das empresas em fase inicial.",
+      "economic_justification": "Uma gestão eficaz de recursos humanos está diretamente ligada à capacidade de atrair talentos e manter uma equipe motivada, o que impacta diretamente as estratégias de marketing e a imagem da empresa no mercado."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de projetos para startups",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de recursos humanos e em gestão de projetos para startups, uma vez que ambas as áreas contribuem para a eficiência operacional e o desenvolvimento organizacional das empresas em fase inicial.",
+      "economic_justification": "Uma gestão adequada de recursos humanos pode impactar diretamente a execução de projetos, a alocação de recursos e a produtividade da equipe, sendo essencial para o sucesso de iniciativas e inovações dentro das startups."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de marketing digital para startups",
+      "correlation_level": "5",
+      "dependency_level": "0.85",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação muito forte entre os serviços de consultoria em gestão de recursos humanos e em gestão de marketing digital para startups, pois ambas as áreas são cruciais para a construção de uma marca sólida e atraente no ambiente digital.",
+      "economic_justification": "A gestão de recursos humanos impacta diretamente a capacidade da empresa de executar estratégias de marketing digital eficazes, garantindo que a equipe esteja alinhada com os objetivos de branding e engajamento online da startup."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que podem afetar os serviços de consultoria em gestão de recursos humanos para startups incluem o cenário de investimentos em empreendedorismo, a taxa de desemprego, a disponibilidade de capital de risco e as políticas governamentais de incentivo à inovação e criação de novas empresas."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante ressaltar que as correlações identificadas são baseadas em princípios econômicos e práticas comuns no ambiente empresarial, no entanto, a dinâmica específica de cada startup e mercado pode influenciar as relações de forma única."
+}

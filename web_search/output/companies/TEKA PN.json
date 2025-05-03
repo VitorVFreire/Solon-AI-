@@ -1,0 +1,19 @@
+{
+  "company_name": "Teka Tecelagem Kuehnrich SA",
+  "primary_activity": "Produção e comercialização de tecidos",
+  "sector": "Indústria Têxtil",
+  "subsector": "Tecelagem",
+  "industry": "Tecidos para diversos fins",
+  "activity_description": "A Teka Tecelagem Kuehnrich SA atua na produção e comercialização de tecidos para diversos fins, desde vestuário até decoração.",
+  "main_products_services": [
+    "Tecidos para vestuário",
+    "Tecidos para decoração",
+    "Tecidos para uso industrial"
+  ],
+  "competitors": [
+    "Santista Têxtil",
+    "Hering Têxtil",
+    "Malwee Malhas"
+  ],
+  "economic_classification_code": "CNAE 13.21-0-01"
+}

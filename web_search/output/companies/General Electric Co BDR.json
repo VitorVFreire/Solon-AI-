@@ -1,0 +1,19 @@
+{
+  "company_name": "General Electric Co BDR",
+  "primary_activity": "Indústria de Energia Renovável",
+  "sector": "Energia",
+  "subsector": "Energia Renovável",
+  "industry": "Energia Eólica e Solar",
+  "activity_description": "A General Electric Co BDR atua na fabricação e fornecimento de equipamentos e tecnologias para energia renovável, com foco em energia eólica e solar. Além disso, oferece serviços de consultoria em gestão de projetos de energia sustentável.",
+  "main_products_services": [
+    "Equipamentos para Energia Eólica",
+    "Equipamentos para Energia Solar",
+    "Consultoria em Projetos de Energia Renovável"
+  ],
+  "competitors": [
+    "Siemens Gamesa",
+    "Vestas Wind Systems",
+    "SunPower Corporation"
+  ],
+  "economic_classification_code": "CNAE 2710-4/01"
+}

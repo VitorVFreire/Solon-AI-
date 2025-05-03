@@ -1,0 +1,16 @@
+{
+  "company_name": "Vereda",
+  "primary_activity": "Consultoria Empresarial",
+  "sector": "Consultoria",
+  "subsector": "Consultoria Empresarial",
+  "industry": "Consultoria em Estratégia Empresarial",
+  "activity_description": "A Vereda é uma empresa de consultoria empresarial especializada em estratégia empresarial, auxiliando outras empresas na definição de planos e estratégias para alcançar seus objetivos de negócio.",
+  "main_products_services": [
+    "Consultoria em Estratégia Empresarial"
+  ],
+  "competitors": [
+    "Consultoria Estratégica Ltda.",
+    "Estratégia Consultoria Empresarial S/A"
+  ],
+  "economic_classification_code": "7490104"
+}

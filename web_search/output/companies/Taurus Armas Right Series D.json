@@ -1,0 +1,19 @@
+{
+  "company_name": "Taurus Armas Right Series D",
+  "primary_activity": "Fabricação e venda de armas de fogo",
+  "sector": "Indústria de Defesa",
+  "subsector": "Fabricação de armas de fogo",
+  "industry": "Indústria de armas de fogo",
+  "activity_description": "A Taurus Armas Right Series D atua na fabricação e venda de armas de fogo, fornecendo uma variedade de armamentos para diferentes segmentos, incluindo armas de defesa pessoal e armas esportivas.",
+  "main_products_services": [
+    "Armas de fogo",
+    "Munições",
+    "Acessórios para armas"
+  ],
+  "competitors": [
+    "Smith & Wesson",
+    "Glock",
+    "Beretta"
+  ],
+  "economic_classification_code": "2540-1/00 - Fabricação de armas de fogo e munições"
+}

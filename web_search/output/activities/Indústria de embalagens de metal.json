@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens de metal",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens de metal desempenha um papel crucial na cadeia de produção de diversos produtos, fornecendo embalagens duráveis e seguras para uma variedade de setores, como alimentos, bebidas, produtos químicos, entre outros.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "A Indústria de embalagens de metal tem uma correlação forte com a Indústria de produtos de limpeza, pois as embalagens metálicas são frequentemente utilizadas para produtos de limpeza doméstica e industrial.",
+      "economic_justification": "A demanda por embalagens de metal está diretamente ligada à produção e comercialização de produtos de limpeza, sendo essencial para a preservação e distribuição desses produtos."
+    },
+    {
+      "activity": "Indústria de alimentos",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Cliente",
+      "correlation_description": "A Indústria de embalagens de metal tem uma correlação muito forte com a Indústria de alimentos, pois as embalagens metálicas são amplamente utilizadas para acondicionar alimentos perecíveis e não perecíveis.",
+      "economic_justification": "As embalagens de metal garantem a proteção dos alimentos, mantendo sua qualidade e segurança, sendo essenciais para a conservação e distribuição dos produtos alimentícios."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza industrial",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria de embalagens de metal tem uma correlação forte com a Indústria de produtos de limpeza industrial, fornecendo embalagens robustas e resistentes para produtos de limpeza utilizados em ambientes industriais.",
+      "economic_justification": "As embalagens de metal são ideais para produtos de limpeza industrial devido à sua durabilidade e capacidade de proteção contra agentes químicos agressivos presentes nesses ambientes."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços dos metais",
+    "Demanda por embalagens sustentáveis",
+    "Inovações tecnológicas em materiais de embalagem"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria, podendo haver variações regionais e específicas de mercado que não foram abordadas."
+}

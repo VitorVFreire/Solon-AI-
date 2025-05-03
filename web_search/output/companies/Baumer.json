@@ -1,0 +1,16 @@
+{
+  "company_name": "Baumer SA",
+  "primary_activity": "Fabricação de equipamentos médicos de alta tecnologia",
+  "sector": "Saúde",
+  "subsector": "Equipamentos Médicos",
+  "industry": "Equipamentos Médicos de Alta Tecnologia",
+  "activity_description": "A Baumer SA atua na fabricação de equipamentos médicos de alta tecnologia, fornecendo soluções inovadoras para o setor de saúde. Seus produtos incluem equipamentos de diagnóstico avançado e dispositivos médicos de última geração.",
+  "main_products_services": [
+    "Equipamentos de diagnóstico avançado",
+    "Dispositivos médicos de alta tecnologia"
+  ],
+  "competitors": [
+    "Empresas fabricantes de equipamentos médicos de alta tecnologia"
+  ],
+  "economic_classification_code": "3250-7/00"
+}

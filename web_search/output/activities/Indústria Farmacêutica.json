@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria Farmacêutica",
+  "sector_classification": "Terciário",
+  "economic_context": "A Indústria Farmacêutica desempenha um papel crucial na saúde pública, fornecendo medicamentos essenciais para prevenção, tratamento e cura de doenças. É um setor altamente regulamentado e com forte impacto na economia e na qualidade de vida da população.",
+  "correlated_activities": [
+    {
+      "activity": "Pesquisa Científica",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria Farmacêutica depende fortemente da Pesquisa Científica para o desenvolvimento de novos medicamentos e tratamentos. Existe uma relação de complementaridade entre essas atividades, onde avanços na pesquisa impulsionam a inovação farmacêutica.",
+      "economic_justification": "A Pesquisa Científica é fundamental para a descoberta de novos princípios ativos, formulações e tecnologias que sustentam o desenvolvimento contínuo de medicamentos mais eficazes e seguros."
+    },
+    {
+      "activity": "Indústria de Equipamentos Médicos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "A Indústria Farmacêutica é cliente da Indústria de Equipamentos Médicos, adquirindo equipamentos para pesquisa, produção e controle de qualidade de medicamentos. Existe uma relação de fornecedor-cliente entre esses setores.",
+      "economic_justification": "A Indústria de Equipamentos Médicos fornece equipamentos essenciais para a Indústria Farmacêutica, garantindo processos de produção eficientes e conformidade com padrões regulatórios."
+    },
+    {
+      "activity": "Indústria Química",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria Química fornece insumos e matérias-primas para a Indústria Farmacêutica, sendo um elo importante na cadeia de suprimentos. Existe uma relação de fornecedor para a Indústria Farmacêutica.",
+      "economic_justification": "A Indústria Química fornece substâncias químicas essenciais para a produção de medicamentos, sendo crucial para a fabricação de produtos farmacêuticos de qualidade."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Regulamentação governamental sobre patentes e licenças de medicamentos",
+    "Investimentos em pesquisa e desenvolvimento",
+    "Demanda por novos tratamentos e terapias",
+    "Preços de matérias-primas e insumos químicos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considera fatores geopolíticos ou eventos imprevisíveis que possam impactar o setor farmacêutico."
+}

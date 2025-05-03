@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de cadeia de suprimentos de alimentos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de cadeia de suprimentos de alimentos desempenham um papel fundamental na eficiência e qualidade da distribuição de alimentos, garantindo a integridade da cadeia produtiva desde a origem até o consumidor final.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de alimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Existe uma correlação forte entre os serviços de consultoria em gestão de cadeia de suprimentos de alimentos e a indústria de alimentos, devido à interdependência na otimização da produção e distribuição de alimentos.",
+      "economic_justification": "A consultoria em gestão de cadeia de suprimentos de alimentos atua como um parceiro estratégico para a indústria de alimentos, contribuindo para a eficiência operacional, redução de custos e melhoria da qualidade dos produtos."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de logística",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com os serviços de consultoria em gestão de logística, pois ambas as atividades visam aprimorar a eficiência e a integração dos processos logísticos na cadeia de suprimentos.",
+      "economic_justification": "A gestão eficaz da cadeia de suprimentos de alimentos requer uma logística bem estruturada, onde a consultoria especializada em logística pode complementar os serviços de consultoria em gestão de cadeia de suprimentos de alimentos."
+    },
+    {
+      "activity": "Indústria de embalagens de alimentos",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação moderada com a indústria de embalagens de alimentos, pois a qualidade e eficiência das embalagens impactam diretamente na distribuição e armazenamento dos alimentos na cadeia de suprimentos.",
+      "economic_justification": "A indústria de embalagens de alimentos fornece soluções essenciais para a conservação e transporte adequado dos alimentos, sendo um elo importante na cadeia de suprimentos de alimentos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de commodities agrícolas",
+    "Políticas regulatórias de segurança alimentar",
+    "Tendências de consumo e preferências alimentares",
+    "Custos de transporte e logística"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral da economia, podendo variar em cenários específicos de região ou mercado."
+}

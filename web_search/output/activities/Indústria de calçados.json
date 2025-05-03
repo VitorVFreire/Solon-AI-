@@ -1,0 +1,40 @@
+{
+  "economic_activity": "Indústria de calçados",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de calçados é parte do setor secundário da economia, atuando na manufatura de calçados de diversos tipos e estilos. É um setor importante para a economia, contribuindo significativamente para o emprego e para o mercado de consumo.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de moda",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A indústria de calçados está fortemente correlacionada com a indústria de moda, pois os calçados são um componente essencial do vestuário e seguem as tendências e estações da moda.",
+      "economic_justification": "Ambas as indústrias dependem das mesmas tendências de mercado, sazonalidades e preferências dos consumidores, o que torna a colaboração entre elas essencial para o sucesso de ambas."
+    },
+    {
+      "activity": "Indústria de couro",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de calçados tem uma correlação moderada com a indústria de couro, pois o couro é um material fundamental na fabricação de calçados.",
+      "economic_justification": "A disponibilidade e qualidade do couro afetam diretamente a produção e custos da indústria de calçados, estabelecendo uma relação de dependência entre os setores."
+    },
+    {
+      "activity": "Comércio Varejista",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria de calçados tem uma forte correlação com o comércio varejista, pois os calçados são produtos amplamente comercializados nesse segmento.",
+      "economic_justification": "O comércio varejista é um canal crucial para a venda e distribuição de calçados, impactando diretamente as vendas e a visibilidade dos produtos no mercado."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações no poder de compra dos consumidores",
+    "Tendências de moda e estilo",
+    "Custos de matéria-prima, como couro e borracha",
+    "Taxas de câmbio para importação de insumos ou exportação de calçados",
+    "Políticas comerciais e tarifas sobre produtos manufaturados"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de calçados, podendo haver variações regionais e específicas de mercado que não foram abordadas."
+}

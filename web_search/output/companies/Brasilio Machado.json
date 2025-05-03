@@ -1,0 +1,17 @@
+{
+  "company_name": "Brasilio Machado",
+  "primary_activity": "Consultoria Empresarial",
+  "sector": "Consultoria Financeira",
+  "subsector": "Consultoria Empresarial",
+  "industry": "Consultoria em Estratégia Empresarial",
+  "activity_description": "A empresa Brasilio Machado atua no ramo de consultoria empresarial, especializada em estratégia empresarial para organizações de diversos setores.",
+  "main_products_services": [
+    "Consultoria em Estratégia Empresarial"
+  ],
+  "competitors": [
+    "Consultoria Empresarial X",
+    "Consultoria Empresarial Y",
+    "Consultoria Empresarial Z"
+  ],
+  "economic_classification_code": "XXXXX"
+}

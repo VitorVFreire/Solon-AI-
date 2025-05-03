@@ -1,0 +1,20 @@
+{
+  "company_name": "Sul America SA Pref",
+  "primary_activity": "Seguros e Previdência Privada",
+  "sector": "Finanças",
+  "subsector": "Seguros",
+  "industry": "Seguros Diversos",
+  "activity_description": "A Sul America SA Pref atua no setor de seguros e previdência privada, oferecendo uma variedade de seguros para seus clientes, incluindo seguros de vida, saúde, automóveis, residenciais, entre outros.",
+  "main_products_services": [
+    "Seguros de Vida",
+    "Seguros de Saúde",
+    "Seguros de Automóveis",
+    "Seguros Residenciais"
+  ],
+  "competitors": [
+    "Bradesco Seguros",
+    "Porto Seguro",
+    "Itaú Seguros"
+  ],
+  "economic_classification_code": "6630-3/00 - Atividades de seguros, resseguros e previdência complementar"
+}

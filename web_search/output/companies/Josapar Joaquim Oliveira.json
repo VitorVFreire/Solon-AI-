@@ -1,0 +1,19 @@
+{
+  "company_name": "Josapar Joaquim Oliveira SA Participacoes",
+  "primary_activity": "Produção e comercialização de alimentos",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Alimentos e Bebidas",
+  "industry": "Alimentos em Geral",
+  "activity_description": "A empresa atua na produção e comercialização de alimentos diversos, incluindo grãos, cereais, e produtos alimentícios prontos para consumo.",
+  "main_products_services": [
+    "Grãos",
+    "Cereais",
+    "Alimentos Prontos"
+  ],
+  "competitors": [
+    "Bunge",
+    "Cargill",
+    "ADM"
+  ],
+  "economic_classification_code": "10.51-1-01 - Fabricação de produtos de arroz"
+}

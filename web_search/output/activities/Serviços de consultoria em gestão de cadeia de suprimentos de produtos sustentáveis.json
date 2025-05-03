@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de cadeia de suprimentos de produtos sustentáveis",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de cadeia de suprimentos de produtos sustentáveis desempenham um papel fundamental na promoção da sustentabilidade ambiental e social nas operações de empresas que buscam reduzir seu impacto no meio ambiente e na sociedade. Essa atividade está alinhada com a crescente preocupação global com a sustentabilidade e a responsabilidade corporativa.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de cadeia de suprimentos de produtos sustentáveis e a indústria de embalagens sustentáveis, uma vez que ambas as atividades estão focadas em promover práticas sustentáveis e reduzir o impacto ambiental.",
+      "economic_justification": "A indústria de embalagens sustentáveis fornece soluções inovadoras e ecológicas para acondicionar produtos sustentáveis, sendo essencial para garantir a integridade ambiental ao longo de toda a cadeia de suprimentos."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de marketing sustentável",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com os serviços de consultoria em gestão de marketing sustentável, pois ambas as atividades visam promover a sustentabilidade em diferentes áreas da empresa, contribuindo para uma abordagem holística e consistente.",
+      "economic_justification": "A gestão de marketing sustentável complementa a gestão de cadeia de suprimentos de produtos sustentáveis ao comunicar de forma eficaz os valores e práticas sustentáveis da empresa aos consumidores, ampliando o impacto positivo da sustentabilidade."
+    },
+    {
+      "activity": "Indústria de produtos orgânicos",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma forte correlação com a indústria de produtos orgânicos, pois os serviços de consultoria em gestão de cadeia de suprimentos de produtos sustentáveis podem ser demandados por empresas que atuam na produção e distribuição de produtos orgânicos.",
+      "economic_justification": "A indústria de produtos orgânicos busca práticas sustentáveis em toda a sua cadeia produtiva, necessitando de consultoria especializada para otimizar processos e garantir a sustentabilidade em todas as etapas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de matérias-primas sustentáveis",
+    "Regulamentações ambientais e de sustentabilidade",
+    "Tendências de consumo consciente e responsável"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de mercado e sustentabilidade, podendo variar em cenários específicos de região ou setor."
+}

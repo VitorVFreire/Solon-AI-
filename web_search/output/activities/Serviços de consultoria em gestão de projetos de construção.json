@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de projetos de construção",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de projetos de construção desempenham um papel fundamental no setor da construção civil, oferecendo expertise especializada em todas as fases de um projeto, desde o planejamento até a execução. Esses serviços contribuem para a eficiência, qualidade e conclusão bem-sucedida de empreendimentos de construção.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de materiais de construção",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação forte entre os serviços de consultoria em gestão de projetos de construção e a indústria de materiais de construção, pois a qualidade e eficiência na gestão de projetos dependem diretamente da disponibilidade e qualidade dos materiais de construção utilizados.",
+      "economic_justification": "Os serviços de consultoria em gestão de projetos de construção dependem fortemente da disponibilidade de materiais de construção adequados e de qualidade para garantir o andamento eficiente e eficaz dos projetos. A relação de fornecedor entre essas atividades é essencial para o sucesso dos empreendimentos."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança para construção civil",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de projetos de construção e a indústria de equipamentos de segurança para construção civil, pois a segurança no canteiro de obras é uma preocupação fundamental em projetos de construção.",
+      "economic_justification": "Os serviços de consultoria em gestão de projetos de construção e a indústria de equipamentos de segurança para construção civil são complementares, uma vez que a segurança dos trabalhadores e do ambiente de trabalho é essencial para o bom andamento dos projetos de construção. A utilização de equipamentos de segurança apropriados é parte integrante da gestão eficaz de projetos."
+    },
+    {
+      "activity": "Indústria de tecnologia da informação",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação fraca entre os serviços de consultoria em gestão de projetos de construção e a indústria de tecnologia da informação, uma vez que a gestão de projetos pode demandar soluções tecnológicas para otimização e acompanhamento.",
+      "economic_justification": "Os serviços de consultoria em gestão de projetos de construção podem necessitar de soluções tecnológicas para melhorar a eficiência, comunicação e monitoramento de projetos. Nesse sentido, a indústria de tecnologia da informação pode atuar como cliente ao fornecer ferramentas e sistemas especializados."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas taxas de juros que impactam os custos de financiamento de projetos de construção",
+    "Variações no mercado imobiliário que influenciam a demanda por serviços de consultoria em gestão de projetos de construção",
+    "Políticas governamentais de incentivo à construção civil que podem impulsionar a demanda por serviços de consultoria em gestão de projetos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de mercado e pode variar em situações específicas de região ou segmento de construção civil."
+}

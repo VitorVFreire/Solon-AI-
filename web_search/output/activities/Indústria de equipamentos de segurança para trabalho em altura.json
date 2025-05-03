@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de equipamentos de segurança para trabalho em altura",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de equipamentos de segurança para trabalho em altura desempenha um papel fundamental na proteção dos trabalhadores que realizam atividades em locais elevados, garantindo a conformidade com normas de segurança e prevenção de acidentes laborais.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos de proteção individual",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre a indústria de equipamentos de segurança para trabalho em altura e a indústria de equipamentos de proteção individual, uma vez que ambos os setores estão diretamente relacionados à segurança e saúde ocupacional dos trabalhadores.",
+      "economic_justification": "A produção de equipamentos de segurança para trabalho em altura muitas vezes inclui itens de proteção individual, como capacetes, cintos de segurança e luvas, demonstrando a interdependência entre as duas indústrias na oferta de soluções completas de segurança no ambiente de trabalho."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança para construção civil",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada e dependência significativa entre a indústria de equipamentos de segurança para trabalho em altura e a indústria de equipamentos de segurança para construção civil, devido à sobreposição de necessidades de proteção em ambientes de trabalho similares.",
+      "economic_justification": "Ambas as indústrias compartilham a preocupação com a segurança dos trabalhadores em ambientes de construção, sendo que os equipamentos de segurança para trabalho em altura são parte integrante dos dispositivos de proteção utilizados na construção civil."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança para indústria química",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Substituição",
+      "correlation_description": "Existe uma correlação fraca e dependência limitada entre a indústria de equipamentos de segurança para trabalho em altura e a indústria de equipamentos de segurança para indústria química, devido às diferentes exigências de proteção em ambientes de trabalho distintos.",
+      "economic_justification": "Os equipamentos de segurança necessários para atividades em altura diferem daqueles requeridos em ambientes com riscos químicos, o que limita a interdependência entre esses setores em termos de produtos e soluções de segurança."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Regulamentações de segurança do trabalho",
+    "Investimentos em infraestrutura",
+    "Taxas de acidentes de trabalho",
+    "Desenvolvimento tecnológico de equipamentos de segurança"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria, mas variações regionais podem impactar as correlações identificadas."
+}

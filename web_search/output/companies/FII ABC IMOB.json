@@ -1,0 +1,18 @@
+{
+  "company_name": "FII ABC IMOB",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Construção Civil",
+  "subsector": "Fundos de Investimento Imobiliário",
+  "industry": "Investimento em Ativos Imobiliários",
+  "activity_description": "A FII ABC IMOB atua no mercado de investimento imobiliário, gerenciando um portfólio de ativos imobiliários para geração de renda através de aluguéis e valorização dos imóveis.",
+  "main_products_services": [
+    "Gestão de Ativos Imobiliários",
+    "Investimento em Imóveis",
+    "Renda de Aluguéis"
+  ],
+  "competitors": [
+    "FII DEF IMOB",
+    "FII GHI IMOB"
+  ],
+  "economic_classification_code": "6492-7/00"
+}

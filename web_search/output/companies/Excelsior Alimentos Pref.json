@@ -1,0 +1,18 @@
+{
+  "company_name": "Excelsior Alimentos SA pref",
+  "primary_activity": "Produção e distribuição de alimentos",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Alimentos Processados",
+  "industry": "Alimentos Diversos",
+  "activity_description": "A Excelsior Alimentos SA pref atua na produção e distribuição de alimentos diversos, com foco em alimentos processados.",
+  "main_products_services": [
+    "Alimentos processados",
+    "Produtos alimentícios diversos"
+  ],
+  "competitors": [
+    "JBS",
+    "Bunge",
+    "Marfrig"
+  ],
+  "economic_classification_code": "4721-1/00"
+}

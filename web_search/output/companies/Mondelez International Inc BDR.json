@@ -1,0 +1,20 @@
+{
+  "company_name": "Mondelez International Inc BDR",
+  "primary_activity": "Fabricação e comercialização de produtos alimentícios",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Alimentos e Bebidas",
+  "industry": "Produtos Alimentícios Diversos",
+  "activity_description": "A Mondelez International Inc é uma empresa multinacional especializada na fabricação e comercialização de uma ampla variedade de produtos alimentícios, incluindo chocolates, biscoitos, gomas de mascar e balas.",
+  "main_products_services": [
+    "Chocolates",
+    "Biscoitos",
+    "Gomas de mascar",
+    "Balas"
+  ],
+  "competitors": [
+    "Nestlé",
+    "Mars",
+    "Hershey's"
+  ],
+  "economic_classification_code": "CNAE 1072-2/01"
+}

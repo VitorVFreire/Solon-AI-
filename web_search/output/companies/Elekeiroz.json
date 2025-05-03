@@ -1,0 +1,17 @@
+{
+  "company_name": "Elekeiroz",
+  "primary_activity": "Produção de produtos químicos",
+  "sector": "Indústria Química",
+  "subsector": "Químicos Diversos",
+  "industry": "Químicos Especiais",
+  "activity_description": "A Elekeiroz atua na produção de químicos especiais, com foco em produtos químicos diversos para diferentes aplicações industriais.",
+  "main_products_services": [
+    "Químicos Especiais"
+  ],
+  "competitors": [
+    "Braskem",
+    "Oxiteno",
+    "Rhodia"
+  ],
+  "economic_classification_code": "20.59-3-02"
+}

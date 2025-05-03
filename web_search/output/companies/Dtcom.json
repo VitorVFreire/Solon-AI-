@@ -1,0 +1,17 @@
+{
+  "company_name": "Dtcom Direct to Company SA",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Tecnologia da Informação",
+  "industry": "Serviços de TI em nuvem",
+  "activity_description": "A Dtcom Direct to Company SA atua no fornecimento de serviços de tecnologia da informação em nuvem para empresas, facilitando o acesso e armazenamento de dados de forma segura e eficiente.",
+  "main_products_services": [
+    "Serviços de TI em nuvem"
+  ],
+  "competitors": [
+    "Amazon Web Services",
+    "Microsoft Azure",
+    "Google Cloud"
+  ],
+  "economic_classification_code": "6201-5/00"
+}

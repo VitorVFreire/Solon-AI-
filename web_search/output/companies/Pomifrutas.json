@@ -1,0 +1,19 @@
+{
+  "company_name": "Pomifrutas SA",
+  "primary_activity": "Comércio Varejista de Frutas e Produtos Naturais",
+  "sector": "Comércio Varejista",
+  "subsector": "Alimentos e Bebidas",
+  "industry": "Comércio Varejista de Frutas e Produtos Naturais",
+  "activity_description": "A Pomifrutas SA atua no comércio varejista de frutas frescas, sucos naturais e produtos naturais, oferecendo opções saudáveis e frescas para seus clientes.",
+  "main_products_services": [
+    "Frutas frescas",
+    "Sucos naturais",
+    "Produtos naturais"
+  ],
+  "competitors": [
+    "Rede de Hortifruti",
+    "Empórium São Paulo",
+    "Natural da Terra"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em educação corporativa",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em educação corporativa são essenciais para o desenvolvimento de habilidades e conhecimentos dos colaboradores nas empresas, visando melhorar o desempenho organizacional e a competitividade no mercado.",
+  "correlated_activities": [
+    {
+      "activity": "Educação",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma forte correlação e dependência entre os serviços de consultoria em educação corporativa e a área de educação em geral, pois ambos visam o desenvolvimento de habilidades e conhecimentos.",
+      "economic_justification": "Os serviços de consultoria em educação corporativa complementam os serviços educacionais tradicionais, fornecendo treinamentos especializados e personalizados para as necessidades das empresas, contribuindo para a formação e aprimoramento dos colaboradores."
+    },
+    {
+      "activity": "Recursos Humanos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "Há uma correlação significativa entre os serviços de consultoria em educação corporativa e a área de Recursos Humanos, onde os RH podem ser clientes ao contratar os serviços e fornecedores ao colaborar na identificação das necessidades de treinamento.",
+      "economic_justification": "Os serviços de consultoria em educação corporativa são demandados pelos departamentos de Recursos Humanos para desenvolver programas de treinamento e capacitação alinhados com as estratégias de gestão de pessoas, promovendo o desenvolvimento dos colaboradores."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação fraca entre os serviços de consultoria em educação corporativa e a área de Gestão de Projetos, onde a capacitação dos colaboradores pode impactar indiretamente na execução de projetos.",
+      "economic_justification": "A capacitação oferecida pelos serviços de consultoria em educação corporativa pode contribuir para o desenvolvimento de habilidades de gestão necessárias para a execução eficaz de projetos, embora a relação não seja direta."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxa de emprego e desemprego",
+    "Investimento em treinamento e desenvolvimento",
+    "Tendências de mercado que demandam atualização de habilidades"
+  ],
+  "confidence_level": "Médio",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar de acordo com as especificidades de cada empresa e setor de atuação."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "The Mosaic Company BDR",
+  "primary_activity": "Mineração e produção de fertilizantes",
+  "sector": "Recursos Naturais",
+  "subsector": "Mineração e Metais",
+  "industry": "Mineração de Fertilizantes",
+  "activity_description": "A empresa atua na mineração de fosfatos e potássio, além da produção de fertilizantes para agricultura.",
+  "main_products_services": [
+    "Fosfatos",
+    "Potássio",
+    "Fertilizantes"
+  ],
+  "competitors": [
+    "Vale",
+    "Nutrien",
+    "Yara International"
+  ],
+  "economic_classification_code": "NA"
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "MRS Logistica SA Class B",
+  "primary_activity": "Transporte ferroviário de carga",
+  "sector": "Transporte",
+  "subsector": "Transporte ferroviário",
+  "industry": "Logística ferroviária",
+  "activity_description": "A MRS Logística SA Class B atua no transporte ferroviário de carga, operando principalmente no setor de logística ferroviária. A empresa é especializada em oferecer soluções logísticas eficientes e seguras por meio de suas operações ferroviárias.",
+  "main_products_services": [
+    "Transporte ferroviário de carga",
+    "Soluções logísticas",
+    "Operações ferroviárias"
+  ],
+  "competitors": [
+    "Rumo Logística",
+    "VLI Logística",
+    "Ferrovia Centro-Atlântica"
+  ],
+  "economic_classification_code": null
+}

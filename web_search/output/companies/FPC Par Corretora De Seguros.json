@@ -1,0 +1,15 @@
+{
+  "company_name": "FPC Par Corretora De Seguros S/A",
+  "primary_activity": "Corretora de Seguros",
+  "sector": "Financeiro",
+  "subsector": "Serviços Financeiros Diversos",
+  "industry": "Corretagem de Seguros",
+  "activity_description": "A FPC Par Corretora De Seguros S/A atua como uma corretora de seguros, intermediando a contratação de seguros entre seguradoras e clientes. Oferece uma variedade de seguros para atender às necessidades de seus clientes.",
+  "main_products_services": [
+    "Corretagem de Seguros"
+  ],
+  "competitors": [
+    "Corretoras de Seguros"
+  ],
+  "economic_classification_code": "6622-3/00"
+}

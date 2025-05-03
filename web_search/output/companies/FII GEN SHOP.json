@@ -1,0 +1,19 @@
+{
+  "company_name": "FII GEN SHOP",
+  "primary_activity": "Comércio Varejista de Produtos Gerais",
+  "sector": "Comércio Varejista",
+  "subsector": "Comércio Varejista Diversificado",
+  "industry": "Varejista de Produtos Gerais",
+  "activity_description": "A FII GEN SHOP atua no comércio varejista de uma variedade de produtos gerais para consumidores finais.",
+  "main_products_services": [
+    "Produtos diversos para o lar",
+    "Itens de uso pessoal",
+    "Acessórios diversos"
+  ],
+  "competitors": [
+    "Lojas de departamento",
+    "Supermercados",
+    "Hipermercados"
+  ],
+  "economic_classification_code": ""
+}

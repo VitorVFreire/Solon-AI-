@@ -1,0 +1,18 @@
+{
+  "company_name": "Gafisa SA",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Incorporação de Empreendimentos Imobiliários",
+  "industry": "Construção Residencial e Comercial",
+  "activity_description": "A Gafisa SA atua na incorporação de empreendimentos imobiliários, focando na construção de residências e edifícios comerciais.",
+  "main_products_services": [
+    "Construção de residências",
+    "Construção de edifícios comerciais"
+  ],
+  "competitors": [
+    "Cyrela",
+    "MRV Engenharia",
+    "Even Construtora e Incorporadora"
+  ],
+  "economic_classification_code": "2361-8/00"
+}

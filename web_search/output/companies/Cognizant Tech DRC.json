@@ -1,0 +1,19 @@
+{
+  "company_name": "Cognizant Technology Solutions Corp DRC",
+  "primary_activity": "Consultoria em Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Serviços de TI em nuvem",
+  "industry": "Consultoria em Tecnologia da Informação",
+  "activity_description": "A Cognizant Technology Solutions Corp DRC atua como uma empresa de consultoria em tecnologia da informação, fornecendo serviços especializados em nuvem para seus clientes.",
+  "main_products_services": [
+    "Consultoria em TI",
+    "Serviços em nuvem",
+    "Soluções de tecnologia"
+  ],
+  "competitors": [
+    "Accenture",
+    "IBM",
+    "Deloitte"
+  ],
+  "economic_classification_code": null
+}

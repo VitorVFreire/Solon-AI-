@@ -1,0 +1,19 @@
+{
+  "company_name": "Refinaria de Petroleos de Manguinhos SA",
+  "primary_activity": "Refinaria de Petróleo",
+  "sector": "Energia",
+  "subsector": "Petróleo e Gás",
+  "industry": "Refinaria de Petróleo",
+  "activity_description": "A Refinaria de Petróleo de Manguinhos SA atua na produção e refino de petróleo, transformando-o em produtos derivados como gasolina, diesel e óleos lubrificantes.",
+  "main_products_services": [
+    "Gasolina",
+    "Diesel",
+    "Óleos Lubrificantes"
+  ],
+  "competitors": [
+    "Petrobras",
+    "Ipiranga",
+    "Shell"
+  ],
+  "economic_classification_code": "19.20-1-00 - Refino de petróleo"
+}

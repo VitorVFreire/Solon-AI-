@@ -1,0 +1,28 @@
+{
+  "economic_activity": "Indústria de produtos de limpeza hospitalar de alta eficiência",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de produtos de limpeza hospitalar de alta eficiência desempenha um papel crucial na manutenção da higiene e segurança em ambientes hospitalares, contribuindo para a prevenção de infecções e a promoção da saúde pública.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos médicos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação entre a indústria de produtos de limpeza hospitalar de alta eficiência e a indústria de equipamentos médicos, pois ambos os setores atendem às necessidades de higiene e segurança em ambientes hospitalares.",
+      "economic_justification": "A limpeza eficaz de equipamentos médicos e instalações hospitalares é essencial para garantir a eficácia dos procedimentos médicos e a prevenção de infecções. A colaboração entre esses setores é fundamental para manter os padrões de qualidade e segurança necessários em ambientes hospitalares."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de limpeza hospitalar",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação moderada entre a indústria de produtos de limpeza hospitalar de alta eficiência e a indústria de embalagens de produtos de limpeza hospitalar, devido à necessidade de embalagens adequadas para acondicionar e distribuir esses produtos de forma segura.",
+      "economic_justification": "A indústria de embalagens desempenha um papel essencial na proteção e preservação dos produtos de limpeza hospitalar durante o transporte e armazenamento, garantindo a integridade e eficácia desses produtos até chegarem aos hospitais e clínicas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de produtos de limpeza hospitalar de alta eficiência incluem a demanda por serviços de saúde, investimentos em infraestrutura hospitalar, regulamentações sanitárias e a conscientização sobre a importância da higiene hospitalar."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria, mas variações regionais e eventos inesperados podem influenciar as correlações identificadas."
+}

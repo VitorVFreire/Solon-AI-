@@ -1,0 +1,18 @@
+{
+  "company_name": "Duke Energy Corp",
+  "primary_activity": "Geração e distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica",
+  "activity_description": "A Duke Energy Corp atua na geração e distribuição de energia elétrica, fornecendo eletricidade para residências, empresas e indústrias.",
+  "main_products_services": [
+    "Geração de energia elétrica",
+    "Distribuição de energia elétrica"
+  ],
+  "competitors": [
+    "Eletrobras",
+    "CPFL Energia",
+    "Engie Brasil Energia"
+  ],
+  "economic_classification_code": "4911"
+}

@@ -1,0 +1,17 @@
+{
+  "company_name": "Union Pacific Corp",
+  "primary_activity": "Transporte ferroviário de carga",
+  "sector": "Transporte",
+  "subsector": "Transporte ferroviário",
+  "industry": "Transporte ferroviário de carga",
+  "activity_description": "A Union Pacific Corp atua no transporte ferroviário de carga, operando uma extensa rede ferroviária para movimentação de mercadorias.",
+  "main_products_services": [
+    "Transporte ferroviário de carga"
+  ],
+  "competitors": [
+    "BNSF Railway",
+    "CSX Transportation",
+    "Norfolk Southern Railway"
+  ],
+  "economic_classification_code": "49.2 - Transporte ferroviário de carga"
+}

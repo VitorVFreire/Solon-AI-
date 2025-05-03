@@ -1,0 +1,20 @@
+{
+  "company_name": "Totvs SA",
+  "primary_activity": "Desenvolvimento de software de gestão empresarial",
+  "sector": "Tecnologia",
+  "subsector": "Tecnologia da Informação",
+  "industry": "Desenvolvimento de software",
+  "activity_description": "A Totvs SA é uma empresa brasileira especializada no desenvolvimento de software de gestão empresarial, atendendo a diversos setores da economia. Seus principais produtos incluem soluções de ERP, CRM e BI.",
+  "main_products_services": [
+    "Software de gestão empresarial",
+    "Soluções de ERP",
+    "Soluções de CRM",
+    "Soluções de BI"
+  ],
+  "competitors": [
+    "SAP",
+    "Oracle",
+    "Salesforce"
+  ],
+  "economic_classification_code": "6201-5/00 - Desenvolvimento de programas de computador sob encomenda"
+}

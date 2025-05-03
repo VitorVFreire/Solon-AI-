@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de e-commerce",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de e-commerce desempenham um papel fundamental na otimização das operações de comércio eletrônico, abrangendo desde estratégias de vendas online até logística e marketing digital. Essa atividade está diretamente ligada ao crescimento do comércio eletrônico e à necessidade das empresas de se destacarem em um ambiente digital altamente competitivo.",
+  "correlated_activities": [
+    {
+      "activity": "Logística",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de e-commerce dependem fortemente de soluções logísticas eficientes para garantir a entrega rápida e confiável de produtos vendidos online. Uma logística bem estruturada é essencial para a satisfação do cliente e o sucesso das operações de comércio eletrônico.",
+      "economic_justification": "A logística desempenha um papel crucial no e-commerce, influenciando diretamente a experiência do cliente e a eficiência operacional. A integração entre consultoria em gestão de e-commerce e logística é essencial para garantir a competitividade e a qualidade dos serviços prestados."
+    },
+    {
+      "activity": "Marketing Digital",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os serviços de consultoria em gestão de e-commerce e o marketing digital estão intrinsecamente ligados, pois estratégias eficazes de marketing são essenciais para impulsionar as vendas online, aumentar a visibilidade da marca e atrair clientes. A integração de ambas as atividades resulta em campanhas mais eficazes e retorno sobre investimento mais alto.",
+      "economic_justification": "O marketing digital é uma ferramenta fundamental para promover produtos e serviços online, alcançar o público-alvo e gerar conversões. A colaboração entre consultoria em gestão de e-commerce e marketing digital maximiza o impacto das ações de marketing e contribui para o crescimento das vendas online."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "A gestão de projetos é essencial para a implementação bem-sucedida de estratégias de e-commerce, garantindo que os projetos sejam entregues dentro do prazo e do orçamento estabelecidos. A integração com serviços de consultoria em gestão de e-commerce permite uma abordagem mais estruturada e eficiente na execução de iniciativas digitais.",
+      "economic_justification": "A gestão de projetos desempenha um papel crucial na coordenação de atividades, alocação de recursos e acompanhamento de metas no contexto do e-commerce. A colaboração entre consultoria em gestão de e-commerce e gestão de projetos resulta em uma execução mais eficiente e eficaz das estratégias digitais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas vendas online",
+    "Tendências do mercado de e-commerce",
+    "Inovações tecnológicas no setor",
+    "Regulamentações governamentais sobre comércio eletrônico"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral do mercado e pode variar dependendo de especificidades regionais ou setoriais."
+}

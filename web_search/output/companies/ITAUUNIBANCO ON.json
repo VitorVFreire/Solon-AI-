@@ -1,0 +1,20 @@
+{
+  "company_name": "Itau Unibanco Holding SA ON",
+  "primary_activity": "Instituição financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos",
+  "industry": "Banco Comercial",
+  "activity_description": "O Itau Unibanco Holding SA ON é uma instituição financeira que atua no setor de finanças, mais especificamente no subsector de bancos, sendo classificado como um banco comercial.",
+  "main_products_services": [
+    "Serviços bancários",
+    "Empréstimos",
+    "Investimentos",
+    "Seguros"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Bradesco",
+    "Santander"
+  ],
+  "economic_classification_code": "6021-7/00 - Banco Comercial"
+}

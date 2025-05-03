@@ -1,0 +1,40 @@
+{
+  "economic_activity": "Serviços jurídicos especializados em direito ambiental",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços jurídicos especializados em direito ambiental desempenham um papel fundamental na assessoria jurídica a empresas, organizações e indivíduos que lidam com questões ambientais. Eles atuam na interpretação e aplicação da legislação ambiental, no auxílio à conformidade regulatória e na resolução de litígios relacionados ao meio ambiente.",
+  "correlated_activities": [
+    {
+      "activity": "Engenharia Ambiental",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação entre os serviços jurídicos especializados em direito ambiental e a engenharia ambiental devido à necessidade de conformidade legal e técnica em projetos ambientais.",
+      "economic_justification": "Os serviços jurídicos especializados em direito ambiental e a engenharia ambiental são complementares, pois a engenharia ambiental lida com a parte técnica e de execução de projetos, enquanto os serviços jurídicos garantem a conformidade legal desses projetos, atuando em conjunto para assegurar a sustentabilidade e conformidade ambiental."
+    },
+    {
+      "activity": "Consultoria em sustentabilidade",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada entre os serviços jurídicos especializados em direito ambiental e a consultoria em sustentabilidade devido ao foco em questões ambientais e sustentáveis.",
+      "economic_justification": "Os serviços jurídicos especializados em direito ambiental e a consultoria em sustentabilidade estão correlacionados, pois ambos lidam com aspectos legais e práticos da sustentabilidade ambiental. A consultoria em sustentabilidade pode se beneficiar da expertise jurídica para garantir a conformidade legal em suas recomendações e projetos."
+    },
+    {
+      "activity": "Gestão de Projetos",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação fraca entre os serviços jurídicos especializados em direito ambiental e a gestão de projetos devido à necessidade de coordenação em projetos ambientais.",
+      "economic_justification": "Os serviços jurídicos especializados em direito ambiental e a gestão de projetos apresentam uma correlação fraca, pois a gestão eficaz de projetos ambientais requer coordenação entre aspectos legais, técnicos e de execução, onde a expertise jurídica pode contribuir para a conformidade legal dos projetos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Regulamentações ambientais",
+    "Investimentos em projetos sustentáveis",
+    "Demandas por conformidade ambiental",
+    "Litígios ambientais",
+    "Tendências de sustentabilidade"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar de acordo com a região e especificidades locais das atividades econômicas."
+}

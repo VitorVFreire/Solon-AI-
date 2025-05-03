@@ -1,0 +1,17 @@
+{
+  "company_name": "Brasil Varejo",
+  "primary_activity": "Comércio Varejista",
+  "sector": "Comércio Varejista",
+  "subsector": "Varejo em Geral",
+  "industry": "Varejo de Produtos Diversos",
+  "activity_description": "A empresa Brasil Varejo atua no segmento de comércio varejista, especificamente no varejo de produtos diversos.",
+  "main_products_services": [
+    "Venda de produtos diversos para consumidores finais"
+  ],
+  "competitors": [
+    "Lojas de departamento",
+    "Supermercados",
+    "Outros varejistas"
+  ],
+  "economic_classification_code": null
+}

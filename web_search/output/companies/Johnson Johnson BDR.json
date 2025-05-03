@@ -1,0 +1,19 @@
+{
+  "company_name": "Johnson & Johnson BDR",
+  "primary_activity": "Fabricação e comercialização de produtos de saúde e bem-estar",
+  "sector": "Saúde",
+  "subsector": "Produtos de Saúde e Bem-Estar",
+  "industry": "Produtos Farmacêuticos e de Higiene Pessoal",
+  "activity_description": "A Johnson & Johnson BDR atua na fabricação e comercialização de uma ampla variedade de produtos farmacêuticos e de higiene pessoal, visando promover a saúde e o bem-estar dos consumidores.",
+  "main_products_services": [
+    "Medicamentos",
+    "Produtos de Higiene Pessoal",
+    "Dispositivos Médicos"
+  ],
+  "competitors": [
+    "Pfizer",
+    "Procter & Gamble",
+    "Novartis"
+  ],
+  "economic_classification_code": "325411"
+}

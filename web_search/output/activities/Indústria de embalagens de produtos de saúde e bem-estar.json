@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens de produtos de saúde e bem-estar",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens de produtos de saúde e bem-estar desempenha um papel fundamental no setor de manufatura, fornecendo soluções de embalagem especializadas para produtos relacionados à saúde, bem-estar, suplementos alimentares, medicamentos naturais e cosméticos terapêuticos. Sua atuação está diretamente ligada à proteção, conservação e apresentação desses produtos, atendendo a requisitos específicos de segurança e qualidade.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de higiene pessoal",
+      "correlation_level": "4",
+      "dependency_level": "0,65",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação forte entre a indústria de embalagens de produtos de saúde e bem-estar e a indústria de produtos de higiene pessoal. Ambas as indústrias dependem de embalagens eficientes e atrativas para seus produtos, visando a proteção, conservação e apresentação adequada ao consumidor.",
+      "economic_justification": "As embalagens são um elemento essencial para a comercialização e diferenciação de produtos de saúde, bem-estar e higiene pessoal no mercado. A qualidade e o design das embalagens impactam diretamente a percepção do consumidor sobre a qualidade e eficácia dos produtos contidos, influenciando as decisões de compra."
+    },
+    {
+      "activity": "Indústria de cosméticos naturais",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre a indústria de embalagens de produtos de saúde e bem-estar e a indústria de cosméticos naturais. Ambas buscam embalagens sustentáveis, atrativas e que transmitam uma imagem de saúde e bem-estar aos consumidores.",
+      "economic_justification": "A preocupação com a sustentabilidade e a imagem saudável está presente tanto na indústria de embalagens de produtos de saúde e bem-estar quanto na indústria de cosméticos naturais. Embalagens eco-friendly e que transmitam os valores desses produtos são essenciais para atrair consumidores conscientes."
+    },
+    {
+      "activity": "Indústria de produtos orgânicos",
+      "correlation_level": "3",
+      "dependency_level": "0,45",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre a indústria de embalagens de produtos de saúde e bem-estar e a indústria de produtos orgânicos. Ambas buscam embalagens sustentáveis, seguras e que transmitam a ideia de produtos naturais e saudáveis.",
+      "economic_justification": "A preferência dos consumidores por produtos naturais, saudáveis e sustentáveis impulsiona a busca por embalagens que estejam alinhadas com esses valores. Tanto a indústria de embalagens de produtos de saúde e bem-estar quanto a de produtos orgânicos buscam atender a essa demanda."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de matérias-primas para embalagens",
+    "Regulamentações sanitárias e ambientais",
+    "Tendências de consumo sustentável",
+    "Inovações tecnológicas em materiais de embalagem"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral das indústrias mencionadas, podendo haver variações e especificidades em diferentes regiões ou mercados."
+}

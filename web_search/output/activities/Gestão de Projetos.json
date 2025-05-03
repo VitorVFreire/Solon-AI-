@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Gestão de Projetos",
+  "sector_classification": "Terciário",
+  "economic_context": "A Gestão de Projetos é uma atividade essencial no ambiente de negócios atual, sendo fundamental para garantir a eficiência, qualidade e sucesso na implementação de projetos em diversas áreas e setores da economia.",
+  "correlated_activities": [
+    {
+      "activity": "Engenharia Ambiental",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Gestão de Projetos e a Engenharia Ambiental possuem uma forte correlação devido à necessidade de planejamento e execução de projetos ambientais sustentáveis.",
+      "economic_justification": "Projetos de engenharia ambiental frequentemente requerem uma gestão eficaz para garantir a implementação adequada de soluções sustentáveis, tornando a colaboração entre essas áreas crucial para o sucesso dos empreendimentos."
+    },
+    {
+      "activity": "Gestão de Projetos de Construção Civil",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Gestão de Projetos e a Construção Civil estão altamente correlacionadas devido à necessidade de planejamento, coordenação e controle de projetos de construção.",
+      "economic_justification": "A execução eficiente de projetos na Construção Civil depende fortemente de uma gestão de projetos competente para garantir o cumprimento de prazos, orçamentos e qualidade na entrega das obras."
+    },
+    {
+      "activity": "Consultoria em Gestão de Projetos",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A Gestão de Projetos e a Consultoria em Gestão de Projetos possuem uma correlação significativa devido à expertise em planejamento e execução de projetos.",
+      "economic_justification": "A consultoria em gestão de projetos oferece suporte especializado na implementação de práticas eficazes de gestão, complementando as habilidades internas das equipes de gestão de projetos nas organizações."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxa de juros",
+    "Investimento em infraestrutura",
+    "Desempenho econômico geral"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera correlações gerais e pode variar dependendo do contexto específico de cada projeto e setor."
+}

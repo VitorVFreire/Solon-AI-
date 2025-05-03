@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de cadeia de suprimentos de alimentos orgânicos",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de cadeia de suprimentos de alimentos orgânicos desempenham um papel fundamental na promoção da eficiência, qualidade e sustentabilidade na produção e distribuição de alimentos orgânicos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos orgânicos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma forte correlação entre os serviços de consultoria em gestão de cadeia de suprimentos de alimentos orgânicos e a indústria de produtos orgânicos, pois a consultoria auxilia na melhoria dos processos de produção e distribuição desses produtos.",
+      "economic_justification": "A consultoria em gestão de cadeia de suprimentos de alimentos orgânicos pode ajudar a indústria de produtos orgânicos a aprimorar suas operações, garantir a qualidade dos produtos e atender às demandas do mercado por alimentos saudáveis e sustentáveis."
+    },
+    {
+      "activity": "Serviços de consultoria em sustentabilidade",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com os serviços de consultoria em sustentabilidade, uma vez que ambos visam promover práticas sustentáveis na produção e distribuição de alimentos orgânicos.",
+      "economic_justification": "A consultoria em gestão de cadeia de suprimentos de alimentos orgânicos e os serviços de consultoria em sustentabilidade podem trabalhar em conjunto para garantir que as operações sejam ecologicamente corretas, socialmente justas e economicamente viáveis."
+    },
+    {
+      "activity": "Indústria de embalagens biodegradáveis",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação fraca com a indústria de embalagens biodegradáveis, pois a gestão da cadeia de suprimentos de alimentos orgânicos pode demandar esse tipo de embalagem sustentável.",
+      "economic_justification": "A demanda por embalagens biodegradáveis na cadeia de suprimentos de alimentos orgânicos pode impulsionar a indústria de embalagens a desenvolver soluções mais sustentáveis para atender a esse mercado específico."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de commodities agrícolas",
+    "Regulamentações governamentais sobre alimentos orgânicos",
+    "Tendências de consumo de produtos sustentáveis"
+  ],
+  "confidence_level": "Médio",
+  "analysis_limitations": "A análise considera um contexto genérico e pode variar dependendo da região e das condições específicas do mercado."
+}

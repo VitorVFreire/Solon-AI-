@@ -1,0 +1,31 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de seguros",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de seguros desempenham um papel fundamental no mercado de seguros, fornecendo expertise especializada na seleção, contratação e gestão de apólices de seguros para clientes individuais e empresas. Essa atividade contribui para a mitigação de riscos e a proteção financeira dos segurados, sendo essencial para a estabilidade e funcionamento eficiente do setor de seguros como um todo.",
+  "correlated_activities": [
+    {
+      "activity": "Serviços de consultoria em gestão de riscos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Os serviços de consultoria em gestão de seguros e em gestão de riscos são altamente complementares, uma vez que a gestão eficaz de riscos é essencial para a subscrição adequada de seguros. Ambas as atividades visam proteger os clientes contra eventos adversos e minimizar perdas financeiras.",
+      "economic_justification": "A consultoria em gestão de riscos auxilia na identificação, avaliação e mitigação de potenciais riscos enfrentados por indivíduos e empresas, fornecendo informações valiosas para a correta precificação e cobertura de seguros. A integração desses serviços pode melhorar a eficácia das estratégias de gestão de riscos e seguros."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de recursos humanos",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Interdependência",
+      "correlation_description": "Os serviços de consultoria em gestão de seguros e em gestão de recursos humanos possuem uma correlação moderada devido à importância dos recursos humanos na implementação e adesão às políticas de seguros nas organizações. Uma gestão eficaz de recursos humanos pode influenciar diretamente a eficácia dos programas de seguros.",
+      "economic_justification": "Os recursos humanos desempenham um papel crucial na conscientização, comunicação e implementação das políticas de seguros dentro das empresas. Uma equipe bem gerida e treinada pode contribuir para a redução de sinistros, melhorando a eficiência dos programas de seguros."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxas de sinistralidade",
+    "Regulação do setor de seguros",
+    "Condições econômicas gerais (taxas de juros, inflação)",
+    "Tendências demográficas (envelhecimento da população, migração)"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral do mercado de seguros, mas variações regionais e específicas de cada segmento podem influenciar as correlações identificadas."
+}

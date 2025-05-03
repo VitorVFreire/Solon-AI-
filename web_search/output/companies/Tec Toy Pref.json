@@ -1,0 +1,19 @@
+{
+  "company_name": "Tec Toy SA Pref",
+  "primary_activity": "Fabricação e distribuição de produtos eletrônicos de consumo",
+  "sector": "Tecnologia",
+  "subsector": "Indústria de eletrônicos",
+  "industry": "Indústria de produtos eletrônicos de consumo",
+  "activity_description": "A Tec Toy SA Pref é uma empresa especializada na fabricação e distribuição de produtos eletrônicos de consumo, como videogames, smartphones e eletrônicos domésticos. Seu foco principal está em oferecer entretenimento e tecnologia para seus clientes.",
+  "main_products_services": [
+    "Videogames",
+    "Smartphones",
+    "Eletrônicos domésticos"
+  ],
+  "competitors": [
+    "Sony",
+    "Nintendo",
+    "Samsung"
+  ],
+  "economic_classification_code": ""
+}

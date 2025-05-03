@@ -1,0 +1,19 @@
+{
+  "company_name": "Anima ON",
+  "primary_activity": "Educação",
+  "sector": "Educação",
+  "subsector": "Ensino Superior",
+  "industry": "Educação Superior",
+  "activity_description": "A Anima ON atua no setor de Educação, mais especificamente no subsector de Ensino Superior, oferecendo serviços educacionais de nível superior.",
+  "main_products_services": [
+    "Cursos de graduação",
+    "Cursos de pós-graduação",
+    "Cursos de extensão"
+  ],
+  "competitors": [
+    "Kroton",
+    "Estácio",
+    "Ser Educacional"
+  ],
+  "economic_classification_code": "8532-2"
+}

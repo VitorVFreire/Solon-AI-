@@ -1,0 +1,19 @@
+{
+  "company_name": "Ampla Energia e Servicos SA",
+  "primary_activity": "Fornecimento de energia elétrica e serviços relacionados",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Distribuição de Energia Elétrica",
+  "activity_description": "A Ampla Energia e Servicos SA atua no fornecimento de energia elétrica e serviços relacionados, incluindo distribuição de energia para consumidores residenciais e comerciais.",
+  "main_products_services": [
+    "Fornecimento de energia elétrica",
+    "Manutenção de redes elétricas",
+    "Atendimento ao cliente"
+  ],
+  "competitors": [
+    "Light Energia",
+    "Enel Distribuição",
+    "CPFL Energia"
+  ],
+  "economic_classification_code": "4910-4/01"
+}

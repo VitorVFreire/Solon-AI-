@@ -1,0 +1,28 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de recursos hídricos para saneamento básico",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de recursos hídricos para saneamento básico desempenham um papel fundamental na promoção da eficiência e sustentabilidade no uso da água, especialmente em projetos de saneamento básico e tratamento de água. Essa atividade contribui para a melhoria da qualidade de vida das populações, prevenção de doenças relacionadas à água e preservação do meio ambiente.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza hospitalar",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação forte entre os serviços de consultoria em gestão de recursos hídricos para saneamento básico e a indústria de produtos de limpeza hospitalar, pois ambas estão envolvidas na promoção da saúde pública e na garantia de ambientes limpos e seguros.",
+      "economic_justification": "A gestão eficiente de recursos hídricos para saneamento básico contribui diretamente para a demanda por produtos de limpeza hospitalar, uma vez que a higienização adequada é essencial em ambientes de saúde para prevenir infecções e garantir a segurança dos pacientes."
+    },
+    {
+      "activity": "Serviços de consultoria em gestão de cadeia de suprimentos de saúde pública",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada entre os serviços de consultoria em gestão de recursos hídricos para saneamento básico e os serviços de consultoria em gestão de cadeia de suprimentos de saúde pública, pois ambas as atividades estão relacionadas à promoção da saúde e bem-estar da população.",
+      "economic_justification": "A gestão eficiente de recursos hídricos para saneamento básico impacta diretamente a saúde pública, sendo essencial para a prevenção de doenças transmitidas pela água. A gestão de cadeia de suprimentos em saúde pública garante o acesso adequado a recursos e insumos necessários para a promoção da saúde."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam os serviços de consultoria em gestão de recursos hídricos para saneamento básico incluem políticas públicas de saneamento, investimentos em infraestrutura hídrica, regulamentações ambientais e níveis de conscientização da população sobre a importância da água para a saúde."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo das condições específicas de cada região ou país."
+}

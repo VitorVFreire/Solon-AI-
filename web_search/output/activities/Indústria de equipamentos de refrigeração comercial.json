@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de equipamentos de refrigeração comercial",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de equipamentos de refrigeração comercial desempenha um papel fundamental no suporte aos estabelecimentos comerciais que lidam com alimentos perecíveis, garantindo a qualidade e segurança dos produtos. Sua produção está diretamente ligada à demanda por equipamentos de refrigeração para conservação de alimentos em supermercados, restaurantes, padarias, entre outros estabelecimentos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de alimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma forte correlação entre a indústria de equipamentos de refrigeração comercial e a indústria de alimentos, pois os equipamentos de refrigeração são essenciais para a conservação dos alimentos produzidos. A demanda por equipamentos de refrigeração está diretamente relacionada ao desempenho e crescimento da indústria de alimentos.",
+      "economic_justification": "A indústria de equipamentos de refrigeração comercial depende fortemente da indústria de alimentos, uma vez que a conservação adequada dos produtos alimentícios requer equipamentos de refrigeração de qualidade. Qualquer variação na produção de alimentos impacta diretamente a demanda por equipamentos de refrigeração."
+    },
+    {
+      "activity": "Indústria de supermercados",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Cliente",
+      "correlation_description": "Há uma correlação significativa entre a indústria de equipamentos de refrigeração comercial e a indústria de supermercados, uma vez que os supermercados são grandes consumidores de equipamentos de refrigeração para manter seus produtos perecíveis em condições ideais.",
+      "economic_justification": "Os supermercados dependem dos equipamentos de refrigeração comercial para garantir a qualidade e segurança dos alimentos que comercializam. Qualquer expansão ou modernização de supermercados implica em maior demanda por equipamentos de refrigeração."
+    },
+    {
+      "activity": "Indústria de restaurantes",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação moderada entre a indústria de equipamentos de refrigeração comercial e a indústria de restaurantes, pois os restaurantes necessitam de equipamentos de refrigeração para armazenar alimentos perecíveis e preparar refeições.",
+      "economic_justification": "Os restaurantes dependem dos equipamentos de refrigeração para manter ingredientes frescos e seguros, além de armazenar corretamente alimentos preparados. O desempenho da indústria de restaurantes influencia a demanda por equipamentos de refrigeração."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações no consumo de alimentos e bens de consumo duráveis",
+    "Investimentos em infraestrutura comercial",
+    "Regulamentações de segurança alimentar e ambiental"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral e pode variar dependendo de fatores regionais e específicos de cada mercado."
+}

@@ -1,0 +1,21 @@
+{
+  "company_name": "Centro de Imagem Diagnosticos SA",
+  "primary_activity": "Serviços de Saúde e Diagnóstico por Imagem",
+  "sector": "Saúde",
+  "subsector": "Serviços de Saúde e Diagnóstico",
+  "industry": "Serviços de Diagnóstico por Imagem",
+  "activity_description": "A Centro de Imagem Diagnosticos SA atua na prestação de serviços de diagnóstico por imagem, oferecendo exames como ressonância magnética, tomografia computadorizada, ultrassonografia, entre outros, para auxiliar no diagnóstico de condições médicas.",
+  "main_products_services": [
+    "Ressonância Magnética",
+    "Tomografia Computadorizada",
+    "Ultrassonografia",
+    "Radiografia",
+    "Mamografia"
+  ],
+  "competitors": [
+    "DASA",
+    "Fleury",
+    "Alliar"
+  ],
+  "economic_classification_code": ""
+}

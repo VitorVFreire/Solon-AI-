@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria de embalagens sustentáveis",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A Indústria de embalagens sustentáveis atua na produção de embalagens ecologicamente corretas e biodegradáveis, buscando reduzir o impacto ambiental de produtos embalados. Com a crescente preocupação com a sustentabilidade e o meio ambiente, essa atividade tem ganhado destaque no mercado, atendendo a demanda por práticas mais sustentáveis na indústria de embalagens.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos orgânicos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria de embalagens sustentáveis tem uma forte correlação com a Indústria de produtos orgânicos, pois as embalagens sustentáveis são frequentemente utilizadas para produtos orgânicos, reforçando a proposta de sustentabilidade e saúde.",
+      "economic_justification": "Produtos orgânicos geralmente são associados a práticas sustentáveis e saudáveis, o que se alinha com a proposta das embalagens sustentáveis. Ambos os setores atendem a um público preocupado com a qualidade dos produtos e com o impacto ambiental, criando uma relação complementar."
+    },
+    {
+      "activity": "Indústria de alimentos orgânicos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "A Indústria de embalagens sustentáveis possui uma correlação moderada com a Indústria de alimentos orgânicos, pois as embalagens sustentáveis são frequentemente utilizadas para embalar produtos orgânicos, sendo um cliente importante para a indústria de embalagens.",
+      "economic_justification": "Os alimentos orgânicos têm uma forte demanda por embalagens sustentáveis, uma vez que os consumidores desse segmento valorizam a sustentabilidade em todas as etapas do produto, incluindo a embalagem. Assim, a Indústria de embalagens sustentáveis depende em parte da demanda da Indústria de alimentos orgânicos."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza ecológicos",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria de embalagens sustentáveis apresenta uma correlação moderada com a Indústria de produtos de limpeza ecológicos, pois embalagens sustentáveis são essenciais para produtos de limpeza com apelo ambiental.",
+      "economic_justification": "Assim como os produtos orgânicos, os produtos de limpeza ecológicos estão associados a práticas sustentáveis. As embalagens sustentáveis são parte fundamental da proposta desses produtos, contribuindo para a imagem de sustentabilidade e responsabilidade ambiental."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Políticas ambientais e de sustentabilidade",
+    "Tendências de consumo consciente",
+    "Inovações em materiais biodegradáveis",
+    "Regulamentações sobre embalagens sustentáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o cenário atual de demanda por práticas sustentáveis e embalagens ecologicamente corretas, mas variações no comportamento do consumidor ou mudanças nas políticas ambientais podem impactar as correlações identificadas."
+}

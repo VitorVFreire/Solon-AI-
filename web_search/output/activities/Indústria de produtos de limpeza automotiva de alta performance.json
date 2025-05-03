@@ -1,0 +1,31 @@
+{
+  "economic_activity": "Indústria de produtos de limpeza automotiva de alta performance",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de produtos de limpeza automotiva de alta performance faz parte do setor secundário da economia, sendo responsável pela fabricação de produtos especializados para limpeza e conservação de veículos com alto desempenho.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos de segurança para trabalho em altura",
+      "correlation_level": "3",
+      "dependency_level": "0,45",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre a indústria de produtos de limpeza automotiva de alta performance e a indústria de equipamentos de segurança para trabalho em altura, devido à necessidade de produtos de limpeza especializados para manutenção de equipamentos de segurança utilizados em trabalhos em altura.",
+      "economic_justification": "Ambas as indústrias atendem a demandas específicas de segurança e manutenção, sendo complementares na oferta de produtos especializados para diferentes necessidades de limpeza e segurança."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de limpeza sustentáveis",
+      "correlation_level": "4",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação forte entre a indústria de produtos de limpeza automotiva de alta performance e a indústria de embalagens de produtos de limpeza sustentáveis, devido à crescente demanda por produtos de limpeza automotiva sustentáveis e embalagens ecologicamente corretas.",
+      "economic_justification": "A preocupação com a sustentabilidade e a preferência por produtos ambientalmente amigáveis impulsionam a colaboração entre essas indústrias na oferta de soluções de limpeza automotiva de alta performance em embalagens sustentáveis."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de matérias-primas (químicos, plásticos, etc.)",
+    "Tendências de consumo sustentável e produtos eco-friendly",
+    "Inovações tecnológicas em fórmulas de limpeza e embalagens",
+    "Regulamentações ambientais e de segurança do trabalho"
+  ],
+  "confidence_level": "Médio",
+  "analysis_limitations": "A análise não considera variações regionais ou eventos externos imprevisíveis que possam impactar as correlações identificadas."
+}

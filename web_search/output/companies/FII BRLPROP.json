@@ -1,0 +1,16 @@
+{
+  "company_name": "FII BRLPROP",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Finanças",
+  "subsector": "Fundos de Investimento Imobiliário",
+  "industry": "Investimento em Propriedades Imobiliárias",
+  "activity_description": "O FII BRLPROP é um fundo de investimento imobiliário que tem como principal atividade a aquisição e gestão de propriedades imobiliárias, visando obter retorno através da locação ou valorização desses ativos.",
+  "main_products_services": [
+    "Gestão de Propriedades Imobiliárias",
+    "Investimento em Imóveis"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário"
+  ],
+  "economic_classification_code": "6492-9/00"
+}

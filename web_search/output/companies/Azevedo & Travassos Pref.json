@@ -1,0 +1,19 @@
+{
+  "company_name": "Azevedo & Travassos SA Pref",
+  "primary_activity": "Consultoria Empresarial",
+  "sector": "Consultoria",
+  "subsector": "Consultoria Empresarial",
+  "industry": "Consultoria em Estratégia Empresarial",
+  "activity_description": "A Azevedo & Travassos SA Pref atua principalmente na prestação de serviços de consultoria empresarial, com foco em estratégia empresarial para empresas no Brasil.",
+  "main_products_services": [
+    "Consultoria em estratégia empresarial",
+    "Consultoria em gestão de negócios",
+    "Análise de mercado"
+  ],
+  "competitors": [
+    "McKinsey & Company",
+    "BCG",
+    "Bain & Company"
+  ],
+  "economic_classification_code": "7490-1/02"
+}

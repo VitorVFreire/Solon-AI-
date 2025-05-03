@@ -1,0 +1,18 @@
+{
+  "company_name": "Sao Paulo Turismo SA",
+  "primary_activity": "Agência de Turismo",
+  "sector": "Turismo",
+  "subsector": "Agências de Viagens",
+  "industry": "Turismo Receptivo",
+  "activity_description": "Sao Paulo Turismo SA atua como uma agência de turismo especializada em turismo receptivo na região de São Paulo, oferecendo serviços de planejamento de viagens, reservas de hospedagem, passeios turísticos e assistência aos visitantes.",
+  "main_products_services": [
+    "Pacotes turísticos",
+    "Reservas de hospedagem",
+    "Passeios turísticos",
+    "Assistência aos visitantes"
+  ],
+  "competitors": [
+    "Agências de Turismo concorrentes na região de São Paulo"
+  ],
+  "economic_classification_code": ""
+}

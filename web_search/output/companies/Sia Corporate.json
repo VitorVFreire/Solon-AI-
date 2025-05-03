@@ -1,0 +1,19 @@
+{
+  "company_name": "Sia Corporate",
+  "primary_activity": "Consultoria Empresarial",
+  "sector": "Consultoria",
+  "subsector": "Consultoria em Negócios",
+  "industry": "Consultoria Empresarial",
+  "activity_description": "A Sia Corporate atua na prestação de serviços de consultoria empresarial, auxiliando outras empresas em questões estratégicas, operacionais e de gestão.",
+  "main_products_services": [
+    "Consultoria em estratégia empresarial",
+    "Consultoria em gestão de projetos",
+    "Consultoria em gestão financeira"
+  ],
+  "competitors": [
+    "McKinsey & Company",
+    "Boston Consulting Group",
+    "Bain & Company"
+  ],
+  "economic_classification_code": "NA"
+}

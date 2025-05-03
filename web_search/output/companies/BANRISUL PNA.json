@@ -1,0 +1,19 @@
+{
+  "company_name": "BANRISUL PNA",
+  "primary_activity": "Instituição Financeira",
+  "sector": "Finanças",
+  "subsector": "Bancos Comerciais",
+  "industry": "Banco Comercial",
+  "activity_description": "O BANRISUL PNA é uma instituição financeira que atua como banco comercial, oferecendo serviços bancários tradicionais, como empréstimos, investimentos e gestão de contas.",
+  "main_products_services": [
+    "Empréstimos",
+    "Investimentos",
+    "Gestão de Contas"
+  ],
+  "competitors": [
+    "Banco do Brasil",
+    "Itaú Unibanco",
+    "Bradesco"
+  ],
+  "economic_classification_code": "6412-3/00"
+}

@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens sustentáveis para alimentos",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens sustentáveis para alimentos desempenha um papel fundamental na redução do impacto ambiental da cadeia de alimentos, atendendo à demanda por embalagens ecologicamente corretas e sustentáveis.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de alimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria de embalagens sustentáveis para alimentos está fortemente correlacionada com a indústria de alimentos, pois as embalagens são essenciais para o armazenamento e transporte de produtos alimentícios.",
+      "economic_justification": "A demanda por embalagens sustentáveis está diretamente ligada à produção e distribuição de alimentos, refletindo a preocupação crescente com a sustentabilidade e a redução do impacto ambiental na cadeia alimentar."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos orgânicos",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada entre a indústria de embalagens sustentáveis para alimentos e a indústria de embalagens de produtos orgânicos devido à sinergia na oferta de soluções sustentáveis para diferentes segmentos de mercado.",
+      "economic_justification": "Ambas as indústrias compartilham o foco na sustentabilidade e na conscientização ambiental, o que as torna complementares na oferta de embalagens ecologicamente corretas para produtos orgânicos e convencionais."
+    },
+    {
+      "activity": "Indústria de alimentos orgânicos",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com a indústria de alimentos orgânicos devido à preferência por embalagens sustentáveis para produtos com certificação orgânica.",
+      "economic_justification": "Os consumidores que optam por alimentos orgânicos muitas vezes valorizam a sustentabilidade em todo o processo, incluindo as embalagens, o que impulsiona a demanda por embalagens sustentáveis."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos preços de matérias-primas recicladas",
+    "Legislação ambiental e regulamentações sobre embalagens sustentáveis",
+    "Tendências de consumo consciente e sustentável"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise não considera variações regionais específicas que podem impactar as correlações identificadas."
+}

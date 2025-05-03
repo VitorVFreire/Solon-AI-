@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens de produtos de higiene pessoal naturais",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A indústria de embalagens de produtos de higiene pessoal naturais desempenha um papel crucial na proteção e apresentação de produtos de higiene pessoal feitos com ingredientes naturais e sustentáveis. Sua atuação está diretamente ligada à demanda por produtos de higiene pessoal mais naturais e à preocupação crescente com a sustentabilidade ambiental.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de higiene pessoal naturais",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre a indústria de embalagens de produtos de higiene pessoal naturais e a indústria de produtos de higiene pessoal naturais. As embalagens são essenciais para a proteção e apresentação dos produtos, sendo um componente fundamental para a comercialização e aceitação no mercado.",
+      "economic_justification": "A indústria de embalagens de produtos de higiene pessoal naturais depende diretamente da demanda por produtos de higiene pessoal naturais. A inovação e sustentabilidade desses produtos influenciam diretamente a necessidade de embalagens adequadas, criando uma interdependência significativa."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada e dependência razoável entre a indústria de embalagens de produtos de higiene pessoal naturais e a indústria de embalagens sustentáveis. Ambas compartilham o foco na sustentabilidade e na utilização de materiais eco-friendly para atender a demanda por embalagens mais sustentáveis.",
+      "economic_justification": "A preocupação crescente com a sustentabilidade e o meio ambiente impulsiona a demanda por embalagens sustentáveis, o que beneficia diretamente a indústria de embalagens de produtos de higiene pessoal naturais, que está alinhada com esses princípios."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza ecológicos",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação fraca e dependência limitada entre a indústria de embalagens de produtos de higiene pessoal naturais e a indústria de produtos de limpeza ecológicos. Ambas compartilham o enfoque na sustentabilidade, mas atendem a necessidades distintas de mercado.",
+      "economic_justification": "Embora haja uma sobreposição no público-alvo preocupado com a sustentabilidade, os produtos de limpeza ecológicos têm demandas específicas de embalagens que podem diferir das necessidades da indústria de produtos de higiene pessoal naturais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações nos preços de matérias-primas sustentáveis",
+    "Tendências de consumo de produtos naturais e sustentáveis",
+    "Regulamentações ambientais sobre embalagens e produtos de higiene pessoal"
+  ],
+  "confidence_level": "Médio",
+  "analysis_limitations": "A análise considera o contexto geral da indústria, mas variações regionais podem impactar as correlações identificadas."
+}

@@ -1,0 +1,19 @@
+{
+  "company_name": "Renova Energia",
+  "primary_activity": "Geração de energia renovável",
+  "sector": "Energia",
+  "subsector": "Energia renovável",
+  "industry": "Geração de energia eólica e solar",
+  "activity_description": "A Renova Energia atua na geração de energia elétrica a partir de fontes renováveis, com foco em energia eólica e solar. A empresa desenvolve, opera e mantém parques eólicos e solares para a produção sustentável de eletricidade.",
+  "main_products_services": [
+    "Geração de energia elétrica renovável",
+    "Desenvolvimento de parques eólicos",
+    "Desenvolvimento de parques solares"
+  ],
+  "competitors": [
+    "CPFL Renováveis",
+    "AES Tietê Energia",
+    "Enel Green Power"
+  ],
+  "economic_classification_code": "CNAE 3511-5/01"
+}

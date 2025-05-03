@@ -1,0 +1,30 @@
+{
+  "economic_activity": "Indústria de embalagens de produtos farmacêuticos",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de embalagens de produtos farmacêuticos desempenha um papel crucial na garantia da segurança, integridade e qualidade dos produtos farmacêuticos, atendendo a rigorosas regulamentações e normas do setor. Sua produção está diretamente ligada à demanda da indústria farmacêutica por embalagens especializadas e seguras para acondicionamento de medicamentos e produtos de saúde.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Farmacêutica",
+      "correlation_level": "5",
+      "dependency_level": "0.85",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma correlação muito forte entre a Indústria de embalagens de produtos farmacêuticos e a Indústria Farmacêutica, sendo esta última a principal cliente da indústria de embalagens. A demanda por embalagens seguras e adequadas é impulsionada pela produção e lançamento de novos medicamentos e produtos farmacêuticos.",
+      "economic_justification": "A Indústria de embalagens de produtos farmacêuticos depende diretamente da Indústria Farmacêutica para sua demanda, uma vez que as embalagens são essenciais para garantir a segurança, integridade e qualidade dos produtos farmacêuticos. Qualquer variação na demanda por medicamentos e produtos de saúde impacta diretamente a necessidade de embalagens especializadas."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza hospitalar",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação moderada entre a Indústria de embalagens de produtos farmacêuticos e a Indústria de produtos de limpeza hospitalar, pois ambas atendem ao setor de saúde. Embalagens para produtos farmacêuticos e produtos de limpeza hospitalar são essenciais para a segurança e higiene em ambientes de saúde.",
+      "economic_justification": "A Indústria de embalagens de produtos farmacêuticos e a Indústria de produtos de limpeza hospitalar são complementares, uma vez que ambas fornecem produtos essenciais para o setor de saúde. Embalagens seguras para produtos farmacêuticos e produtos de limpeza hospitalar são fundamentais para garantir a saúde e segurança dos pacientes e profissionais de saúde."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Regulamentações governamentais sobre embalagens de produtos farmacêuticos",
+    "Inovações tecnológicas em materiais de embalagem",
+    "Demanda por embalagens sustentáveis na indústria farmacêutica"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria e pode variar dependendo de fatores específicos de cada empresa ou região."
+}

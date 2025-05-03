@@ -1,0 +1,18 @@
+{
+  "company_name": "Mundial SA Produtos de Consumo",
+  "primary_activity": "Produção e comercialização de produtos de consumo",
+  "sector": "Comércio Varejista",
+  "subsector": "Produtos de Consumo",
+  "industry": "Produtos de Consumo Diversos",
+  "activity_description": "A Mundial SA Produtos de Consumo atua na produção e comercialização de uma variedade de produtos de consumo, abrangendo desde utensílios domésticos até itens de higiene pessoal.",
+  "main_products_services": [
+    "Utensílios domésticos",
+    "Produtos de higiene pessoal",
+    "Produtos de limpeza",
+    "Produtos de cuidados pessoais"
+  ],
+  "competitors": [
+    "Empresas de produtos de consumo similares"
+  ],
+  "economic_classification_code": ""
+}

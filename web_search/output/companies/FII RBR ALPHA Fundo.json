@@ -1,0 +1,16 @@
+{
+  "company_name": "FII RBR ALPHA Fundo",
+  "primary_activity": "Investimento em Fundos Imobiliários",
+  "sector": "Finanças",
+  "subsector": "Gestão de Investimentos",
+  "industry": "Investimento em Fundos Imobiliários",
+  "activity_description": "A empresa atua na gestão de investimentos em fundos imobiliários, buscando retorno financeiro por meio da aquisição e administração de ativos imobiliários.",
+  "main_products_services": [
+    "Gestão de Investimentos",
+    "Administração de Ativos Imobiliários"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário"
+  ],
+  "economic_classification_code": "6492-5/00"
+}

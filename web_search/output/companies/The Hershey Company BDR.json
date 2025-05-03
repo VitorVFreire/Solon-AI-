@@ -1,0 +1,20 @@
+{
+  "company_name": "The Hershey Company BDR",
+  "primary_activity": "Fabricação e comercialização de produtos alimentícios",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Fabricação de chocolates e doces",
+  "industry": "Fabricação de chocolates e doces",
+  "activity_description": "A The Hershey Company BDR atua na fabricação e comercialização de chocolates e doces, sendo uma empresa reconhecida no mercado de alimentos.",
+  "main_products_services": [
+    "Chocolates",
+    "Doces",
+    "Barras de chocolate",
+    "Balas"
+  ],
+  "competitors": [
+    "Mars, Incorporated",
+    "Mondelez International",
+    "Ferrero Group"
+  ],
+  "economic_classification_code": "C1090"
+}

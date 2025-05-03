@@ -1,0 +1,19 @@
+{
+  "company_name": "WEG SA",
+  "primary_activity": "Fabricação de equipamentos elétricos",
+  "sector": "Indústria de Energia",
+  "subsector": "Equipamentos Elétricos",
+  "industry": "Fabricação de Motores Elétricos e Transformadores",
+  "activity_description": "A WEG SA atua na fabricação de motores elétricos, transformadores e equipamentos elétricos em geral, sendo uma das principais empresas do setor de energia no Brasil.",
+  "main_products_services": [
+    "Motores Elétricos",
+    "Transformadores",
+    "Equipamentos Elétricos"
+  ],
+  "competitors": [
+    "Siemens AG",
+    "ABB Ltd.",
+    "General Electric Company"
+  ],
+  "economic_classification_code": "CNAE 2710-4/00"
+}

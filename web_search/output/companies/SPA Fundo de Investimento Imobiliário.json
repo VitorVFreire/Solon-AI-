@@ -1,0 +1,16 @@
+{
+  "company_name": "SPA Fundo de Investimento Imobiliário",
+  "primary_activity": "Investimento em imóveis por meio de fundo de investimento",
+  "sector": "Finanças",
+  "subsector": "Investimentos Imobiliários",
+  "industry": "Fundo de Investimento Imobiliário",
+  "activity_description": "A empresa atua no mercado financeiro investindo em imóveis por meio de um fundo de investimento imobiliário, buscando retorno através da valorização e aluguel de propriedades.",
+  "main_products_services": [
+    "Investimento em imóveis",
+    "Gestão de fundo de investimento imobiliário"
+  ],
+  "competitors": [
+    "Outros fundos de investimento imobiliário"
+  ],
+  "economic_classification_code": "6630-3/00 - Fundos de Investimento Imobiliário"
+}

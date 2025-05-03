@@ -1,0 +1,19 @@
+{
+  "company_name": "Biogen Inc",
+  "primary_activity": "Pesquisa e desenvolvimento de produtos farmacêuticos",
+  "sector": "Saúde",
+  "subsector": "Farmacêutico",
+  "industry": "Farmacêutica",
+  "activity_description": "A Biogen Inc é uma empresa dedicada à pesquisa e desenvolvimento de produtos farmacêuticos, com foco em tratamentos para doenças neurológicas e autoimunes.",
+  "main_products_services": [
+    "Medicamentos para esclerose múltipla",
+    "Medicamentos para doença de Alzheimer",
+    "Medicamentos para esclerose lateral amiotrófica"
+  ],
+  "competitors": [
+    "Roche",
+    "Novartis",
+    "Merck"
+  ],
+  "economic_classification_code": "325412"
+}

@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Serviços de consultoria em gestão de startups",
+  "sector_classification": "Terciário",
+  "economic_context": "Os serviços de consultoria em gestão de startups desempenham um papel fundamental no ecossistema empreendedor, fornecendo suporte especializado para empresas em estágio inicial, auxiliando no desenvolvimento e crescimento sustentável desses negócios.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria em gestão de inovação",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "As atividades de consultoria em gestão de startups e consultoria em gestão de inovação estão fortemente correlacionadas devido à necessidade de inovação constante e estratégias disruptivas para empresas em crescimento.",
+      "economic_justification": "Startups frequentemente buscam inovação como diferencial competitivo, e a consultoria em gestão de inovação auxilia no desenvolvimento e implementação de processos inovadores, tornando-as complementares."
+    },
+    {
+      "activity": "Consultoria em gestão de investimentos",
+      "correlation_level": "4",
+      "dependency_level": "0,70",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma forte correlação entre os serviços de consultoria em gestão de startups e consultoria em gestão de investimentos, pois as startups frequentemente necessitam de orientação especializada na captação de recursos e investimentos para impulsionar seu crescimento.",
+      "economic_justification": "A consultoria em gestão de investimentos pode ajudar as startups a identificar oportunidades de financiamento e alocar recursos de forma eficiente, complementando os serviços de consultoria em gestão de startups."
+    },
+    {
+      "activity": "Consultoria em gestão de tecnologia da informação",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação moderada entre os serviços de consultoria em gestão de startups e consultoria em gestão de tecnologia da informação, uma vez que a tecnologia desempenha um papel crucial na estratégia e operações das startups.",
+      "economic_justification": "As startups dependem fortemente de soluções tecnológicas para inovar, crescer e se manter competitivas, tornando a consultoria em gestão de tecnologia da informação um serviço complementar para otimizar o uso da tecnologia."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Taxas de juros para investimentos em startups",
+    "Disponibilidade de capital de risco",
+    "Tendências de inovação e tecnologia",
+    "Regulamentações governamentais para startups e investimentos"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral de mercado e pode variar dependendo da região e do setor específico de atuação das startups."
+}

@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens de luxo",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A Indústria de embalagens de luxo atua na produção de embalagens exclusivas e sofisticadas para produtos de alto padrão, agregando valor estético e diferencial aos produtos finais. É um setor que atende principalmente a indústrias de segmentos premium e de luxo, buscando transmitir uma imagem de exclusividade e qualidade superior.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de luxo",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Indústria de embalagens de luxo tem uma forte correlação com a Indústria de produtos de luxo, pois as embalagens desempenham um papel crucial na apresentação e valorização de produtos de alta gama.",
+      "economic_justification": "Produtos de luxo demandam embalagens que transmitam a mesma exclusividade e sofisticação, criando uma sinergia entre a Indústria de embalagens de luxo e a Indústria de produtos de luxo."
+    },
+    {
+      "activity": "Indústria de joias",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Cliente",
+      "correlation_description": "A Indústria de embalagens de luxo possui uma correlação moderada com a Indústria de joias, pois as embalagens desempenham um papel importante na apresentação e valorização de joias de alto padrão.",
+      "economic_justification": "As joias, por serem produtos de alto valor agregado, necessitam de embalagens que estejam à altura de sua qualidade, o que estabelece uma relação de dependência entre esses setores."
+    },
+    {
+      "activity": "Indústria de cosméticos de luxo",
+      "correlation_level": "4",
+      "dependency_level": "0.80",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria de embalagens de luxo tem uma forte correlação com a Indústria de cosméticos de luxo, fornecendo embalagens exclusivas e personalizadas para produtos de cosméticos premium.",
+      "economic_justification": "Os cosméticos de luxo buscam diferenciação e exclusividade, o que torna essencial o uso de embalagens de alto padrão, estabelecendo uma relação de fornecedor-cliente entre esses setores."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Variações no mercado de produtos de luxo",
+    "Tendências de design e inovação no setor de embalagens",
+    "Impacto de eventos e exposições de alto padrão na demanda por embalagens de luxo"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria, podendo variar em cenários específicos de mercado ou região."
+}

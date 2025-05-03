@@ -1,0 +1,20 @@
+{
+  "company_name": "Electro Aco Altona SA",
+  "primary_activity": "Produção e comercialização de produtos siderúrgicos",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Siderurgia",
+  "industry": "Produção de aço e produtos siderúrgicos",
+  "activity_description": "A Electro Aco Altona SA atua na produção e comercialização de produtos siderúrgicos, com foco na fabricação de aço e outros materiais siderúrgicos. A empresa fornece materiais para diversos setores da economia, como construção civil, indústria automobilística e fabricação de máquinas.",
+  "main_products_services": [
+    "Aço",
+    "Chapas de metal",
+    "Barras de aço",
+    "Perfis de aço"
+  ],
+  "competitors": [
+    "Usiminas",
+    "Gerdau",
+    "CSN"
+  ],
+  "economic_classification_code": null
+}

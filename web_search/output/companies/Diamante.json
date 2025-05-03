@@ -1,0 +1,21 @@
+{
+  "company_name": "Diamante",
+  "primary_activity": "Comércio Varejista de Joias",
+  "sector": "Moda",
+  "subsector": "Joalheria",
+  "industry": "Varejo de Joias",
+  "activity_description": "A empresa Diamante atua no comércio varejista de joias, oferecendo uma variedade de peças de joalheria para seus clientes.",
+  "main_products_services": [
+    "Joias de ouro",
+    "Joias de prata",
+    "Anéis",
+    "Colares",
+    "Brincos"
+  ],
+  "competitors": [
+    "Joalheria Estrela",
+    "Luxo Joias",
+    "Brilho & Cia"
+  ],
+  "economic_classification_code": ""
+}

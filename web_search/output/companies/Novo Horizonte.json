@@ -1,0 +1,19 @@
+{
+  "company_name": "Novo Horizonte",
+  "primary_activity": "Construção Civil",
+  "sector": "Construção Civil",
+  "subsector": "Construção de Edifícios e Obras de Engenharia Civil",
+  "industry": "Construção Residencial e Comercial",
+  "activity_description": "A empresa Novo Horizonte atua na construção de edifícios residenciais e comerciais, bem como em obras de engenharia civil, contribuindo para o desenvolvimento urbano e imobiliário.",
+  "main_products_services": [
+    "Construção de edifícios residenciais",
+    "Construção de edifícios comerciais",
+    "Obras de engenharia civil"
+  ],
+  "competitors": [
+    "Construtora Horizonte",
+    "Construções Futuro",
+    "Edificações Progresso"
+  ],
+  "economic_classification_code": "2361-8/00"
+}

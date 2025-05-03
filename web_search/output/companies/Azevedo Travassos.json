@@ -1,0 +1,17 @@
+{
+  "company_name": "Azevedo & Travassos SA",
+  "primary_activity": "Consultoria Empresarial",
+  "sector": "Consultoria Financeira",
+  "subsector": "Consultoria Empresarial",
+  "industry": "Consultoria em Gestão de Projetos",
+  "activity_description": "A Azevedo & Travassos SA atua como uma empresa de consultoria empresarial especializada em gestão de projetos para diversos setores da economia. Seu foco principal é auxiliar outras empresas na implementação eficiente de projetos estratégicos.",
+  "main_products_services": [
+    "Consultoria em gestão de projetos"
+  ],
+  "competitors": [
+    "McKinsey & Company",
+    "BCG",
+    "Bain & Company"
+  ],
+  "economic_classification_code": "8291-1/00"
+}

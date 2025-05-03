@@ -1,0 +1,18 @@
+{
+  "company_name": "RBR Properties",
+  "primary_activity": "Investimento em propriedades imobiliárias",
+  "sector": "Construção Civil",
+  "subsector": "Desenvolvimento e investimento imobiliário",
+  "industry": "Investimento em propriedades comerciais e residenciais",
+  "activity_description": "A RBR Properties atua no desenvolvimento e investimento em propriedades imobiliárias, focando em empreendimentos comerciais e residenciais. A empresa busca oportunidades de investimento no setor imobiliário brasileiro.",
+  "main_products_services": [
+    "Desenvolvimento de empreendimentos imobiliários",
+    "Investimento em propriedades comerciais e residenciais"
+  ],
+  "competitors": [
+    "Cyrela",
+    "MRV Engenharia",
+    "Even Construtora"
+  ],
+  "economic_classification_code": ""
+}

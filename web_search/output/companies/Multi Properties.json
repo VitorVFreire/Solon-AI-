@@ -1,0 +1,18 @@
+{
+  "company_name": "Multi Properties",
+  "primary_activity": "Investimento em propriedades imobiliárias",
+  "sector": "Finanças",
+  "subsector": "Investimentos imobiliários",
+  "industry": "Fundos de Investimento Imobiliário (FII)",
+  "activity_description": "A Multi Properties atua no mercado financeiro investindo em propriedades imobiliárias por meio de fundos de investimento imobiliário, buscando retorno financeiro por meio da valorização e locação desses ativos.",
+  "main_products_services": [
+    "Gestão de fundos de investimento imobiliário",
+    "Aquisição e administração de propriedades",
+    "Consultoria em investimentos imobiliários"
+  ],
+  "competitors": [
+    "Outros fundos de investimento imobiliário",
+    "Empresas de gestão de ativos imobiliários"
+  ],
+  "economic_classification_code": "6492-9/00 - Fundos de Investimento Imobiliário"
+}

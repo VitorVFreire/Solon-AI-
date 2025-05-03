@@ -1,0 +1,15 @@
+{
+  "company_name": "Baumer SA Pref",
+  "primary_activity": "Fabricação de equipamentos médicos",
+  "sector": "Saúde",
+  "subsector": "Equipamentos Médicos",
+  "industry": "Equipamentos Médicos de Precisão",
+  "activity_description": "A Baumer SA Pref atua na fabricação de equipamentos médicos de precisão, fornecendo soluções avançadas para o setor de saúde. Seus produtos incluem dispositivos de alta tecnologia para diagnóstico e tratamento de diversas condições médicas.",
+  "main_products_services": [
+    "Equipamentos Médicos de Precisão"
+  ],
+  "competitors": [
+    "Empresas de Equipamentos Médicos"
+  ],
+  "economic_classification_code": "3250-7/00 - Fabricação de instrumentos e materiais para uso médico e odontológico e de artigos ópticos"
+}

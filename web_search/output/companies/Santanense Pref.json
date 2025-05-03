@@ -1,0 +1,19 @@
+{
+  "company_name": "Companhia Tecidos Santanense Pref",
+  "primary_activity": "Fabricação de tecidos",
+  "sector": "Indústria Têxtil",
+  "subsector": "Indústria de Tecidos",
+  "industry": "Indústria Têxtil",
+  "activity_description": "A Companhia Tecidos Santanense Pref atua na fabricação de tecidos, produzindo uma variedade de produtos têxteis para diferentes finalidades.",
+  "main_products_services": [
+    "Tecidos para vestuário",
+    "Tecidos para decoração",
+    "Tecidos para uso técnico"
+  ],
+  "competitors": [
+    "Santista Têxtil",
+    "Cedro Têxtil",
+    "Hering Têxtil"
+  ],
+  "economic_classification_code": "C1412-4/00"
+}

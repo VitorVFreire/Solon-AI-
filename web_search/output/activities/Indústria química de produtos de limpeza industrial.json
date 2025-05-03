@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria química de produtos de limpeza industrial",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria química de produtos de limpeza industrial desempenha um papel fundamental na provisão de insumos essenciais para a limpeza e higienização de ambientes industriais, contribuindo para a manutenção de padrões de qualidade e segurança nos processos produtivos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de produtos de limpeza hospitalar",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação entre a indústria química de produtos de limpeza industrial e a indústria de produtos de limpeza hospitalar devido à similaridade dos produtos e à necessidade de padrões elevados de higienização em ambos os setores.",
+      "economic_justification": "Ambas as indústrias dependem de produtos químicos especializados para garantir a limpeza eficaz de ambientes específicos, sendo essencial uma produção contínua e de qualidade para atender às demandas de limpeza hospitalar e industrial."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de limpeza industrial",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação moderada entre a indústria química de produtos de limpeza industrial e a indústria de embalagens de produtos de limpeza industrial devido à necessidade de embalagens específicas para acondicionar e comercializar os produtos químicos.",
+      "economic_justification": "A indústria química depende da indústria de embalagens para garantir a segurança, praticidade e conservação dos produtos químicos utilizados na limpeza industrial, estabelecendo uma relação de fornecedor-comprador essencial para ambas as partes."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança para trabalho em espaços confinados",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Segurança",
+      "correlation_description": "Existe uma correlação fraca entre a indústria química de produtos de limpeza industrial e a indústria de equipamentos de segurança para trabalho em espaços confinados devido à necessidade de proteção dos trabalhadores que lidam com produtos químicos.",
+      "economic_justification": "Ambas as indústrias estão relacionadas à segurança no ambiente de trabalho, sendo fundamental o uso de equipamentos de proteção individual adequados para garantir a integridade dos trabalhadores expostos a substâncias químicas."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços de matérias-primas químicas",
+    "Regulamentações ambientais e de segurança",
+    "Demanda por produtos de limpeza industrial em diferentes setores da economia"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto genérico da indústria química de produtos de limpeza industrial, podendo haver variações significativas dependendo do mercado regional e das especificidades dos produtos fabricados."
+}

@@ -1,0 +1,20 @@
+{
+  "company_name": "Procter & Gamble Co BDR",
+  "primary_activity": "Fabricação e comercialização de produtos de higiene pessoal e limpeza",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Produtos de Higiene Pessoal e Limpeza",
+  "industry": "Produtos de Limpeza e Higiene Pessoal",
+  "activity_description": "A Procter & Gamble Co BDR é uma empresa especializada na fabricação e comercialização de uma ampla variedade de produtos de higiene pessoal e limpeza, incluindo sabonetes, shampoos, condicionadores, detergentes, entre outros.",
+  "main_products_services": [
+    "Sabonetes",
+    "Shampoos",
+    "Condicionadores",
+    "Detergentes"
+  ],
+  "competitors": [
+    "Unilever",
+    "Colgate-Palmolive",
+    "Johnson & Johnson"
+  ],
+  "economic_classification_code": "CNAE 2062-1/00"
+}

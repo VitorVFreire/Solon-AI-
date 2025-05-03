@@ -1,0 +1,19 @@
+{
+  "company_name": "Tourmalet I",
+  "primary_activity": "Consultoria Empresarial",
+  "sector": "Consultoria",
+  "subsector": "Consultoria Empresarial",
+  "industry": "Consultoria Estratégica",
+  "activity_description": "A Tourmalet I atua na prestação de serviços de consultoria empresarial, fornecendo orientações estratégicas para empresas em diversas áreas de negócio.",
+  "main_products_services": [
+    "Consultoria estratégica",
+    "Consultoria financeira",
+    "Consultoria de gestão"
+  ],
+  "competitors": [
+    "McKinsey & Company",
+    "Boston Consulting Group",
+    "Bain & Company"
+  ],
+  "economic_classification_code": "749010 - Consultoria em gestão empresarial"
+}

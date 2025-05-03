@@ -1,0 +1,20 @@
+{
+  "company_name": "Eldorado",
+  "primary_activity": "Produção de celulose e papel",
+  "sector": "Indústria Alimentícia",
+  "subsector": "Celulose e Papel",
+  "industry": "Produção de celulose e papel",
+  "activity_description": "A empresa Eldorado atua na produção de celulose e papel, fornecendo produtos para diversos segmentos de mercado.",
+  "main_products_services": [
+    "Celulose",
+    "Papel",
+    "Papel higiênico",
+    "Papel para embalagens"
+  ],
+  "competitors": [
+    "Suzano",
+    "Fibria",
+    "Klabin"
+  ],
+  "economic_classification_code": "17.22-6"
+}

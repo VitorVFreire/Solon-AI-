@@ -1,0 +1,19 @@
+{
+  "company_name": "Eternit SA",
+  "primary_activity": "Fabricação de materiais de construção",
+  "sector": "Construção Civil",
+  "subsector": "Materiais de Construção",
+  "industry": "Fabricação de Materiais de Construção em Geral",
+  "activity_description": "A Eternit SA atua na fabricação de materiais de construção, com foco em produtos como telhas, caixas d'água e outros materiais para construção civil.",
+  "main_products_services": [
+    "Telhas de fibrocimento",
+    "Caixas d'água",
+    "Placas cimentícias"
+  ],
+  "competitors": [
+    "Brasilit",
+    "Tégula",
+    "Onduline"
+  ],
+  "economic_classification_code": "23.63-3"
+}

@@ -1,0 +1,28 @@
+{
+  "economic_activity": "Indústria de produtos de limpeza hospitalar",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A indústria de produtos de limpeza hospitalar desempenha um papel crucial na manutenção da higiene e segurança em ambientes hospitalares, contribuindo para a prevenção de infecções e a promoção da saúde pública.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos médicos",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "Existe uma correlação forte entre a indústria de produtos de limpeza hospitalar e a indústria de equipamentos médicos, pois ambos os setores são essenciais para a operação eficiente de instalações de saúde.",
+      "economic_justification": "A limpeza hospitalar requer produtos específicos para garantir a desinfecção adequada de equipamentos médicos e ambientes hospitalares, tornando esses setores altamente interdependentes."
+    },
+    {
+      "activity": "Indústria de embalagens de produtos de saúde e bem-estar",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Há uma correlação moderada entre a indústria de produtos de limpeza hospitalar e a indústria de embalagens de produtos de saúde e bem-estar, devido à necessidade de embalagens adequadas para os produtos de limpeza hospitalar.",
+      "economic_justification": "A indústria de embalagens desempenha um papel crucial na proteção e distribuição dos produtos de limpeza hospitalar, sendo um fornecedor essencial para a cadeia de suprimentos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de produtos de limpeza hospitalar incluem investimentos em saúde pública, regulamentações sanitárias, demanda por serviços hospitalares e inovações tecnológicas em produtos de limpeza e equipamentos médicos."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera um contexto geral e pode variar dependendo de fatores regionais e específicos de cada mercado."
+}

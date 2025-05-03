@@ -1,0 +1,19 @@
+{
+  "company_name": "LINX ON NM",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Software e Serviços Relacionados",
+  "industry": "Desenvolvimento de Software e Soluções Tecnológicas",
+  "activity_description": "A Linx ON atua no desenvolvimento de software e soluções tecnológicas para diversos segmentos de mercado, oferecendo sistemas de gestão, e-commerce, CRM, entre outros.",
+  "main_products_services": [
+    "Sistemas de Gestão",
+    "Soluções de E-commerce",
+    "CRM"
+  ],
+  "competitors": [
+    "TOTVS",
+    "Oracle",
+    "SAP"
+  ],
+  "economic_classification_code": null
+}

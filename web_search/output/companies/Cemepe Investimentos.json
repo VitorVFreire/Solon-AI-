@@ -1,0 +1,18 @@
+{
+  "company_name": "Cemepe Investimentos",
+  "primary_activity": "Investimentos financeiros",
+  "sector": "Finanças",
+  "subsector": "Investimentos",
+  "industry": "Gestão de investimentos",
+  "activity_description": "A Cemepe Investimentos atua na gestão de investimentos financeiros, oferecendo serviços de consultoria e administração de carteiras de investimento. Seu foco principal é ajudar clientes a alcançarem seus objetivos financeiros por meio de estratégias de investimento.",
+  "main_products_services": [
+    "Consultoria em investimentos financeiros",
+    "Administração de carteiras de investimento"
+  ],
+  "competitors": [
+    "Banco BTG Pactual",
+    "XP Investimentos",
+    "Itaú Asset Management"
+  ],
+  "economic_classification_code": "6492-2/00"
+}

@@ -1,0 +1,17 @@
+{
+  "company_name": "Industrias Romi SA",
+  "primary_activity": "Fabricação de máquinas-ferramenta",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Fabricação de Máquinas-Ferramenta",
+  "industry": "Indústria de Máquinas-Ferramenta",
+  "activity_description": "A Industrias Romi SA atua na fabricação de máquinas-ferramenta, fornecendo equipamentos para diversos setores industriais.",
+  "main_products_services": [
+    "Máquinas-ferramenta",
+    "Equipamentos industriais"
+  ],
+  "competitors": [
+    "Empresa concorrente 1",
+    "Empresa concorrente 2"
+  ],
+  "economic_classification_code": "CNAE 28.41-0-00"
+}

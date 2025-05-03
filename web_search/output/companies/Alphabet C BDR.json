@@ -1,0 +1,21 @@
+{
+  "company_name": "Alphabet Inc C BDR",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Tecnologia da Informação",
+  "industry": "Desenvolvimento de Software e Serviços Relacionados",
+  "activity_description": "A Alphabet Inc é uma empresa de tecnologia da informação especializada no desenvolvimento de software e serviços relacionados. Atua principalmente no mercado de tecnologia, oferecendo uma variedade de produtos e soluções inovadoras.",
+  "main_products_services": [
+    "Google Search",
+    "Android",
+    "YouTube",
+    "Google Cloud",
+    "Google Ads"
+  ],
+  "competitors": [
+    "Microsoft",
+    "Apple",
+    "Amazon"
+  ],
+  "economic_classification_code": "6201-5/00 - Desenvolvimento de programas de computador sob encomenda"
+}

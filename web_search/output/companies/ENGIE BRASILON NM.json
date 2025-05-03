@@ -1,0 +1,17 @@
+{
+  "company_name": "Engie Brasil Energia SA",
+  "primary_activity": "Geração de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Energia Elétrica Convencional",
+  "activity_description": "A Engie Brasil Energia SA atua na geração de energia elétrica, principalmente por meio de fontes convencionais, como hidrelétricas e termelétricas. A empresa é uma das principais produtoras de energia do Brasil.",
+  "main_products_services": [
+    "Geração de energia elétrica"
+  ],
+  "competitors": [
+    "AES Brasil",
+    "CPFL Energia",
+    "Energisa"
+  ],
+  "economic_classification_code": "4911-3/01"
+}

@@ -1,0 +1,47 @@
+{
+  "economic_activity": "Saúde",
+  "sector_classification": "Terciário",
+  "economic_context": "A atividade de saúde é essencial para a manutenção da qualidade de vida e produtividade da população, sendo um serviço fundamental em qualquer economia. Envolve desde a prestação de serviços médicos básicos até procedimentos cirúrgicos complexos e tratamentos especializados.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Farmacêutica",
+      "correlation_level": "4",
+      "dependency_level": "0.75",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria Farmacêutica fornece medicamentos e produtos essenciais para o tratamento de doenças e manutenção da saúde, sendo fundamental para o funcionamento do setor de Saúde.",
+      "economic_justification": "Sem os medicamentos e produtos desenvolvidos pela Indústria Farmacêutica, os serviços de saúde seriam severamente comprometidos, impactando diretamente a capacidade de diagnóstico, tratamento e prevenção de doenças."
+    },
+    {
+      "activity": "Tecnologia da Informação",
+      "correlation_level": "3",
+      "dependency_level": "0.60",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Tecnologia da Informação desempenha um papel crucial na gestão de dados médicos, sistemas de informação hospitalar, telemedicina e inovações tecnológicas que melhoram a eficiência e qualidade dos serviços de saúde.",
+      "economic_justification": "A integração de sistemas de TI na área da saúde permite uma melhor gestão de informações, agilidade nos processos, telemedicina e inovações que impactam diretamente a qualidade do atendimento e a eficácia dos tratamentos."
+    },
+    {
+      "activity": "Indústria de Equipamentos Médicos",
+      "correlation_level": "4",
+      "dependency_level": "0.80",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A Indústria de Equipamentos Médicos fornece dispositivos, equipamentos e tecnologias utilizadas em procedimentos médicos, diagnósticos e tratamentos, sendo essencial para a prestação de serviços de saúde.",
+      "economic_justification": "Sem os equipamentos médicos adequados, os profissionais de saúde não conseguiriam realizar procedimentos, exames e tratamentos de forma eficaz, comprometendo a qualidade e eficiência dos serviços prestados."
+    },
+    {
+      "activity": "Serviços de TI em nuvem",
+      "correlation_level": "2",
+      "dependency_level": "0.40",
+      "correlation_type": "Complementar",
+      "correlation_description": "Os Serviços de TI em nuvem permitem o armazenamento seguro e o acesso remoto a dados médicos, facilitando a troca de informações entre profissionais de saúde, pacientes e instituições.",
+      "economic_justification": "A utilização de serviços de TI em nuvem na área da saúde contribui para a segurança, acessibilidade e integridade dos dados, promovendo uma melhor coordenação de cuidados e agilidade nos processos."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Investimento em pesquisa e desenvolvimento de novos tratamentos e tecnologias médicas",
+    "Políticas de saúde pública e regulamentações governamentais",
+    "Demografia e envelhecimento da população",
+    "Acesso a financiamento e seguros de saúde"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da atividade de saúde, podendo variar em detalhes conforme a região ou país em questão. Além disso, fatores externos inesperados, como pandemias, podem impactar significativamente as correlações identificadas."
+}

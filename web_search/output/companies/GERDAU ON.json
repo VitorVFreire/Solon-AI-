@@ -1,0 +1,19 @@
+{
+  "company_name": "Gerdau SA",
+  "primary_activity": "Produção e comercialização de aço",
+  "sector": "Indústria Metalúrgica",
+  "subsector": "Siderurgia",
+  "industry": "Produção de aço",
+  "activity_description": "A Gerdau SA atua na produção e comercialização de aço, sendo uma das maiores empresas do setor siderúrgico no Brasil e no mundo. Seus principais produtos incluem vergalhões, perfis e barras de aço.",
+  "main_products_services": [
+    "Vergalhões",
+    "Perfis de aço",
+    "Barras de aço"
+  ],
+  "competitors": [
+    "ArcelorMittal",
+    "Tata Steel",
+    "Nippon Steel"
+  ],
+  "economic_classification_code": "3311100"
+}

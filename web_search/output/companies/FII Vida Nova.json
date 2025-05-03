@@ -1,0 +1,18 @@
+{
+  "company_name": "FII Vida Nova",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Finanças",
+  "subsector": "Fundos de Investimento Imobiliário",
+  "industry": "Investimento em Ativos Imobiliários",
+  "activity_description": "A FII Vida Nova atua no mercado de investimento imobiliário, gerenciando um fundo de investimento imobiliário que tem como objetivo principal a aquisição e gestão de ativos imobiliários para geração de renda através de aluguéis e valorização dos imóveis.",
+  "main_products_services": [
+    "Gestão de Fundo de Investimento Imobiliário",
+    "Aquisição de Ativos Imobiliários",
+    "Geração de Renda com Aluguéis",
+    "Valorização de Imóveis"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário"
+  ],
+  "economic_classification_code": "6492-5/00"
+}

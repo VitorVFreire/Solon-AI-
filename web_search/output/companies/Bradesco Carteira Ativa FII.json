@@ -1,0 +1,18 @@
+{
+  "company_name": "Bradesco Carteira Imobiliária Ativa FII",
+  "primary_activity": "Investimento em carteira imobiliária",
+  "sector": "Finanças",
+  "subsector": "Gestão de investimentos imobiliários",
+  "industry": "Fundos de Investimento Imobiliário (FII)",
+  "activity_description": "A empresa atua na gestão de investimentos em carteira imobiliária por meio de Fundos de Investimento Imobiliário (FII), buscando retorno financeiro através da aquisição e administração de ativos imobiliários.",
+  "main_products_services": [
+    "Gestão de investimentos imobiliários",
+    "Administração de Fundos de Investimento Imobiliário (FII)"
+  ],
+  "competitors": [
+    "XP Inc.",
+    "BTG Pactual",
+    "Santander Asset Management"
+  ],
+  "economic_classification_code": "6492-9/00"
+}

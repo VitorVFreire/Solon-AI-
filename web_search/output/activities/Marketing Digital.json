@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Marketing Digital",
+  "sector_classification": "Terciário",
+  "economic_context": "O Marketing Digital é uma atividade essencial na era moderna, permitindo que empresas alcancem seu público-alvo de forma eficaz e mensurável através de canais online.",
+  "correlated_activities": [
+    {
+      "activity": "Consultoria em Marketing",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementar",
+      "correlation_description": "O Marketing Digital e a Consultoria em Marketing são altamente complementares, pois a Consultoria em Marketing pode fornecer insights estratégicos e orientação especializada para otimizar as campanhas de Marketing Digital.",
+      "economic_justification": "A Consultoria em Marketing pode ajudar as empresas a desenvolver estratégias de Marketing Digital mais eficazes, maximizando o retorno sobre o investimento em campanhas online."
+    },
+    {
+      "activity": "Serviços de TI em nuvem",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Os Serviços de TI em nuvem são fornecedores essenciais para o Marketing Digital, pois hospedam plataformas, dados e ferramentas utilizadas nas campanhas online.",
+      "economic_justification": "Sem os Serviços de TI em nuvem, muitas das operações de Marketing Digital seriam inviáveis devido à necessidade de armazenamento, processamento e escalabilidade oferecidos pela nuvem."
+    },
+    {
+      "activity": "Consultoria em Marketing Digital",
+      "correlation_level": "5",
+      "dependency_level": "0,85",
+      "correlation_type": "Complementar",
+      "correlation_description": "A Consultoria em Marketing Digital é altamente complementar ao Marketing Digital, fornecendo expertise especializada em estratégias digitais, análise de dados e otimização de campanhas online.",
+      "economic_justification": "A Consultoria em Marketing Digital pode ajudar as empresas a maximizar o desempenho de suas campanhas online, identificando oportunidades de melhoria e implementando melhores práticas do setor."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nas taxas de conversão online",
+    "Tendências de consumo digital",
+    "Inovações em tecnologia de publicidade online"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral do Marketing Digital, podendo haver variações significativas dependendo do mercado específico ou da indústria atendida."
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "PROFARMA ON",
+  "primary_activity": "Distribuição de produtos farmacêuticos",
+  "sector": "Saúde",
+  "subsector": "Distribuição de produtos farmacêuticos",
+  "industry": "Distribuição de medicamentos e produtos de saúde",
+  "activity_description": "A PROFARMA ON atua na distribuição de produtos farmacêuticos, incluindo medicamentos e produtos de saúde, atendendo a demanda do mercado brasileiro.",
+  "main_products_services": [
+    "Medicamentos",
+    "Produtos de saúde"
+  ],
+  "competitors": [
+    "Raia Drogasil",
+    "Panvel Farmácias",
+    "Pague Menos"
+  ],
+  "economic_classification_code": "47.73-3-00 - Comércio atacadista de medicamentos e drogas de uso humano"
+}

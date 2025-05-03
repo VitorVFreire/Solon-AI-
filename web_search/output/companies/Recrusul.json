@@ -1,0 +1,19 @@
+{
+  "company_name": "Recrusul SA",
+  "primary_activity": "Recrutamento e seleção de pessoal",
+  "sector": "Recursos Humanos",
+  "subsector": "Serviços de Recrutamento e Seleção",
+  "industry": "Recrutamento e Seleção de Pessoal",
+  "activity_description": "A Recrusul SA atua no segmento de recrutamento e seleção de pessoal, fornecendo serviços de busca e seleção de profissionais para empresas de diversos setores.",
+  "main_products_services": [
+    "Recrutamento de pessoal",
+    "Seleção de profissionais",
+    "Avaliação de candidatos"
+  ],
+  "competitors": [
+    "Randstad",
+    "Robert Half",
+    "ManpowerGroup"
+  ],
+  "economic_classification_code": "N/A"
+}

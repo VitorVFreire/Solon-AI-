@@ -1,0 +1,18 @@
+{
+  "company_name": "FII Memorial Office",
+  "primary_activity": "Investimento imobiliário em escritórios",
+  "sector": "Finanças",
+  "subsector": "Fundos de Investimento Imobiliário (FII)",
+  "industry": "Investimento em escritórios comerciais",
+  "activity_description": "A FII Memorial Office atua no mercado de investimento imobiliário, especificamente focado em escritórios comerciais. Seu objetivo é adquirir e gerir imóveis desse segmento, visando obter retorno financeiro através da locação ou venda desses espaços.",
+  "main_products_services": [
+    "Gestão de imóveis comerciais",
+    "Investimento em escritórios",
+    "Locação de espaços de escritórios"
+  ],
+  "competitors": [
+    "Outros fundos de investimento imobiliário",
+    "Empresas de gestão de imóveis comerciais"
+  ],
+  "economic_classification_code": "Real Estate Investment Trusts (REITs)"
+}

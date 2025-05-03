@@ -1,0 +1,19 @@
+{
+  "company_name": "JPMorgan Chase & Co BDR",
+  "primary_activity": "Serviços Financeiros",
+  "sector": "Finanças",
+  "subsector": "Bancos Diversos",
+  "industry": "Banco de Investimento",
+  "activity_description": "A JPMorgan Chase & Co BDR atua no setor financeiro, mais especificamente como banco de investimento, oferecendo uma variedade de serviços financeiros para clientes no Brasil.",
+  "main_products_services": [
+    "Serviços de investimento",
+    "Gestão de ativos",
+    "Serviços bancários"
+  ],
+  "competitors": [
+    "Goldman Sachs",
+    "Morgan Stanley",
+    "Bank of America"
+  ],
+  "economic_classification_code": "6619-3/00 - Atividades Auxiliares dos Serviços Financeiros não Especificadas Anteriormente"
+}

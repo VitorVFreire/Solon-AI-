@@ -1,0 +1,18 @@
+{
+  "company_name": "Banco Mercantil de Investimentos SA Pref",
+  "primary_activity": "Instituição financeira especializada em investimentos",
+  "sector": "Finanças",
+  "subsector": "Serviços financeiros",
+  "industry": "Bancos de investimento",
+  "activity_description": "O Banco Mercantil de Investimentos SA Pref é uma instituição financeira especializada em investimentos, atuando no setor de finanças, no subsector de serviços financeiros e na indústria de bancos de investimento. Oferece serviços de investimento e consultoria financeira.",
+  "main_products_services": [
+    "Serviços de investimento",
+    "Consultoria financeira"
+  ],
+  "competitors": [
+    "Banco BTG Pactual",
+    "Banco Safra",
+    "Banco Itaú BBA"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,55 @@
+{
+  "economic_activity": "Transporte",
+  "sector_classification": "Terciário",
+  "economic_context": "O transporte é um serviço essencial na economia, facilitando o deslocamento de pessoas e mercadorias, impactando diretamente a eficiência e a produtividade de outros setores.",
+  "correlated_activities": [
+    {
+      "activity": "Logística",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Complementar",
+      "correlation_description": "O transporte e a logística são altamente complementares, pois a eficiência no transporte de mercadorias depende diretamente de uma logística bem estruturada.",
+      "economic_justification": "A logística eficiente depende do transporte adequado para movimentar as mercadorias de forma rápida e segura, impactando diretamente a cadeia de suprimentos e a distribuição de produtos."
+    },
+    {
+      "activity": "Turismo",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "O setor de turismo depende fortemente dos serviços de transporte para deslocamento de turistas entre destinos, influenciando a demanda por serviços de transporte.",
+      "economic_justification": "O turismo requer serviços de transporte eficientes para garantir a mobilidade dos turistas, sendo essencial para o funcionamento e crescimento desse setor."
+    },
+    {
+      "activity": "Comércio Varejista",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "O transporte é fundamental para o abastecimento do comércio varejista, garantindo a entrega de produtos aos estabelecimentos comerciais.",
+      "economic_justification": "O comércio varejista depende do transporte para receber mercadorias dos fornecedores e distribuir produtos aos consumidores, sendo essencial para a operação do setor."
+    },
+    {
+      "activity": "Indústria Automobilística",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria automobilística demanda serviços de transporte para distribuição de veículos e peças, sendo um cliente significativo desse setor.",
+      "economic_justification": "O transporte é essencial para a indústria automobilística realizar a distribuição de veículos e insumos, impactando diretamente a cadeia de suprimentos e a logística do setor."
+    },
+    {
+      "activity": "Indústria de Logística",
+      "correlation_level": "5",
+      "dependency_level": "0,90",
+      "correlation_type": "Complementar",
+      "correlation_description": "O transporte e a indústria de logística são altamente interdependentes, pois a logística envolve o planejamento e execução do transporte de mercadorias.",
+      "economic_justification": "A indústria de logística depende diretamente dos serviços de transporte para realizar a movimentação de mercadorias, sendo uma relação essencial e altamente complementar."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços dos combustíveis",
+    "Investimentos em infraestrutura de transporte",
+    "Políticas governamentais de incentivo ao setor de transporte",
+    "Crescimento econômico e demanda por serviços de transporte"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral do transporte, podendo haver variações regionais e setoriais que não foram abordadas."
+}

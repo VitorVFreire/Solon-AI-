@@ -1,0 +1,19 @@
+{
+  "company_name": "Ourinvest JPP Fundo de Investimento Imobiliario FII",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Finanças",
+  "subsector": "Fundos de Investimento Imobiliário",
+  "industry": "Investimento em Ativos Imobiliários",
+  "activity_description": "A empresa atua no mercado de investimento imobiliário, adquirindo e gerindo ativos imobiliários para obter retorno financeiro por meio de aluguéis, valorização de imóveis e outros ganhos relacionados ao setor.",
+  "main_products_services": [
+    "Gestão de Ativos Imobiliários",
+    "Investimento em Imóveis",
+    "Distribuição de Rendimentos aos Cotistas"
+  ],
+  "competitors": [
+    "Hedge Fund X",
+    "Real Estate Investment Trust Y",
+    "Property Investment Company Z"
+  ],
+  "economic_classification_code": "6492-9/00 - Fundos de Investimento Imobiliário"
+}

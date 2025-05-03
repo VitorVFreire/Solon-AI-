@@ -1,0 +1,18 @@
+{
+  "company_name": "IdeiasNet SA",
+  "primary_activity": "Investimento em empresas de tecnologia",
+  "sector": "Tecnologia",
+  "subsector": "Investimento em startups de tecnologia",
+  "industry": "Venture Capital",
+  "activity_description": "A IdeiasNet SA atua como uma empresa de investimento especializada em apoiar e financiar startups e empresas de tecnologia inovadoras. Seu foco principal é identificar oportunidades de investimento promissoras no setor de tecnologia.",
+  "main_products_services": [
+    "Investimento em startups de tecnologia",
+    "Apoio financeiro a empresas inovadoras"
+  ],
+  "competitors": [
+    "Monashees",
+    "Redpoint eventures",
+    "Kaszek Ventures"
+  ],
+  "economic_classification_code": "6712-1/00 - Sociedade de participação em fundos de investimento"
+}

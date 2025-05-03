@@ -1,0 +1,19 @@
+{
+  "company_name": "Petro Rio SA",
+  "primary_activity": "Exploração e produção de petróleo e gás",
+  "sector": "Energia",
+  "subsector": "Petróleo e Gás",
+  "industry": "Exploração e Produção de Petróleo e Gás",
+  "activity_description": "A Petro Rio SA atua na exploração e produção de petróleo e gás, buscando reservatórios de hidrocarbonetos para extração e comercialização. A empresa opera em campos terrestres e marítimos, contribuindo para o setor de energia do Brasil.",
+  "main_products_services": [
+    "Extração de petróleo",
+    "Extração de gás natural",
+    "Comercialização de petróleo e gás"
+  ],
+  "competitors": [
+    "Petrobras",
+    "Equinor",
+    "Shell"
+  ],
+  "economic_classification_code": "06.10-8-01"
+}

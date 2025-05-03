@@ -1,0 +1,17 @@
+{
+  "company_name": "Celesc SA",
+  "primary_activity": "Distribuição de Energia Elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Distribuição de Energia Elétrica",
+  "activity_description": "A Celesc SA atua na distribuição de energia elétrica, fornecendo eletricidade para residências, empresas e indústrias em sua região de atuação.",
+  "main_products_services": [
+    "Distribuição de Energia Elétrica"
+  ],
+  "competitors": [
+    "CPFL Energia",
+    "Energisa",
+    "Neoenergia"
+  ],
+  "economic_classification_code": "4911-3/02"
+}

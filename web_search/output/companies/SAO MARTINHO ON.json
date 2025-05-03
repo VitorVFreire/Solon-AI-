@@ -1,0 +1,19 @@
+{
+  "company_name": "Sao Martinho SA",
+  "primary_activity": "Produção de açúcar e álcool",
+  "sector": "Agricultura",
+  "subsector": "Produção de açúcar e álcool",
+  "industry": "Agroindústria sucroalcooleira",
+  "activity_description": "A Sao Martinho SA atua na produção de açúcar e álcool, sendo uma empresa do setor agrícola especializada na agroindústria sucroalcooleira.",
+  "main_products_services": [
+    "Açúcar",
+    "Álcool",
+    "Energia elétrica"
+  ],
+  "competitors": [
+    "Cosan",
+    "Raízen",
+    "Bunge"
+  ],
+  "economic_classification_code": "0113-0/01"
+}

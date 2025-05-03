@@ -1,0 +1,20 @@
+{
+  "company_name": "Fras Le SA",
+  "primary_activity": "Fabricação de autopeças",
+  "sector": "Indústria Automobilística",
+  "subsector": "Fabricação de autopeças",
+  "industry": "Fabricação de sistemas de freios e componentes automotivos",
+  "activity_description": "A Fras Le SA atua na fabricação de sistemas de freios e componentes automotivos para veículos, fornecendo peças essenciais para o funcionamento seguro dos automóveis.",
+  "main_products_services": [
+    "Sistemas de freios",
+    "Pastilhas de freio",
+    "Lonas de freio",
+    "Discos de freio"
+  ],
+  "competitors": [
+    "Brembo",
+    "Continental AG",
+    "ZF Friedrichshafen AG"
+  ],
+  "economic_classification_code": "29.33-3"
+}

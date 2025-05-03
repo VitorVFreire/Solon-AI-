@@ -1,0 +1,36 @@
+{
+  "economic_activity": "Indústria de eletrônicos",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A indústria de eletrônicos desempenha um papel fundamental na economia moderna, fornecendo produtos eletrônicos essenciais para o cotidiano das pessoas e para diversas outras indústrias.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de tecnologia da informação",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "A indústria de eletrônicos e a indústria de tecnologia da informação possuem uma forte correlação devido à interdependência entre hardware e software. O desenvolvimento de novos dispositivos eletrônicos frequentemente requer avanços em software e vice-versa.",
+      "economic_justification": "A interligação entre hardware e software torna essas indústrias altamente complementares, uma vez que o sucesso de um setor muitas vezes impulsiona o crescimento do outro. A inovação em eletrônicos frequentemente demanda avanços em TI e vice-versa, criando uma relação simbiótica."
+    },
+    {
+      "activity": "Indústria de telecomunicações",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente-Fornecedor",
+      "correlation_description": "A indústria de eletrônicos e a indústria de telecomunicações possuem uma correlação significativa, com a indústria de eletrônicos fornecendo os dispositivos utilizados pela indústria de telecomunicações para comunicação e conectividade.",
+      "economic_justification": "A indústria de eletrônicos fornece os dispositivos essenciais para a infraestrutura de comunicação da indústria de telecomunicações, sendo uma relação de cliente-fornecedor importante para ambas as partes."
+    },
+    {
+      "activity": "Indústria de equipamentos médicos",
+      "correlation_level": "3",
+      "dependency_level": "0,55",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "A indústria de eletrônicos fornece equipamentos e componentes utilizados na fabricação de equipamentos médicos de alta tecnologia, como dispositivos de imagem e monitoramento.",
+      "economic_justification": "Os avanços na indústria de eletrônicos, especialmente em termos de sensores, processadores e displays, são essenciais para a inovação e funcionalidade dos equipamentos médicos modernos, estabelecendo uma relação de fornecedor fundamental."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Os principais fatores macroeconômicos que afetam a indústria de eletrônicos incluem a demanda do consumidor, inovações tecnológicas, taxas de câmbio (para importação de componentes), políticas de comércio internacional e investimentos em pesquisa e desenvolvimento."
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "É importante ressaltar que as correlações identificadas são baseadas em padrões históricos e na interdependência de tecnologias, podendo variar com mudanças abruptas no mercado ou avanços tecnológicos disruptivos."
+}

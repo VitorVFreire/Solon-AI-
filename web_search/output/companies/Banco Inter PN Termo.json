@@ -1,0 +1,22 @@
+{
+  "company_name": "Banco Inter PN Termo",
+  "primary_activity": "Instituição financeira especializada em serviços bancários digitais",
+  "sector": "Finanças",
+  "subsector": "Bancos Digitais",
+  "industry": "Serviços Bancários Digitais",
+  "activity_description": "O Banco Inter PN Termo é uma instituição financeira brasileira especializada em serviços bancários digitais, oferecendo uma ampla gama de produtos financeiros por meio de plataformas online e mobile. Seus principais serviços incluem contas digitais, cartões de crédito, investimentos, empréstimos e seguros.",
+  "main_products_services": [
+    "Contas digitais",
+    "Cartões de crédito",
+    "Investimentos",
+    "Empréstimos",
+    "Seguros"
+  ],
+  "competitors": [
+    "Nubank",
+    "Neon",
+    "C6 Bank",
+    "Banco Original"
+  ],
+  "economic_classification_code": null
+}

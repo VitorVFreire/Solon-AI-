@@ -1,0 +1,16 @@
+{
+  "company_name": "Multigestao Renda Comercial",
+  "primary_activity": "Investimento Imobiliário",
+  "sector": "Finanças",
+  "subsector": "Investimento Imobiliário",
+  "industry": "Fundo de Investimento Imobiliário",
+  "activity_description": "A Multigestao Renda Comercial atua como um Fundo de Investimento Imobiliário, gerenciando recursos de investidores para aplicação em empreendimentos imobiliários.",
+  "main_products_services": [
+    "Gestão de recursos de investidores",
+    "Aplicação em empreendimentos imobiliários"
+  ],
+  "competitors": [
+    "Outros Fundos de Investimento Imobiliário"
+  ],
+  "economic_classification_code": "6492-4/00"
+}

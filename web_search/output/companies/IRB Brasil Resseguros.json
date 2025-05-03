@@ -1,0 +1,19 @@
+{
+  "company_name": "IRB Brasil Resseguros",
+  "primary_activity": "Resseguradora",
+  "sector": "Financeiro",
+  "subsector": "Seguros e Resseguros",
+  "industry": "Resseguros",
+  "activity_description": "A IRB Brasil Resseguros atua no mercado de resseguros, oferecendo serviços de transferência de riscos para outras seguradoras e resseguradoras. Sua principal atividade é a subscrição de contratos de resseguro para proteção contra grandes perdas.",
+  "main_products_services": [
+    "Resseguros",
+    "Subscrição de contratos",
+    "Transferência de riscos"
+  ],
+  "competitors": [
+    "Munich Re",
+    "Swiss Re",
+    "SCOR"
+  ],
+  "economic_classification_code": "6512-0/00"
+}

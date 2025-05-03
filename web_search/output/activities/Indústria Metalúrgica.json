@@ -1,0 +1,39 @@
+{
+  "economic_activity": "Indústria Metalúrgica",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A Indústria Metalúrgica é essencial para a produção de metais, ligas metálicas e uma variedade de produtos derivados do metal, sendo fundamental para diversos setores da economia, como construção civil, indústria automobilística, indústria de máquinas e equipamentos, entre outros.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Automobilística",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma forte correlação entre a Indústria Metalúrgica e a Indústria Automobilística, uma vez que a produção de veículos depende fortemente de peças e componentes metálicos fornecidos pela Indústria Metalúrgica.",
+      "economic_justification": "A Indústria Metalúrgica fornece materiais essenciais para a fabricação de peças automotivas, como carrocerias, motores, chassis, entre outros. Qualquer variação na produção de metais pode impactar diretamente a capacidade de produção da Indústria Automobilística."
+    },
+    {
+      "activity": "Construção Civil",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Cliente",
+      "correlation_description": "Há uma correlação moderada entre a Indústria Metalúrgica e a Construção Civil, devido à demanda por materiais metálicos na construção de estruturas, tubulações, esquadrias, entre outros.",
+      "economic_justification": "A Construção Civil utiliza uma variedade de produtos metálicos, como aço, alumínio e ferro, em suas obras. Portanto, a produção e disponibilidade desses materiais pela Indústria Metalúrgica impactam diretamente o setor da Construção Civil."
+    },
+    {
+      "activity": "Indústria de Máquinas e Equipamentos",
+      "correlation_level": "4",
+      "dependency_level": "0,80",
+      "correlation_type": "Cliente",
+      "correlation_description": "Existe uma forte correlação entre a Indústria Metalúrgica e a Indústria de Máquinas e Equipamentos, uma vez que a fabricação de máquinas e equipamentos requer o uso de peças e componentes metálicos.",
+      "economic_justification": "A Indústria de Máquinas e Equipamentos depende diretamente da Indústria Metalúrgica para o fornecimento de componentes essenciais, como engrenagens, estruturas metálicas, entre outros. Qualquer variação na produção de metais pode afetar a capacidade produtiva desse setor."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços das commodities metálicas",
+    "Demanda por metais em mercados internacionais",
+    "Políticas governamentais relacionadas à indústria metalúrgica",
+    "Inovações tecnológicas na produção de metais"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da Indústria Metalúrgica, podendo haver variações regionais e setoriais que não foram abordadas."
+}

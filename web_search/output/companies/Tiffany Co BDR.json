@@ -1,0 +1,18 @@
+{
+  "company_name": "Tiffany Co BDR",
+  "primary_activity": "Varejo de joias e acessórios de luxo",
+  "sector": "Moda",
+  "subsector": "Joalheria de luxo",
+  "industry": "Joias de alta qualidade e acessórios de luxo",
+  "activity_description": "A Tiffany Co BDR atua no varejo de joias e acessórios de luxo, oferecendo produtos de alta qualidade e renome internacional.",
+  "main_products_services": [
+    "Joias de luxo",
+    "Acessórios de alta qualidade"
+  ],
+  "competitors": [
+    "Cartier",
+    "Bvlgari",
+    "Chopard"
+  ],
+  "economic_classification_code": ""
+}

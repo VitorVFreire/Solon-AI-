@@ -1,0 +1,19 @@
+{
+  "company_name": "Cosan Logistica SA",
+  "primary_activity": "Logística e Transporte",
+  "sector": "Transporte",
+  "subsector": "Logística",
+  "industry": "Logística de Transporte",
+  "activity_description": "A Cosan Logistica SA atua no setor de transporte, mais especificamente na área de logística de transporte, oferecendo soluções para movimentação e distribuição de mercadorias.",
+  "main_products_services": [
+    "Serviços de transporte de cargas",
+    "Soluções logísticas integradas",
+    "Armazenagem e distribuição de produtos"
+  ],
+  "competitors": [
+    "JSL S.A.",
+    "Rumo S.A.",
+    "Log-In Logística Intermodal S.A."
+  ],
+  "economic_classification_code": "4923-9/00 - Transporte rodoviário de carga"
+}

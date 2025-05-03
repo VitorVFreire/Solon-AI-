@@ -1,0 +1,38 @@
+{
+  "economic_activity": "Indústria de embalagens de alimentos",
+  "sector_classification": "Setor Secundário",
+  "economic_context": "A indústria de embalagens de alimentos desempenha um papel crucial na cadeia de abastecimento de alimentos, fornecendo embalagens específicas para garantir a segurança, conservação e apresentação dos produtos alimentícios. Sua demanda está diretamente ligada à produção e consumo de alimentos.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria Alimentícia",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Cliente",
+      "correlation_description": "A indústria de embalagens de alimentos tem uma correlação forte com a indústria alimentícia, pois a demanda por embalagens está diretamente relacionada à produção de alimentos embalados.",
+      "economic_justification": "A indústria de embalagens de alimentos depende fortemente da indústria alimentícia como cliente principal, uma vez que a produção de embalagens está diretamente ligada à quantidade de alimentos processados e embalados no mercado."
+    },
+    {
+      "activity": "Indústria de produtos de limpeza",
+      "correlation_level": "2",
+      "dependency_level": "0,30",
+      "correlation_type": "Fornecedor",
+      "correlation_description": "Existe uma correlação fraca com a indústria de produtos de limpeza, pois ambas as indústrias utilizam embalagens em seus produtos, mas a dependência não é significativa.",
+      "economic_justification": "Embora ambas as indústrias façam uso de embalagens, a relação é mais distante, pois as embalagens de alimentos são específicas para acondicionar produtos alimentícios, enquanto as embalagens de produtos de limpeza têm requisitos diferentes."
+    },
+    {
+      "activity": "Indústria de embalagens sustentáveis",
+      "correlation_level": "3",
+      "dependency_level": "0,50",
+      "correlation_type": "Complementar",
+      "correlation_description": "Há uma correlação moderada com a indústria de embalagens sustentáveis, pois ambas buscam soluções inovadoras e ambientalmente amigáveis para embalagens.",
+      "economic_justification": "A indústria de embalagens de alimentos pode se beneficiar da colaboração com a indústria de embalagens sustentáveis para desenvolver soluções mais ecológicas, atendendo à demanda por embalagens mais sustentáveis no mercado."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos preços das matérias-primas utilizadas na fabricação de embalagens",
+    "Regulamentações governamentais sobre segurança alimentar e sustentabilidade",
+    "Tendências de consumo de alimentos embalados e preferência por embalagens sustentáveis"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera o contexto geral da indústria de embalagens de alimentos, mas variações regionais e específicas do mercado podem influenciar as correlações identificadas."
+}

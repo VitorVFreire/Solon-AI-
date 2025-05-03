@@ -1,0 +1,19 @@
+{
+  "company_name": "Oracle Corp BDR",
+  "primary_activity": "Tecnologia da Informação",
+  "sector": "Tecnologia",
+  "subsector": "Software e Serviços de TI",
+  "industry": "Desenvolvimento de Software e Serviços Relacionados",
+  "activity_description": "A Oracle Corp BDR atua no desenvolvimento de software e prestação de serviços relacionados à tecnologia da informação, com foco em soluções empresariais.",
+  "main_products_services": [
+    "Software de gestão empresarial",
+    "Soluções em nuvem",
+    "Consultoria em TI"
+  ],
+  "competitors": [
+    "Microsoft Corporation",
+    "SAP SE",
+    "Salesforce.com Inc"
+  ],
+  "economic_classification_code": "6201-5/00 - Desenvolvimento de programas de computador sob encomenda"
+}

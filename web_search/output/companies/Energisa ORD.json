@@ -1,0 +1,17 @@
+{
+  "company_name": "Energisa SA ORD",
+  "primary_activity": "Distribuição de energia elétrica",
+  "sector": "Energia",
+  "subsector": "Energia Elétrica",
+  "industry": "Distribuição de Energia Elétrica",
+  "activity_description": "A empresa Energisa SA ORD atua na distribuição de energia elétrica, fornecendo eletricidade para consumidores residenciais, comerciais e industriais.",
+  "main_products_services": [
+    "Fornecimento de energia elétrica"
+  ],
+  "competitors": [
+    "CPFL Energia",
+    "Neoenergia",
+    "Eletropaulo"
+  ],
+  "economic_classification_code": "4910-9/01"
+}

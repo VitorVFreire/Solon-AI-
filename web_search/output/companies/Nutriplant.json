@@ -1,0 +1,18 @@
+{
+  "company_name": "Nutriplant",
+  "primary_activity": "Produção e comercialização de produtos para nutrição de plantas",
+  "sector": "Agricultura",
+  "subsector": "Agricultura e Pecuária",
+  "industry": "Fertilizantes e Nutrientes para Plantas",
+  "activity_description": "A Nutriplant atua na produção e comercialização de fertilizantes e nutrientes para plantas, visando melhorar a produtividade e saúde das culturas agrícolas. Seus produtos são desenvolvidos para atender às necessidades específicas de cada tipo de planta.",
+  "main_products_services": [
+    "Fertilizantes",
+    "Nutrientes para Plantas"
+  ],
+  "competitors": [
+    "Yara International",
+    "FMC Corporation",
+    "BASF"
+  ],
+  "economic_classification_code": null
+}

@@ -1,0 +1,18 @@
+{
+  "company_name": "Transinc",
+  "primary_activity": "Transporte de carga e logística",
+  "sector": "Transporte",
+  "subsector": "Logística",
+  "industry": "Transporte de carga terrestre",
+  "activity_description": "A Transinc atua no transporte de carga terrestre, oferecendo serviços logísticos para empresas que necessitam de soluções eficientes de transporte de mercadorias.",
+  "main_products_services": [
+    "Transporte de carga terrestre",
+    "Serviços logísticos"
+  ],
+  "competitors": [
+    "Empresa de Logística X",
+    "Transportadora Y",
+    "Logística Z"
+  ],
+  "economic_classification_code": "H4923"
+}

@@ -1,0 +1,40 @@
+{
+  "economic_activity": "Indústria de equipamentos de segurança para trabalho em espaços confinados",
+  "sector_classification": "Setor secundário",
+  "economic_context": "A indústria de equipamentos de segurança para trabalho em espaços confinados desempenha um papel fundamental na garantia da segurança dos trabalhadores que atuam em ambientes restritos e potencialmente perigosos. Seus produtos são essenciais para prevenir acidentes e garantir a conformidade com normas de segurança ocupacional.",
+  "correlated_activities": [
+    {
+      "activity": "Indústria de equipamentos de proteção individual",
+      "correlation_level": "4",
+      "dependency_level": "0,75",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma forte correlação e dependência entre a indústria de equipamentos de segurança para trabalho em espaços confinados e a indústria de equipamentos de proteção individual, pois ambos fornecem produtos essenciais para garantir a segurança dos trabalhadores em diferentes ambientes de trabalho.",
+      "economic_justification": "Ambas as indústrias compartilham o objetivo comum de proteger os trabalhadores de riscos ocupacionais, sendo que os equipamentos de segurança para espaços confinados são uma categoria específica dentro dos equipamentos de proteção individual. A demanda por esses produtos está interligada, pois muitas vezes os mesmos trabalhadores precisam de diferentes tipos de equipamentos de proteção em diferentes situações de trabalho."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança para trabalho em altura",
+      "correlation_level": "3",
+      "dependency_level": "0,60",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Há uma correlação moderada e dependência significativa entre a indústria de equipamentos de segurança para trabalho em espaços confinados e a indústria de equipamentos de segurança para trabalho em altura, devido à natureza semelhante das soluções de segurança oferecidas para ambientes verticais e horizontais.",
+      "economic_justification": "Ambas as indústrias estão relacionadas à segurança ocupacional e fornecem equipamentos especializados para ambientes de trabalho específicos. Trabalhadores que atuam em espaços confinados muitas vezes também precisam de equipamentos para trabalho em altura, criando uma interdependência entre esses setores."
+    },
+    {
+      "activity": "Indústria de equipamentos de segurança para indústria química",
+      "correlation_level": "2",
+      "dependency_level": "0,40",
+      "correlation_type": "Complementaridade",
+      "correlation_description": "Existe uma correlação fraca e dependência limitada entre a indústria de equipamentos de segurança para trabalho em espaços confinados e a indústria de equipamentos de segurança para indústria química, devido à necessidade de proteção específica em ambientes químicos.",
+      "economic_justification": "Ambas as indústrias estão ligadas à segurança no trabalho, porém com focos diferentes. Enquanto a indústria de espaços confinados se concentra em ambientes restritos, a indústria química requer equipamentos de segurança específicos para lidar com substâncias químicas perigosas. A correlação surge da necessidade geral de proteção dos trabalhadores em ambientes industriais."
+    }
+  ],
+  "macroeconomic_factors": [
+    "Flutuações nos padrões de segurança ocupacional",
+    "Regulamentações governamentais sobre segurança no trabalho",
+    "Investimentos em infraestrutura industrial",
+    "Tendências de automação e tecnologia na indústria",
+    "Demandas por certificações de segurança e qualidade"
+  ],
+  "confidence_level": "Alto",
+  "analysis_limitations": "A análise considera principalmente a interdependência entre setores relacionados à segurança ocupacional, mas fatores específicos de mercado e concorrência podem influenciar as correlações identificadas."
+}

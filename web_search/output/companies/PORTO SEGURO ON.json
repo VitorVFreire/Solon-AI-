@@ -1,0 +1,22 @@
+{
+  "company_name": "Porto Seguro SA",
+  "primary_activity": "Seguros e serviços financeiros",
+  "sector": "Finanças",
+  "subsector": "Seguros",
+  "industry": "Seguros gerais",
+  "activity_description": "A Porto Seguro SA atua no setor de seguros e serviços financeiros, oferecendo uma variedade de produtos como seguros de automóveis, residenciais, vida, saúde, entre outros. Além disso, fornece serviços de assistência 24 horas e soluções financeiras.",
+  "main_products_services": [
+    "Seguros de automóveis",
+    "Seguros residenciais",
+    "Seguros de vida",
+    "Seguros de saúde",
+    "Assistência 24 horas",
+    "Soluções financeiras"
+  ],
+  "competitors": [
+    "Bradesco Seguros",
+    "SulAmérica Seguros",
+    "Itaú Seguros"
+  ],
+  "economic_classification_code": "6512-0/01"
+}
