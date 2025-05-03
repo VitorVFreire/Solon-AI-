@@ -111,7 +111,7 @@ class Companies:
             rel_type (str): Tipo de relacionamento a ser criado.
             properties (Dict): Propriedades do relacionamento.
         """
-        for attribute in ['sector', 'main_products_services']:
+        for attribute in ['sector', 'main_products_services', 'industry', 'subsector', 'primary_activity']:
             nodes = self.find_nodes_by_service(activity, attribute)
             if nodes:
                 for i, node1 in enumerate(nodes):
