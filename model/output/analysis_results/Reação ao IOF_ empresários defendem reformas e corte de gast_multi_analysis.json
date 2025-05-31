@@ -1,0 +1,44 @@
+{
+  "news_title": "Reação ao IOF: empresários defendem reformas e corte de gastos públicos",
+  "news_url": "https://www.infomoney.com.br/economia/reacao-ao-iof-empresarios-defendem-reformas-e-corte-de-gastos-publicos/",
+  "news_hash": 1133472447341402310,
+  "news_snippet": "Reação ao IOF: empresários defendem reformas e corte de gastos públicos\n\nPublicidade\nO aumento do Imposto sobre Operações Financeiras (IOF) anunciado pelo governo na semana passada segue dando o que falar no meio empresarial brasileiro, apesar da med...",
+  "timestamp": "2025-05-31T14:21:19.312795",
+  "identified_entities": {
+    "companies": [
+      "Suzano Papel e Celulose SA",
+      "MRV Engenharia e Participacoes SA"
+    ],
+    "sectors": [
+      "Construção Civil",
+      "Financeiro"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 2.5,
+      "sector_score": 2.75,
+      "justification": {
+        "personal": "For the Conservative investor profile, the news about the increase in the IOF and the calls for structural reforms and public spending cuts can create uncertainty and slightly negative implications for the investment portfolio. The focus on reform and cost-cutting measures may lead to market volatility and impact investments in the Financial sector, potentially affecting the investor's conservative strategy.",
+        "sector": "The news highlights concerns from key figures in the Construction and Financial sectors, such as MRV Engenharia and Suzano Papel e Celulose. The push for reforms and the negative effects of the IOF increase on credit, exchange rates, and long-term savings indicate a challenging scenario for these sectors. The sectoral impact is slightly negative as the calls for reform may introduce uncertainties and hinder sectoral growth prospects."
+      }
+    },
+    "Moderado": {
+      "personal_score": 3.5,
+      "sector_score": 3.75,
+      "justification": {
+        "personal": "For a Moderate investor, the news about the increase in the IOF and the call for structural reforms by prominent business figures could lead to a slightly challenging scenario. The uncertainty and potential impact on government spending and economic policies may create some market volatility, requiring a cautious approach to investment decisions.",
+        "sector": "The news impacts the Construction and Financial sectors, particularly companies like Suzano and MRV, as it highlights the need for fiscal reforms and cost-cutting measures. The sectoral impact score is slightly positive as the push for reforms could lead to long-term benefits for these sectors, despite the short-term challenges posed by the increased IOF."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 3.5,
+      "sector_score": 3.75,
+      "justification": {
+        "personal": "For an Aggressive investor profile, the news about the reaction to the IOF increase and the call for structural reforms and public spending cuts can lead to a mixed impact. On one hand, the push for reforms could signal potential long-term benefits for the economy, but on the other hand, the uncertainty and potential short-term disruptions in the financial sector might introduce volatility in the investor's portfolio.",
+        "sector": "The news impacts the Construction and Financial sectors, with companies like MRV Engenharia and Suzano Papel e Celulose actively participating in the debate. The focus on structural reforms and fiscal responsibility could benefit these sectors in the long run by creating a more stable economic environment. However, the immediate pushback against the IOF increase could create short-term challenges for financial operations and investments, leading to a slightly challenging scenario for the sectors involved."
+      }
+    }
+  },
+  "full_news_content": "Reação ao IOF: empresários defendem reformas e corte de gastos públicos\n\nPublicidade\nO aumento do Imposto sobre Operações Financeiras (IOF) anunciado pelo governo na semana passada segue dando o que falar no meio empresarial brasileiro, apesar da medida ter sido parcialmente revogada.\nEmpresários como Rubens Menin, dono da construtora MRV, vêm se manifestando nos últimos dias nas redes sociais a favor de outras medidas para enfrentar o déficit nas contas do governo.\n“A crise do IOF escancarou algo maior: não dá mais para postergar as reformas estruturais que o país precisa. É hora de encarar o problema de verdade: simplificar tributos, desvincular receitas e modernizar o Estado com uma reforma administrativa séria”, postou o empresário no X (antigo Twitter).\nSAIBA MAIS\nOutro empresário, Walter Schalka, que é membro do conselho de administração da Suzano, afirmou ao jornal O Estado de São Paulo que é preciso rever os motivos que levam ao crescimento contínuo das despesas do governo.\n“Então, enquanto a gente não tiver uma reforma importante, da redução do custo do Estado, que pode ser por reforma administrativa e/ou privatização, ou combinação das duas coisas, a gente não vai conseguir sair do lugar. A gente vai ficar sempre administrando uma situação emergencial”, disse ao jornal.\nLeia mais: Empresariado pressiona Congresso para anular aumento do IOF: “Não é arrecadatório”\nContinua depois da publicidade\nAs manifestações acompanham a campanha iniciada por entidades que representam o setor produtivo brasileiro pedindo que o Congresso Nacional anule o decreto do governo federal que elevou as alíquotas do imposto, apontando efeitos negativos sobre o crédito, o câmbio e a poupança de longo prazo.\nO manifesto foi assinado por confederações como CNC, CNI, CNA, CNseg, OCB, CNF e Abrasca.\nAinda de acordo com o jornal, o presidente da Confederação Nacional das Instituições Financeiras (CNF), Rodrigo Maia, que foi deputado federal e presidente da Câmara, articula com lideranças do setor produtivo uma reunião com Davi Alcolumbre (União-AP), presidente do Senado, e Hugo Motta (Republicanos-PB), para detalhar à cúpula do Congresso os danos da medida ao setor privado.\nContinua depois da publicidade\nLeia também: IOF sobre fundos preocupa mercado, mas gestores veem espaço para adaptação\nA ideia é que as entidades empresariais que têm militado juntas pela retirada do IOF participem do encontro e busquem apoio político antes de recorrer ao Judiciário.\nQuem também acredita que o debate em torno do assunto deve continuar quente nos próximos dias é Rafael Furlanetti, sócio da XP Investimentos e presidente da Associação Nacional das Corretoras e Distribuidoras de Títulos e Valores Mobiliários (Ancord).\nContinua depois da publicidade\nFurlanetti destacou ao jornal algumas sugestões que já estão sendo discutidas em Brasília, como a revisão de expansão dos gastos com o Benefício de Prestação Continuada (BPC), com o seguro-defeso e a desvinculação dos gastos à receita do governo, como os pisos da saúde e da educação.\nSaiba mais: XP: Crise do IOF expõe desafio do governo para arrecadar sem atrito com Congresso\n“Tem um gasto tributário de R$ 700 bilhões. Se você fizer algum corte linear de 5% que seja, você está falando de R$ 35 bilhões. Isso escalonado ao longo do tempo é possível de ser feito”, afirma na publicação."
+}

@@ -1,0 +1,43 @@
+{
+  "news_title": "Menin e Flavio Rocha defendem Reforma Administrativa para modernizar o Estado",
+  "news_url": "https://www.infomoney.com.br/economia/flavio-rocha-defende-reforma-administrativa-como-passo-para-modernizar-estado/",
+  "news_hash": -6274409093506770641,
+  "news_snippet": "Menin e Flavio Rocha defendem Reforma Administrativa para modernizar o Estado\n\nPublicidade\nO empresário Flavio Rocha, presidente do conselho da Riachuelo, criticou nesta sexta-feira (30) a política econômica baseada no aumento de tributos e na expans...",
+  "timestamp": "2025-05-31T14:22:11.339445",
+  "identified_entities": {
+    "companies": [
+      "MRV Engenharia e Participacoes SA"
+    ],
+    "sectors": [
+      "Construção Civil",
+      "Comércio Varejista"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 2.75,
+      "sector_score": 3.5,
+      "justification": {
+        "personal": "For the Conservative investor profile, the news about the defense of Administrative Reform by key business figures may create uncertainty in the market due to potential changes in government policies. This uncertainty could lead to volatility in the Construction and Retail sectors, impacting the investor's portfolio negatively.",
+        "sector": "The focus on Administrative Reform to modernize the State can have a positive impact on the Construction and Retail sectors in the long term. If the reform leads to more efficient public spending and economic growth, companies like MRV Engenharia e Participacoes SA could benefit from increased infrastructure investments and consumer confidence, potentially driving sectoral growth."
+      }
+    },
+    "Moderado": {
+      "personal_score": 3.5,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "The news about the defense of Administrative Reform by key business figures like Flavio Rocha and Rubens Menin could bring some uncertainty to the market, potentially impacting moderate investors' portfolios. While the call for structural reforms is generally positive for the economy, the potential changes in public spending and fiscal policies could create short-term volatility, leading to a slightly challenging scenario for a moderate investor.",
+        "sector": "The focus on Administrative Reform and the need for structural changes highlighted in the news can have a significantly positive impact on the Construction and Retail sectors. Companies like MRV Engenharia e Participacoes SA could benefit from a more efficient public sector and a streamlined regulatory environment, leading to improved growth prospects and operational efficiency. Therefore, the sectoral impact score is relatively high, indicating a favorable scenario for the entities involved."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 4.25,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "For an Aggressive investor, the news advocating for the approval of the Administrative Reform and the modernization of the Brazilian State can be seen as a positive sign. The proposed structural reforms and focus on efficiency in public resource management could lead to a more business-friendly environment, potentially benefiting investments and economic growth.",
+        "sector": "The news highlights the support from key figures like Flavio Rocha and Rubens Menin for the Administrative Reform, emphasizing the need to simplify taxes, modernize the State, and unlock economic growth. This stance could positively impact the Construction and Retail sectors by fostering a more efficient and sustainable economic environment, potentially attracting more investments and driving sectoral growth."
+      }
+    }
+  },
+  "full_news_content": "Menin e Flavio Rocha defendem Reforma Administrativa para modernizar o Estado\n\nPublicidade\nO empresário Flavio Rocha, presidente do conselho da Riachuelo, criticou nesta sexta-feira (30) a política econômica baseada no aumento de tributos e na expansão dos gastos públicos no Brasil, afirmando que essa fórmula já foi “testada e reprovada”.\nEm post no Instagram, Rocha disse que a crença equivocada de que “gasto público é vida” contribuiu para a “maior crise econômica das últimas décadas”, prejudicando o desenvolvimento sustentável do país. Para Rocha, é fundamental mudar esse paradigma e focar em medidas que promovam a eficiência na gestão dos recursos públicos.\nO empresário defende a aprovação da Reforma Administrativa como um passo essencial para modernizar o Estado brasileiro. “É hora de buscar eficiência e prestigiar quem produz”, escreveu Rocha.\nSAIBA MAIS\nLeia mais: Motta sugere revisão fiscal e reforma administrativa como opções à alta do IOF\nJá Rubens Menin, fundador, sócio e presidente do conselho de administração da incorporadora MRV, destacou que a crise do IOF revelou um problema ainda maior para o Brasil: “Não dá mais para postergar as reformas estruturais que o país precisa. É hora de encarar o problema de verdade: simplificar tributos, desvincular receitas e modernizar o Estado”, escreveu nesta quinta-feira (29).\nPara Menin, somente com uma reforma administrativa “séria” será possível destravar a economia e garantir um crescimento sustentável a longo prazo: ” Só assim vamos destravar a economia e garantir um crescimento sustentável.”\nContinua depois da publicidade\nReforma na Câmara\nO deputado federal Pedro Paulo (PSD-RJ), relator do grupo de trabalho da reforma administrativa na Câmara dos Deputados, afirmou nesta sexta-feira que os textos da medida podem incluir propostas de ajuste fiscal, como a desvinculação dos benefícios previdenciários do salário mínimo e a flexibilização dos pisos constitucionais para despesas com saúde e educação.\nSegundo ele, o pedido por essas medidas partiu do presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), que busca conter o crescimento desenfreado dos gastos públicos e evitar o aumento do Imposto sobre Operações Financeiras (IOF).\nLeia mais: Reforma administrativa pode incluir desvinculação de gastos, diz relator\nContinua depois da publicidade\nAlém das desvinculações, caso o governo não apresente medidas estruturantes para o Orçamento nos próximos dez dias, o texto da reforma poderá incorporar políticas de revisão de renúncias tributárias e desonerações.\nPedro Paulo destacou que a reforma administrativa não deve atacar direitos dos servidores ou salários, mas sim privilégios, como supersalários, e ampliar modelos de contratação para tornar o serviço público mais eficiente, com indicadores de desempenho e bônus vinculados à produtividade.\nO relator também defende a redução das emendas parlamentares e um pacto de redução das despesas públicas entre os três poderes e a iniciativa privada. Ele ressaltou que as vinculações orçamentárias atuais drenam recursos essenciais para investimentos e despesas básicas, provocando um “shutdown” nas contas públicas.\nContinua depois da publicidade\nPara Pedro Paulo, a reforma administrativa pode ser uma oportunidade para reorganizar o orçamento e garantir maior liberdade na gestão dos recursos públicos, promovendo um ajuste fiscal necessário para a sustentabilidade das contas públicas."
+}

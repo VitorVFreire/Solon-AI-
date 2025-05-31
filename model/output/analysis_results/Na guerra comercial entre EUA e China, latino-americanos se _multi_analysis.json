@@ -1,0 +1,47 @@
+{
+  "news_title": "Na guerra comercial entre EUA e China, latino-americanos se alinham com Pequim",
+  "news_url": "https://www.infomoney.com.br/economia/na-guerra-comercial-entre-eua-e-china-latino-americanos-se-alinham-com-pequim/",
+  "news_hash": 8194855196053784158,
+  "news_snippet": "Na guerra comercial entre EUA e China, latino-americanos se alinham com Pequim\n\nPublicidade\nNa guerra comercial de retaliação entre os EUA e a China, a América Latina está se alinhando com Pequim.\nOs apelos por laços econômicos mais estreitos com a C...",
+  "timestamp": "2025-05-31T14:22:20.599159",
+  "identified_entities": {
+    "companies": [
+      "Apple Inc BDR",
+      "Amazon.com Inc BDR",
+      "Facebook Inc BDR",
+      "Microsoft Corp BDR"
+    ],
+    "sectors": [
+      "Comércio Varejista",
+      "Tecnologia",
+      "Tecnologia da Informação"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 2.5,
+      "sector_score": 2.5,
+      "justification": {
+        "personal": "The news of Latin American countries aligning with China in the US-China trade war could bring increased uncertainty and potential risks to the investor with a Conservative profile, as it may impact the stability of their portfolio due to geopolitical tensions. This shift in trade alliances could lead to fluctuations in the stock prices of the technology companies like Apple, Amazon, Facebook, and Microsoft, affecting the investor's conservative portfolio.",
+        "sector": "The news of Latin American countries favoring closer economic ties with China over the US could have a mixed impact on the Technology, Information Technology, and Retail sectors. While it may open up new market opportunities for these sectors in Latin America, the potential disruption in global trade dynamics and the uncertainty surrounding the US-China relations could introduce challenges and risks for the companies operating in these sectors."
+      }
+    },
+    "Moderado": {
+      "personal_score": 3.5,
+      "sector_score": 2.5,
+      "justification": {
+        "personal": "For the Moderate investor profile, the news of Latin American countries aligning with China in the US-China trade war could bring a slightly challenging scenario. This alignment may introduce some uncertainty in the global market, impacting the investor's portfolio diversification and potentially leading to increased volatility in the technology and retail sectors where the identified entities operate.",
+        "sector": "The news indicates a shift in economic alliances towards China in Latin America, potentially affecting the Technology, Information Technology, and Retail sectors where the companies Apple Inc BDR, Amazon.com Inc BDR, Facebook Inc BDR, and Microsoft Corp BDR operate. This shift may pose challenges in terms of trade relations, supply chains, and market dynamics, leading to a slightly negative impact on the sector/company performance."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 4.5,
+      "sector_score": 3.75,
+      "justification": {
+        "personal": "Considering the Aggressive investor profile, the news indicates a positive impact on the portfolio as the shift towards closer economic ties with China in Latin America can benefit technology companies like Apple, Amazon, Facebook, and Microsoft, potentially leading to increased market opportunities and growth. This alignment with China may offer new avenues for expansion and revenue generation for these tech giants, aligning with the aggressive investor's risk appetite for growth and higher returns.",
+        "sector": "The news suggests a favorable scenario for the Technology sector, particularly for companies like Apple, Amazon, Facebook, and Microsoft, as Latin American countries express a preference for closer economic relations with China over the US. This preference could enhance market access, partnerships, and investment opportunities for these tech companies in the region, potentially boosting their performance and revenue streams. However, there might be some challenges related to geopolitical tensions and trade dynamics between the US and China that could impact the sector's stability and growth prospects."
+      }
+    }
+  },
+  "full_news_content": "Na guerra comercial entre EUA e China, latino-americanos se alinham com Pequim\n\nPublicidade\nNa guerra comercial de retaliação entre os EUA e a China, a América Latina está se alinhando com Pequim.\nOs apelos por laços econômicos mais estreitos com a China estão crescendo na região, especialmente no México, o principal parceiro comercial dos EUA, segundo o LatAm Pulse, uma pesquisa mensal realizada pela AtlasIntel para a Bloomberg News e publicada nesta sexta-feira (30).\nQuase dois terços dos mexicanos entrevistados em maio disseram que seu país deveria fazer mais negócios com o gigante asiático, muito mais do que aqueles que defendem relações econômicas mais estreitas com os EUA, enquanto Donald Trump abala a economia global com tarifas intermitentes.\nSAIBA MAIS\nPouco mais da metade dos entrevistados no Brasil apoia relações comerciais mais próximas com a China — número estatisticamente igual ao dos brasileiros que preferem mais comércio com os EUA. Maiorias na Argentina, Chile, Colômbia e Peru também apoiam mais comércio com Pequim.\nUma visão mais favorável da China entre os latino-americanos é a mais recente consequência da série de impostos de importação e diplomacia agressiva de Trump. Enquanto líderes de países do México ao Brasil têm manobrado para evitar a ira do presidente dos EUA, muitos cidadãos da região agora acreditam que Pequim é um parceiro comercial melhor do que Washington.\nEm todas as nações latino-americanas pesquisadas, exceto na Argentina, que sob o presidente Javier Milei busca um acordo de livre comércio com a administração Trump, mais entrevistados também disseram que a China, e não os EUA, oferece as melhores oportunidades de investimento e financiamento.\nContinua depois da publicidade\nA AtlasIntel entrevistou 2.031 pessoas na Argentina, 2.139 no Chile, 2.447 na Colômbia e 1.898 no México, todas com margem de erro de mais ou menos 2 pontos percentuais. No Brasil, foram entrevistadas 4.399 pessoas, com margem de erro de mais ou menos 1 ponto percentual.\n© 2025 Bloomberg L.P."
+}
