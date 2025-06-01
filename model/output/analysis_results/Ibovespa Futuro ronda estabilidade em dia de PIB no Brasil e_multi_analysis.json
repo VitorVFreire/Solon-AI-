@@ -1,0 +1,40 @@
+{
+  "news_title": "Ibovespa Futuro ronda estabilidade em dia de PIB no Brasil e inflação nos EUA",
+  "news_url": "https://www.infomoney.com.br/mercados/ibovespa-futuro-ronda-estabilidade-em-dia-de-pib-no-brasil-e-inflacao-nos-eua/",
+  "news_hash": 3529119593940404093,
+  "news_snippet": "Ibovespa Futuro ronda estabilidade em dia de PIB no Brasil e inflação nos EUA\n\nPublicidade\nO Ibovespa Futuro opera perto da estabilidade nas primeiras negociações desta sexta-feira (30), com as atenções voltadas atenções para a divulgação de uma séri...",
+  "timestamp": "2025-06-01T09:12:38.252229",
+  "identified_entities": {
+    "companies": [],
+    "sectors": [
+      "Energia"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 2.5,
+      "sector_score": 3.0,
+      "justification": {
+        "personal": "For a Conservative investor, the news brings a slightly poor scenario as the market is stable but facing uncertainties related to economic data releases and trade policies. The focus on inflation in the US and the potential impact on the energy sector could lead to cautious investment decisions.",
+        "sector": "The news has a neutral impact on the Energy sector. While the focus on economic data and trade policies could bring some uncertainty, the stability in the market and the potential growth in the Brazilian GDP could offset the negative aspects. Overall, the sector is expected to maintain a balanced performance."
+      }
+    },
+    "Moderado": {
+      "personal_score": 3.5,
+      "sector_score": 3.0,
+      "justification": {
+        "personal": "For a Moderate investor, the news brings a mixed scenario. The stability in the Ibovespa Future amidst economic data releases and trade policy uncertainties could lead to a neutral impact on the portfolio. The focus on GDP and inflation data in Brazil and the US, along with the ongoing trade policy discussions, may create a balanced environment for the investor.",
+        "sector": "The news has a neutral impact on the Energy sector. While the focus is not directly on the Energy sector, the overall economic data releases and trade policy discussions could indirectly influence energy companies. The sector is not specifically highlighted, leading to a neutral outlook for the Energy sector in this context."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 3.5,
+      "sector_score": 3.0,
+      "justification": {
+        "personal": "For an Aggressive investor, the news brings a mixed scenario. The stability in the Ibovespa Future and the focus on economic data releases can create uncertainty. The potential impact of the PIB and inflation numbers in Brazil, as well as the ongoing trade policy discussions in the US, could lead to both opportunities and risks in the investor's portfolio.",
+        "sector": "The news has a neutral impact on the Energy sector. While the focus is on economic data and trade policies, there is no direct mention of specific implications for the Energy sector. The sector remains indirectly influenced by global economic trends and trade dynamics, leading to a relatively stable outlook."
+      }
+    }
+  },
+  "full_news_content": "Ibovespa Futuro ronda estabilidade em dia de PIB no Brasil e inflação nos EUA\n\nPublicidade\nO Ibovespa Futuro opera perto da estabilidade nas primeiras negociações desta sexta-feira (30), com as atenções voltadas atenções para a divulgação de uma série de dados econômicos, incluindo números do PIB brasileiro e de inflação nos Estados Unidos, enquanto continuam de olho em novidades sobre a política comercial da maior economia do mundo. Às 9h06 (horário de Brasília), o índice com vencimento em junho registrava baixa de 0,04%, aos 139.575 pontos.\nTambém segue no radar o impasse sobre o decreto do governo que aumenta as alíquotas do Imposto de Operações Financeiras (IOF), após o presidente da Câmara dos Deputados, Hugo Motta, pedir uma solução conjunta entre Executivo e Legislativo, a fim de impedir que os parlamentares derrubem a medida.\nO Produto Interno Bruto (PIB) brasileiro cresceu 1,4% no primeiro trimestre de 2025 ante o trimestre imediatamente anterior. No ano, o avanço foi de 3,5%, totalizando R$ 3,0 trilhões.\nQUERO LUCRAR NA BOLSA\nOportunidade na renda fixa internacional: acesse gratuitamente a seleção mensal da XP para investir em moeda forte\nNo exterior, o destaque será o relatório do índice PCE — o indicador de inflação preferido do Federal Reserve — para abril, com projeção de alta de 0,1% na base mensal, segundo pesquisa da Reuters. Os agentes buscarão sinais de impactos das tarifas do presidente dos EUA, Donald Trump.\nA política tarifária dos EUA continua em foco, à medida que caminha para o que parece ser uma batalha judicial depois que um tribunal federal de apelações restabeleceu na véspera as tarifas mais abrangentes de Trump, revertendo a decisão de um tribunal de comércio que havia bloqueado as taxas.\nContinua depois da publicidade\nO Dow Jones Futuro operava em baixa de 0,0,3%, enquanto o S&P 500 recuava 0,07% e o Nasdaq Futuro caía 0,04%.\nLeia também\nIbovespa Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta sexta\nÍndices futuros dos EUA operam sem força, de olho em tarifas e dados de inflação\nAzul, Petrobras, Vale, Braskem, Oi, Magalu e mais ações para acompanhar hoje\nConfira os principais destaques do noticiário corporativo desta sexta-feira (30)\nIbovespa, dólar e mercado externo\nO dólar à vista subia 0,03%, cotado a R$ 5,666 na compra e R$ 5,668 na venda. Na B3, o contrato de dólar futuro de primeiro vencimento caía 0,09%, aos 5.664 pontos.\nOs mercados da Ásia-Pacífico fecharam majoritariamente em baixa, pressionados pela desaceleração da economia dos Estados Unidos, pelos temores de inflação e pelas incertezas em torno dos desdobramentos judiciais relacionados às tarifas “recíprocas” de Trump, que afetaram o sentimento dos investidores.\nContinua depois da publicidade\nOs mercados acionários europeus operam em alta nesta quinta-feira, mesmo diante da incerteza em relação à política tarifária dos Estados Unidos, que segue gerando cautela entre os investidores.\nOs preços do petróleo sobem, mas caminham para encerrar a semana com queda de mais de 1%, em meio a decisões tarifárias drásticas nos EUA e enquanto o mercado se preparava para um possível aumento na produção da OPEP+.\nAs cotações do minério de ferro na China registraram perdas semaais devido à menor demanda da China e à incerteza comercial.\nContinua depois da publicidade\n(Com Reuters)"
+}

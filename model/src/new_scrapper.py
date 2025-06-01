@@ -11,7 +11,7 @@ from typing import List, Dict, Optional
 logger = logging.getLogger(__name__)
 
 class ReadNews:
-    def __init__(self, url: str, base_url:str, text_replace:str, headless: bool = True):
+    def __init__(self, urls: list[str], base_url:str, text_replace:str, headless: bool = True):
         options = FirefoxOptions()
         if headless:
             options.add_argument("-headless")
@@ -32,7 +32,7 @@ class ReadNews:
 
         self.links = []
         self.base_url = base_url
-        self.url = url
+        self.urls = urls
         self.text_replace = text_replace.split('|') if text_replace else [] # Allow multiple replacements
         self._articles_data: List[Dict[str, str]] = []
         self._load_links() # Load links on init
@@ -42,23 +42,26 @@ class ReadNews:
         return self._articles_data
         
     def _load_links(self):
-        logger.info(f"Carregando links de notícias de: {self.url}")
-        try:
-            self.navegador.get(self.url)
-            time.sleep(3)
-            added_links = 0
-            link_elements = self.navegador.find_elements(By.XPATH, '//div[contains(@class, "px-0 md:px-6")]//a[@href]')
-            for el in link_elements:
-                href = el.get_attribute("href")
-                if href and self.base_url in href:
-                    self.links.append(href)
-                    added_links +=1
-            logger.info(f"{added_links} links de artigos potencialmente relevantes adicionados de {self.url}. Total: {len(self.links)}.")
-            if not self.links:
-                logger.warning(f"Nenhum link correspondente à base_url '{self.base_url}' encontrado em '{self.url}'. Verifique os seletores ou a página.")
+        for url in self.urls:
+            logger.info(f"Carregando links de notícias de: {url}")
+            try:
+                self.navegador.get(url)
+                time.sleep(3)
+                added_links = 0
+                link_elements = self.navegador.find_elements(By.XPATH, '//div[contains(@class, "px-0 md:px-6")]//a[@href]')
+                for el in link_elements:
+                    href = el.get_attribute("href")
+                    if href and self.base_url in href:
+                        self.links.append(href)
+                        added_links +=1
+                logger.info(f"{added_links} links de artigos potencialmente relevantes adicionados de {url}. Total: {len(self.links)}.")
+                if not self.links:
+                    logger.warning(f"Nenhum link correspondente à base_url '{self.base_url}' encontrado em '{url}'. Verifique os seletores ou a página.")
 
-        except Exception as e:
-            logger.error(f"Erro ao carregar links de {self.url}: {e}")
+            except Exception as e:
+                logger.error(f"Erro ao carregar links de {url}: {e}")
+        dict_aux = dict.fromkeys(self.links)
+        self.links = list(dict_aux)
 
     def fetch_articles(self, limit: Optional[int] = None):
         logger.info(f"Iniciando busca de artigos. Links para processar: {len(self.links)}")

@@ -1,0 +1,53 @@
+{
+  "news_title": "Brasil é o 2º país com maior avanço do PIB no 1º tri, à frente de EUA, China e UE",
+  "news_url": "https://www.infomoney.com.br/economia/brasil-cresce-mais-que-eua-china-e-ue-e-e-2o-pais-com-maior-avanco-pib-no-1o-tri/",
+  "news_hash": -3845027121828337622,
+  "news_snippet": "Brasil é o 2º país com maior avanço do PIB no 1º tri, à frente de EUA, China e UE\n\nPublicidade\nCom o avanço do Produto Interno Bruto (PIB) de 1,4% no primeiro trimestre ante o período anterior, o Brasil teve o segundo maior crescimento dentre uma lis...",
+  "timestamp": "2025-06-01T09:11:38.564936",
+  "identified_entities": {
+    "companies": [
+      "AES Tiete Energia SA",
+      "Alupar Investimento SA",
+      "Braskem SA",
+      "CPFL Energia SA",
+      "Eletrobras Participacoes SA Eletropar",
+      "Gerdau SA",
+      "Itau Unibanco Banco Holding SA",
+      "Petrobras Distribuidora SA",
+      "Vale SA"
+    ],
+    "sectors": [
+      "Energia",
+      "Indústria",
+      "Mineração",
+      "Financeiro"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 3.5,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "The news of Brazil's significant GDP growth in the first quarter, positioning the country as the second fastest-growing economy globally, indicates a positive economic outlook. For a Conservative investor, this could suggest a stable environment for investments with moderate growth potential. However, the forecasted deceleration in the second semester might introduce some caution, balancing out the positive impact.",
+        "sector": "The news of Brazil's strong GDP growth reflects positively on the Energy, Industry, Mining, and Financial sectors. Increased economic activity usually leads to higher demand for energy, industrial products, and financial services. Companies like AES Tiete Energia SA, CPFL Energia SA, and Itau Unibanco Banco Holding SA could benefit from this growth, potentially leading to improved financial performance and investment opportunities."
+      }
+    },
+    "Moderado": {
+      "personal_score": 4.25,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "For a Moderate investor, this news of Brazil's significant GDP growth in the first quarter indicates a positive economic outlook. The expected rise in GDP and Brazil's position in the global economy could lead to increased investment opportunities and improved market conditions, potentially benefiting the investor's portfolio.",
+        "sector": "The news of Brazil's strong GDP growth reflects positively on the sectors and companies mentioned, such as Energy, Industry, Mining, and Financial sectors. The growth indicates a favorable economic environment that could boost the performance of these entities, leading to increased revenues and investment prospects."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 4.5,
+      "sector_score": 4.0,
+      "justification": {
+        "personal": "The news of Brazil's significant GDP growth and projected advancement in the global economic ranking indicates a positive economic outlook. For an Aggressive investor profile, this news suggests potential investment opportunities in Brazilian companies, especially in the Energy, Industry, Mining, and Financial sectors, as the overall economic growth can lead to increased profitability and market performance.",
+        "sector": "The news of Brazil's strong GDP growth and expected rise in the global economic ranking bodes well for the Energy, Industry, Mining, and Financial sectors. Companies like AES Tiete Energia SA, CPFL Energia SA, Braskem SA, and Itau Unibanco Banco Holding SA are likely to benefit from the favorable economic conditions, leading to improved financial performance and growth prospects within these sectors."
+      }
+    }
+  },
+  "full_news_content": "Brasil é o 2º país com maior avanço do PIB no 1º tri, à frente de EUA, China e UE\n\nPublicidade\nCom o avanço do Produto Interno Bruto (PIB) de 1,4% no primeiro trimestre ante o período anterior, o Brasil teve o segundo maior crescimento dentre uma lista de 58 países, elaborada pela agência de classificação de risco Austin Rating com dados já conhecidos para o período. O Peru, com 2,4%, foi o país que mais cresceu. Ao lado do Brasil, com a mesma taxa de crescimento, figuram Arábia Saudita e Noruega.\nImediatamente atrás do Brasil ficaram Irlanda (1,2%), Holanda (1%), Indonésia (0,9%), em terceiro, quarto e quinto lugares, respectivamente.\nLeia também\nAlta do PIB deve se estender para o 2º tri, mas desaceleração virá na sequência\nEconomistas alertam para a perda de força do consumo das famílias e dos investimentos no segundo semestre do ano\nEmpatados em sexto lugar, com expansão de 0,8%, figuram Croácia, Espanha, Japão, Sérvia e Tailândia.\nSAIBA MAIS\nAs duas maiores economias do mundo, EUA e China, tiveram incremento de 0,7% e ficaram no sétimo lugar, empatadas com Chipre, Lituânia e Malásia.\nOutras das maiores economias do mundo tiveram desempenho mais modesto: Reino Unido (0,6%), no oitavo lugar; Canadá (0,5%), no nono lugar; França (0,3%), no 11º lugar; e Itália (0,2%), no 12º lugar.\nNo campo negativo apareceram Alemanha (-0,1%), no 15º lugar; Coreia do Sul (-0,2%), em 16º; Suécia (-0,3%), em 17º; e Chile (-0,6%), em 18º.\nContinua depois da publicidade\n8ª maior economia do mundo\nSegundo a Austin, o Brasil deve ocupar a oitava posição no ranking de maiores economias do mundo neste ano e no próximo. A agência usa projeções de crescimento feitas pelo Fundo Monetário Internacional (FMI) e o volume estimado para o PIB de diferentes países em dólares. Pelas previsões do FMI, o PIB brasileiro cresceria 2,1% em 2024 e em 2025.\nEm 2023, a alta de 2,9% no PIB brasileiro já tinha feito o Brasil subir duas posições nesse ranking das maiores economias do mundo, passando da 11ª colocação em 2022 para a nona posição no ano passado. A nova projeção com o País na oitava colocação geral representa mais um avanço, portanto.\nCom uma expansão projetada de 2,1% em 2024 e em 2025, o Brasil superaria as economias da Itália, Canadá, Rússia, México, Austrália, Coreia e Espanha, sendo menor somente que a dos Estados Unidos, China, Alemanha, Japão, Índia, Reino Unido e França.\nContinua depois da publicidade\nPor falta de dados disponíveis do trimestre analisado, Macau, Vietnã, Índia, Armênia, Uzbequiestão, Mogólia, Moçambique e Rússia ficaram nas últimas posições do ranking."
+}

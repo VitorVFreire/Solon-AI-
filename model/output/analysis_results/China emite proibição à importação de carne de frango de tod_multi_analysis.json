@@ -1,0 +1,43 @@
+{
+  "news_title": "China emite proibição à importação de carne de frango de todo Brasil",
+  "news_url": "https://www.infomoney.com.br/mercados/china-emite-proibicao-a-importacao-de-carne-de-frango-de-todo-brasil/",
+  "news_hash": 2759428268978797737,
+  "news_snippet": "China emite proibição à importação de carne de frango de todo Brasil\n\nPublicidade\nA China proibiu todas as importações de carne de frango e produtos relacionados do Brasil devido a um caso de gripe aviária, duas semanas após suspender os pedidos de i...",
+  "timestamp": "2025-06-01T09:11:52.063362",
+  "identified_entities": {
+    "companies": [
+      "BRF SA",
+      "JBS SA"
+    ],
+    "sectors": [
+      "Alimentação"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 1.5,
+      "sector_score": 1.75,
+      "justification": {
+        "personal": "For an investor with a Conservative profile, this news of China's ban on all imports of Brazilian chicken products can have a negative impact on their portfolio. The ban can lead to decreased revenues and potential losses for companies like BRF SA and JBS SA, affecting the investor's holdings in the Alimentação sector.",
+        "sector": "The ban imposed by China on Brazilian chicken imports significantly affects the Alimentação sector, particularly companies like BRF SA and JBS SA. This prohibition can lead to a substantial decline in export revenues, impacting the sector's performance and potentially leading to challenges in maintaining profitability and market share."
+      }
+    },
+    "Moderado": {
+      "personal_score": 2.5,
+      "sector_score": 2.75,
+      "justification": {
+        "personal": "For an investor with a Moderate profile, the news of China's ban on all imports of Brazilian chicken products due to avian flu poses a moderate challenge. This ban could lead to a temporary decrease in the stock prices of companies like BRF SA and JBS SA, impacting the investor's portfolio negatively in the short term.",
+        "sector": "The ban on Brazilian chicken imports by China affects the Alimentação sector significantly, particularly companies like BRF SA and JBS SA. This ban could disrupt their export revenues and supply chains, leading to a challenging scenario for the sector in the short term. Other countries imposing similar bans also add to the sector's challenges."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 2.5,
+      "sector_score": 1.75,
+      "justification": {
+        "personal": "For an Aggressive investor profile, the news of China's ban on all imports of Brazilian chicken products can have a moderately negative impact on the investor's portfolio. This ban could lead to a decrease in the stock prices of companies like BRF SA and JBS SA, affecting the overall performance of the portfolio.",
+        "sector": "The ban imposed by China on Brazilian chicken imports is highly detrimental to the Alimentação sector, particularly to companies like BRF SA and JBS SA. This prohibition not only affects their export revenues but also creates a negative sentiment in the market, potentially leading to a decline in the sector's performance. The sector is likely to face challenges in finding alternative markets to compensate for the loss of the Chinese market."
+      }
+    }
+  },
+  "full_news_content": "China emite proibição à importação de carne de frango de todo Brasil\n\nPublicidade\nA China proibiu todas as importações de carne de frango e produtos relacionados do Brasil devido a um caso de gripe aviária, duas semanas após suspender os pedidos de importação das granjas avícolas do país.\nTodas as importações diretas e indiretas de carne de frango brasileira estão proibidas e serão devolvidas ou destruídas se trazidas ou enviadas para o país, informou a Administração Geral de Alfândegas da China em um aviso em seu site datado de 29 de maio.\nA Administração Geral de Alfândegas da China também informou que todos os resíduos animais e vegetais de navios que chegam do Brasil devem ser tratados sob supervisão aduaneira e não descartados sem autorização.\nQUERO LUCRAR NA BOLSA\nO Brasil, maior exportador mundial de carne de frango e maior fornecedor do produto para a China, confirmou um caso de gripe aviária em granja avícola comercial na cidade de Montenegro, no Rio Grande do Sul, em 16 de maio, desencadeando uma série de proibições comerciais internacionais.\nO governo brasileiro já considerava o embargo total da China desde o início da crise, conforme regras de protocolos sanitários entre os países, mas solicitou que o país restringisse o embargo a produtos avícolas apenas da cidade onde ocorreu o caso. O anúncio sinaliza que Pequim ignorou o pedido de uma proibição limitada.\nChina, Japão, Arábia Saudita e Emirados Árabes Unidos estão entre os principais destinos das exportações de frango do Brasil. Os outros três países impuseram proibições apenas em nível estadual.\nContinua depois da publicidade\nA União Europeia e a Coreia do Sul também proibiram o frango brasileiro.\nO Brasil exportou cerca de US$10 bilhões em carne de frango em 2024, representando cerca de 35% do comércio global, tornando uma proibição nacional dolorosa não apenas para os produtores brasileiros, mas também para os grandes importadores.\nOs produtores brasileiros têm contado com a aproximação entre o presidente Luiz Inácio Lula da Silva e o presidente chinês Xi Jinping para flexibilizar a proibição do comércio de aves."
+}

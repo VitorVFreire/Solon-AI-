@@ -1,0 +1,40 @@
+{
+  "news_title": "Gol (GOLL4) tem prejuízo líquido de R$440 mi em abril",
+  "news_url": "https://www.infomoney.com.br/mercados/gol-goll4-tem-prejuizo-liquido-de-r440-mi-em-abril/",
+  "news_hash": -7544603109205484925,
+  "news_snippet": "Gol (GOLL4) tem prejuízo líquido de R$440 mi em abril\n\nPublicidade\nA companhia aérea Gol (GOLL4) registrou um prejuízo líquido de R$440 milhões no mês de abril, conforme relatório enviado ao juízo de sua recuperação judicial nos Estados Unidos.\nA emp...",
+  "timestamp": "2025-06-01T09:09:57.692482",
+  "identified_entities": {
+    "companies": [],
+    "sectors": [
+      "Transporte"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 1.5,
+      "sector_score": 1.75,
+      "justification": {
+        "personal": "For the investor with a Conservative profile, the news of Gol (GOLL4) reporting a net loss of R$440 million in April indicates a challenging scenario. The financial results show significant losses, high debt levels, and a negative trend in profitability, which could raise concerns about the company's stability and future performance, impacting the investor's portfolio negatively.",
+        "sector": "The news of Gol's financial performance reflects a challenging scenario for the Transport sector. The company's substantial net loss, high debt levels, and modest Ebitda margin indicate financial distress and operational difficulties within the sector. Investors in the Transport sector may face increased risk and uncertainty due to these negative financial indicators."
+      }
+    },
+    "Moderado": {
+      "personal_score": 2.5,
+      "sector_score": 2.0,
+      "justification": {
+        "personal": "For the Moderate investor profile, the news of Gol (GOLL4) reporting a net loss of R$440 million in April could raise concerns about the company's financial stability and performance. The positive aspect is the Ebitda of R$368 million with a 22% margin, indicating some operational strength. The high net debt of R$30.9 billion and the ongoing restructuring process in the US could pose challenges and uncertainties for the investor's portfolio.",
+        "sector": "The news of Gol's financial results impacts the Transport sector as it reflects the challenges faced by the airline industry due to the ongoing pandemic. The significant net loss and high debt levels of Gol could signal broader sectoral difficulties. However, the positive Ebitda and revenue figures show some resilience in operations amidst the crisis, balancing the sectoral impact score at a slightly challenging level."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 2.5,
+      "sector_score": 2.0,
+      "justification": {
+        "personal": "For an Aggressive investor profile, the news of Gol (GOLL4) reporting a net loss of R$440 million in April could have a slightly poor impact on their portfolio. The company's financial performance showing a negative net result and high debt levels might raise concerns about short-term volatility and financial stability.",
+        "sector": "The news about Gol's financial results could have a challenging impact on the Transportation sector. The significant net loss, high debt levels, and the ongoing restructuring process may signal operational difficulties and financial risks within the sector, potentially affecting investor confidence and sector performance."
+      }
+    }
+  },
+  "full_news_content": "Gol (GOLL4) tem prejuízo líquido de R$440 mi em abril\n\nPublicidade\nA companhia aérea Gol (GOLL4) registrou um prejuízo líquido de R$440 milhões no mês de abril, conforme relatório enviado ao juízo de sua recuperação judicial nos Estados Unidos.\nA empresa apurou um lucro antes de juros, impostos, depreciação e amortização (Ebitda) de R$368 milhões no mês passado, com margem Ebitda em 22%, de acordo com fato relevante.\nA Gol terminou abril com caixa total de R$2,0 bilhões e uma dívida líquida, incluindo empréstimos e financiamentos, arrendamento e financiamentos DIP, de R$30,9 bilhões.\nQUERO LUCRAR NA BOLSA\nO documento divulgado nesta sexta-feira também mostrou que a receita líquida da aérea no período somou R$1,7 bilhão.\nOs números fazem parte do relatório operacional mensal da companhia, encaminhado ao tribunal de falências dos EUA, conforme exigido durante seu processo de reestruturação."
+}

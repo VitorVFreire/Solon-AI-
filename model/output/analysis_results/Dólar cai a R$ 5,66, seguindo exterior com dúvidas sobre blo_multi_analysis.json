@@ -1,0 +1,55 @@
+{
+  "news_title": "Dólar cai a R$ 5,66, seguindo exterior com dúvidas sobre bloqueio de tarifas nos EUA",
+  "news_url": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-29052025/",
+  "news_hash": 1382361203873484269,
+  "news_snippet": "Dólar cai a R$ 5,66, seguindo exterior com dúvidas sobre bloqueio de tarifas nos EUA\n\nPublicidade\nO dólar fechou a quinta-feira em baixa ante o real, acompanhando o recuo quase generalizado da moeda norte-americana no exterior após um tribunal dos Es...",
+  "timestamp": "2025-06-01T09:13:33.430634",
+  "identified_entities": {
+    "companies": [
+      "3M Co BDR",
+      "AES Tiete Energia SA",
+      "AT&T Inc BDR",
+      "Abbott Laboratories BDR",
+      "Advanced Digital Health Medicina Preventiva SA",
+      "Alphabet Inc A BDR",
+      "Alphabet Inc C BDR",
+      "Amazon.com Inc BDR",
+      "American Airlines Group Inc DRC",
+      "American Express Co BDR"
+    ],
+    "sectors": [
+      "Energia",
+      "Financeiro",
+      "Indústria",
+      "Tecnologia",
+      "Transporte"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 2.5,
+      "sector_score": 3.5,
+      "justification": {
+        "personal": "For the Conservative investor profile, the news of the dollar falling against the real due to doubts about tariff blockages in the US could have a slightly negative impact. A decrease in the dollar value might affect international investments, potentially reducing returns or increasing currency risk.",
+        "sector": "The news of the dollar depreciation and the blockage of tariffs by a US court can have a positive impact on the sectors related to international trade, such as Energy and Technology. Companies involved in global transactions, like AES Tiete Energia SA and Alphabet Inc, may benefit from reduced trade tensions and a more stable currency exchange environment."
+      }
+    },
+    "Moderado": {
+      "personal_score": 3.5,
+      "sector_score": 3.5,
+      "justification": {
+        "personal": "For the Moderate investor profile, the news of the dollar dropping against the real due to doubts about tariff blockages in the US can have a mixed impact. The decrease in the dollar value may benefit companies with significant international operations by reducing their costs, but it could also lead to increased inflation and impact sectors reliant on imports. The overall uncertainty in the global market could pose challenges for the investor's portfolio.",
+        "sector": "The news of the dollar depreciation can have a mixed impact on the identified sectors and companies. While companies with international exposure like AES Tiete Energia SA and Amazon.com Inc BDR may benefit from lower costs, sectors like Financeiro and Indústria that rely on imports could face challenges due to potential inflation. The overall market uncertainty could also affect the performance of the identified entities."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 3.5,
+      "sector_score": 3.0,
+      "justification": {
+        "personal": "For an Aggressive investor profile, the news of the dollar falling against the real due to uncertainties about tariff blockages in the US can have a slightly positive impact. A lower dollar can benefit companies with foreign operations by reducing their costs and potentially increasing export competitiveness. However, the impact is not significantly high as it also depends on individual company exposures and hedging strategies.",
+        "sector": "The news of the dollar depreciation and the blockage of tariffs in the US can have a neutral impact on the sectors and companies mentioned. While a lower dollar can benefit companies in the Energy, Financial, Industry, Technology, and Transportation sectors by reducing import costs, the overall impact is mixed due to the uncertainties surrounding trade policies and global economic conditions."
+      }
+    }
+  },
+  "full_news_content": "Dólar cai a R$ 5,66, seguindo exterior com dúvidas sobre bloqueio de tarifas nos EUA\n\nPublicidade\nO dólar fechou a quinta-feira em baixa ante o real, acompanhando o recuo quase generalizado da moeda norte-americana no exterior após um tribunal dos Estados Unidos bloquear a maioria das tarifas impostas pelo governo Trump a produtos de outros países.\nEmbora as questões relacionadas ao Imposto sobre Operações Financeiras (IOF) no Brasil não tenham definido o rumo do câmbio na sessão, os agentes seguiram atentos às discussões em Brasília.\nDurante a sessão, a moeda chegou a R$ 5,64.\nQUERO LUCRAR NA BOLSA\nA moeda acelerou a queda após a divulgação de indicadores norte-americanos, como o Produto Interno Bruto (PIB), inflação PCE, e os pedidos de auxílio-desemprego, que reforçaram a percepção de resiliência da economia dos EUA. Esses dados aumentam a probabilidade de o Federal Reserve (Fed, banco central americano) manter a política monetária inalterada por um período prolongado. Ainda assim, persiste um ambiente de cautela em relação à situação fiscal dos Estados Unidos.\nDólar Hoje: Confira a cotação e fechamento diário do dólar comercial\nQual a cotação do dólar hoje?\nO dólar à vista fechou em baixa de 0,51%, aos R$5,666. No mês, a divisa acumula baixa de 0,18%.\nContinua depois da publicidade\nÀs 17h03 na B3 o dólar para junho — atualmente o mais líquido — cedia 0,39%, aos R$5,6700.\nDólar comercial\nCompra: R$ 5,666\nVenda: R$ 5,666\nDólar turismo\nVenda: R$ 5,849\nCompra: R$ 5,669\nO que aconteceu com dólar hoje?\nOs movimentos do real nesta sessão tiveram como pano de fundo um maior apetite por risco nos mercados globais, depois que a Corte de Comércio Internacional, sediada em Manhattan, bloqueou as tarifas anunciadas por Trump em 2 de abril, em uma derrota para a política comercial do presidente dos EUA.\nUm corte afirmou que a Constituição dos EUA fornece ao Congresso autoridade exclusiva para regular o comércio com outros países, que não é anulada pelos poderes emergenciais do presidente para proteger a economia norte-americana.\nContinua depois da publicidade\nLeia também\nIbovespa Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta\nÍndices futuros dos EUA avançam após Justiça barrar tarifas de Trump e com novos dados\nGoverno Trump apela à decisão de tribunal dos EUA que bloqueou tarifas ‘recíprocas’\nCobrança de taxas foi considerada ilegal pelo Tribunal de Comércio Internacional dos EUA\nDessa forma, o tribunal invalidou, com efeito imediato, todas as ordens de Trump sobre tarifas desde janeiro que se basearam na Lei de Poderes Econômicos de Emergência Internacional, prevista para lidar com ameaças “incomuns e extraordinárias” durante uma emergência nacional.\nA Casa Branca disse que estava apresentando um recurso para retirar a decisão.\n“A decisão do tribunal de derrubar as tarifas de Trump é mais do que apenas um leve obstáculo”, disse Brian Jacobsen, economista-chefe da Annex Wealth Management, à Reuters. “Embora o presidente Trump possa recorrer da decisão ou tentar contorná-la, essas opções são limitadas e podem acabar dando o mesmo resultado. Os mercados de ações gostaram da decisão.”\nContinua depois da publicidade\nO anúncio da decisão veio como um rompimento para os investidores, que demonstraram receitas de que as tarifas de Trump podem provocar um aumento da inflação global e uma recessão em vários países.\nEntretanto, as tarifas sobre produtos específicos — como aço, alumínio e automóveis — seguem em vigor e a decisão faz um pouco para evitar as incertezas comerciais, já que o governo Trump pode explorar outros meios legais para importar suas tarifas abrangentes.\n“Os mercados ao redor do mundo mostram uma visão positiva após a decisão do tribunal… Hoje o apetite por risco deve tomar conta do jogo”, disse Guilherme Esquelbek, da Correparti Corretora.\nContinua depois da publicidade\nO índice do dólar — que mede o desempenho da moeda norte-americana frente a uma cesta de seis divisões — caiu 0,75%, para 99,640.\nNa frente de dados, o governo norte-americano informou que a economia do país contraiu a uma taxa anualizada de 0,2% no primeiro trimestre do ano, em resultado um pouco melhor do que a estimativa inicial de retração de 0,3%.\nNa cena doméstica, o mercado nacional acompanha o contínuo impasse sobre os aumentos das alíquotas do Imposto sobre Operações Financeiras (IOF) anunciados pelo governo na semana passada, com um resgate parcial horas depois.\nO ministro da Fazenda, Fernando Haddad, afirmou na quarta-feira que, neste momento, não há alternativa ao decreto que aumentou o IOF para garantir o cumprimento dos compromissos fiscais deste ano.\nNesta quinta, no entanto, o presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), disse em publicação no X que o “clima é para derrubado” da medida na Casa, acrescentando que combinou que “a equipe econômica tem 10 dias para apresentar um plano alternativo”.\nJá a taxa de desemprego no Brasil caiu para 6,6% no trimestre encerrado em abril, segundo o IBGE, abaixo dos 7% do trimestre anterior, dos 7,5% do mesmo período de 2024 e do piso das projeções do mercado (de 6,7% a 7,1%). A renda média real do trabalhador atingiu R$ 3.426, com alta de 3,2% em relação ao mesmo trimestre do ano anterior.\n(Com Reuters e Estadão)"
+}

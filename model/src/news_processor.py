@@ -155,6 +155,9 @@ class NewsProcessor:
 
         identified_entities = self._identify_entities_in_news(news_content)
         
+        if identified_entities['companies'] is None and identified_entities['sectors'] is None:
+            logger.info('Nenhuma Entidade Identificada...')
+            return None
         analysis_results_by_profile = {}
         profiles = ["Conservador", "Moderado", "Agressivo"]
 
@@ -256,7 +259,7 @@ class NewsProcessor:
                 analysis_node_id = analysis_query_result[0]["analysis_node_id"]
 
                 link_news_analysis_query = """
-                MATCH (n:News), (a:Analysis)
+                 
                 WHERE elementId(n) = $news_id AND elementId(a) = $analysis_id
                 MERGE (n)-[:HAS_ANALYSIS]->(a)
                 """

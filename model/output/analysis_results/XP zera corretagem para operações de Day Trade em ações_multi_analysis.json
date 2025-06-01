@@ -1,0 +1,41 @@
+{
+  "news_title": "XP zera corretagem para operações de Day Trade em ações",
+  "news_url": "https://www.infomoney.com.br/advisor/investimentos/xp-zera-corretagem-para-operacoes-de-day-trade-em-acoes/",
+  "news_hash": -7523374286722989100,
+  "news_snippet": "XP zera corretagem para operações de Day Trade em ações\n\nO Day Trade deu um salto entre 2019 e 2021, e depois perdeu um pouco de força como reflexo da combinação de alta dos juros e volatilidade dos mercados globais. O segmento, no entanto, não perde...",
+  "timestamp": "2025-06-01T09:12:02.586193",
+  "identified_entities": {
+    "companies": [],
+    "sectors": [
+      "Financeiro",
+      "Serviços"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 4.25,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "For the conservative investor profile, the news of XP eliminating brokerage fees for Day Trade operations in stocks can be seen as a positive development. This move by XP reduces costs for investors, making Day Trading more accessible and potentially increasing satisfaction. However, the increased accessibility to Day Trading may also introduce higher risk due to the speculative nature of this activity, which aligns with a slightly higher risk tolerance within the conservative profile.",
+        "sector": "The news of XP eliminating brokerage fees for Day Trade operations in stocks is highly impactful for the Financial and Services sectors. This move is likely to attract more investors to engage in Day Trading activities, leading to increased trading volumes in the stock market. Additionally, the introduction of tools like Copilot Trader enhances the efficiency and risk management capabilities of investors, further boosting the sector's performance. Overall, this development is expected to have a positive impact on the Financial and Services sectors."
+      }
+    },
+    "Moderado": {
+      "personal_score": 4.25,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "For an investor with a Moderate profile, the news of XP eliminating brokerage fees for Day Trade operations in stocks is highly beneficial. This move reduces costs significantly for investors engaging in short-term trading, potentially increasing their profitability and attracting more investors to the segment. The access to higher leverage and risk management tools provided by XP further enhances the appeal of Day Trading with the company, offering opportunities for improved returns and portfolio diversification.",
+        "sector": "The news has a positive impact on the Financial and Services sectors, as it promotes increased trading activity and market participation. By removing the barrier of high costs associated with Day Trading, XP is likely to attract more investors to the segment, leading to higher trading volumes in the stock market. Additionally, the introduction of risk management tools and AI-driven insights enhances the safety and efficiency of Day Trading operations, contributing to the overall growth and development of the financial services industry."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 4.25,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "For an Aggressive investor, the news of XP eliminating brokerage fees for Day Trade operations in stocks is highly beneficial. This move reduces costs significantly, making it more attractive for active traders seeking quick results. The increased access to leverage and risk management tools further enhances the appeal of Day Trading with XP, potentially leading to improved returns and portfolio growth.",
+        "sector": "The news of XP eliminating brokerage fees for Day Trade operations in stocks is very positive for the Financial and Services sectors. This initiative is likely to attract more investors to engage in Day Trading, increasing trading volumes in the stock market and benefiting both the sector and XP as a leading financial services provider. Additionally, the focus on risk management tools and AI integration enhances the sector's credibility and safety measures, contributing to overall sector growth and innovation."
+      }
+    }
+  },
+  "full_news_content": "XP zera corretagem para operações de Day Trade em ações\n\nO Day Trade deu um salto entre 2019 e 2021, e depois perdeu um pouco de força como reflexo da combinação de alta dos juros e volatilidade dos mercados globais. O segmento, no entanto, não perdeu a sua relevância, e hoje responde por cerca de 40% do volume da Bolsa. Na prática, trata-se de uma categoria presente na carteira de investidores que buscam diversificação e resultado ágil. \nNesta modalidade, onde realizar inúmeras operações no mesmo dia é comum, as questões que envolvem custos são primordiais para o bolso do cliente final. Em meio ao cenário, a XP anuncia a zeragem da taxa de corretagem para o Day Trade com ações. \n“Um levantamento interno nos mostrou que 40% dos detratores do serviço reclamaram do custo. Por isso, decidimos remover a taxa. Esperamos promover o aumento na satisfação dos clientes nos próximos meses, afirma Marcos Horie, head de Produtos da XP. O benefício pode ser acessado por clientes da matriz ou de escritórios de agentes autônomos. A única regra é ter o RLP ativo. \nUm dos atrativos de realizar Day Trade com a XP é o acesso à maior alavancagem do mercado – o cliente pode realizar operações de Day Trade sem necessariamente ter recursos em caixa. Ao zerar a taxa, a XP visa, também, atrair novos investidores para o segmento. “Entendemos que alguns clientes não fazem Day Trade porque acham o custo da operação muito impeditivo. Queremos quebrar essa barreira e contribuir para o aumento de volume tanto na Bolsa quanto na XP”, pontua o executivo. \nGestão de risco \nPara auxiliar na execução de operações de Day Trade com maior agilidade, precisão e controle, a XP oferece aos clientes o Copilot Trader. Integrada ao ambiente operacional, a plataforma oferece insights em tempo real baseados em dados de mercado além de possibilitar que o cliente inclua níveis de ganho e perda máxima esperada para o dia – isso possibilita que o cliente faça uma melhor gestão dos resultados da estratégia.\n“Por vezes, a pessoa não entende que toma decisões exageradas ao realizar as operações. Nesse contexto, o Copilot é capaz de sugerir níveis de perdas e ganhos por dia, de acordo com a análise de cada ativo operado”, pontua Horie. De acordo com a XP, o perfil de perdas dos clientes melhorou de forma contundente com o uso da ferramenta. Um teste realizado com mais de 500 clientes mostrou que 40% da base apresentou melhora nos resultados das suas operações. \nInteligência artificial\nEm meio ao processo de adesão gradativo, o Copilot Trader ganha ainda mais relevância ao passar por uma nova atualização. O sistema está sendo preparado para considerar, também, o perfil de quem investe – de acordo com o histórico de comportamento e análise da carteira – para sugerir de forma personalizada o montante máximo diário de operações, o que inclui um teto para potenciais perdas. A inteligência artificial terá participação relevante no processo.  \nA ferramenta é uma das principais frentes da XP para elevar a segurança de clientes em operações de Day Trade. “Trata-se de uma modalidade que complementa a diversificação. Em geral, a pessoa que realiza operações de curto prazo com ações reúne mais 4 ou 5 produtos adicionais na carteira”, diz o Horie. \nMais informações sobre as operações de Day Trade com a XP podem ser acessadas no site."
+}

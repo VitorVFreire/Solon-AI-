@@ -1,0 +1,43 @@
+{
+  "news_title": "CVM aprova dupla listagem da JBS no Brasil e nos EUA",
+  "news_url": "https://www.infomoney.com.br/mercados/cvm-aprova-dupla-listagem-da-jbs-no-brasil-e-nos-eua/",
+  "news_hash": -2685921939977294883,
+  "news_snippet": "CVM aprova dupla listagem da JBS no Brasil e nos EUA\n\nPublicidade\nA JBS (JBSS3) obteve nesta sexta-feira a aprovação da Comissão de Valores Mobiliários (CVM) para a chamada dupla listagem de ações nos Estados Unidos e no Brasil, em movimento que busc...",
+  "timestamp": "2025-06-01T09:10:06.291892",
+  "identified_entities": {
+    "companies": [
+      "JBS SA"
+    ],
+    "sectors": [
+      "Alimentação",
+      "Indústria"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 3.5,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "For the investor with a Conservative profile, the approval of JBS's dual listing in Brazil and the US can provide a slightly positive impact on their portfolio. This move may enhance the company's visibility and access to investors, potentially increasing the liquidity of JBS's shares. However, the investor may perceive this as a slightly risky strategy due to the exposure to international markets.",
+        "sector": "The approval of JBS's dual listing is highly beneficial for the Alimentação and Indústria sectors. This strategic decision can unlock significant value for JBS, the global leader in meat production, by increasing its access to capital and investor base. The move also signals confidence in the company's growth prospects and may attract more investment into the food and industry sectors as a whole."
+      }
+    },
+    "Moderado": {
+      "personal_score": 4.25,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "For an investor with a Moderate profile, the approval of the dual listing of JBS in Brazil and the US can be seen as a positive development. This move can potentially increase the liquidity of the stock, provide access to a broader investor base, and improve the company's capital structure, which may lead to enhanced returns and reduced financing costs.",
+        "sector": "The dual listing approval for JBS is likely to have a significant positive impact on the Food and Industry sectors. It demonstrates JBS's commitment to global expansion and strategic diversification, which can attract more investors and enhance the company's competitive position in the global food market. This move may also stimulate growth and innovation within the sectors, leading to increased market value and potential opportunities for stakeholders."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 4.5,
+      "sector_score": 4.0,
+      "justification": {
+        "personal": "For an Aggressive investor profile, the approval of JBS's dual listing in Brazil and the US can be seen as a positive move. This decision can increase the company's visibility, attract more investors, and potentially lead to a higher stock valuation. The access to a broader investor base and lower-cost financing options can align with the investor's risk appetite for potential growth and diversification, hence a high personal impact score.",
+        "sector": "The approval of JBS's dual listing is beneficial for the Alimentação (Food) and Indústria (Industry) sectors. It enhances the global market positioning of JBS, one of the largest food companies globally, potentially leading to increased investments in the sector. The move also reflects positively on the industry's ability to access international markets and diversify funding sources, contributing to sectoral growth and competitiveness."
+      }
+    }
+  },
+  "full_news_content": "CVM aprova dupla listagem da JBS no Brasil e nos EUA\n\nPublicidade\nA JBS (JBSS3) obteve nesta sexta-feira a aprovação da Comissão de Valores Mobiliários (CVM) para a chamada dupla listagem de ações nos Estados Unidos e no Brasil, em movimento que busca “destravar” valor da companhia e adequar a estrutura de capital ao perfil da empresa, maior produtora global de carnes.\nSegundo comunicado da companhia, a CVM aprovou os registros de emissor estrangeiro da JBS N.V. e do Programa de Brazilian Depositary Receipts (BDRs) Nível II. Também foi aprovada a admissão à negociação dos BDRs pela B3.\nDessa forma, as ações da companhia serão ofertadas na bolsa brasileira até 6 de junho. Já o primeiro dia de negociação dos BDRs da JBS N.V. na B3 será 9 de junho, enquanto a expectativa é que as ações em Nova York comecem a ser negociadas em 12 de junho.\nQUERO LUCRAR NA BOLSA\nNo mês passado, a JBS havia obtido a conclusão do registro junto a SEC, o órgão regulador de mercados dos EUA. A assembleia geral extraordinária dos acionistas aprovou a proposta em 23 de maio.\n“A dupla listagem se mostra o caminho para que a companhia atinja seu potencial dentro do mercado global de alimentos. Isso deve potencializar a nossa estratégia em diversificação de proteínas e geográfica, baseada em marcas fortes e produtos de valor agregado”, disse o CEO Global da JBS, Gilberto Tomazoni, em nota.\nA JBS figura entre as maiores empresas de alimentos do mundo. Com mais de 250 fábricas, conta com produção em 17 países, atende a mais de 300 mil clientes.\nContinua depois da publicidade\nSegundo o CFO da JBS, Guilherme Cavalcanti, o movimento dará maior acesso a investidores e a juros mais competitivos, “para ampliar a capacidade de financiar o crescimento a um menor custo, acelerando a estratégia de diversificação”."
+}

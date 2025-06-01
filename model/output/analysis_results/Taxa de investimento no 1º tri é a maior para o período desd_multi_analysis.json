@@ -1,0 +1,38 @@
+{
+  "news_title": "Taxa de investimento no 1º tri é a maior para o período desde 2021, mostra IBGE",
+  "news_url": "https://www.infomoney.com.br/economia/taxa-de-investimento-no-1o-tri-e-a-maior-para-o-periodo-desde-2021-mostra-ibge/",
+  "news_hash": -6327885140283567177,
+  "news_snippet": "Taxa de investimento no 1º tri é a maior para o período desde 2021, mostra IBGE\n\nPublicidade\nA taxa de investimento no País cresceu de 16,7% no primeiro trimestre de 2024 para 17,8% no primeiro trimestre de 2025, o melhor desempenho para esse período...",
+  "timestamp": "2025-06-01T09:11:44.804749",
+  "identified_entities": {
+    "companies": [],
+    "sectors": []
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 3.5,
+      "sector_score": 3.5,
+      "justification": {
+        "personal": "For the conservative investor profile, this news of an increase in the investment rate and savings rate in the country indicates a positive trend towards economic stability. The higher rates suggest a more secure environment for investments, although the impact on specific sectors or companies is not highlighted.",
+        "sector": "The news of the highest investment rate since 2021 and an increase in the savings rate reflects positively on the overall economic outlook. This could lead to increased economic activity and potentially benefit a wide range of sectors. The data indicates a favorable environment for businesses and economic growth."
+      }
+    },
+    "Moderado": {
+      "personal_score": 4.0,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "The news of the increase in the investment rate and savings rate indicates a positive economic environment, which can benefit a Moderate investor's portfolio. The higher investment rate suggests potential growth opportunities and improved market conditions, which could lead to better returns on investments.",
+        "sector": "The data revealing the highest investment rate since 2021 and an increase in the savings rate reflect positively on the overall economic outlook. This indicates a growing confidence in the economy, potentially leading to increased business activities, higher productivity, and overall sectoral growth. The policies driving these changes seem to be contributing to a favorable environment for economic expansion."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 4.5,
+      "sector_score": 4.0,
+      "justification": {
+        "personal": "For an Aggressive investor profile, this news of the highest investment rate since 2021 indicates a positive economic environment with increased opportunities for higher returns on investments. The growth in investment and savings rates reflects a potentially favorable market for aggressive investment strategies, with the possibility of capitalizing on the expanding economic activities.",
+        "sector": "The increase in the investment rate and savings rate as reported by IBGE signifies a positive trend in the overall economic landscape. This can lead to increased capital flows, business expansion, and potentially higher profitability across various sectors. The data suggests a favorable environment for companies to invest and grow, benefiting from the overall economic growth and stability."
+      }
+    }
+  },
+  "full_news_content": "Taxa de investimento no 1º tri é a maior para o período desde 2021, mostra IBGE\n\nPublicidade\nA taxa de investimento no País cresceu de 16,7% no primeiro trimestre de 2024 para 17,8% no primeiro trimestre de 2025, o melhor desempenho para esse período do ano desde 2021, quando esteve em 18,4%.\nOs dados do Produto Interno Bruto (PIB) foram divulgados nesta sexta-feira, 30, pelo Instituto Brasileiro de Geografia e Estatística (IBGE).\nA taxa de poupança aumentou de 15,5% no primeiro trimestre de 2024 para 16,3% no primeiro trimestre de 2025, o melhor desempenho para esse período do ano desde 2023, quando esteve em 16,7%.\nSAIBA MAIS\n“A gente viu tanto a taxa de investimento quanto a taxa de poupança crescerem”, frisou Rebeca Palis, coordenadora de Contas Nacionais do IBGE. “A taxa de poupança aumentou porque, como efeito da política monetária restritiva, o consumo das famílias cresceu abaixo do PIB”, justificou."
+}

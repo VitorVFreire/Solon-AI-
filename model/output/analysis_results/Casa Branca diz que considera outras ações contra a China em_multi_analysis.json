@@ -1,0 +1,51 @@
+{
+  "news_title": "Casa Branca diz que considera outras ações contra a China em disputa comercial",
+  "news_url": "https://www.infomoney.com.br/economia/casa-branca-diz-que-considera-outras-acoes-contra-a-china-em-disputa-comercial/",
+  "news_hash": 1293733904029965485,
+  "news_snippet": "Casa Branca diz que considera outras ações contra a China em disputa comercial\n\nPublicidade\nO governo Trump está preparando outras ações visando a China, disse o vice-chefe de gabinete de políticas da Casa Branca nesta sexta-feira (30), após a acusaç...",
+  "timestamp": "2025-06-01T09:11:30.207459",
+  "identified_entities": {
+    "companies": [
+      "3M Co BDR",
+      "Apple Inc BDR",
+      "Boeing Co BDR",
+      "Amazon.com Inc BDR",
+      "Alphabet Inc A BDR",
+      "Alphabet Inc C BDR"
+    ],
+    "sectors": [
+      "Comércio Varejista",
+      "Consultoria Empresarial",
+      "Indústria Aeroespacial",
+      "Tecnologia da Informação",
+      "Transporte"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 1.5,
+      "sector_score": 1.5,
+      "justification": {
+        "personal": "For the investor with a Conservative profile, this news of escalating tensions in the US-China trade dispute can lead to increased market volatility and uncertainty, impacting negatively on the portfolio. The potential for further trade actions and disruptions could result in a more challenging investment environment.",
+        "sector": "The news of potential additional actions against China can have a negative impact on sectors like Retail Trade, Business Consulting, Aerospace Industry, Information Technology, and Transportation. Companies like 3M Co, Apple Inc, Boeing Co, Amazon.com, Alphabet Inc A, and Alphabet Inc C may face challenges due to increased trade tensions and uncertainties, affecting their performance and growth prospects."
+      }
+    },
+    "Moderado": {
+      "personal_score": 2.5,
+      "sector_score": 2.0,
+      "justification": {
+        "personal": "For the Moderate investor profile, the news of potential further actions against China in the trade dispute could introduce increased market volatility and uncertainty, impacting the diversified portfolio. The investor may need to closely monitor the developments to adjust their investment strategy accordingly.",
+        "sector": "The news could negatively affect sectors like Retail Trade, Business Consulting, Aerospace Industry, Information Technology, and Transportation due to potential disruptions in global trade and supply chains. Companies like 3M Co, Apple Inc, Boeing Co, Amazon.com, Alphabet Inc A, and Alphabet Inc C may face challenges related to trade tensions, affecting their operations and financial performance."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 2.5,
+      "sector_score": 2.0,
+      "justification": {
+        "personal": "For an Aggressive investor, the news of potential further actions against China in the trade dispute can introduce increased market volatility and uncertainty, impacting a more risk-tolerant portfolio. This could lead to both opportunities and challenges in the short term, requiring active monitoring and potential adjustments to the investment strategy.",
+        "sector": "The news of potential additional actions against China in the trade dispute can negatively affect sectors like Retail Trade, Business Consulting, and Technology due to increased trade tensions and uncertainty. Companies like Amazon, Apple, and Alphabet may face challenges in their supply chains and international operations, impacting their performance and growth prospects."
+      }
+    }
+  },
+  "full_news_content": "Casa Branca diz que considera outras ações contra a China em disputa comercial\n\nPublicidade\nO governo Trump está preparando outras ações visando a China, disse o vice-chefe de gabinete de políticas da Casa Branca nesta sexta-feira (30), após a acusação do presidente dos EUA, Donald Trump, de que Pequim havia “violado” seu acordo comercial com Washington.\n“Isso abre todo tipo de ação para os Estados Unidos garantirem conformidade futura”, disse Stephen Miller a repórteres na Casa Branca.\n“Há medidas que já foram tomadas, há medidas que estão sendo tomadas, há medidas que estão sendo consideradas”, disse ele separadamente à CNN.\nSAIBA MAIS\n“Seria incrivelmente imprudente da parte da China continuar nesse caminho e não buscar, em vez disso, o caminho da cooperação.”"
+}

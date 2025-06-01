@@ -1,0 +1,40 @@
+{
+  "news_title": "Um dos mais experientes traders do mercado, Caio Scotte oferece mentoria gratuita",
+  "news_url": "https://www.infomoney.com.br/mercados/um-dos-mais-experientes-traders-do-mercado-caio-scotte-oferece-mentoria-gratuita/",
+  "news_hash": 8401358490963827361,
+  "news_snippet": "Um dos mais experientes traders do mercado, Caio Scotte oferece mentoria gratuita\n\nPublicidade\nQuer mais consistência para operar no mercado financeiro? A Mentoria do Caio Scotte pode ser uma valorosa opção, oferecendo todas as ferramentas para aprim...",
+  "timestamp": "2025-06-01T09:13:44.063228",
+  "identified_entities": {
+    "companies": [],
+    "sectors": [
+      "Financeiro"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 2.5,
+      "sector_score": 3.0,
+      "justification": {
+        "personal": "For a Conservative investor, the offer of free mentoring by an experienced trader like Caio Scotte could provide some value in terms of learning and improving trading strategies. However, since the news mainly focuses on a mentoring service without specific financial implications or guarantees of returns, the impact on the investor's portfolio is limited. The Conservative investor may see this as a learning opportunity but would likely approach it cautiously due to the lack of concrete financial benefits.",
+        "sector": "The news about Caio Scotte offering free mentoring services in the financial market could have a positive impact on the Finance sector. By sharing insights, technical analysis methods, and creating a community for knowledge exchange, Scotte's initiative could contribute to the overall improvement of trading practices within the sector. This could lead to a more informed and potentially more efficient market environment, benefiting both traders and financial institutions operating in the sector."
+      }
+    },
+    "Moderado": {
+      "personal_score": 3.5,
+      "sector_score": 3.0,
+      "justification": {
+        "personal": "For an investor with a Moderate profile, the news about Caio Scotte offering free mentoring in the financial market can provide valuable tools and insights to enhance trading operations. This opportunity to improve strategies and gain support can moderately benefit the investor's portfolio by potentially increasing trading efficiency and knowledge.",
+        "sector": "The news about Caio Scotte's free mentoring in the financial market can have a moderate positive impact on the Financial sector. By offering advanced technical analysis tools and insights, Scotte's mentoring can contribute to the sector's development and the improvement of trading practices among market participants. However, the impact may be limited to those directly involved in the mentoring program, hence the neutral score."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 3.5,
+      "sector_score": 3.0,
+      "justification": {
+        "personal": "For an Aggressive investor profile, the news about Caio Scotte offering free mentorship in the financial market can provide an opportunity to enhance trading skills and strategies, potentially leading to accelerated growth and improved performance. However, the impact may not be extremely significant as the mentorship is free and the benefits depend on the individual trader's ability to leverage the insights provided.",
+        "sector": "The news about Caio Scotte's mentorship program in the financial market could have a moderately positive impact on the Financial sector. It highlights the importance of continuous learning and skill development in trading, which could contribute to a more informed and efficient market environment. However, the direct influence on the sector as a whole might be limited as it focuses more on individual traders' development."
+      }
+    }
+  },
+  "full_news_content": "Um dos mais experientes traders do mercado, Caio Scotte oferece mentoria gratuita\n\nPublicidade\nQuer mais consistência para operar no mercado financeiro? A Mentoria do Caio Scotte pode ser uma valorosa opção, oferecendo todas as ferramentas para aprimorar e fundamentar as operações no mercado financeiro.\nA mentoria é dada gratuitamente por Scotte, experiente trader que ingressou no mercado financeiro no final de 2011 e já vivenciou todas as adversidades e desafios da profissão. Seu trabalho incansável no segmento o fez uma figura destacada no setor. Hoje, ele atua na XP.\nEle desenvolveu o Scotte System a partir de pesquisas e análises de backtest (uso de dados históricos para desenhar uma estratégia). Para o trader, é essencial adquirir mais clareza sobre o mercado, para construir e articular uma estratégia de maneira eficiente.\nQUERO LUCRAR NA BOLSA\nSaiba mais da Mentoria do Scotte aqui.\nAnálise técnica 3.0\n“Não importa qual seja o estágio de operação no mercado financeira. Nosso objetivo é aperfeiçoar a estratégia do aluno na atuação no mercado”, explica Caio Scotte.\nNa mentoria, é oferecido a Análise Técnica 3.0, que integra a análise técnica oriental, ocidental e computadorizada. Além disso, Caio Scotte dá suporte direto e insights exclusivos, para evolução no trading de forma acelerada.\nContinua depois da publicidade\nUma comunidade exclusiva criada pela mentoria possibilita troca de ideias, compartilhamento de conhecimentos e construção de relacionamento.  \nEm 2021, Caio Scotte entrou na XP para a construção da Mesa Trader e com o tempo desenvolveu vários outros projetos para operadores do mercado financeiro.\nTambém é apresentador do podcast Arte do Trading (canal Gaincast), em parceria com Marcio Kieling.\nContinua depois da publicidade\nA próxima mentoria acontece a partir de dia 10 de junho. Para mais detalhes da Mentoria do Scotte, acesse a página exclusiva para inscrição aqui."
+}

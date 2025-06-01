@@ -1,0 +1,44 @@
+{
+  "news_title": "Trader: Contratos Futuros de Ethereum e Solana serão lançados na B3 após aval da CVM",
+  "news_url": "https://www.infomoney.com.br/mercados/trader-contratos-futuros-de-ethereum-e-solana-serao-lancados-na-b3-apos-aval-da-cvm/",
+  "news_hash": -742454109389105345,
+  "news_snippet": "Trader: Contratos Futuros de Ethereum e Solana serão lançados na B3 após aval da CVM\n\nPublicidade\nOs traders brasileiros terão mais uma opção para negociação de contratos futuros, após o aval da Comissão de Valores Mobiliários (CVM) para o lançamento...",
+  "timestamp": "2025-06-01T09:12:10.216488",
+  "identified_entities": {
+    "companies": [
+      "B3 SA Brasil Bolsa Balcao"
+    ],
+    "sectors": [
+      "Financeiro",
+      "Tecnologia",
+      "Energia"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 2.5,
+      "sector_score": 4.0,
+      "justification": {
+        "personal": "For the investor with a Conservative profile, the news of the launch of Ethereum and Solana futures at B3 with CVM approval introduces a new level of risk associated with cryptocurrency derivatives trading. This may not align with the conservative investment approach, potentially leading to increased volatility and uncertainty in the portfolio.",
+        "sector": "The news of B3 launching Ethereum and Solana futures, along with the reduction in the size of Bitcoin futures contracts approved by CVM, is highly positive for the Financial sector. This move enhances market accessibility, liquidity, and cost efficiency, attracting more investors and boosting innovation in cryptocurrency-related products. The technology and energy sectors could also benefit indirectly from increased market activity and investor interest in blockchain technology and digital assets."
+      }
+    },
+    "Moderado": {
+      "personal_score": 3.5,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "For an investor with a Moderate profile, the news of B3 launching Ethereum and Solana futures contracts approved by CVM can offer new investment opportunities in the cryptocurrency derivatives market. The increased accessibility, liquidity, and reduced costs could be beneficial, but the volatility of cryptocurrencies poses risks that need to be managed cautiously.",
+        "sector": "The approval of Ethereum and Solana futures contracts by B3, along with the reduction in the size of Bitcoin futures contract, indicates a positive step towards innovation and meeting the growing demand for cryptocurrency-related products. This move can boost the Financeiro, Tecnologia, and Energia sectors by attracting more investors and enhancing the overall market activity and sophistication."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 4.25,
+      "sector_score": 4.5,
+      "justification": {
+        "personal": "For an Aggressive investor profile, the news of B3 launching Ethereum and Solana futures with CVM approval presents a significant opportunity for portfolio diversification and potential high returns in the cryptocurrency market. The increased accessibility, liquidity, and reduced costs in trading these derivatives align well with the risk appetite of an Aggressive investor seeking growth and innovation in their investments.",
+        "sector": "The introduction of Ethereum and Solana futures by B3, along with the reduced contract size for Bitcoin futures, is a positive development for the Financeiro, Tecnologia, and Energia sectors. This move enhances the sector's attractiveness by catering to the growing demand for cryptocurrency-related products, fostering innovation, and providing investors with regulated and secure alternatives to participate in the digital assets market."
+      }
+    }
+  },
+  "full_news_content": "Trader: Contratos Futuros de Ethereum e Solana serão lançados na B3 após aval da CVM\n\nPublicidade\nOs traders brasileiros terão mais uma opção para negociação de contratos futuros, após o aval da Comissão de Valores Mobiliários (CVM) para o lançamento por parte da B3 (B3SA3) dos derivativos criptos de Ethereum (ETR) e Solana (SOL).\nA expectativa é de que o produtos esteja disponível aos traders, na B3, a bolsa do Brasil, a partir de 16 de junho. Ano passado, foi lançado o primeiro derivativo cripto, com o Futuro de Bitcoin (BITFUT).\nA CVM também aprovou a redução do tamanho do contrato do Futuro de Bitcoin em dez vezes. Atualmente, o contrato Futuro de Bitcoin equivale a 0,1 Bitcoin (cerca de R$ 56 mil) e passará a valer 0,01 Bitcoin (cerca de R$ 5,6 mil).\nQUERO LUCRAR NA BOLSA\nSegundo a Bolsa, o objetivo da redução, que passa a valer em 16 de junho, é tornar o produto mais acessível e facilitar a entrada de um número maior de investidores.\nAlém disso, a redução do tamanho do contrato tende a aumentar a liquidez do produto e reduzir os custos nas negociações.\nOs Futuro de Ethereum e o Futuro de Solana já iniciam as negociações com um tamanho de contrato próximo ao tamanho reduzido do Futuro de Bitcoin.\nContinua depois da publicidade\nLeia também\nBitcoin ultrapassa marca de US$ 100 mil com atenção a acordo entre Reino Unido e EUA\nMovimento faz parte de uma recuperação iniciada na quarta, após os EUA anunciarem a continuidade das negociações comerciais com o governo chinês\nFuturos de Ethereum e Solana em dólar, de Bitcoin em reais\nDiferentemente do Futuro de Bitcoin que é negociado em reais, os contratos Futuros de Ethereum e Solana terão a cotação em dólares americanos.\nOs novos contratos futuros serão referenciados pelos índices Nasdaq Ether Reference Price e Nasdaq Solana Reference Price, respectivamente.\nO contrato de Ethereum terá um tamanho de 0,25 Ether, enquanto o tamanho do contrato de Solana é de 5 SOL.\nContinua depois da publicidade\nOs resultados financeiros das negociações ocorrem sobre a variação dos preços das criptomoedas. Os vencimentos dos novos derivativos ocorrem na última sexta-feira de cada mês.\nCrescimento\nDe acordo com Marcos Skistymas, Diretor de Produtos da B3, os novos instrumentos de derivativos de criptomoedas visam atender à crescente demanda de produtos ligados à criptoativos.\nIsso, segundo ele, traz “mais inovação e sofisticação” aos produtos, “além de oferecer mais alternativas aos investidores familiarizados com a tecnologia blockchain contra a variação de preços dos ativos digitais, de forma regulada e segura”."
+}

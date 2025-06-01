@@ -1,0 +1,40 @@
+{
+  "news_title": "Wall Street sobe com alta da Nvidia e tribunal restabelece tarifas de Trump",
+  "news_url": "https://www.infomoney.com.br/mercados/wall-st-avanca-apos-tribunal-bloquear-maioria-das-tarifas-de-trump/",
+  "news_hash": -5059550797902216684,
+  "news_snippet": "Wall Street sobe com alta da Nvidia e tribunal restabelece tarifas de Trump\n\nPublicidade\nAs ações dos Estados Unidos fecharam em alta nesta quinta-feira conforme papéis da Nvidia subiram após seus resultados trimestrais, enquanto investidores digerir...",
+  "timestamp": "2025-06-01T09:08:54.485907",
+  "identified_entities": {
+    "companies": [],
+    "sectors": [
+      "Tecnologia da Informação"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 2.5,
+      "sector_score": 4.0,
+      "justification": {
+        "personal": "For the investor with a Conservative profile, the news brings a slightly poor scenario as the market uncertainty due to the reinstatement of tariffs and the potential impact on Nvidia's sales could lead to increased volatility and risk. It might be advisable to monitor the situation closely and consider potential adjustments to the portfolio.",
+        "sector": "The news has a positive impact on the Information Technology sector, particularly on semiconductor companies like Nvidia. The strong quarterly sales growth reported by Nvidia and the market's positive reaction indicate a favorable outlook for the sector. Additionally, the overall market sentiment towards technology stocks seems optimistic, with the Philadelphia SE Semiconductor index showing gains."
+      }
+    },
+    "Moderado": {
+      "personal_score": 3.5,
+      "sector_score": 4.0,
+      "justification": {
+        "personal": "For the Moderate investor profile, the news brings a slightly positive impact as the stock market rose, particularly driven by the strong performance of Nvidia. However, the warning from Nvidia about the impact of new export restrictions on sales adds a note of caution, balancing out the overall effect on the investor's portfolio.",
+        "sector": "The news has a positive impact on the Information Technology sector, especially highlighted by the strong quarterly sales growth reported by Nvidia. The overall market optimism and the performance of related companies like Philadelphia SE Semiconductor also contribute to the sectoral score of 4.00."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 4.5,
+      "sector_score": 4.0,
+      "justification": {
+        "personal": "For an Aggressive investor profile, the news brings a slightly good scenario as it indicates positive market movements driven by Nvidia's strong quarterly sales growth. Despite the warning about future sales cuts due to export restrictions, the overall market sentiment is positive, presenting opportunities for aggressive investors to capitalize on the market uptrend.",
+        "sector": "The news has a positive impact on the Information Technology sector, particularly highlighted by the performance of Nvidia and the Philadelphia SE Semiconductor index. The market's positive reaction to Nvidia's results and the overall tech sector's performance indicate a favorable scenario for the sector, with increased investor interest and potential growth opportunities."
+      }
+    }
+  },
+  "full_news_content": "Wall Street sobe com alta da Nvidia e tribunal restabelece tarifas de Trump\n\nPublicidade\nAs ações dos Estados Unidos fecharam em alta nesta quinta-feira conforme papéis da Nvidia subiram após seus resultados trimestrais, enquanto investidores digeriram uma decisão judicial que restabeleceu as tarifas mais abrangentes do presidente norte-americano, Donald Trump.\nA decisão do tribunal de apelações veio um dia após um tribunal de comércio ter ordenado um bloqueio imediato das tarifas.\nDe acordo com dados preliminares, o S&P 500 ganhou 0,40%, para 5.912,08 pontos. O índice de tecnologia Nasdaq avançou 0,39%, para 19.175,87 pontos. O Dow Jones subiu 0,28%, para 42.217,67 pontos.\nQUERO LUCRAR NA BOLSA\nA Nvidia saltava 5% depois de relatar crescimento de vendas trimestrais acima do esperado, impulsionado por clientes que estocaram chips de IA antes das restrições de exportação dos EUA para a China.\nA empresa, no entanto, alertou que as novas restrições devem cortar US$8 bilhões de suas vendas no trimestre atual.\nO índice Philadelphia SE Semiconductor tinha ganhos na esteira dos resultados da Nvidia, com alta de 1,4%.\nContinua depois da publicidade\nOito dos 11 principais subsetores do S&P 500 subiam, com tecnologia da informação e consumo discricionário destacando-se.\nO apetite global por risco ganhou força depois que um tribunal dos EUA invalidou, com efeito imediato, a maior parte das taxas impostas por Trump desde janeiro, mas não abordou algumas tarifas específicas de setores como automóveis, aço e alumínio.\n“Mesmo que a decisão seja confirmada, o governo terá rotas alternativas para implementar as tarifas. Mas elas serão mais lentas e mais direcionadas, em oposição à atual abordagem abrangente”, disse Lizzy Galbraith, economista política sênior da Aberdeen.\nContinua depois da publicidade\nKevin Hassett, assessor econômico da Casa Branca, disse que três acordos comerciais estavam quase concluídos e que espera mais.\nO Dow Jones Industrial Average subia 0,12%, para 42.149,86 pontos, enquanto o S&P 500 ganhava 0,55%, a 5.921,01 pontos, e o Nasdaq Composite tinha alta de 0,91%, para 19.273,71 pontos."
+}

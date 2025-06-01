@@ -1,0 +1,40 @@
+{
+  "news_title": "Em nova ofensiva, Motta pede suspensão imediata de IOF sobre operação de risco sacado",
+  "news_url": "https://www.infomoney.com.br/politica/em-nova-ofensiva-motta-pede-suspensao-imediata-de-iof-sobre-operacao-de-risco-sacado/",
+  "news_hash": -5796860955744677360,
+  "news_snippet": "Em nova ofensiva, Motta pede suspensão imediata de IOF sobre operação de risco sacado\n\nPublicidade\nEm mais uma ofensiva contra o governo, o presidente da Câmara dos Deputados, Hugo Motta, pediu à equipe econômica a suspensão imediata da incidência do...",
+  "timestamp": "2025-06-01T09:10:36.206723",
+  "identified_entities": {
+    "companies": [],
+    "sectors": [
+      "Financeiro"
+    ]
+  },
+  "analysis_by_profile": {
+    "Conservador": {
+      "personal_score": 1.5,
+      "sector_score": 2.5,
+      "justification": {
+        "personal": "For the Conservative investor profile, this news brings uncertainty and potential negative implications due to the ongoing conflict between the president of the Chamber of Deputies and the government regarding tax policies. The request for the immediate suspension of the IOF on risky operations could lead to market instability and impact investment returns negatively.",
+        "sector": "The news regarding the immediate suspension of the IOF on risky operations could have a slightly challenging impact on the Financial sector. The proposed changes in tax regulations and the potential reversal of the IOF increase could create uncertainty and affect the profitability of financial institutions operating in this sector. The sector might face challenges in adjusting to the evolving regulatory environment."
+      }
+    },
+    "Moderado": {
+      "personal_score": 2.5,
+      "sector_score": 2.75,
+      "justification": {
+        "personal": "For a Moderate investor, the news of the request to suspend the immediate imposition of IOF on risk operations in the financial sector introduces uncertainty and potential challenges. The proposed changes in taxation could impact the profitability of financial operations, leading to increased costs that may affect investment returns. The investor may need to monitor the situation closely to assess the implications on their portfolio.",
+        "sector": "The news regarding the immediate suspension request of IOF on risk operations in the financial sector could have a slightly negative impact. The proposed tax changes may disrupt the financial sector's operations by increasing costs and potentially affecting profitability. If the suspension is not granted, financial entities may face challenges in adjusting to the new tax regime, impacting their performance and overall sector stability."
+      }
+    },
+    "Agressivo": {
+      "personal_score": 2.5,
+      "sector_score": 2.0,
+      "justification": {
+        "personal": "For an Aggressive investor, the news of the request for the immediate suspension of IOF on risk operations in the financial sector could introduce uncertainty and potential challenges. The increased taxation on risk operations may lead to higher costs for companies, potentially affecting their profitability and competitiveness. This situation could create a slightly poor scenario for the investor, as it adds a layer of unpredictability and cost pressures to the investment environment.",
+        "sector": "The news regarding the immediate suspension of IOF on risk operations in the financial sector could impact companies operating in this space. The potential increase in costs due to higher taxation may affect the financial performance of these entities, leading to adjustments in pricing strategies that could impact consumer prices. The sectoral impact is slightly negative as it introduces regulatory uncertainty and cost implications for financial companies."
+      }
+    }
+  },
+  "full_news_content": "Em nova ofensiva, Motta pede suspensão imediata de IOF sobre operação de risco sacado\n\nPublicidade\nEm mais uma ofensiva contra o governo, o presidente da Câmara dos Deputados, Hugo Motta, pediu à equipe econômica a suspensão imediata da incidência do Imposto sobre Operações Financeiras (IOF) sobre as operações de risco sacado. Motta quer que o governo recue antes mesmo do final do prazo de 10 dias dado à equipe econômica para apresentar alternativas ao aumento do tributo, que deve render cerca de R$ 20 bilhões aos cofres públicos este ano. \nO decreto que alterou as regras do IOF estabeleceu que o risco sacado é uma operação de crédito, algo que não estava expressamente previsto na legislação anterior. Com a mudança, essa operação passa a ser tributada da mesma forma que os outros empréstimos solicitados por empresas, cuja alíquota máxima passou de 1,88% para 3,95% ao ano. \nO risco sacado é uma transação na qual uma empresa varejista ou da indústria antecipa o pagamento ao seu fornecedor por meio de um convênio firmado com os bancos. No dia que a fatura vence, em vez de pagar o fornecedor, que já recebeu antecipadamente, a empresa paga a instituição financeira. \nQUERO FAZER UMA SIMULAÇÃO\nLeia mais: Reação ao IOF: empresários defendem reformas e corte de gastos públicos\nHá dúvidas entre especialistas, porém, se a operação pode ser classificada como crédito ou se seria uma operação comercial. O aumento do custo devido à incidência do tributo, argumentam economistas e empresas, deve ser repassada aos preços ao consumidor. \nA mudança no risco sacado passa a valer, segundo o decreto, neste domingo. Por isso, a pressa no pedido de Motta. Caso o governo suspenda a tributação sobre essa operação, seria o segundo recuo na medida que alterou as regras do IOF. Seis horas depois da publicação original, o governo teve de voltar atrás na tributação de remessas de fundos ao exterior depois de forte repercussão negativa no mercado financeiro e especulações de controle de capital. \nContinua depois da publicidade\nO IOF é um imposto regulatório e, por isso, é prerrogativa do Executivo definir suas alíquotas, sem necessidade de passar pelo Congresso. Dada a forte repercussão negativa das mudanças, no entanto, os parlamentares já apresentaram 20 projetos de decreto Legislativo (PDL) para sustar os efeitos da medida. \nLeia também: XP: Crise do IOF expõe desafio do governo para arrecadar sem atrito com Congresso\nNesta semana, Motta deu um ultimato no governo e deu um prazo de 10 dias para que a equipe econômica apresente alternativas mais estruturantes para continuar o ajuste fiscal. Caso contrário, indicou que vai pautar os PDLs e que há “ambiente” na Câmara para que sejam aprovados. \nContinua depois da publicidade\nO Ministério da Fazenda, porém, não vê outra opção para fechar o buraco no orçamento deste ano por enquanto. A equipe econômica argumenta que as alterações visam a corrigir distorções que causam concorrência desleal, mas admitem que o decreto também foi pensado para ajudar a fechar as contas de 2025. \nA receita prevista com o decreto, de cerca de R$ 20 bilhões, se soma ao congelamento de R$ 31,3 bilhões de gastos promovido pelo governo para cumprir as regras fiscais. A meta de resultado primário em 2025 é zero, com limite de tolerância de déficit de R$ 31 bilhões. A projeção oficial do governo já está no piso da meta."
+}

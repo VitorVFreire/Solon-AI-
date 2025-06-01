@@ -67,22 +67,22 @@ def main():
             logger.warning("Variáveis de ambiente Neo4j não configuradas completamente. Prosseguindo sem conexão Neo4j.")
 
         # Inicializa Leitor de Notícias
-        news_url = os.getenv('URL_NEWS')
+        list_news_url = ['https://www.infomoney.com.br/mercados/', 'https://www.infomoney.com.br/economia/', 'https://www.infomoney.com.br/tudo-sobre/trader/']#os.getenv('URL_NEWS')
         base_url_news = os.getenv('BASE_URL_NEWS') 
         text_to_replace = os.getenv('TEXT_REPLACE')
 
-        if not all([news_url, base_url_news]):
+        if not all([list_news_url, base_url_news]):
             logger.error("URL_NEWS ou BASE_URL_NEWS não definidas nas variáveis de ambiente. Não é possível buscar notícias.")
             return
 
         logger.info("Inicializando leitor de notícias...")
         reader = ReadNews(
-            url=news_url,
+            urls=list_news_url,
             base_url=base_url_news,
             text_replace=text_to_replace if text_to_replace else "",
             headless=os.getenv("SELENIUM_HEADLESS", "true").lower() == "true"
         )
-        reader.fetch_articles(limit=int(os.getenv("NEWS_FETCH_LIMIT", "5"))) 
+        reader.fetch_articles() 
 
         if not reader.articles_list:
             logger.warning("Nenhuma notícia foi carregada. Encerrando.")
