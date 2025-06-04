@@ -8,12 +8,13 @@ from src.neo4j_connection import Neo4jConnection
 from src.ai_client import AIClient, setup_client
 from src.new_scrapper import ReadNews
 from src.news_processor import NewsProcessor
-from utils import clean_filename # Garanta que utils.py está na raiz ou ajuste o import
+from utils import clean_filename 
+from pathlib import Path
 
-# Carrega variáveis de ambiente do arquivo .env
-load_dotenv(override=True)
+ROOT_DIR = Path(__file__).parent
 
-# Configuração básica de logging
+load_dotenv(override=True, dotenv_path=os.path.join(Path(__file__).parent.parent,'.env'))
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -24,14 +25,13 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Define caminhos para seus arquivos de prompt
 PROMPT_PATHS = {
-    "system_entity_identification": 'prompts/system_entity_identification.md',
-    "human_entity_identification": 'prompts/human_entity_identification.md',
-    "system_impact_analysis": 'prompts/system_impact_analysis.md',
-    "human_impact_analysis": 'prompts/human_impact_analysis.md'
+    "system_entity_identification": os.path.join(ROOT_DIR, 'prompts/system_entity_identification.md'),
+    "human_entity_identification": os.path.join(ROOT_DIR, 'prompts/human_entity_identification.md'),
+    "system_impact_analysis": os.path.join(ROOT_DIR, 'prompts/system_impact_analysis.md'),
+    "human_impact_analysis": os.path.join(ROOT_DIR, 'prompts/human_impact_analysis.md')
 }
-OUTPUT_DIR = "output/analysis_results" # Diretório de saída para análises
+OUTPUT_DIR = os.path.join(ROOT_DIR, "output/analysis_results")
 
 def check_prompt_files():
     for key, path in PROMPT_PATHS.items():
@@ -52,11 +52,10 @@ def main():
 
     neo4j_conn = None
     try:
-        # Inicializa Conexão Neo4j
         neo4j_uri = os.getenv("NEO4J_URI") 
         neo4j_user = os.getenv("NEO4J_USER")
         neo4j_password = os.getenv("NEO4J_PASSWORD")
-
+        
         if neo4j_uri and neo4j_user and neo4j_password:
             try:
                 neo4j_conn = Neo4jConnection(neo4j_uri, neo4j_user, neo4j_password)
@@ -66,7 +65,6 @@ def main():
         else:
             logger.warning("Variáveis de ambiente Neo4j não configuradas completamente. Prosseguindo sem conexão Neo4j.")
 
-        # Inicializa Leitor de Notícias
         list_news_url = ['https://www.infomoney.com.br/mercados/', 'https://www.infomoney.com.br/economia/', 'https://www.infomoney.com.br/tudo-sobre/trader/']#os.getenv('URL_NEWS')
         base_url_news = os.getenv('BASE_URL_NEWS') 
         text_to_replace = os.getenv('TEXT_REPLACE')
@@ -89,14 +87,12 @@ def main():
             return
         logger.info(f"{len(reader.articles_list)} notícias carregadas para processamento.")
 
-        # Inicializa Cliente AI
         ai_service = os.getenv("AI_SERVICE", "openAI") 
         logger.info(f"Configurando cliente AI para o serviço: {ai_service}")
         ai_config = setup_client(api_service=ai_service) # type: ignore
         llm_client = AIClient(ai_config)
         logger.info(f"Cliente LLM inicializado usando modelo: {ai_config.get('model')}")
 
-        # Inicializa Processador de Notícias
         processor = NewsProcessor(
             llm_client=llm_client,
             neo4j_conn=neo4j_conn,
@@ -110,8 +106,8 @@ def main():
         logger.info("Processamento de notícias concluído.")
         successful_analyses = 0
         if batch_results:
-            for i, result_item in enumerate(batch_results): # Renomeado para evitar conflito com 'result'
-                if result_item: # Verifica se o resultado não é None (caso de duplicata pulada)
+            for i, result_item in enumerate(batch_results):
+                if result_item:
                     logger.info(f"--- Resultado da análise para notícia {i+1} (Título: {result_item.get('news_title', 'N/A')[:50]}...) ---")
                     
                     for profile, analysis in result_item.get("analysis_by_profile", {}).items():
@@ -122,7 +118,6 @@ def main():
                         else:
                             logger.warning(f"  Perfil {profile}: Erro na análise - {analysis.get('error', 'Detalhe do erro não disponível')}")
                     successful_analyses += 1
-                    # Opcional: print(json.dumps(result_item, indent=2, ensure_ascii=False))
                 else:
                     logger.info(f"Notícia {i+1} foi pulada (provavelmente duplicata ou erro no processamento inicial).")
             logger.info(f"{successful_analyses}/{len(reader.articles_list)} notícias efetivamente processadas e resultaram em uma análise.")

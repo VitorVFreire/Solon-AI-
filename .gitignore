@@ -15,3 +15,5 @@ model/atividades_analisadas/principais atividades para trabalhar.xlsx
 resultados_*/
 __pycache__
 neo4j/
+app_activity.log
+analysis_results/
