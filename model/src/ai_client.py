@@ -3,19 +3,17 @@ import requests
 from typing import Dict, Any, Literal
 from dotenv import load_dotenv
 
-# Carrega variáveis de ambiente
 load_dotenv()
 
-# Configuração da API
 def setup_client(api_service: Literal['openAI', 'grok'] = 'openAI') -> Dict[str, str]:
     if api_service == 'openAI':
         api_key = os.getenv("OPENAI_API_KEY")
         base_url = 'https://api.openai.com/v1'
-        model = os.getenv("OPENAI_MODEL", 'gpt-3.5-turbo') # Permite override do modelo
+        model = os.getenv("OPENAI_MODEL", 'gpt-3.5-turbo') 
     elif api_service == 'grok':
         api_key = os.getenv("XAI_API_KEY")
         base_url = 'https://api.x.ai/v1'
-        model = os.getenv("GROK_MODEL", 'grok-3') # Permite override do modelo
+        model = os.getenv("GROK_MODEL", 'grok-3')
     else:
         raise ValueError(f"Serviço de API desconhecido: {api_service}. Defina 'openAI' ou 'grok'.")
 
@@ -25,7 +23,7 @@ def setup_client(api_service: Literal['openAI', 'grok'] = 'openAI') -> Dict[str,
         "api_key": api_key,
         "base_url": base_url,
         "model": model,
-        "api_service": api_service # Armazena para referência
+        "api_service": api_service
     }
 
 class AIClient:
@@ -38,9 +36,7 @@ class AIClient:
             "Authorization": f"Bearer {self.api_key}",
             "Content-Type": "application/json"
         }
-        # Cabeçalho específico para Grok, se necessário (exemplo, pode variar)
         if self.api_service == 'grok' and "X-API-Key" not in self.headers :
-            # self.headers["X-API-Key"] = self.api_key # Exemplo, verifique a documentação do Grok.
             pass
 
 
@@ -91,7 +87,7 @@ class AIClient:
                 error_message += f" - Detalhes: {error_details}"
             except requests.exceptions.JSONDecodeError:
                 error_message += f" - Resposta não JSON: {e.response.text if e.response else 'N/A'}"
-            print(error_message) # Mantém para logs do servidor
+            print(error_message)
             raise Exception(error_message) from e
         except Exception as e:
             print(f"Erro inesperado ao chamar API ({self.api_service}): {e}")

@@ -2,8 +2,10 @@ import os
 from pathlib import Path
 from utils import *
 from src import *
+from dotenv import load_dotenv
+import os
 
-# Define o caminho da pasta
+load_dotenv()
 ROOT_DIR = Path(__file__).parent.parent
 DATABASE_DIR = os.path.join(ROOT_DIR, 'web_search', 'output')
 DATABASE_PATH = Path(DATABASE_DIR)
@@ -38,7 +40,7 @@ def main():
     try:
         folders = listar_arquivos_por_pasta(DATABASE_PATH)
         
-        conn = Neo4jConnection(os.getenv('URL_NEO4J'), os.getenv('USER_NEO4J'), os.getenv('PASSWORD_NEO4J'))
+        conn = Neo4jConnection(os.getenv('NEO4J_URI'), os.getenv('NEO4J_USER'), os.getenv('NEO4J_PASSWORD'))
         try:
             companies = Companies(
                 conn=conn,
@@ -54,5 +56,5 @@ def main():
         print(f"Erro ao processar os arquivos: {e}")
 
 if __name__ == "__main__":
-    select()
-    #main()
+    #select()
+    main()

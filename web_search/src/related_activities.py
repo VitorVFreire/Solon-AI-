@@ -8,7 +8,6 @@ from langgraph.graph import StateGraph, END
 from tqdm import tqdm
 from utils import clean_filename
 
-# Classe para gerenciar o RAG com as atividades
 class ActivitiesRAG:
     def __init__(self, activities_data: List[Dict[str, Any]], max_context: int = 15):
         self.activities_data = activities_data
@@ -59,7 +58,6 @@ class ActivitiesRAG:
     def query_similar_activities(self, query: str) -> List[Document]:
         return self.vectorstore.similarity_search(query, k=self.max_context)
 
-# Classe para processar as atividades
 class ActivitiesProcessor:
     def __init__(self, rag_system: ActivitiesRAG, llm_client: Any, system_prompt_file: str, 
                  human_prompt_file: str, list_activities: List[str], output_dir: str = "resultados"):
@@ -68,7 +66,6 @@ class ActivitiesProcessor:
         self.output_dir = output_dir
         self.list_activities = list_activities
         
-        # Valida arquivos de prompt
         if not os.path.exists(system_prompt_file):
             raise FileNotFoundError(f"Arquivo de system prompt não encontrado: {system_prompt_file}")
         if not os.path.exists(human_prompt_file):

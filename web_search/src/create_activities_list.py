@@ -5,7 +5,7 @@ from typing import List, Dict, Any
 from tqdm import tqdm
 import re
 from utils import clean_filename
-import difflib  # Para verificar similaridade de strings
+import difflib
 
 class ActivitiesGenerate:
     def __init__(self, llm_client: Any, system_prompt_file: str, 
@@ -14,7 +14,6 @@ class ActivitiesGenerate:
         self.output_dir = output_dir
         self.name_file = name_file
         
-        # Valida arquivos de prompt
         if not os.path.exists(system_prompt_file):
             raise FileNotFoundError(f"Arquivo de system prompt não encontrado: {system_prompt_file}")
         if not os.path.exists(human_prompt_file):
@@ -24,12 +23,10 @@ class ActivitiesGenerate:
         self.human_prompt = open(human_prompt_file, encoding='utf-8').read()
         os.makedirs(self.output_dir, exist_ok=True)
 
-        # Carrega atividades previamente geradas (se existirem)
         self.activities_history_file = os.path.join(self.output_dir, f"{self.name_file}.json")
         self.load_activities_history()
 
     def load_activities_history(self):
-        """Carrega atividades geradas anteriormente de um arquivo JSON."""
         if os.path.exists(self.activities_history_file):
             with open(self.activities_history_file, 'r', encoding='utf-8') as f:
                 self.generated_activities = set(json.load(f))
@@ -37,12 +34,10 @@ class ActivitiesGenerate:
             self.generated_activities = set()
 
     def save_activities_history(self):
-        """Salva o conjunto de atividades geradas em um arquivo JSON."""
         with open(self.activities_history_file, 'w', encoding='utf-8') as f:
             json.dump(list(self.generated_activities), f, ensure_ascii=False, indent=2)
 
     def _clean_markdown(self, text: str) -> str:
-        """Remove Markdown code block delimiters and extract JSON content."""
         pattern = r'```json\s*([\s\S]*?)\s*```'
         match = re.search(pattern, text)
         if match:
@@ -50,7 +45,6 @@ class ActivitiesGenerate:
         return text.strip()
 
     def _is_similar_activity(self, activity_name: str, existing_activities: set, threshold: float = 0.9) -> bool:
-        """Verifica se a atividade é muito semelhante a uma atividade existente."""
         activity_name = activity_name.lower()
         for existing in existing_activities:
             similarity = difflib.SequenceMatcher(None, activity_name, existing).ratio()
@@ -64,11 +58,9 @@ class ActivitiesGenerate:
         results = []
         required_keys = {"atividade_economica", "descricao_atividade", "tipo_atividade", "nivel_de_importancia"}
         
-        # Calcula o número de lotes
         num_batches = (amount_activities + batch_size - 1) // batch_size
         total_valid_activities = 0
         
-        # Adicionar ao prompt do sistema instruções para evitar duplicatas
         enhanced_system_prompt = self.system_prompt + "\n\n## ATENÇÃO ESPECIAL\nTodas as atividades econômicas devem ser completamente únicas. Evite criar atividades com nomes semelhantes ou conceitos muito próximos. Verifique cuidadosamente cada item antes de incluí-lo na lista."
 
         while total_valid_activities < amount_activities:
@@ -78,7 +70,6 @@ class ActivitiesGenerate:
                 
             tqdm.write(f"Gerando lote com {current_batch_size} atividades ({total_valid_activities}/{amount_activities} completadas)")
             
-            # Inclui as atividades já geradas no contexto para que a IA as evite
             activities_context = ", ".join(self.generated_activities) if self.generated_activities else "Nenhuma atividade gerada ainda"
             input_data = {
                 "system": enhanced_system_prompt,
@@ -114,15 +105,13 @@ class ActivitiesGenerate:
                             valid_items.append(json_result)
                             self.generated_activities.add(activity_name)
                 
-                # Adiciona apenas itens válidos aos resultados
                 results.extend(valid_items)
                 total_valid_activities += len(valid_items)
                 
                 tqdm.write(f"Status: {total_valid_activities}/{amount_activities} atividades válidas geradas")
                 
-                # Se não conseguimos atividades válidas neste lote, aumentar o tamanho do próximo lote
                 if len(valid_items) == 0:
-                    batch_size = min(batch_size * 2, 50)  # Aumentar o tamanho do lote, mas não além de 50
+                    batch_size = min(batch_size * 2, 50)
                     tqdm.write(f"Aumentando tamanho do lote para {batch_size} para obter mais atividades únicas")
                 
             except json.JSONDecodeError:
@@ -130,10 +119,8 @@ class ActivitiesGenerate:
             except Exception as e:
                 tqdm.write(f"Erro: Falha ao processar lote: {str(e)}")
 
-        # Salva o histórico de atividades geradas
         self.save_activities_history()
         
-        # Limita o número de resultados ao solicitado
         state["result"] = results[:amount_activities]
         state["generated_activities"] = self.generated_activities
         return state
@@ -143,7 +130,6 @@ class ActivitiesGenerate:
         amount_activities = state["amount_activities"]
         required_keys = {"atividade_economica", "descricao_atividade", "tipo_atividade", "nivel_de_importancia"}
         
-        # Garante que temos apenas atividades únicas (sem duplicatas)
         seen_activities = set()
         unique_activities = []
         
@@ -159,7 +145,6 @@ class ActivitiesGenerate:
         if len(unique_activities) < amount_activities:
             print(f"Aviso: Geradas {len(unique_activities)} atividades válidas de {amount_activities} solicitadas")
         
-        # Cria o JSON final apenas com as atividades únicas, sem incluir erros
         output_json = {
             "atividades_economicas": unique_activities
         }

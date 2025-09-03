@@ -8,7 +8,6 @@ from langgraph.graph import StateGraph, END
 from tqdm import tqdm
 from utils import clean_filename
 
-# Classe para gerenciar o RAG com as empresass
 class EmpresasRAG:
     def __init__(self, empresas_data: List[Dict[str, Any]], max_context=15):
         self.empresas_data = empresas_data
@@ -66,7 +65,6 @@ class EmpresasRAG:
     def query_similar_activities(self, query: str) -> List[Document]:
         return self.vectorstore.similarity_search(query, k=self.max_context)
 
-# Classe para processar as empresass
 class EmpresassProcessor:
     def __init__(self, rag_system: EmpresasRAG, llm_client, system_prompt_file: str, human_prompt_file: str, list_activities: list,output_dir: str = "resultados"):
         self.rag_system = rag_system
@@ -107,7 +105,6 @@ class EmpresassProcessor:
                 "raw_response": state["result"]
             }
         
-        # Salvar o JSON em um arquivo
         clean_name = clean_filename(state['company_name'])
         output_path = os.path.join(self.output_dir, f"{clean_name}.json")
         with open(output_path, 'w', encoding='utf-8') as f:
@@ -138,7 +135,6 @@ class EmpresassProcessor:
         self.graph = workflow.compile()
     
     def process_company(self, company_data):
-        # Prepara o estado inicial com os dados da empresa
         state = {
             "company_name": company_data.get("name", ""),
             "company_full_name": company_data.get("full_name", ""),
@@ -146,5 +142,4 @@ class EmpresassProcessor:
             "symbol": company_data.get("symbol", "")
         }
         
-        # Invoca o grafo com o estado preparado
         return self.graph.invoke(state)

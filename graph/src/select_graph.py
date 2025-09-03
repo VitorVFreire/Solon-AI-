@@ -2,7 +2,6 @@ from neo4j import GraphDatabase
 import logging
 from tabulate import tabulate
 
-# Configure logging with a cleaner format
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -42,7 +41,7 @@ class Neo4jConnection:
             query = f"CREATE (n:{label} $props) RETURN elementId(n) AS id, n AS node"
             result = session.run(query, props=properties)
             record = result.single()
-            return (record["id"], record["node"]) if record else (None, None)
+            return record["id"] if record else None
 
     def create_relationship(self, node1_element_id, node2_element_id, rel_type, properties=None):
         with self.driver.session() as session:
@@ -283,18 +282,15 @@ class Neo4jConnection:
         }
         return self._execute_query(query2, parameters)
 
-# Example usage with improved output formatting
 if __name__ == '__main__':
-    # Replace with your Neo4j credentials and URI
-    NEO4J_URI = "bolt://localhost:7687"  # Or your Neo4j Aura URI
+    NEO4J_URI = "bolt://localhost:7687"
     NEO4J_USER = "neo4j"
-    NEO4J_PASSWORD = "your_password"  # Change to your actual password
+    NEO4J_PASSWORD = "your_password"
 
     conn = None
     try:
         conn = Neo4jConnection(NEO4J_URI, NEO4J_USER, NEO4J_PASSWORD)
 
-        # Company Analysis
         logger.info("\n=== Company Analysis: Amazon.com Inc BDR ===")
         company_analysis_results = conn.get_company_focused_analysis(nome_empresa_principal="Amazon.com Inc BDR")
         
@@ -333,7 +329,6 @@ if __name__ == '__main__':
                 "Verify that the company exists in the database with associated analyses."
             )
 
-        # Sector Analysis
         logger.info("\n=== Sector Analysis: Comércio Varejista ===")
         sector_analysis_results = conn.get_sector_focused_analysis(nome_atividade_principal="Comércio Varejista", peso_atividade_direta=0.6)
         

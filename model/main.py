@@ -2,7 +2,7 @@ import os
 import logging
 import json
 from dotenv import load_dotenv
-from typing import Set # Adicionado para tipagem
+from typing import Set
 
 from src.neo4j_connection import Neo4jConnection
 from src.ai_client import AIClient, setup_client
@@ -65,7 +65,15 @@ def main():
         else:
             logger.warning("Variáveis de ambiente Neo4j não configuradas completamente. Prosseguindo sem conexão Neo4j.")
 
-        list_news_url = ['https://www.infomoney.com.br/mercados/', 'https://www.infomoney.com.br/economia/', 'https://www.infomoney.com.br/tudo-sobre/trader/']#os.getenv('URL_NEWS')
+        list_news_url = [
+            'https://www.infomoney.com.br/mercados/', 
+            'https://www.infomoney.com.br/politica/', 
+            'https://www.infomoney.com.br/economia/', 
+            'https://www.infomoney.com.br/economia/', 
+            'https://www.infomoney.com.br/tudo-sobre/trader/', 
+            'https://www.infomoney.com.br/mundo/'
+        ]
+        
         base_url_news = os.getenv('BASE_URL_NEWS') 
         text_to_replace = os.getenv('TEXT_REPLACE')
 

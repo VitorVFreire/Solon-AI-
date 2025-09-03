@@ -2,6 +2,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 from selenium.webdriver.firefox.service import Service as FirefoxService
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 # from webdriver_manager.firefox import GeckoDriverManager # Optional: for auto-driver management
 import time
 from tqdm import tqdm
@@ -39,29 +41,7 @@ class ReadNews:
 
     @property
     def articles_list(self) -> List[Dict[str, str]]:
-        return self._articles_data
-        
-    def _load_links(self):
-        for url in self.urls:
-            logger.info(f"Carregando links de notícias de: {url}")
-            try:
-                self.navegador.get(url)
-                time.sleep(3)
-                added_links = 0
-                link_elements = self.navegador.find_elements(By.XPATH, '//div[contains(@class, "px-0 md:px-6")]//a[@href]')
-                for el in link_elements:
-                    href = el.get_attribute("href")
-                    if href and self.base_url in href:
-                        self.links.append(href)
-                        added_links +=1
-                logger.info(f"{added_links} links de artigos potencialmente relevantes adicionados de {url}. Total: {len(self.links)}.")
-                if not self.links:
-                    logger.warning(f"Nenhum link correspondente à base_url '{self.base_url}' encontrado em '{url}'. Verifique os seletores ou a página.")
-
-            except Exception as e:
-                logger.error(f"Erro ao carregar links de {url}: {e}")
-        dict_aux = dict.fromkeys(self.links)
-        self.links = list(dict_aux)
+        return list(dict.fromkeys(self._articles_data))
 
     def fetch_articles(self, limit: Optional[int] = None):
         logger.info(f"Iniciando busca de artigos. Links para processar: {len(self.links)}")
@@ -75,15 +55,14 @@ class ReadNews:
         for link in tqdm(links_to_process, desc='Lendo Notícias', unit='artigo'):
             try:
                 self.navegador.get(link)
-                time.sleep(3) # Wait for page to load
+                time.sleep(3)
                 
-                # Try to find title (common patterns)
                 title = "N/A"
                 title_selectors = [
                     '//h1', 
                     '//div[contains(@class, "title")]//h1', 
                     '//header//h1',
-                    '//div[@data-ds-component="article-title"]' # Original
+                    '//div[@data-ds-component="article-title"]'
                 ]
                 for ts_xpath in title_selectors:
                     try:
@@ -91,10 +70,9 @@ class ReadNews:
                         if title_element and title_element.text.strip():
                             title = title_element.text.strip()
                             break
-                    except: # pylint: disable=bare-except
+                    except:
                         continue
                 
-                # Try to find article body (common patterns)
                 article_text = ""
                 article_selectors = [
                     '//article',
@@ -106,12 +84,12 @@ class ReadNews:
                         article_elements = self.navegador.find_elements(By.XPATH, as_xpath)
                         if article_elements:
                             full_text = " ".join([el.text for el in article_elements if el.text])
-                            for rep_text in self.text_replace: # Handle multiple replacements
+                            for rep_text in self.text_replace:
                                 full_text = full_text.replace(rep_text, '')
                             article_text = full_text.strip()
-                            if article_text: # Found good article text
+                            if article_text:
                                 break 
-                    except: # pylint: disable=bare-except
+                    except:
                         continue
 
                 if article_text and title != "N/A":
@@ -130,3 +108,33 @@ class ReadNews:
         logger.info(f"Busca de artigos concluída. {len(self._articles_data)} artigos coletados.")
         self.navegador.quit()
         logger.info("Navegador Firefox fechado.")
+        
+    def get_links(self, last_links: int):
+        time.sleep(2)
+        btn_load = None
+        all_buttons = self.navegador.find_elements(By.TAG_NAME, 'button')
+        links = self.navegador.find_elements(By.TAG_NAME, 'a')
+        if len(links) == last_links:
+            return links
+        
+        for btn in all_buttons:
+            if btn.text.strip() == 'Carregar mais':
+                btn_load = btn
+                break
+        if btn_load:
+            try:
+                self.navegador.execute_script("arguments[0].scrollIntoView(true);", btn_load)
+                time.sleep(2)
+                self.navegador.execute_script("arguments[0].click();", btn_load)
+                links = self.get_links(len(links))
+            except Exception as e:
+                logger.error(f"Erro ao clicar em 'Carregar mais': {e}")
+                return links
+        return links
+        
+    def _load_links(self):
+        for url in self.urls:
+            logger.info(f"Carregando links de notícias de: {url}")
+            self.navegador.get(url)
+            raw_links = self.get_links(0)
+            self.links.extend([link.get_attribute('href') for link in raw_links if link.get_attribute('href') and url in link.get_attribute('href')])                

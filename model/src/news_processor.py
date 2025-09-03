@@ -3,9 +3,9 @@ import json
 import datetime
 import logging
 from typing import List, Dict, Any, Optional, Set 
-from src.ai_client import AIClient # Garanta que este é o AIClient refatorado
+from src.ai_client import AIClient
 from src.neo4j_connection import Neo4jConnection
-from utils import clean_filename # Importa de utils.py
+from utils import clean_filename 
 
 logger = logging.getLogger(__name__)
 
@@ -112,11 +112,10 @@ class NewsProcessor:
         entity_context = f"Foco principal em empresas: [{identified_companies_str}] e setores: [{identified_sectors_str}]."
         if not identified_entities['companies'] and not identified_entities['sectors']:
             entity_context = "A notícia parece ter um foco econômico geral, sem destacar empresas ou setores específicos das listas conhecidas."
-        elif not identified_entities['companies']: # Apenas setores identificados
+        elif not identified_entities['companies']:
              entity_context = f"Foco principal nos setores: [{identified_sectors_str}]."
-        elif not identified_entities['sectors']: # Apenas empresas identificadas
+        elif not identified_entities['sectors']:
              entity_context = f"Foco principal nas empresas: [{identified_companies_str}]."
-        # Se ambos, a primeira mensagem já cobre.
 
         human_prompt = self.prompts['human_impact_analysis'].format(
             perfil=profile,
@@ -163,7 +162,6 @@ class NewsProcessor:
 
         for profile in profiles:
             logger.debug(f"Gerando análise para perfil: {profile}")
-            # Chamada ao método _get_impact_analysis
             profile_analysis = self._get_impact_analysis(news_content, profile, identified_entities)
             
             if profile_analysis: 
@@ -190,9 +188,8 @@ class NewsProcessor:
         }
         
         clean_title = clean_filename(news_item_data.get('title', f'unknown_news_{news_hash}'))
-        # Garante que o nome do arquivo não seja excessivamente longo e remove o perfil, já que o JSON é multi-perfil
         output_filename_base = clean_filename(news_item_data.get('title', f'unknown_news_{news_hash}'))
-        output_filename = f"{output_filename_base[:60]}_multi_analysis.json" # Nome de arquivo mais curto
+        output_filename = f"{output_filename_base[:60]}_multi_analysis.json"
         output_path = os.path.join(self.output_dir, output_filename)
 
         try:

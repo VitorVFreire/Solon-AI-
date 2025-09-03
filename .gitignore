@@ -17,3 +17,5 @@ __pycache__
 neo4j/
 app_activity.log
 analysis_results/
+llama.cpp
+Testes de Codigo

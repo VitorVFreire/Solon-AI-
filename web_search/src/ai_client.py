@@ -19,10 +19,8 @@ CONDIG_API = {
     }
 }
 
-# Carrega variáveis de ambiente
 load_dotenv()
 
-# Configuração da API
 def setup_client(api_service: Literal['openAI', 'grok'] = 'openAI') -> Dict[str, str]:
     service = CONDIG_API.get(api_service, None)
     if service is None:
