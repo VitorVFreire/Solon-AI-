@@ -97,7 +97,7 @@ def main():
 
         ai_service = os.getenv("AI_SERVICE", "openAI") 
         logger.info(f"Configurando cliente AI para o serviço: {ai_service}")
-        ai_config = setup_client(api_service=ai_service) # type: ignore
+        ai_config = setup_client(api_service=ai_service)
         llm_client = AIClient(ai_config)
         logger.info(f"Cliente LLM inicializado usando modelo: {ai_config.get('model')}")
 
