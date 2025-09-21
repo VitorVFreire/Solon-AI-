@@ -1,36 +1,3 @@
-"""
-NewsProcessor with LangGraph + Graph-RAG over Neo4j
----------------------------------------------------
-
-This module upgrades your existing pipeline to use a LangGraph-style state
-machine and Retrieval-Augmented Generation (RAG) that pulls both structured
-(subgraph) and unstructured (vector) context from Neo4j for the companies and
-sectors detected in each news item.
-
-Assumptions
-- You already have `AIClient` with an `invoke(system_prompt, human_prompt)` and
-  optionally a `stream` or `chat` method. Here we keep `invoke` for simplicity.
-- You already have `Neo4jConnection` with a method `execute_query(cypher:str,
-  params:dict=None)` returning a list[dict].
-- You may (optionally) have a vector index in Neo4j (via Neo4j Vector or
-  GraphVector) on `:Document(embedding)` with similarity search using
-  `db.index.vector.queryNodes`.
-- Python >=3.10.
-
-What’s new
-- LangGraph-like orchestration (simple drop-in, no external deps required):
-  a tiny GraphRunner that wires steps as nodes with typed state.
-- Entity detection remains LLM-based but now feeds a RAG step that:
-  (1) expands entities via graph neighbors, (2) retrieves linked news &
-  documents, and (3) builds a compact context for analysis.
-- Profile-specific analysis is performed with the retrieved context.
-- Results are persisted back into Neo4j with richer relationships.
-
-Usage (minimal)
-    graph = NewsRAGGraph(llm_client, neo4j_conn, prompt_paths)
-    out = graph.run(news_item_data)
-
-"""
 from __future__ import annotations
 import os
 import json
@@ -45,9 +12,6 @@ from utils import clean_filename
 
 logger = logging.getLogger(__name__)
 
-# ------------------------------
-# Minimal LangGraph-ish runner
-# ------------------------------
 class GraphRunner:
     def __init__(self, steps: Dict[str, Any], edges: Dict[str, str], start: str, end: str):
         self.steps = steps
@@ -63,10 +27,6 @@ class GraphRunner:
             if node == self.end:
                 return state
             node = self.edges[node]
-
-# ------------------------------
-# Typed state for the graph
-# ------------------------------
 @dataclass
 class PipelineState:
     news_item: Dict[str, str]
@@ -74,8 +34,8 @@ class PipelineState:
     news_hash: int = 0
     identified_companies: List[str] = field(default_factory=list)
     identified_sectors: List[str] = field(default_factory=list)
-    graph_context: str = ""          # human-readable context built from Neo4j
-    rag_docs: List[Dict[str, Any]] = field(default_factory=list)  # retrieved docs metadata
+    graph_context: str = ""
+    rag_docs: List[Dict[str, Any]] = field(default_factory=list)
     analysis_by_profile: Dict[str, Any] = field(default_factory=dict)
     output_path: Optional[str] = None
 
@@ -103,17 +63,14 @@ class NewsRAGGraph:
         self.top_k_neighbors = top_k_neighbors
         self.top_k_docs = top_k_docs
 
-        # Load prompts
         self.prompts: Dict[str, str] = {}
         for k, p in prompt_paths.items():
             with open(p, "r", encoding="utf-8") as f:
                 self.prompts[k] = f.read()
 
-        # Cache known entities from Neo4j (optional optimization)
         self.known_companies = self._load_known_entities("company")
         self.known_sectors = self._load_known_entities("sector")
 
-        # Build graph runner
         self.runner = GraphRunner(
             steps={
                 "prepare": self._step_prepare,
@@ -127,23 +84,17 @@ class NewsRAGGraph:
                 "identify": "retrieve",
                 "retrieve": "analyze",
                 "analyze": "persist",
-                "persist": "persist",  # end
+                "persist": "persist",
             },
             start="prepare",
             end="persist",
         )
 
-    # ------------------------------
-    # Public API
-    # ------------------------------
     def run(self, news_item: Dict[str, str]) -> Dict[str, Any]:
         state = PipelineState(news_item=news_item)
         final_state = self.runner.run(state.__dict__)
         return final_state
 
-    # ------------------------------
-    # Helpers
-    # ------------------------------
     def _load_known_entities(self, entity_type: str) -> List[Dict[str, Any]]:
         if not self.neo:
             return []
@@ -166,9 +117,6 @@ class NewsRAGGraph:
             logger.exception("Failed to load %s: %s", entity_type, e)
         return []
 
-    # ------------------------------
-    # Graph Nodes (steps)
-    # ------------------------------
     def _step_prepare(self, state: dict) -> dict:
         item = state["news_item"]
         article = item.get("article") or ""
@@ -220,7 +168,6 @@ class NewsRAGGraph:
         companies = state["identified_companies"]
         sectors = state["identified_sectors"]
 
-        # 1) Expand entities via neighbors and pull recent News linked to them
         news_rows: List[Dict[str, Any]] = []
         try:
             if companies:
@@ -233,8 +180,6 @@ class NewsRAGGraph:
                 )
                 for name in companies:
                     rows = self.neo.execute_query(q_comp_news, {"k": self.top_k_news, "company": name})
-                    # If your graph uses a property match, uncomment:
-                    # rows = self.neo.execute_query(q_comp_news.replace("WITH DISTINCT c", "WHERE c.company_name = $company WITH c"), {"k": self.top_k_news, "company": name})
                     news_rows.extend(rows)
 
             if sectors:
@@ -249,14 +194,9 @@ class NewsRAGGraph:
         except Exception:
             logger.exception("Neo4j news retrieval failed")
 
-        # 2) Retrieve related documents via vector search (optional)
         rag_docs: List[Dict[str, Any]] = []
         if self.enable_vector_rag:
             try:
-                # If you have a hybrid BM25 + Vector index, adapt accordingly
-                # Example vector query API (Neo4j 5.11+):
-                # CALL db.index.vector.queryNodes('doc_embedding', $topK, $embedding) YIELD node, score
-                # For simplicity (no embedding here), join via entity tags
                 q_docs = (
                     "MATCH (d:Document) "
                     "WHERE any(tag IN coalesce(d.tags, []) WHERE tag IN $tags) "
@@ -268,7 +208,6 @@ class NewsRAGGraph:
             except Exception:
                 logger.exception("Vector/BM25 document retrieval failed")
 
-        # 3) Build compact, LLM-ready context
         context_blocks = []
         if news_rows:
             context_blocks.append("# Notícias Relacionadas (Neo4j)\n" + "\n".join([
@@ -307,7 +246,6 @@ class NewsRAGGraph:
                 identified_sectors_str=identified_sectors_str,
                 entity_context=entity_context,
             )
-            # Inject RAG context
             rag_human = (
                 self.prompts.get("human_rag_wrapper", """\n===== CONTEXTO RAG (Neo4j) =====\n{graph_context}\n===== FIM CONTEXTO RAG =====\n\n{base_prompt}\n""")
             ).format(graph_context=state.get("graph_context", ""), base_prompt=human)
@@ -315,7 +253,6 @@ class NewsRAGGraph:
             try:
                 resp = self.llm.invoke(system, rag_human)
                 data = json.loads(resp)
-                # Minimal validation
                 if not isinstance(data, dict) or "personal_score" not in data or "sector_score" not in data:
                     raise ValueError("Invalid analysis schema")
                 analysis_by_profile[profile] = data
@@ -327,13 +264,13 @@ class NewsRAGGraph:
         return state
 
     def _step_persist(self, state: dict) -> dict:
-        # Save JSON output
         title = state["news_item"].get("title", f"unknown_{state['news_hash']}")
         filename = f"{clean_filename(title)[:60]}_multi_analysis.json"
         out_path = os.path.join(self.output_dir, filename)
         final_payload = {
             "news_title": state["news_item"].get("title", "N/A"),
             "news_url": state["news_item"].get("url", "N/A"),
+            "news_date": state["news_item"].get("published_at", "N/A"),
             "news_hash": state["news_hash"],
             "news_snippet": state["news_content"][:250] + "...",
             "timestamp": dt.datetime.now().isoformat(),
@@ -353,7 +290,6 @@ class NewsRAGGraph:
         except Exception:
             logger.exception("Failed to write output JSON")
 
-        # Persist to Neo4j with richer links
         if self.neo:
             try:
                 self._save_to_neo4j(final_payload)
@@ -361,9 +297,6 @@ class NewsRAGGraph:
                 logger.exception("Neo4j persistence failed")
         return state
 
-    # ------------------------------
-    # Neo4j persistence
-    # ------------------------------
     def _save_to_neo4j(self, payload: Dict[str, Any]):
         news_hash = payload["news_hash"]
         merge_news = (
@@ -377,16 +310,15 @@ class NewsRAGGraph:
             "title": payload["news_title"],
             "url": payload["news_url"],
             "snippet": payload["news_snippet"],
+            "published_date": payload["news_snippet"],
             "full_content": payload["full_news_content"],
         }
         row = self.neo.execute_query(merge_news, params)[0]
         news_id = row["id"]
 
-        # Link companies & sectors as before
         companies = payload["identified_entities"].get("companies", [])
         sectors = payload["identified_entities"].get("sectors", [])
 
-        # Create Analysis nodes per profile
         for profile, analysis in payload["analysis_by_profile"].items():
             if "error" in analysis:
                 continue
@@ -409,7 +341,6 @@ class NewsRAGGraph:
             )
             self.neo.execute_query(link_a, {"nid": news_id, "aid": aid})
 
-            # Link companies
             for cname in companies:
                 q = (
                     "MATCH (c:Company {company_name: $name}), (a:Analysis) WHERE elementId(a)=$aid\n"
@@ -417,7 +348,6 @@ class NewsRAGGraph:
                 )
                 self.neo.execute_query(q, {"name": cname, "aid": aid})
 
-            # Link sectors as EconomicActivity
             for sname in sectors:
                 q = (
                     "MERGE (ea:EconomicActivity {name:$name})\n"
@@ -428,7 +358,6 @@ class NewsRAGGraph:
                 )
                 self.neo.execute_query(q, {"name": sname, "aid": aid})
 
-        # Optional: store RAG doc links
         for doc in payload.get("rag_docs", [])[:10]:
             try:
                 qd = (
@@ -442,23 +371,18 @@ class NewsRAGGraph:
                     "id": doc.get("id"),
                     "title": doc.get("title"),
                     "url": doc.get("url"),
+                    "published_date": doc.get("published_date"),
                     "summary": doc.get("summary", ""),
                     "nid": news_id,
                 })
             except Exception:
                 logger.warning("Failed to persist RAG doc link: %s", doc.get("id"))
 
-
-# ------------------------------
-# Backwards-compatible façade
-# ------------------------------
 class NewsProcessor:
-    """Maintains your original public API but internally routes to the graph."""
     def __init__(self, llm_client: AIClient, neo4j_conn: Optional[Neo4jConnection], prompt_paths: Dict[str, str], output_dir: str = "output/analysis"):
         self.graph = NewsRAGGraph(llm_client, neo4j_conn, prompt_paths, output_dir)
 
     def process_news_item(self, news_item_data: Dict[str, str], processed_news_hashes: Set[int]) -> Optional[Dict[str, Any]]:
-        # The LangGraph handles dedupe via hash; we mirror your previous behavior here
         content = f"{news_item_data.get('title','')}\n\n{news_item_data.get('article','')}"
         if not news_item_data.get("article"):
             logger.warning("Item de notícia sem conteúdo de artigo. Pulando.")

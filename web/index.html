@@ -1,0 +1,75 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gráfico Candlestick</title>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<style>
+body { font-family: Arial, sans-serif; margin: 20px; }
+#controls { margin-bottom: 20px; }
+#chart { width: 100%; height: 600px; }
+</style>
+</head>
+<body>
+
+<div id="controls">
+    <label for="setorSelect">Selecione um setor:</label>
+    <select id="setorSelect"></select>
+</div>
+
+<div id="chart"></div>
+
+<script>
+const setorSelect = document.getElementById("setorSelect");
+const chartDiv = document.getElementById("chart");
+
+async function fetchSetores() {
+    const res = await fetch("http://localhost:8000/setores");
+    const data = await res.json();
+    data.setores.forEach(setor => {
+        const option = document.createElement("option");
+        option.value = setor;
+        option.textContent = setor;
+        setorSelect.appendChild(option);
+    });
+}
+
+async function fetchCandlestick(setor) {
+    const res = await fetch(`http://localhost:8000/candlestick/${encodeURIComponent(setor)}`);
+    const json = await res.json();
+    return json.data;
+}
+
+function plotCandlestick(data) {
+    const traces = data.map(profileData => {
+        // Para Candlestick simulando open, high, low, close com média ponderada +/- variação
+        const x = profileData.news_details.map(n => n.published_at);
+        const yBase = profileData.news_details.map(n => n.score);
+        return {
+            x: x,
+            open: yBase.map(v => v * 0.9),
+            high: yBase.map(v => v * 1.1),
+            low: yBase.map(v => v * 0.8),
+            close: yBase.map(v => v * 1.05),
+            type: 'candlestick',
+            name: profileData.perfil
+        };
+    });
+
+    Plotly.newPlot(chartDiv, traces, { title: 'Candlestick por Perfil', xaxis: { title: 'Data' }, yaxis: { title: 'Score' } });
+}
+
+setorSelect.addEventListener("change", async () => {
+    const setor = setorSelect.value;
+    const data = await fetchCandlestick(setor);
+    plotCandlestick(data);
+});
+
+// Inicializa
+fetchSetores();
+</script>
+
+</body>
+</html>

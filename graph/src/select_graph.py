@@ -282,10 +282,10 @@ class Neo4jConnection:
         }
         return self._execute_query(query2, parameters)
 
-if __name__ == '__main__':
-    NEO4J_URI = "bolt://localhost:7687"
-    NEO4J_USER = "neo4j"
-    NEO4J_PASSWORD = "your_password"
+'''if __name__ == '__main__':
+    NEO4J_URI = ""
+    NEO4J_USER = ""
+    NEO4J_PASSWORD = ""
 
     conn = None
     try:
@@ -369,4 +369,4 @@ if __name__ == '__main__':
         logger.error(f"An error occurred during execution: {e}", exc_info=True)
     finally:
         if conn and conn.driver:
-            conn.close()
+            conn.close()'''
