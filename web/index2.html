@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solon - CanvasJS</title>
+    <script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #controls {
+            margin-bottom: 20px;
+        }
+        #chartTypeBtn {
+            margin-left: 10px;
+            padding: 5px 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="controls">
+    <label for="setorSelect">Selecione um setor:</label>
+    <select id="setorSelect"></select>
+    <button id="chartTypeBtn">Alternar para Gráfico Diário</button>
+</div>
+
+<div id="chartContainer" style="height: 400px; width: 100%;"></div>
+
+<script>
+const setorSelect = document.getElementById("setorSelect");
+const chartContainer = document.getElementById("chartContainer");
+const chartTypeBtn = document.getElementById("chartTypeBtn");
+
+let currentChart = "candlestick"; // inicial
+let currentSetor = null;
+
+async function fetchSetores() {
+    try {
+        const res = await fetch("http://localhost:8000/setores");
+        const data = await res.json();
+        data.setores.forEach(setor => {
+            const option = document.createElement("option");
+            option.value = setor;
+            option.textContent = setor;
+            setorSelect.appendChild(option);
+        });
+
+        if (data.setores.length > 0) {
+            currentSetor = data.setores[0];
+            setorSelect.value = currentSetor;
+            await updateChart();
+        }
+    } catch (error) {
+        console.error("Erro ao buscar setores:", error);
+    }
+}
+
+async function fetchData(endpoint, setor) {
+    const res = await fetch(`http://localhost:8000/${endpoint}/${encodeURIComponent(setor)}`);
+    const json = await res.json();
+    return json.data;
+}
+
+function plotCandlestick(data) {
+    const dataPoints = data.map(item => ({
+        x: new Date(item.dia),
+        y: [item.open, item.high, item.low, item.close]
+    }));
+
+    const chart = new CanvasJS.Chart("chartContainer", {
+        title: {
+            text: `Gráfico de Candlestick - ${currentSetor}`,
+            fontFamily: "times new roman"
+        },
+        zoomEnabled: true,
+        exportEnabled: true,
+        axisY: {
+            includeZero: false,
+            title: "Score",
+        },
+        axisX: {
+            interval: 1,
+            intervalType: "day",
+            valueFormatString: "DD-MMM-YY",
+            labelAngle: -45
+        },
+        data: [{
+            type: "candlestick",
+            risingColor: "green",
+            color: "red",
+            dataPoints: dataPoints
+        }]
+    });
+
+    chart.render();
+}
+
+function plotDaily(data) {
+    const dataPoints = data.map(item => ({
+        x: new Date(item.dia),
+        y: item.score
+    }));
+
+    const chart = new CanvasJS.Chart("chartContainer", {
+        title: {
+            text: `Score Diário - ${currentSetor}`,
+            fontFamily: "times new roman"
+        },
+        zoomEnabled: true,
+        exportEnabled: true,
+        axisY: {
+            title: "Score",
+        },
+        axisX: {
+            interval: 1,
+            intervalType: "day",
+            valueFormatString: "DD-MMM-YY",
+            labelAngle: -45
+        },
+        data: [{
+            type: "line",
+            dataPoints: dataPoints
+        }]
+    });
+
+    chart.render();
+}
+
+async function updateChart() {
+    if (!currentSetor) return;
+
+    try {
+        if (currentChart === "candlestick") {
+            const data = await fetchData("candlestick", currentSetor);
+            plotCandlestick(data);
+        } else {
+            const data = await fetchData("daily", currentSetor);
+            plotDaily(data);
+        }
+    } catch (error) {
+        console.error("Erro ao atualizar o gráfico:", error);
+    }
+}
+
+// Eventos
+setorSelect.addEventListener("change", async () => {
+    currentSetor = setorSelect.value;
+    await updateChart();
+});
+
+chartTypeBtn.addEventListener("click", async () => {
+    if (currentChart === "candlestick") {
+        currentChart = "daily";
+        chartTypeBtn.textContent = "Alternar para Candlestick";
+    } else {
+        currentChart = "candlestick";
+        chartTypeBtn.textContent = "Alternar para Gráfico Diário";
+    }
+    await updateChart();
+});
+
+// Inicializa
+fetchSetores();
+</script>
+
+</body>
+</html>

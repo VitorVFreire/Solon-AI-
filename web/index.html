@@ -1,22 +1,31 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Gráfico Candlestick</title>
-<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-<style>
-body { font-family: Arial, sans-serif; margin: 20px; }
-#controls { margin-bottom: 20px; }
-#chart { width: 100%; height: 600px; }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solon</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        #controls {
+            margin-bottom: 20px;
+        }
+        #chartTypeBtn {
+            margin-left: 10px;
+            padding: 5px 10px;
+        }
+    </style>
 </head>
 <body>
 
 <div id="controls">
     <label for="setorSelect">Selecione um setor:</label>
     <select id="setorSelect"></select>
+    <button id="chartTypeBtn">Alternar para Diário</button>
 </div>
 
 <div id="chart"></div>
@@ -24,6 +33,10 @@ body { font-family: Arial, sans-serif; margin: 20px; }
 <script>
 const setorSelect = document.getElementById("setorSelect");
 const chartDiv = document.getElementById("chart");
+const chartTypeBtn = document.getElementById("chartTypeBtn");
+
+let currentChart = "candlestick"; // inicial
+let currentSetor = null;
 
 async function fetchSetores() {
     const res = await fetch("http://localhost:8000/setores");
@@ -34,6 +47,12 @@ async function fetchSetores() {
         option.textContent = setor;
         setorSelect.appendChild(option);
     });
+
+    if (data.setores.length > 0) {
+        currentSetor = data.setores[0];
+        setorSelect.value = currentSetor;
+        await updateChart();
+    }
 }
 
 async function fetchCandlestick(setor) {
@@ -42,29 +61,91 @@ async function fetchCandlestick(setor) {
     return json.data;
 }
 
-function plotCandlestick(data) {
-    const traces = data.map(profileData => {
-        // Para Candlestick simulando open, high, low, close com média ponderada +/- variação
-        const x = profileData.news_details.map(n => n.published_at);
-        const yBase = profileData.news_details.map(n => n.score);
-        return {
-            x: x,
-            open: yBase.map(v => v * 0.9),
-            high: yBase.map(v => v * 1.1),
-            low: yBase.map(v => v * 0.8),
-            close: yBase.map(v => v * 1.05),
-            type: 'candlestick',
-            name: profileData.perfil
-        };
-    });
-
-    Plotly.newPlot(chartDiv, traces, { title: 'Candlestick por Perfil', xaxis: { title: 'Data' }, yaxis: { title: 'Score' } });
+async function fetchDaily(setor) {
+    const res = await fetch(`http://localhost:8000/daily/${encodeURIComponent(setor)}`);
+    const json = await res.json();
+    return json.data;
 }
 
+function plotCandlestick(data) {
+    const profileColors = {
+        "Agressivo": "red",
+        "Conservador": "blue",
+        "Moderado": "green"
+    };
+
+    const traces = [];
+
+    const profiles = [...new Set(data.map(d => d.perfil))];
+    profiles.forEach(perfil => {
+        const profileData = data.filter(d => d.perfil === perfil);
+        const x = profileData.map(d => d.dia);
+        const y = profileData.map(d => d.daily_score);
+
+        traces.push({
+            x: x,
+            y: y,
+            type: "scatter",
+            mode: "lines+markers",
+            name: perfil,
+            line: { color: profileColors[perfil] || "black" }
+        });
+    });
+
+    Plotly.newPlot(chartDiv, traces, { 
+        title: `Score Diário - ${currentSetor}`, 
+        xaxis: { title: "Data", type: "category", categoryorder: "category ascending" }, 
+        yaxis: { title: "Score" },
+        legend: { title: { text: "Perfis" } }
+    });
+}
+
+function plotDaily(data) {
+    const x = data.map(d => d.dia);
+    const y = data.map(d => d.score);
+
+    const trace = {
+        x: x,
+        y: y,
+        type: "scatter",
+        mode: "lines+markers",
+        name: currentSetor
+    };
+
+    Plotly.newPlot(chartDiv, [trace], { 
+        title: `Score Diário - ${currentSetor}`,
+        xaxis: { title: "Dia" },
+        yaxis: { title: "Score" }
+    });
+}
+
+async function updateChart() {
+    if (!currentSetor) return;
+
+    if (currentChart === "candlestick") {
+        const data = await fetchCandlestick(currentSetor);
+        plotCandlestick(data);
+    } else {
+        const data = await fetchDaily(currentSetor);
+        plotDaily(data);
+    }
+}
+
+// Eventos
 setorSelect.addEventListener("change", async () => {
-    const setor = setorSelect.value;
-    const data = await fetchCandlestick(setor);
-    plotCandlestick(data);
+    currentSetor = setorSelect.value;
+    await updateChart();
+});
+
+chartTypeBtn.addEventListener("click", async () => {
+    if (currentChart === "candlestick") {
+        currentChart = "daily";
+        chartTypeBtn.textContent = "Alternar para Candlestick";
+    } else {
+        currentChart = "candlestick";
+        chartTypeBtn.textContent = "Alternar para Diário";
+    }
+    await updateChart();
 });
 
 // Inicializa
