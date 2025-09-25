@@ -3,9 +3,6 @@ import pandas as pd
 import altair as alt
 from urllib.error import URLError
 import requests
-import time
-
-st.set_page_config(page_title="Solon AI - Setores", layout="wide")
 
 st.markdown(
     """
@@ -46,8 +43,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.markdown("# Solon AI - Setores")
-st.sidebar.header("Filtros Principais")
+st.markdown("# Solon AI - Análise de Setores")
 st.write("Demo com controle de datas, estilo customizado e gráfico centralizado.")
 
 @st.cache_data
@@ -58,12 +54,12 @@ def get_setores():
     return df.set_index('setores')
 
 @st.cache_data
-def get_datas(setor, perfil):
-    SETORES_URL = f'http://localhost:8000/candlestick/{setor}?perfil={perfil}'
+def get_datas(setor, perfil, tipo):
+    SETORES_URL = f'http://localhost:8000/{setor}?perfil={perfil}&tipo={tipo}'
     dados_setores = requests.get(SETORES_URL).json()
     df = pd.DataFrame(dados_setores["data"])
     df["setor"] = setor
-    df["dia"] = pd.to_datetime(df["dia"])
+    df["periodo"] = pd.to_datetime(df["periodo"])
     return df
 
 try:
@@ -73,47 +69,61 @@ try:
         'Escolha os Setores', list(df.index), ['Agricultura']
     )
 
-    perfil = st.radio(
-        "Selecione o seu perfil de investidor:",
-        ('Conservador', 'Moderado', 'Agressivo'),
-        index=None,
-        horizontal=True
-    )
+    col1, col2 = st.columns(2, gap="large")
 
+    with col1:
+        perfil = st.radio(
+            "Selecione o seu perfil de investidor:",
+            ('Conservador', 'Moderado', 'Agressivo'),
+            index=0,
+            horizontal=True
+        )
+
+    with col2:
+        tipo = st.radio(
+            "Selecione a granularidade:",
+            ("Diario", "Mensal"),
+            index=0,
+            horizontal=True
+        )
+        
     if not setores:
         st.error('Por favor, selecione pelo menos um setor!')
     elif not perfil:
         st.warning('Por favor, selecione um perfil de investidor para continuar.')
-    else:
-        success_message = st.success(f"Perfil de investidor selecionado: **{perfil}**")
-        time.sleep(2)
-        success_message.empty()
-        
-        data = pd.concat([get_datas(setor, perfil) for setor in setores])
-        data["daily_score"] = data["daily_score"].round(2)
+    else:     
+        data = pd.concat([get_datas(setor, perfil, tipo) for setor in setores])
+        data["score"] = data["score"].round(2)
 
-        min_date, max_date = data["dia"].min(), data["dia"].max()
+        min_date, max_date = data["periodo"].min(), data["periodo"].max()
         extra_days = 0.2
 
-        tick_values = pd.date_range(start=min_date, end=max_date).to_pydatetime()
+        if tipo == "Mensal":
+            x_field = "periodo:T"
+            x_format = "%b/%Y"
+            tick_values = pd.date_range(start=min_date, end=max_date, freq='MS').to_pydatetime()
+        else:
+            x_field = "periodo:T"
+            x_format = "%d/%m"
+            tick_values = pd.date_range(start=min_date, end=max_date).to_pydatetime()
 
         line_chart = (
             alt.Chart(data)
             .mark_line(point=True)
             .encode(
                 x=alt.X(
-                    "dia:T",
+                    x_field,
                     axis=alt.Axis(
-                        format="%d/%m", 
-                        title="Data", 
-                        grid=True, 
+                        format=x_format,
+                        title="Data",
+                        grid=True,
                         gridColor="#444444",
                         values=list(tick_values)
                     ),
                     scale=alt.Scale(domain=[min_date, max_date + pd.Timedelta(days=extra_days)])
                 ),
                 y=alt.Y(
-                    "daily_score:Q",
+                    "score:Q",
                     title="Score",
                     axis=alt.Axis(grid=True, gridColor="#444444"),
                     scale=alt.Scale(domain=[0, 5])
@@ -123,7 +133,7 @@ try:
                     scale=alt.Scale(scheme='pastel1'),
                     legend=alt.Legend(title="Setores", orient="bottom")
                 ),
-                tooltip=["dia:T", "daily_score:Q", "setor:N"]
+                tooltip=["periodo:T", "score:Q", "setor:N"]
             )
         )
         
@@ -131,14 +141,18 @@ try:
             line_chart
             .interactive()
             .properties(
-                title=alt.TitleParams(text='Score Diário por Setor', anchor='middle', color='white'),
+                title=alt.TitleParams(
+                    text=f'Score {tipo.capitalize()} por Setor',
+                    anchor='middle',
+                    color='white'
+                ),
                 height=500,
                 background="#1c1f26",
             )
         )
 
-        col1, col2, col3 = st.columns([0.1, 0.8, 0.1])
-        with col2:
+        chart_col1, chart_col2, chart_col3 = st.columns([0.1, 0.8, 0.1])
+        with chart_col2:
             st.altair_chart(chart, use_container_width=True)
 
 except URLError as e:
