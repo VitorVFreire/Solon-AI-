@@ -59,7 +59,7 @@ def get_datas(setor, perfil, tipo):
         return pd.DataFrame()
     df = pd.DataFrame(dados_setores["data"])
     df["setor"] = setor
-    df["periodo"] = pd.to_datetime(df["periodo"])
+    df['periodo'] = pd.to_datetime(df['periodo'], format="%m/%d/%Y", errors='coerce')
     return df
 
 @st.cache_data
@@ -71,8 +71,7 @@ def get_datas_news(setor, perfil):
     if not dados_setor or "data" not in dados_setor or not dados_setor["data"]:
         return pd.DataFrame()
     df = pd.DataFrame(dados_setor["data"])
-    if 'Data' in df.columns:
-        df['Data'] = pd.to_datetime(df['Data'])
+    df['Data'] = pd.to_datetime(df['Data'], format="%m/%d/%Y", errors='coerce')
     return df
 
 try:
@@ -108,8 +107,8 @@ try:
         data_full = pd.concat([get_datas(setor, perfil, tipo) for setor in setores_selecionados], ignore_index=True)
         news_full = pd.concat([get_datas_news(setor, perfil) for setor in setores_selecionados], ignore_index=True)
 
-        min_date = data_full["periodo"].min().date()
-        max_date = data_full["periodo"].max().date()
+        min_date = pd.to_datetime(data_full["periodo"]).min().date()
+        max_date = pd.to_datetime(data_full["periodo"]).max().date()
 
         st.markdown("---")
 
@@ -125,10 +124,16 @@ try:
         start_ts = pd.to_datetime(start_date)
         end_ts = pd.to_datetime(end_date)
 
-        data_filtered = data_full[(data_full['periodo'] >= start_ts) & (data_full['periodo'] <= end_ts)]
+        data_filtered = data_full[
+            (data_full['periodo'] >= start_ts) &
+            (data_full['periodo'] <= end_ts)
+        ]
         
         if 'Data' in news_full.columns:
-            news_filtered = news_full[(news_full['Data'] >= start_ts) & (news_full['Data'] <= end_ts)]
+            news_filtered = news_full[
+                (news_full['Data'] >= start_ts) &
+                (news_full['Data'] <= end_ts)
+            ]
         else:
             news_filtered = news_full
 

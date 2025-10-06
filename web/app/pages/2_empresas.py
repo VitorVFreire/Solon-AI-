@@ -66,7 +66,7 @@ def get_datas(company, perfil, tipo):
     
     df = pd.DataFrame(dados_companies["data"])
     df["company"] = company
-    df["periodo"] = pd.to_datetime(df["periodo"], errors='coerce')
+    df['periodo'] = pd.to_datetime(df['periodo'], format="%m/%d/%Y", errors='coerce')
     return df
 
 
@@ -85,7 +85,7 @@ def get_datas_news(company, perfil):
     
     df = pd.DataFrame(dados_company["data"])
     if 'Data' in df.columns:
-        df['Data'] = pd.to_datetime(df['Data'], errors='coerce')
+        df['Data'] = pd.to_datetime(df['Data'], format="%m/%d/%Y", errors='coerce')
     return df
 
 try:

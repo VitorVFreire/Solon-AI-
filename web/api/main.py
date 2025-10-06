@@ -2,6 +2,8 @@
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
+from neo4j.time import Date as NeoDate, DateTime as NeoDateTime
+from datetime import datetime
 from neo4j import GraphDatabase
 from dotenv import load_dotenv
 import os
@@ -33,7 +35,7 @@ class CandlestickData(BaseModel):
     media_ponderada: float
     news_details: list
     
-def get_datas_b3(symbol: str, start_date: str, end_date: str):
+def get_datas_b3(symbol: str, start_date: str, end_date: str) -> pd.DataFrame | None:
     symbol = symbol + ".SA"
     try:
         start = datetime.strptime(start_date, "%Y-%m-%d")
@@ -44,10 +46,12 @@ def get_datas_b3(symbol: str, start_date: str, end_date: str):
     except ValueError:
         print("Erro: Formato de data inválido. Use YYYY-MM-DD")
         return None
+
     data = yf.download(symbol, start=start_date, end=end_date)
     if data.empty:
         print(f"Erro: Nenhum dado encontrado para {symbol}")
         return None
+
     df = pd.DataFrame(data['Close'])
     df = df.reset_index()
     df.columns = ['periodo', 'close']
@@ -59,7 +63,10 @@ def get_b3_datas(symbol: str, start_date: str, end_date: str):
     datas_b3 = get_datas_b3(symbol, start_date, end_date)
     if datas_b3 is None:
         raise HTTPException(status_code=404, detail="Nenhum dado encontrado ou entrada inválida")
-    data = datas_b3.to_dict(orient='records')  # Convert DataFrame to list of dictionaries
+
+    datas_b3['periodo'] = datas_b3['periodo'].dt.strftime('%m/%d/%Y')
+
+    data = datas_b3.to_dict(orient='records')
     return {"data": data}
 
 @app.get("/setores")
@@ -100,9 +107,17 @@ def get_news_setor(setor:str, perfil:str):
         data = [record.data() for record in result]
 
     for row in data:
-        if hasattr(row["Data"], "to_native"):
-            dt = row["Data"].to_native()
-            row["Data"] = dt.strftime("%d/%m/%Y")
+        periodo = row["Data"]
+        if isinstance(periodo, NeoDate):
+            native_date = periodo.to_native()
+        elif isinstance(periodo, NeoDateTime):
+            native_date = periodo.to_native().date()
+        elif isinstance(periodo, datetime):
+            native_date = periodo.date()
+        else:
+            continue
+
+        row["Data"] = native_date.strftime("%m/%d/%Y")
 
     return {"data": data}
 
@@ -129,9 +144,17 @@ def get_news_company(company:str, perfil:str):
         data = [record.data() for record in result]
 
     for row in data:
-        if hasattr(row["Data"], "to_native"):
-            dt = row["Data"].to_native()
-            row["Data"] = dt.isoformat()
+        periodo = row["Data"]
+        if isinstance(periodo, NeoDate):
+            native_date = periodo.to_native()
+        elif isinstance(periodo, NeoDateTime):
+            native_date = periodo.to_native().date()
+        elif isinstance(periodo, datetime):
+            native_date = periodo.date()
+        else:
+            continue
+
+        row["Data"] = native_date.strftime("%m/%d/%Y")
 
     return {"data": data}
 
@@ -173,14 +196,21 @@ def get_dados_setores(
     with driver.session() as session:
         result = session.run(query, **params)
         data = [record.data() for record in result]
-
+        
     for row in data:
-        if hasattr(row["periodo"], "to_native"):
-            row["periodo"] = row["periodo"].to_native().isoformat()
+        periodo = row["periodo"]
+        if isinstance(periodo, NeoDate):
+            native_date = periodo.to_native()
+        elif isinstance(periodo, NeoDateTime):
+            native_date = periodo.to_native().date()
+        elif isinstance(periodo, datetime):
+            native_date = periodo.date()
+        else:
+            continue
 
+        row["periodo"] = native_date.strftime("%m/%d/%Y")
+        
     return {"data": data}
-
-from neo4j.time import Date as NeoDate
 
 @app.get("/company/{company_name}")
 def get_dados_company(
@@ -212,33 +242,42 @@ def get_dados_company(
     """
 
     params = {"company_name": company_name, "perfil": perfil}
+    data = []
 
     with driver.session() as session:
         result = session.run(query, **params)
-        data = [record.data() for record in result]
+        for record in result:
+            row = record.data()
+            periodo_obj = row["periodo"]
+            
+            if hasattr(periodo_obj, 'to_native'):
+                 native_date = periodo_obj.to_native()
+                 if isinstance(native_date, datetime):
+                     row['periodo'] = native_date.date()
+                 else:
+                     row['periodo'] = native_date
+            
+            data.append(row)
 
-    for row in data:
-        periodo = row["periodo"]
-        if isinstance(periodo, NeoDate):
-            row["periodo"] = periodo.to_native()
-        elif isinstance(periodo, datetime):
-            row["periodo"] = periodo.date()
+    if not data:
+        return {"data": []}
 
-    if data:
-        df = pd.DataFrame(data)
-        df['periodo'] = pd.to_datetime(df['periodo'])
-        df = df.set_index('periodo')
+    df = pd.DataFrame(data)
+    df['periodo'] = pd.to_datetime(df['periodo'])
+    df = df.set_index('periodo')
 
-        full_index = pd.date_range(start=df.index.min(), end=df.index.max(), freq=freq)
-        df = df.reindex(full_index)
+    full_date_range = pd.date_range(start=df.index.min(), end=df.index.max(), freq=freq)
+    
+    df = df.reindex(full_date_range)
 
-        df['company'] = df['company'].ffill()
-        df['perfil'] = df['perfil'].ffill()
-        df['score'] = df['score'].ffill()
+    df['company'] = df['company'].ffill()
+    df['perfil'] = df['perfil'].ffill()
+    df['score'] = df['score'].ffill()
 
-        df = df.reset_index().rename(columns={'index': 'periodo'})
-        df['periodo'] = df['periodo'].dt.date
+    df = df.reset_index().rename(columns={'index': 'periodo'})
+    
+    df['periodo'] = df['periodo'].dt.strftime('%m/%d/%Y')
+    
+    final_data = df.to_dict(orient='records')
 
-        data = df.to_dict(orient='records')
-
-    return {"data": data}
+    return {"data": final_data}
